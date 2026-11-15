@@ -1,0 +1,1093 @@
+UNITED STATES OF AMERICA
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+DEPARTMENT OF THE TREASURY
+IN THE MATTER OF:
+Shinhan Bank America
+New York, NY
+
+)
+)
+)
+)
+
+Number 2023-03
+
+CONSENT ORDER IMPOSING CIVIL MONEY PENALTY
+The Financial Crimes Enforcement Network (FinCEN) conducted a civil enforcement
+investigation and determined that grounds exist to impose a Civil Money Penalty against
+Shinhan Bank America (SHBA or the Bank) for violations of the Bank Secrecy Act (BSA)
+and its implementing regulations.1 SHBA admits to the Statement of Facts and Violations set
+forth below and consents to the issuance of this Consent Order.
+I.
+
+JURISDICTION
+Overall authority for enforcement and compliance with the BSA lies with the Director
+
+of FinCEN, and the Director may impose civil penalties for violations of the BSA and its
+implementing regulations.2
+At all times relevant to this Consent Order, SHBA was a “bank” and a “domestic
+financial institution” as defined by the BSA and its implementing regulations.3
+
+As such,
+
+SHBA was required to comply with applicable FinCEN regulations.
+II.
+
+STATEMENT OF FACTS
+The conduct described below took place from on or about April 1, 2016, through on
+
+or about March 29, 2021 (Relevant Time Period), unless otherwise indicated.
+
+1
+
+The BSA is codified at 12 U.S.C. §§ 1829b, 1951-1960, 31 U.S.C. §§ 5311-5314, 5316-5336 and notes
+thereto. Regulations implementing the BSA appear at 31 C.F.R. Chapter X.
+2
+31 U.S.C. § 5321(a); 31 C.F.R. §§ 1010.810(a), (d); Treasury Order 180-01 (Jan. 14, 2020).
+3
+31 U.S.C. §§ 5312(a)(2)(B), (b)(1); 31 C.F.R. § 1010.100(d).
+
+A. Bank Secrecy Act
+The BSA, together with its implementing regulations, establishes a framework for
+financial institutions to guard against money laundering, and to report essential financial
+intelligence to FinCEN. The BSA accomplishes this by, among other things, requiring banks
+to implement and maintain an effective anti-money laundering (AML) program in order to
+guard against money laundering through financial institutions.4
+
+Additionally, the BSA
+
+imposes affirmative duties on banks such as SHBA, including the duty to identify and report
+suspicious transactions relevant to a possible violation of law or regulation in suspicious
+activity reports (SARs) filed with FinCEN.5 The reporting and transparency that financial
+institutions provide through these reports is essential financial intelligence that FinCEN,
+law enforcement, and others use to safeguard the U.S. financial system and combat serious
+threats, including money laundering, terrorist financing, organized crime, corruption, drug
+trafficking, and massive fraud schemes targeting the U.S. government, businesses, and
+individuals.6
+B. FinCEN
+FinCEN is a bureau within the U.S. Department of the Treasury and is the federal
+authority that enforces the BSA by investigating and imposing civil money penalties on
+financial institutions and individuals for willful violations of the BSA.7 As delegated by the
+
+4
+
+31 U.S.C. § 5318(h); 31 C.F.R. § 1020.210.
+31 U.S.C. § 5318(g); 31 C.F.R. § 1020.320.
+6
+See FinCEN, FIN-2014-A007, FinCEN Advisory to U.S. Financial Institutions Promoting a Culture of Compliance
+(Aug. 11, 2014).
+7
+31 U.S.C. § 5321(a). In civil enforcement of the BSA under 31 U.S.C. § 5321(a)(1), to establish that a financial
+institution or individual acted willfully, the government need only show that the financial institution or individual
+acted with either reckless disregard or willful blindness. The government need not show that the entity or individual
+had knowledge that the conduct violated the BSA, or that the entity or individual otherwise acted with an improper
+motive or bad purpose. The Bank admits to “willfulness” only as the term is used in civil enforcement of the BSA
+under 31 U.S.C. § 5321(a)(1).
+5
+
+2
+
+Secretary of the Treasury, FinCEN has “authority for the imposition of civil penalties” and
+“[o]verall authority for enforcement and compliance, including coordination and direction of
+procedures and activities of all other agencies exercising delegated authority under this
+chapter,” including the Federal Deposit Insurance Corporation (FDIC).8
+C. FDIC
+The FDIC is an independent federal agency that has both delegated authority from
+Treasury for BSA examinations and separate authority under Title 12 of the United States
+Code, the Federal Deposit Insurance Act (FDIA), for compliance and enforcement.9 Under
+this authority, the FDIC conducts regular examinations and issues reports assessing a bank’s
+compliance with the BSA and other laws.
+D. SHBA
+Throughout the Relevant Time Period, SHBA was a New York-chartered, “state
+nonmember insured bank,”10 headquartered in New York, New York and regulated and
+examined by the New York State Department of Financial Services (NYDFS). SHBA was a
+wholly-owned subsidiary of Shinhan Bank Co., Ltd. (Parent Bank), a foreign bank based in
+Seoul, South Korea. SHBA operated as many as 15 branches throughout the United States,
+primarily in the New York area and Southern California, with a smaller presence in Georgia
+and Texas, offering a range of banking products and financial services to businesses and retail
+customers. During the Relevant Time Period, SHBA was a “financial institution” and a
+“bank” within the meaning of the BSA and its implementing regulations,11 and was subject to
+an annual examination performed by the FDIC as its Federal functional regulator.
+
+8
+
+31 C.F.R. § 1010.810(a), (b)(3), (d).
+12 U.S.C. §§ 1818; 1820(b).
+10
+12 U.S.C. § 1813(q)(2)(A).
+11
+31 U.S.C. § 5312(a)(2)(A), (B); 31 C.F.R. §§ 1010.100(d)(1), 1010.100(t)(1).
+9
+
+3
+
+Factual Background
+SHBA’s willful violations of the BSA stem from repeated notice during the Relevant
+Time Period that its compliance program did not comply with the BSA.12 SHBA repeatedly
+failed to fully remediate these deficiencies to bring the Bank into compliance with the law.
+Specifically, beginning by at least 2015, the Bank was notified that it was in violation
+of the BSA, including for failing to develop and implement an effective AML program that
+met the minimum requirements of the BSA or the FDIA and for failing to file SARs in
+accordance with BSA requirements. The BSA violations continued and, as a consequence, on
+June 12, 2017, the FDIC, with SHBA’s consent, issued a Consent Order (2017 Consent Order)
+requiring certain corrective action to redress the Bank’s non-compliance. On October 13,
+2022, the FDIC, again with SHBA’s consent, issued an Amended and Restated Consent Order
+(2022 Consent Order) requiring additional corrective action to address the remaining
+deficiencies and weaknesses identified in SHBA’s AML program. SHBA also entered into a
+Memorandum of Understanding with NYDFS in May 2020 (2020 NYDFS MOU) to address
+deficiencies in the Bank’s BSA/AML compliance program and its internal audit function,
+which required the Bank to, among other things, submit written reports detailing its
+remediation of these deficiencies.
+By the terms of both the 2017 Consent Order and the 2020 NYDFS MOU, SHBA
+agreed to take certain corrective action to bring the Bank into compliance with the BSA.
+However, despite these agreements and SHBA’s prior awareness of its non-compliance with
+
+12
+
+See In the Matter of Shinhan Bank America, Consent Order, FDIC-16-0237b (June 12, 2017) available at
+https://orders.fdic.gov/sfc/servlet.shepherd/document/download/069t0000002Z6HvAAK?operationContext=S1; In
+the Matter of Shinhan Bank America, Amended and Restated Consent Order, FDIC-16-0237b (Oct. 13, 2022)
+available at https://orders.fdic.gov/sfc/servlet.shepherd/document/download/069t000000giozPAAQ?operation
+Context=S 1.
+
+4
+
+the BSA, SHBA failed to make all of the critical changes needed to bring the Bank into full
+compliance with the BSA. For example, while SHBA management made improvements to
+its AML program during the Relevant Time Period in response to certain of the Consent Order
+provisions, it struggled even to retain a consistent compliance officer during parts of the
+Relevant Time Period, let alone to fully address its more systemic violations. SHBA’s failure
+to take the required corrective action and the identification of the remaining deficiencies and
+weaknesses resulted in NYDFS notifying the Bank on May 14, 2021, that it was in material
+breach of the 2020 NYDFS MOU.
+As of the end of the Relevant Time Period, SHBA remained out of compliance with
+several provisions of the 2017 Consent Order, and failed to implement and maintain a
+satisfactory AML program and to detect and report suspicious activity to FinCEN. SHBA’s
+recurrent failure to remedy its BSA violations demonstrates an inability during the Relevant
+Time Period to comply with the legal requirements imposed on all regulated financial
+institutions in the United States.
+E. The Bank Failed to Implement an Adequate Anti-Money Laundering
+Program
+In order to guard against money laundering and the financing of terrorism through
+financial institutions, the BSA and its implementing regulations require banks to establish an
+AML program that is reasonably designed to assure and monitor BSA compliance, and
+includes at a minimum: (a) the development of internal policies, procedures, and controls; (b)
+an independent audit function to test programs; (c) designation of a compliance officer; (d) an
+ongoing employee training program; and (e) appropriate risk-based procedures for conducting
+ongoing customer due diligence (CDD).13
+
+13
+
+Additionally, a bank supervised by a Federal
+
+31 U.S.C. § 5318(h); 31 C.F.R. § 1020.210; 12 C.F.R. §§ 21.21(c)(1), 21.21(d).
+
+5
+
+functional regulator is required to implement and maintain an AML program that “[c]omplies
+with the regulation of its Federal functional regulator governing such programs.”14 The Bank
+willfully failed to implement an AML program that met these BSA requirements during the
+Relevant Time Period.
+As designed, SHBA’s AML program was intended to have functioned as follows. The
+Bank should have conducted CDD on new customers during the onboarding process, which
+would entail gathering general and risk-specific information about the customer.
+
+A
+
+customer’s CDD should have been periodically updated to reflect changes that impacted the
+customer’s money laundering or other risk.
+
+The Bank should then calculate and assign the
+
+customer a customer risk rating (CRR) score based on the data points collected during CDD,
+which would reflect the customer’s risk for money laundering and other risks. SHBA should
+then have monitored its customers’ transactions through an automatic transaction monitoring
+(TM) system, which would run monitoring scenarios dependent on a customer’s CRR, in order
+to take account of that customer’s overall risk.
+
+Alerts or cases generated by the TM system
+
+would then be investigated by compliance personnel for possible escalation for SAR filing.
+However, throughout the Relevant Time Period and as described below, SHBA’s AML
+program experienced repeated failures in performing each of these steps.
+
+The program’s
+
+deficiencies were brought to the attention of the Bank’s Board of Directors (Board) during the
+Relevant Time Period, although due to governance and change management weaknesses, the
+Board was unable to bring SHBA into compliance with the BSA.
+
+14
+
+31 C.F.R. § 1020.210(c) (2016) and 31 C.F.R. § 1020.210(a)(3) (2020).
+
+6
+
+1. Customer Due Diligence / Customer Risk Rating
+The BSA and its implementing regulations require banks to have “[a]ppropriate riskbased procedures for conducting ongoing customer due diligence.”15 Under this requirement,
+a bank’s AML program must include procedures for understanding the nature and purpose of
+customer relationships to develop a customer risk profile. A bank must also conduct ongoing
+monitoring to maintain and update customer information, on a risk basis. FinCEN guidance
+clarifies that banks “must establish policies, procedures, and processes for determining
+whether and when, on the basis of risk, to update customer information to ensure that customer
+information is current and accurate.”16
+
+It further states that a bank “should have an
+
+understanding of the money laundering, terrorist financing, and other financial crime risks of
+its customers to develop the customer risk profile.”17
+
+Additionally, the determination of
+
+customer risk profiles “should be sufficiently detailed to distinguish between significant
+variations in the risks of its customers.”18
+SHBA’s policies required first-line employees to collect information on anticipated
+account activity from each customer at account opening. However, at times, this information
+was not validated or transferred over to the TM system to establish a baseline for
+evaluating the customer’s activity. Instead, TM baselines were established using 90 days of
+actual activity, impairing management’s ability to determine whether the actual account
+activity was unusual for the customer or not. In other words, SHBA measured whether its
+customers’ activity was unusual solely against a benchmark that was set based on the
+
+15
+
+31 C.F.R. § 1020.210(a)(2)(v).
+See “Frequently Asked Questions Regarding Customer Due Diligence (CDD) Requirements for Covered Financial
+Institutions,” FIN-2020-G002 (Aug. 3, 2020), available at https://www.fincen.gov/sites/default/files/202008/FinCEN_Guidance_CDD_508_FINAL.pdf.
+17
+Id.
+18
+Id.
+16
+
+7
+
+customers’ prior account activity, and not based on relevant information obtained at account
+opening.
+Further, as designed, SHBA’s CDD was supposed to be used to establish a CRR for
+its customers. However, for much of the Relevant Time Period and even as the Bank made
+improvements to its CRR process over time, SHBA consistently failed to implement a CRR
+methodology that was comprehensive and risk-based.19 Prior to July 2020, SHBA utilized an
+automated system that assigned CRRs 90 days after account opening based on six factors that
+were weighed equally: country, zip code, tax identification number code, occupation/business
+type, product/account type, and transaction activity.
+
+This rigid calculation did not
+
+appropriately take into consideration the fact that a significant portion of the Bank’s customer
+base consisted of cash-intensive individuals with a high volume of domestic and international
+wire activity.
+
+A review of the Bank’s wire transfer log and large cash transaction report
+
+identified customers with significant transaction volumes that were not regarded as high risk
+because their transaction volumes only accounted for a small, incommensurate portion of their
+CRR.
+In addition, the CRR feature of the Bank’s TM system was determined on an
+account-by-account basis, not by looking at the entire customer relationship. As such, SHBA
+did not connect individuals and businesses that were the primary owners of accounts to other
+accounts for which they were signatories. This resulted in inconsistent CRRs for the same
+customer across accounts, despite attempts by the Bank to manually apply the most severe of
+the various risk ratings to all related accounts.
+
+The Bank’s failure here detrimentally
+
+impacted its ability to properly execute TM that fundamentally depended on the CRR being
+
+19
+
+As a result of these deficiencies, NYDFS required the Bank to make enhancements to its CRR methodology as
+part of the 2020 NYDFS MOU.
+
+8
+
+accurate.
+2. Transaction Monitoring
+SHBA’s TM system did not function to effectively monitor the Bank’s transactions.
+For example, for years, the TM system lacked basic predetermined scenarios needed to flag
+abnormal activity, such as for:
+
+
+wire transfers sent to several beneficiaries from a single originator, or sent from
+several originators to a single beneficiary;
+
+
+
+transactions passing through a large number of jurisdictions; and
+
+
+
+transactions conducted using Remote Deposit Capture, a service that allows
+checks to be deposited remotely with a scanned or photographic image and
+cleared electronically.
+
+Further, the TM system failed to cluster accounts belonging to the same customer relationship
+to comprehensively assess the customer’s overall financial activity.20
+The TM system’s gaps impaired the Bank’s ability to detect and report patterns of
+potentially suspicious activity.
+
+For example, the Bank’s TM coverage did not aggregate
+
+transaction activity across all transaction types, which created gaps in the monitoring of
+abnormal patterns of activity by SHBA’s customers. This meant that a large cash or check
+deposit into an account could immediately be wired out of the account without generating a
+suspicious activity alert (as was the case in a SAR failure described further below) because the
+TM system neither aggregated the volume of the deposit and withdrawal nor accounted for
+the rapid succession of transactions in evaluating whether the activity was unusual.
+Additionally, the Bank lacked policies and procedures to ensure regular testing and
+
+20
+
+These failures resulted in NYDFS notifying the Bank that it was required to make enhancements to its transaction
+monitoring process as set forth in the 2020 NYDFS MOU.
+
+9
+
+effective tuning of its TM system.
+
+As such, SHBA management, at times, did not detect
+
+systemic errors, improper configurations and transaction monitoring coverage gaps.
+
+For
+
+example, SHBA’s TM system had an Automated Clearing House (ACH)21 “spike scenario”
+that was designed to detect substantial changes in the volume of ACH transactions. However,
+from August 2016 through January 2018, the Bank inaccurately classified over 150,000
+transactions (approximately 10% of the Bank’s total ACH transactions for that period) in this
+TM system by aggregating transactions transmitted to the same beneficiary bank. This meant
+the Bank’s TM system undercounted the total number of transactions, while simultaneously
+increasing the overall volume of the average transaction.
+
+Consequently, the ACH spike
+
+scenario could not accurately alert on the true nature and volume of ACH transactions
+processed at SHBA. SHBA did not have the procedures in place to detect this systemic failure
+sooner, and so the ACH spike scenario failure persisted.
+
+Ultimately this resulted in a 17-
+
+month backlog of alerts that the Bank had to review for potentially suspicious activity—a
+review that further strained the Bank’s limited compliance resources.
+Moreover, while the Bank relied on a primary TM system to oversee transactions
+related to its retail banking products and services, it utilized a separate TM system to track
+and manually review correspondent banking activity.
+
+This correspondent banking TM
+
+system had extensive deficiencies related to its data sourcing and mapping, monitoring
+scenarios, and transaction thresholds. SHBA ultimately chose to suspend its correspondent
+banking services in late 2018 to reduce its risk profile.
+
+21
+
+ACH transactions are bank-to-bank transfers through an established electronic network.
+
+10
+
+3. Suspicious Activity Alerts
+For much of the Relevant Time Period, SHBA lacked formalized, comprehensive
+procedures to govern the process for handling the review of alerts for potentially suspicious
+activity or to ensure timely detection and reporting of suspicious activity.
+
+However, in
+
+practice, the Bank generally adhered to a 90-day timeline to file SARs. This included 30 days
+to initiate a case and assign it to an analyst for investigation when the TM system generated
+an alert. The analyst then had another 30 days to investigate and recommend whether a SAR
+should be filed or not. When the Bank determined that a SAR should be filed, a supervisor
+had 30 days to prepare and file the SAR. However, the lack of formalized procedures often
+caused significant delays, sometimes over 100 days, between an analyst recommending that a
+SAR be filed and a supervisor approving and filing the SAR.
+At times, SHBA under-resourced its compliance program, which created a
+self-reinforcing cycle that undercut BSA compliance: the Bank did not hire adequate
+compliance management or staff, which overtaxed existing employees and resulted in high
+rates of turnover. At the management level, SHBA experienced difficulty ensuring continuity
+in leadership, particularly in the BSA compliance officer role. For example, the Bank had
+five different BSA compliance officers in 2019 alone, with a total of seven different
+individuals in that position since 2019. This excessive turnover rate created disorganization
+and interruptions that were detrimental to the Bank’s attempts to improve its BSA compliance.
+SHBA also did not adequately staff its BSA compliance program at the line level,
+which was attributable in part to compensation packages that lacked market salary
+competitiveness. From November 2016 through October 2017, a team of only seven to nine
+employees was responsible for handling all alerts generated by the Bank’s TM system,
+which meant that BSA analysts often did not have enough time to review supporting
+11
+
+documentation, even though this information was readily available.
+A third-party vendor communicated the issues surrounding the Bank’s compliance
+staffing deficiencies in late 2017. In response, in 2018, the Bank increased the number of full
+time-employees in its BSA department, though its staffing remained insufficient to ensure
+compliance with the BSA. In 2019, Bank management conducted a staff capacity assessment
+of its BSA compliance department and engaged in additional hiring.
+
+Even then, the staff
+
+capacity assessment did not take into account the qualifications and expertise of its existing
+compliance staff, and overlooked SHBA’s practice of staffing its compliance department with
+employees from other parts of the Bank who had no prior AML or BSA experience.
+Management knew that some compliance staff did not have the requisite experience or
+training, but did not take immediate and necessary actions to remedy the situation.
+SHBA’s chronic understaffing meant that its suspicious activity alerts were at times
+not handled timely in accordance with the BSA and the Bank’s own internal policies. At one
+point, the Bank had a backlog of over 10,000 alert events (within more than 700 pre-cases)
+that had not been reviewed. Further, the Bank’s internal policies required analysts to consider
+and append documentation on any alerts raised by the TM system. However, analysts often
+lacked the time to process these alerts consistent with these policies, and so, at times, cleared
+these alerts without adhering to these policies. As a result of these issues, NYDFS required
+the Bank to allocate adequate resources for its BSA/AML compliance function, including
+allowing for sufficient staffing levels in the 2020 NYDFS MOU.
+4. Corporate Governance and Change Management
+Compounding the issues surrounding SHBA’s AML program were problems of
+corporate governance and change management. As part of the 2017 Consent Order, SHBA’s
+Board agreed to create the Compliance Committee of the Board (CCOB) to oversee
+12
+
+compliance with the provisions of the 2017 Consent Order. The 2017 Consent Order further
+required the CCOB to report directly to the Board itself “at each regularly scheduled Board
+meeting, regarding the Bank’s compliance with the 2017 Consent Order, the BSA/AML laws
+and regulations, and the Bank’s BSA/AML Compliance Program.”
+
+Despite requiring
+
+supervision by the Board, the Board did not adequately oversee remediation of the AML
+program consistent with the terms of the 2017 Consent Order.
+One factor inhibiting effective oversight by the Board was insufficient focus on the
+Bank’s necessary remediation. Certain of the Board’s meeting minutes following the 2017
+Consent Order reflect a lack of urgency and adequate planning to address the Bank’s extensive
+and recurring AML program failures. Further, the minutes from the Board’s meetings, which
+were attended by independent directors, reveal a concern by one independent director
+regarding potentially conflicting instructions from the Parent Bank that may have caused
+strategic and operational confusion adversely impacting the Bank’s ability to develop and
+execute a tenable plan for achieving regulatory compliance. A third-party report issued in
+2019 identified SHBA’s absence of change management procedures for its BSA/AML
+systems as a “critical” deficiency in the Bank’s internal controls.
+The weaknesses in SHBA’s corporate governance and change management processes
+were further evidenced by the rollout of a new TM system following the 2017 Consent Order—
+a system which was necessary to bring the Bank’s internal controls into compliance with the
+BSA.
+
+This new TM System, which represented a substantial investment, was initially
+
+scheduled for deployment in late 2019, which gave the Bank two years to prepare for its
+implementation.
+
+Instead, because of a lack of strategic planning and insufficient control
+
+mechanisms to guide the new system’s implementation, the transition had to be delayed until
+
+13
+
+July 2020. Even with the extra time, once the new TM system came online it had substantial
+coverage gaps and generated a significant backlog of alerts and cases. For example, a parallel
+testing report issued in November 2020 identified 468 alerts that led to SAR filings under the
+old TM system but which failed even to generate an alert in the new TM system. Furthermore,
+eight months after implementation, compliance employees had yet to receive any training on
+the new TM system.
+5. Requirements of SHBA’s Federal Functional Regulator
+SHBA failed to meet the regulatory requirements of its Federal functional regulator
+concerning its AML program.
+
+Specifically, the FDIC, with the consent of SHBA, issued two
+
+orders requiring the Bank to take action to correct identified deficiencies and weaknesses in its
+AML program, the 2017 Consent Order and the 2022 Amended and Restated Consent Order.
+F. The Bank Failed to File Suspicious Activity Reports
+The BSA and its implementing regulations require banks to report transactions that
+involve or aggregate to at least $5,000, are conducted by, at, or through the bank, and that the
+bank “knows, suspects, or has reason to suspect”: (a) involve funds derived from illegal
+activities, or is conducted to disguise funds derived from illegal activities; (b) are designed to
+evade the reporting or recordkeeping requirements of the BSA or regulations implementing it;
+or (c) have no business or apparent lawful purpose or are not the sort in which the customer
+normally would be expected to engage, and the bank knows of no reasonable explanation for
+the transactions after examining the available facts, including background and possible
+purpose of the transactions.22
+
+A bank is generally required to file a SAR no later than 30
+
+calendar days after the initial detection by the bank of the facts that may constitute a basis for
+
+22
+
+31 C.F.R. §§ 1020.320(a)(2)(i)-(iii).
+
+14
+
+filing a SAR.23
+SHBA failed to develop and implement an effective process for detecting and reporting
+suspicious activity in a timely manner.
+
+These AML failures resulted in the below willful
+
+failure to timely file several hundred SARs. Along with the deficiencies enumerated above,
+which inhibited the Bank’s ability to detect and report suspicious activity, some compliance
+analysts responsible for investigating alerts generated by the Bank’s TM system lacked the
+training and experience needed to reach well-supported alert dispositions.
+
+At times, the
+
+justification for clearing an alert, as opposed to escalating it, relied on whether the Bank
+previously filed a SAR or a currency transaction report, rather than on an analysis of the actual
+account activity and a determination of its reasonableness. FinCEN’s investigation revealed
+that the Bank filed several hundred SARs an average of approximately 119 days late during the
+Relevant Time Period (a significant percentage of the approximately 3,600 SARs that the Bank
+filed during this period). These SARs were filed on potentially suspicious customer activity
+totaling tens of millions of dollars.
+Additionally, a sampling of SHBA customer transactions from 2018 through 2019
+exposed 16 failures to file SARs on transactions that had no business or apparent lawful
+purpose, or were not the type of transactions in which the customer would normally be
+expected to engage.24 Eleven of these failures involved new customer accounts that were
+opened with a significant amount of cash (LCD Accounts), ranging from $30,000 to $100,000,
+where the source of the cash could not be determined or was not adequately explained. For
+example, some of these LCD Accounts were opened by individuals who purported to be
+
+23
+
+31 C.F.R. § 1020.320(b)(3).
+These failures resulted in NYDFS requiring the Bank to enhance its suspicious activity monitoring and reporting
+by the terms of the 2020 NYDFS MOU.
+24
+
+15
+
+unemployed, others by individuals who arrived in the U.S. only a day or two prior to opening
+the account.
+
+LCD Account customers who opened a Demand Deposit Account did not
+
+generate an alert for the activity, while those who opened a Certificate of Deposit did. Certain
+LCD Account customers rapidly withdrew the funds via check and subsequently deposited the
+check at another financial institution, but the SHBA’s TM system did not generate any alerts.
+The following are examples of the Bank’s willful failure to file SARs.
+
+
+Customer A was a small title company based in New York that became an SHBA
+customer in 2015. Customer A’s account alerted for possible suspicious activity in
+early July 2019 due to a single incoming wire transfer of $1.8 million dollars from a trust
+company located in Bermuda—a transaction that was abnormal based on the customer’s
+historical activity. Customer A withdrew the funds rapidly the following day in five
+outgoing wire transfers to pay off the mortgage for a commercial property and various
+legal fees. SHBA noted that the counterparty to the large incoming transfer was located
+in a tax haven jurisdiction and that the counterparty was also named in media reports.
+Customer A refused to provide the names of the buyer and seller involved in the real
+estate transaction. No SAR was timely filed on this activity.
+
+
+
+Customer B opened multiple personal and business accounts at SHBA in 2016,
+including one for conducting real estate business and one for a non-profit foundation
+whose stated purpose was supporting missionary work, the local Korean community,
+cultural activities, music, and scholarships. Over a period of two years, Customer B
+engaged in a pattern of pass-through activity indicative of tax evasion, with
+approximately $4.7 million cycling from Customer B’s real estate business account, to
+the non-profit account, to the personal accounts of the non-profit’s authorized signers,
+
+16
+
+and then back to the business account or to similarly titled accounts at other financial
+institutions.
+
+This immediate and circular movement of funds through the non-profit
+
+account did not involve any activity related to the indicated purpose of the non-profit
+organization. The Bank’s platform alerted on this pattern of activity and Bank analysts
+reviewed the case in December 2017, but SHBA did not file an initial SAR until June
+2019.
+
+
+Customer C was a cosmetic surgeon in New York and an SHBA customer since 2007.
+In late 2016, Customer C was indicted on one count of second-degree manslaughter
+related to a botched medical procedure that led to the death of Customer C’s patient. In
+mid-2017, Customer C was sued for medical malpractice related to the 2016 incident.
+From around the time of Customer C’s indictment until December 2017, Customer C
+engaged in a large volume of unusual transactions, totaling approximately $2.7 million,
+from and to different investment, personal, and business accounts in what appeared to
+be an attempt to hide personal assets. SHBA did not file a SAR until at least one year
+after suspicious activity concluded.
+III.
+
+VIOLATIONS
+FinCEN has determined that SHBA willfully violated the BSA and its implementing
+
+regulations during the Relevant Time Period.
+
+Specifically, FinCEN has determined that
+
+SHBA willfully failed to implement and maintain an AML program that met the minimum
+requirements of the BSA, in violation of 31 U.S.C. § 5318(h) and 31 C.F.R. § 1020.210.
+Additionally, FinCEN has determined that SHBA willfully failed to accurately and timely
+report suspicious transactions to FinCEN, in violation of 31 U.S.C. § 5318(g) and 31 C.F.R.
+§ 1020.320.
+
+17
+
+IV.
+
+ENFORCEMENT FACTORS
+
+FinCEN considered all of the factors outlined in the Statement on Enforcement of the BSA,
+issued August 18, 2020, when deciding whether to impose a civil money penalty in this matter.25
+The following factors were particularly relevant to FinCEN’s evaluation of the appropriate
+disposition of this matter:
+
+
+Nature and seriousness of the violations, including the extent of possible harm to the
+
+public and the amounts involved: SHBA’s violations of the BSA and its implementing
+regulations were serious, prolonged, and caused significant possible harm to the public. During
+the Relevant Time Period, SHBA’s compliance operations were insufficient to combat the risks
+associated with its customer base, geographic footprint, and products and services. The Bank was
+aware that its AML program needed significant reform. Still, despite ample notice and opportunity
+to fully address identified deficiencies and weaknesses in its AML program, the Bank failed to do
+so in the Relevant Time Period. SHBA’s willful failure to implement effective internal controls
+and CDD processes seriously undermined its ability to maintain an adequate AML program and
+ensure the timely reporting of potentially suspicious activity to FinCEN.
+
+As a result, several
+
+hundred SARs filed by the Bank during the Relevant Time Period were filed late, which
+concurrently deprived law enforcement of timely and critical financial information pertaining to
+suspicious activity. However, SHBA was a community bank operating primarily in the New York
+area and Southern California, which may have lessened the extent of the possible harm to the
+public caused by its violations.
+As an additional source of risk, although all of SHBA’s departments and employees should
+have reported to the Board of Directors, which in turn communicated with the Parent Bank, some
+
+25
+
+FinCEN, Statement on Enforcement of the BSA (Aug. 18, 2020).
+
+18
+
+employees had reporting lines that included the Parent Bank. In FinCEN’s view, this weakness
+regarding SHBA’s corporate structure and governance, and the lack of clear guidelines on the
+channels of communications between SHBA and its Parent Bank, potentially contributed to
+strategic and operational confusion impacting the Bank’s efforts to achieve full regulatory
+compliance.
+
+
+Pervasiveness of wrongdoing within the institution, including management’s
+
+complicity in, condoning or enabling of, or knowledge of the conduct underlying the
+violations:
+
+The Bank’s violations were systemic and impacted multiple business lines. The
+
+Bank’s Board was notified that the Bank was in violation of the BSA.
+
+Despite this knowledge,
+
+and the establishment of the CCOB to address these issues, the Bank consistently failed to develop
+and carry out an effective, long-term strategy for correcting its BSA violations, opting instead for
+an approach that hinged on compliance leadership. However, the Bank struggled to consistently
+retain a BSA officer, which undercut its AML program and work toward improvement.
+
+
+History of similar violations, or misconduct in general, including prior criminal, civil,
+
+and regulatory enforcement actions: SHBA has struggled to implement and demonstrate
+sustainable compliance with the BSA and its implementing regulations. The FDIC issued, with
+SHBA’s consent, a public enforcement action requiring the Bank to take certain corrective action
+to bring its compliance program into compliance with the BSA in 2017. Although SHBA agreed
+to implement these remedial measures, the Bank did not come into full compliance during the
+Relevant Time Period.
+
+
+Presence or absence of prompt, effective action to terminate the violations upon
+
+discovery, including self-initiated remedial measures: SHBA’s remedial measures during the
+Relevant Time Period were insufficient. As noted, the Bank has been on notice of its compliance
+
+19
+
+failures for years and agreed to specific remedial measures to bring its compliance program into
+accord with the law more than five years ago. While the Bank dedicated additional resources to
+improving its AML program during the Relevant Time Period, including an investment in a more
+sophisticated transaction monitoring system and an approximate tripling in BSA staffing, it
+ultimately failed to make the critical changes needed to bring the Bank into compliance with the
+law. Following the Relevant Time Period and supported by a $50 million infusion by the Parent
+Bank, SHBA has engaged in greater and more comprehensive remediation efforts, including hiring
+new leadership with significant BSA/AML experience for its BSA Department, implementing
+minimum hiring requirements for BSA employees, and adopting improved BSA policies and
+procedures. Additionally, in February 2022—after FinCEN notified SHBA of its investigation—
+the Bank hired a consulting firm to undertake a comprehensive review and assessment of the
+Bank’s BSA remediation efforts, assist with the development and implementation of corrective
+action plans to comprehensively address all open items, and work with the Bank on the subsequent
+remediation process. The Bank has also hired additional vendors and consultants, including to
+validate and tune its transaction monitoring system, and has taken steps to reinforce the appropriate
+channels of communication between it and the Parent Bank.
+
+
+Timely and voluntary disclosure of the violations to FinCEN:
+
+SHBA did not
+
+voluntarily disclose the violations described in this memorandum to FinCEN or the FDIC.
+
+20
+
+
+
+Quality and extent of cooperation with FinCEN and other relevant agencies,
+
+including as to potential wrongdoing by its directors, officers, employees, agents, and
+counterparties: SHBA has shown significant cooperation and responsiveness to requests from
+the FDIC, NYDFS, and FinCEN. In addition to the lookback reviews required by the 2017
+Consent Order and the 2022 Consent Order, the Bank has provided status updates, progress reports,
+and briefings to regulators. SHBA also agreed to waive as to FinCEN any defense related to the
+statute of limitations for conduct occurring during the Relevant Time Period described in this
+order.
+
+
+Systemic Nature of the Violations. Considerations include, but are not limited to, the
+
+number and extent of violations, failure rates (e.g., the number of violations out of total
+number of transactions), and duration of violations: SHBA’s AML program had deficiencies
+throughout the Relevant Time Period. The FDIC has had a public enforcement action requiring
+AML-related corrective action in place since June 12, 2017 and issued the 2022 Consent Order
+requiring additional AML-related corrective action.
+
+FinCEN’s review revealed that during the
+
+Relevant Time Period the bank filed several hundred late SARs.
+
+
+Whether another agency took enforcement action for related activity. FinCEN will
+
+consider the amount of any fine, penalty, forfeiture, and/or remedial action ordered: On
+October 13, 2022, the FDIC issued, with the Bank’s consent, the 2022 Consent Order to address
+its outstanding AML deficiencies. The 2022 Consent Order includes a Management Study, a
+transactional lookback, and the enhancement of various areas of the Bank’s AML program,
+including transaction monitoring validation, risk assessment, training, policies and procedures, and
+resourcing. Both the FDIC and NYDFS will impose additional penalties for SHBA’s conduct
+arising from similar facts at issue in this Consent Order.
+
+21
+
+V.
+
+CIVIL PENALTY
+FinCEN may impose a Civil Money Penalty of up to $62,689 per day for willful
+
+violations of the requirement to implement and maintain an effective AML program occurring
+after November 2, 2015.26
+For each willful violation of a SAR reporting requirement occurring after November
+2, 2015, FinCEN may impose a Civil Money Penalty not to exceed the greater of the amount
+involved in the transaction (capped at $250,759) or $62,689.27
+After considering all the facts and circumstances, as well as the enforcement factors
+discussed above, FinCEN is imposing a Civil Money Penalty of $15,000,000 in this matter.
+FinCEN will credit the $5,000,000 civil money penalty imposed by the FDIC. Accordingly,
+SHBA shall make a payment of $10,000,000 to the U.S. Department of the Treasury
+pursuant to the payment instructions that will be transmitted to SHBA upon execution of this
+Consent Order.
+VI.
+
+CONSENT AND ADMISSIONS
+To resolve this matter, and only for that purpose, SHBA admits to the Statement of
+
+Facts and Violations set forth in this Consent Order and admits that it willfully violated the
+BSA and its implementing regulations.
+
+SHBA consents to the use of the Statement of Facts,
+
+and any other findings, determinations, and conclusions of law set forth in this Consent
+Order in any other proceeding brought by or on behalf of FinCEN, or to which FinCEN is a
+party or claimant, and agrees they shall be taken as true and correct and be given preclusive
+effect without any further proof. SHBA understands and agrees that in any administrative or
+judicial proceeding brought by or on behalf of FinCEN against it, including any proceeding to
+
+26
+27
+
+31 U.S.C. § 5321(a)(1); 31 C.F.R. § 1010.821.
+31 U.S.C. § 5321(a)(1); 31 C.F.R. § 1010.821.
+
+22
+
+enforce the Civil Money Penalty imposed by this Consent Order or for any equitable
+remedies under the BSA, SHBA shall be precluded from disputing any fact or contesting any
+determinations set forth in this Consent Order.
+To resolve this matter, SHBA agrees to and consents to the issuance of this Consent
+Order and all terms herein and agrees to make a payment of $10,000,000 to the U.S.
+Department of the Treasury within ten (10) days of the Effective Date of this Consent Order,
+as defined further below. If timely payment is not made, SHBA agrees that interest, penalties,
+and administrative costs will accrue.28 If SHBA fails to pay the $5,000,000 penalty arising
+out of its FDIC violations, it must pay the entire $15,000,000 penalty imposed by this Consent
+Order.
+SHBA understands and agrees that it must treat the Civil Money Penalty paid under
+this Consent Order as a penalty paid to the government and may not claim, assert, or apply
+for a tax deduction, tax credit, or any other tax benefit for any payments made to satisfy the
+Civil Money Penalty. SHBA understands and agrees that any acceptance by or on behalf of
+FinCEN of any partial payment of the Civil Money Penalty obligation will not be deemed a
+waiver of SHBA’s obligation to make further payments pursuant to this Consent Order, or a
+waiver of FinCEN’s right to seek to compel payment of any amount assessed under the terms
+of this Consent Order, including any applicable interest, penalties, or other administrative
+costs.
+SHBA affirms that it agrees to and approves this Consent Order and all terms herein
+freely and voluntarily and that no offers, promises, or inducements of any nature whatsoever
+have been made by FinCEN or any employee, agent, or representative of FinCEN to induce
+
+28
+
+31 U.S.C. § 3717; 31 C.F.R. § 901.9.
+
+23
+
+SHBA to agree to or approve this Consent Order, except as specified in this Consent Order.
+SHBA understands and agrees that this Consent Order implements and embodies the
+entire agreement between SHBA and FinCEN, and its terms relate only to this enforcement
+matter and any related proceeding and the facts and determinations contained herein. SHBA
+further understands and agrees that there are no express or implied promises, representations,
+or agreements between SHBA and FinCEN other than those expressly set forth or referred to
+in this Consent Order and that nothing in this Consent Order is binding on any other law
+enforcement or regulatory agency or any other governmental authority, whether foreign,
+Federal, State, or local.
+SHBA understands and agrees that nothing in this Consent Order may be construed as
+allowing SHBA, its holding company, subsidiaries, affiliates, Board, officers, employees, or
+agents to violate any law, rule, or regulation.
+SHBA consents to the continued jurisdiction of the courts of the United States over it
+and waives any defense based on lack of personal jurisdiction or improper venue in any action
+to enforce the terms and conditions of this Consent Order or for any other purpose relevant to
+this enforcement action. Solely in connection with an action filed by or on behalf of FinCEN
+to enforce this Consent Order or for any other purpose relevant to this action, SHBA authorizes
+and agrees to accept all service of process and filings through the Notification procedures
+below and to waive formal service of process.
+VII.
+
+COOPERATION
+
+SHBA shall fully cooperate with FinCEN in any and all matters within the scope of or
+related to the Statement of Facts, including any investigation of its current or former directors,
+officers, employees, agents, consultants, or any other party.
+
+24
+
+SHBA understands that its
+
+cooperation pursuant to this paragraph shall include, but is not limited to, truthfully disclosing
+all factual information with respect to its activities, and those of its present and former
+directors, officers, employees, agents, and consultants. This obligation includes providing to
+FinCEN, upon request, any document, record or other tangible evidence in its possession,
+custody, or control, about which FinCEN may inquire of SHBA.
+
+SHBA’s cooperation
+
+pursuant to this paragraph is subject to applicable laws and regulations, as well as valid and
+properly documented claims of attorney-client privilege or the attorney work-product
+doctrine.
+VIII.
+
+RELEASE
+
+Execution of this Consent Order and compliance with all of the terms of this Consent
+Order settles all claims that FinCEN may have against SHBA for the conduct described in this
+Consent Order during the Relevant Time Period.
+
+Execution of this Consent Order, and
+
+compliance with the terms of this Consent Order, does not release any claim that FinCEN may
+have for conduct by SHBA other than the conduct described in this Consent Order during the
+Relevant Time Period, or any claim that FinCEN may have against any current or former
+director, officer, owner, or employee of SHBA, or any other individual or entity other than
+those named in this Consent Order. In addition, this Consent Order does not release any claim
+or provide any other protection in any investigation, enforcement action, penalty assessment,
+or injunction relating to any conduct that occurs after the Relevant Time Period as described
+in this Consent Order.
+IX.
+
+WAIVERS
+Nothing in this Consent Order shall preclude any proceedings brought by, or on behalf
+
+of, FinCEN to enforce the terms of this Consent Order, nor shall it constitute a waiver of any
+right, power, or authority of any other representative of the United States or agencies thereof,
+25
+
+including but not limited to the Department of Justice.
+In consenting to and approving this Consent Order, SHBA stipulates to the terms of
+this Consent Order and waives:
+A. Any and all defenses to this Consent Order, the Civil Money Penalty imposed by this
+Consent Order, and any action taken by or on behalf of FinCEN that can be waived,
+including any statute of limitations or other defense based on the passage of time;
+B. Any and all claims that FinCEN lacks jurisdiction over all matters set forth in this
+Consent Order, lacks the authority to issue this Consent Order or to impose the Civil
+Money Penalty, or lacks authority for any other action or proceeding related to the
+matters set forth in this Consent Order;
+C. Any and all claims that this Consent Order, any term of this Consent Order, the Civil
+Money Penalty, or compliance with this Consent Order, or the Civil Money Penalty, is
+in any way unlawful or violates the Constitution of the United States of America or any
+provision thereof;
+D. Any and all rights to judicial review, appeal or reconsideration, or to seek in any way
+to contest the validity of this Consent Order, any term of this Consent Order, or the
+Civil Money Penalty arising from this Consent Order;
+E. Any and all claims that this Consent Order does not have full force and effect, or cannot
+be enforced in any proceeding, due to changed circumstances, including any change in
+law; and
+F. Any and all claims for fees, costs, or expenses related in any way to this enforcement
+matter, Consent Order, or any related administrative action, whether arising under
+common law or under the terms of any statute, including, but not limited to, under the
+
+26
+
+Equal Access to Justice Act. SHBA agrees to bear its own costs and attorneys’ fees.
+X.
+
+VIOLATIONS OF THIS CONSENT ORDER
+Determination of whether SHBA has failed to comply with this Consent Order, or any
+
+portion thereof, and whether to pursue any further action or relief against SHBA, shall be in
+FinCEN’s sole discretion.
+
+If FinCEN determines, in its sole discretion, that a failure to
+
+comply with this Consent Order, or any portion thereof, has occurred, or that SHBA has made
+any misrepresentations to FinCEN or any other government agency related to the underlying
+enforcement matter, FinCEN may void any and all releases or waivers contained in this
+Consent Order; reinstitute administrative proceedings; take any additional action that it deems
+appropriate; and pursue any and all violations, maximum penalties, injunctive relief, or other
+relief that FinCEN deems appropriate. FinCEN may take any such action even if it did not
+take such action against SHBA in this Consent Order and notwithstanding the releases and
+waivers herein. In the event FinCEN takes such action under this paragraph, SHBA expressly
+agrees to toll any applicable statute of limitations and to waive any defenses based on a statute
+of limitations or the passage of time that may be applicable to the Statement of Facts in this
+Consent Order, until a date 180 days following SHBA’s receipt of notice of FinCEN’s
+determination that a misrepresentation or breach of this agreement has occurred, except as to
+claims already time barred as of the Effective Date of this Consent Order.
+In the event that FinCEN determines that SHBA has made a misrepresentation or failed
+to comply with this Consent Order, or any portion thereof, all statements made by or on behalf
+of SHBA to FinCEN, including the Statement of Facts, whether prior or subsequent to this
+Consent Order, will be admissible in evidence in any and all proceedings brought by or on
+behalf of FinCEN. SHBA agrees that it will not assert any claim under the Constitution of the
+United States of America, Rule 408 of the Federal Rules of Evidence, or any other law or
+27
+
+federal rule that any such statements should be suppressed or are otherwise inadmissible.
+Such statements will be treated as binding admissions, and SHBA agrees that it will be
+precluded from disputing or contesting any such statements.
+
+FinCEN shall have sole
+
+discretion over the decision to impute conduct or statements of any director, officer, employee,
+agent, or any person or entity acting on behalf of, or at the direction of SHBA in determining
+whether SHBA has violated any provision of this Consent Order.
+XI.
+
+PUBLIC STATEMENTS
+SHBA expressly agrees that it shall not, nor shall its attorneys, agents, partners,
+
+directors, officers, employees, affiliates, or any other person authorized to speak on its behalf
+or within its authority or control, take any action or make any public statement, directly or
+indirectly, contradicting its admissions and acceptance of responsibility or any terms of this
+Consent Order, including any fact finding, determination, or conclusion of law in this Consent
+Order.
+FinCEN shall have sole discretion to determine whether any action or statement made
+by SHBA, or by any person under the authority, control, or speaking on behalf of SHBA
+contradicts this Consent Order, and whether SHBA has repudiated such statement.
+XII.
+
+RECORD RETENTION
+
+In addition to any other record retention required under applicable law, SHBA agrees
+to retain all documents and records required to be prepared or recorded under this Consent
+Order or otherwise necessary to demonstrate full compliance with each provision of this
+Consent Order, including supporting data and documentation. SHBA agrees to retain these
+records for a period of six years after creation of the record, unless required to retain them for
+a longer period of time under applicable law.
+
+28
+
+XIII.
+
+SEVERABILITY
+
+SHBA agrees that if a court of competent jurisdiction considers any of the provisions
+of this Consent Order unenforceable, such unenforceability does not render the entire Consent
+Order unenforceable. Rather, the entire Consent Order will be construed as if not containing
+the particular unenforceable provision(s), and the rights and obligations of FinCEN and SHBA
+shall be construed and enforced accordingly.
+XIV.
+
+SUCCESSORS AND ASSIGNS
+
+SHBA agrees that the provisions of this Consent Order are binding on its owners,
+officers, employees, agents, representatives, affiliates, successors, assigns, and transferees to
+whom SHBA agrees to provide a copy of the executed Consent Order. Should SHBA seek
+to sell, merge, transfer, or assign its operations, or any portion thereof, that are the subject of
+this Consent Order, SHBA must, as a condition of sale, merger, transfer, or assignment obtain
+the written agreement of the buyer, merging entity, transferee, or assignee to comply with this
+Consent Order.
+XV.
+
+MODIFICATIONS AND HEADINGS
+
+This Consent Order can only be modified with the express written consent of FinCEN
+and SHBA. The headings in this Consent Order are inserted for convenience only and are not
+intended to affect the meaning or interpretation of this Consent Order or its individual terms.
+XVI.
+
+AUTHORIZED REPRESENTATIVE
+
+SHBA’s representative, by consenting to and approving this Consent Order, hereby
+represents and warrants that the representative has full power and authority to consent to and
+approve this Consent Order for and on behalf of SHBA, and further represents and warrants
+that SHBA agrees to be bound by the terms and conditions of this Consent Order.
+
+29
+
+XVII. NOTIFICATION
+Unless otherwise specified herein, whenever notifications, submissions, or
+communications are required by this Consent Order, they shall be made in writing and sent
+via first-class mail and simultaneous email, addressed as follows:
+To FinCEN:
+
+Associate Director, Enforcement and Compliance
+Division, Financial Crimes Enforcement Network,
+P.O. Box 39, Vienna, Virginia 22183
+
+To SHBA:
+
+Mr. Ji Young Yook
+CEO & President
+Shinhan Bank America
+475 Park Avenue South, 4th Floor
+New York, New York 10016
+
+Notices submitted pursuant to this paragraph will be deemed effective upon receipt
+unless otherwise provided in this Consent Order or approved by FinCEN in writing.
+XVIII. COUNTERPARTS
+This Consent Order may be signed in counterpart and electronically.
+
+Each
+
+counterpart, when executed and delivered, shall be an original, and all of the counterparts
+together shall constitute one and the same fully executed instrument.
+
+30
+
+XIX.
+
+EFFECTIVE DATE AND CALCULATION OF TIME
+
+This Consent Order shall be effective upon the date signed by FinCEN. Calculation
+of deadlines and other time limitations set forth herein shall run from the effective date
+(excluding the effective date in the calculation) and be based on calendar days, unless
+otherwise noted, including intermediate Saturdays, Sundays, and legal holidays.
+
+By Order of the Director of the Financial Crimes Enforcement Network.
+
+/s/
+Andrea Gacki
+Director
+
+Date:
+
+Consented to and Approved By:
+/s/
+Mr. Ji Young Yook
+President and CEO
+Shinhan Bank America
+
+Date:
+
+31
+
+

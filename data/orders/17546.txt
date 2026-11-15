@@ -1,0 +1,434 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+
+IN THE MATTER OF:
+
+THE NEW YORK BRANCH OF
+BANCO DE CHILE
+NEW YORK, NEW YORK
+THE MIAMI BRANCH OF
+BANCO DE CHILE
+MIAMI, FLORIDA
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Number 2005-03
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+I.
+
+INTRODUCTION
+
+The Secretary of the United States Department of the Treasury has delegated to
+the Director of the Financial Crimes Enforcement Network the authority to determine
+whether a financial institution has violated the Bank Secrecy Act and the regulations
+issued pursuant to that Act,l and what, if any, sanction is appropriate.
+In order to resolve this matter, and only for that purpose, Banco de Chile has
+entered into a CONSENT TO THE ASSESSMENT OF CIVIL MONEY PENALTY
+("CONSENT") dated October 12,2005, without admitting or denying the findings and
+determinations by the Financial Crimes Enforcement Network, as described in Sections
+III and IV below, except as to jurisdiction in Section II below, which is admitted.
+The CONSENT is incorporated in this ASSESSMENT OF CIVIL MONEY
+PENALTY ("ASSESSMENT") by this reference.
+II.
+
+JURISDICTION
+
+Banco de Chile-New York and Banco de Chile-Miami are branches of Banco de
+Chile ("Banco de Chile"), a public shareholding company and banking institution, with
+headquarters in Santiago, the capital city of Chile. Banco de Chile has approximately
+240 branches in Chile, as well as offices in Hong Kong, Brazil, Argentina and Mexico.
+Banco de Chile is principally engaged in commercial banking in Chile, providing general
+banking services to a broad customer base. As of September 30, 2004, Banco de Chile
+had total assets of $15.8 billion.
+131 D.S.C. §§ 5311 ~ lli!. and 31 C.F.R. Part 103.
+
+Banco de Chile-New York is a federal branch of Banco de Chile located in the
+United States. Banco de Chile-New York was licensed in 1982by the Office of the
+Comptroller of the Currency, which examines Banco de Chile-New York for compliance
+with the Bank Secrecy Act and its implementing regulations and for compliance with
+similar rules under Title 12 of the United States Code. Banco de Chile-Miami was
+initially established as a Florida licensed agency in 1994. The Federal Reserve Board
+and the Florida Office of Financial Regulation approved the agency's conversion to a
+branch in 2004. The Federal Reserve Bank of Atlanta examines Banco de Chile-Miami
+for compliance with the Bank Secrecy Act and its implementing regulations, as well as
+for compliance with similar rules under Title 12 of the United States Code.
+At all relevant times, Banco de Chile-New York and Banco de Chile-Miami were
+each a "financial institution" and a "bank" within the meaning of the Bank Secrecy Act
+and the regulations issued pursuant to that Act.2
+III.
+
+DETERMINAnONS
+A.
+
+Summary
+
+Banco de Chile is principally engaged in commercial banking in Chile, providing
+general banking services to a broad customer base. The bank provides, directly and
+indirectly through its subsidiaries and affiliates, credit and non-credit products and
+services to all segments of the Chilean financial markets. Its operations are organized in
+six commercial divisions including large corporations, middle market companies, retail
+banking, consumer banking, international banking, and treasury and money market.
+Banco de Chile has also established eight non-banking financial service subsidiaries that
+provide securities brokerage, investment and mutual funds, collections, retail sales,
+factoring, insurance, financial advisory, and securitization services. Banco de Chile's
+corporate banking services include commercial loans, foreign exchange, capital market
+services, cash management and non-credit services such as payroll and payment
+transactions. The current ownership group assumed control of Banco de Chile in March
+2001.
+Through Banco de Chile-New York and Banco de Chile-Miami, Banco de Chile
+provides its customer base with access to the United States financial system. Banco de
+Chile-New York and Banco de Chile-Miami provide trade financing for Banco de Chile's
+customers, extend credit to Banco de Chile's customers and their business operations, and
+provide deposit, transactional and other retail banking services to Banco de Chile's
+customers.
+An investigation by the Financial Crimes Enforcement Network revealed that
+Banco de Chile-New York and Banco de Chile-Miami failed to establish and maintain an
+adequate system of internal controls and failed to designate a person, or persons, to
+adequately ensure compliance with the Bank Secrecy Act. The investigation also
+231 U.S.c. § 5312(a)(2) and 31 C.F.R. § 103.11.
+
+detennined that Banco de Chile-New York and Banco de Chile-Miami failed to conduct
+adequate independent testing for compliance with the Bank Secrecy Act.3
+Internal control failures, an inappropriate level of due diligence and inadequate
+independent testing led to failures by both Banco de Chile-New York and Banco de
+Chile-Miami to identify, monitor and timely report suspicious activity related to a
+prominent Chilean politically exposed person and family members and associates of the
+politically exposed person. Suspicious activity related to this politically exposed person
+dates back to at least November 1997. This failure of Banco de Chile-New York and
+Banco de Chile-Miami to comply with the Bank Secrecy Act and the regulations issued
+pursuant to that Act was significant.
+
+On February 1, 2005, the Office of the Comptroller of the Currency and Banco de
+Chile-New York entered into a Consent Order. The Consent Order addresses
+deficiencies in Banco de Chile-New York's Bank Secrecy Act anti-money laundering
+program, focusing particularly on its weak internal control environment. The Order also
+addresses Bank Secrecy Act recordkeeping requirements, audits for Bank Secrecy Act
+compliance, identifying/monitoring and reporting suspicious activity, and enhancements
+to the Compliance Department. Further, the Order prohibits Banco de Chile-New York
+from conducting any transactions related to the identified prominent Chilean politically
+exposed person, restricts opening any new accounts involving politically exposed
+persons, and requires retention of documentationrelated to the instant matter and the
+establishment of a Reporting Committee consisting of senior officers to ensure
+compliance with all parts of the Order.
+On February 2,2005, Banco de Chile-Miami consented to the issuance of a Cease
+and Desist Order by the Federal Reserve. The Cease and Desist Order addresses
+significant deficiencies in Banco de Chile-Miami's anti-money laundering program,
+focusing on its policies and procedures for customer due diligence, identification and
+reporting of suspicious activity, and risk management associated with customer accounts
+and transactions, as these relate to "Covered Persons," as the tenn is defined in
+interagency Guidance on Enhanced Scrutinv for Transactions that Mav Involve the
+Proceeds of Foreign Official Corruption, dated January 2001, which requires a review of
+accounts held for any "Covered Person."
+B.
+
+Violations of the Requirement to Implement an Anti-Monev Laundering
+Program
+
+The Financial Crimes Enforcement Network has detennined that Banco de ChileNew York and Banco de Chile-Miami violated the anti-money laundering program
+requirements of the Bank Secrecy Act and the regulations issued pursuant to the Act.4 A
+3 The Financial Crimes Enforcement Network based the investigation, in part, on separate reviews
+by the Office of the Comptroller of the Currency and the Federal Reserve.
+
+431 D.S.C. §5318(h)(1) and 31 C.F.R. § 103.120. These requirements became effective on April
+24, 2002.
+
+bank regulated by a Federal functional regulator is deemed to have satisfied the
+requirements of31 U.S.c. §5318(h)(1) ifit implements and maintains an anti-money
+laundering program that complies with the regulations of its Federal functional regulator
+governing such programs.5 The Office of the Comptroller of the Currency is Banco de
+Chile-New York's primary Federal functional regulator. The Federal Reserve is Banco
+de Chile-Miami's primary Federal functional regulator.
+
+Both the Office of the Comptroller of the Currency and the Federal Reserve
+require each bank under its supervision to establish and maintain an anti-money
+laundering compliance program that, at a minimum: (a) provides for a system of internal
+controls to ensure ongoing compliance; (b) provides for independent testing for
+compliance conducted by bank personnel or an outside party; (c) designates an individual
+or individuals responsible for coordinating and monitoring day-to-day compliance; and
+(d) provides for training for appropriate personne1.6
+The Financial Crimes Enforcement Network has determined that the anti-money
+laundering programs at Banco de Chile-New York and Banco de Chile-Miami were
+deficient in three core elements of the anti-money laundering program requirements
+under the Bank Secrecy Act.
+1.
+
+Internal Controls
+
+Banco de Chile-New York failed to implement adequate internal controls to
+ensure compliance with the Bank Secrecy Act and manage the risk of money laundering.
+Internal controls and systems in place at the time were either insufficient or
+circumvented, and failed to ensure effective monitoring of suspicious transactions related
+to account opening requirements, financial capacity analysis, account activity profiling
+and transactional testing and reporting. The lack of effective monitoring for suspicious
+activity information hindered the ability of Banco de Chile-New York to identify
+accounts and transactions bearing indicia of suspicious activity.
+Banco de Chile-New York personnel, including the General Manager at the time,
+authorized transactions by, for, or on behalf of at least one high profile Chilean politically
+exposed person that allowed such person to engage in apparent money laundering
+through the Branch. Senior New York Branch management was found to have
+circumvented established policies, violated laws and regulations, and obstructed
+examinations by intentionally misleading examiners in order to conceal the purpose,
+existence and true funding source of certain suspicious accounts and loans maintained by
+Banco de Chile-New York.
+On April 14, 2005, the Office of the Comptroller of the Currency removed the
+General Manager of Banco de Chile-New York from the United States' banking industry
+and imposed a $200,000 civil money penalty against the individual for engaging in
+531 C.P.R. §103.120(b).
+612 C.P.R. §§ 21.21(c) and 208.63.
+
+unsafe banking practices, related to his involvement in accounts owned or controlled by
+the prominent politically exposed person and his associates. In addition, Banco de ChileNew York and Banco de Chile-Miami failed to timely respond to widely-publicized
+reports of alleged criminal activity by this high-profile Chilean politically exposed person
+and failed to gather and analyze information from applicable accounts in order to assess
+the potential for suspicious activity.
+The Office of the Comptroller of the Currency's September 2004 targeted Bank
+Secrecy Act review of Banco de Chile-New York raised concerns about its account
+opening procedures. Although written account-opening procedures were found to be
+reasonable, they were not adequately implemented. A majority of accounts tested by
+examiners failed to contain key information regarding the occupational and financial
+profile of an associate of the prominent Chilean politically exposed person. Insufficient
+customer information and due diligence practices undermined Banco de Chile - New
+York's ability to adequately monitor these accounts for suspicious activity.
+
+During the Office of the Comptroller of the Currency's follow-up examination in
+February 2005, Banco de Chile-New York's Customer Identification Program was also
+found to be deficient.? At a minimum, a written Customer Identification Program must
+adequately address a number of elements in order to be deemed compliant with the
+regulations. However, in its follow-up exam, the Office of the Comptroller of the
+Currency determined that Banco de Chile's Customer Identification Program did not
+address several ofthe required elements. Specifically,Banco de Chile-New York's
+Customer Identification Program did not require a customer's identification number, did
+not include procedures for providing customers with notice of the requirements of the
+regulation, did not provide for independent testing, did not describe when a suspicious
+activity report should be filed, and did not describe parameters for account closure in the
+absence of verification of a customer's identity.
+Banco de Chile-Miami failed to have adequate internal controls in place to ensure
+compliance with the Bank Secrecy Act and to manage the risk otmoney laundering.
+During a targeted Bank Secrecy Act exam conducted in January 2005, the Federal
+Reserve deemed Banco de Chile-Miami's Bank Secrecy Act internal controls ineffective.
+Banco de Chile-Miami's compliance function had not kept up with the growth in its
+accounts, or the evolving Bank Secrecy Act/anti-money laundering regulatory
+environment. Significant deficiencies were noted in the identification and monitoring of
+politically exposed persons, customer account due diligence procedures, monitoring for
+potential suspicious activity, structure and staffing of the compliance function and the
+independent audit function.
+
+7 As of June9, 2003,the BankSecrecyActrequiredbanksto implementa writtenCustomer
+
+Identification Program appropriate for its size and type of business. A bank required to have an anti-money
+laundering compliance program under the regulations implementing 31 U.S.c. §5318(h), 12 U.S.C.
+§1818(s), or 12 U.S.c. §1786(q)(1) was required to incorporate a written Customerldentification Program
+into its anti-money laundering compliance program. 31 C.F.R. §103.121(b)(1).
+
+An insufficient compliance environment contributed to Banco de Chile-Miami's
+failure to identify and properly monitor the accounts of a prominent Chilean politically
+exposed person and his associates. Examiners determined that this politically exposed
+person and his associates used certain accounts to hide (or disguise) the beneficial
+ownership of the funds. A review of the applicable account files and transaction records
+determined that management at Banco de Chile-Miami was aware, or should have been
+aware, that accounts were opened by a nominee and associate of a politically exposed
+person and ultimately owned and controlled by the prominent politically exposed person.
+In view of the nature of the accounts, transactions and activity at both Banco de ChileNew York and Banco de Chile-Miami should have clearly been subjected to enhanced
+due diligence and more rigorously reviewed and monitored by management and
+compliance staff. Furthermore, although the definition of politically exposed persons, as
+describedin Bancode Chile- Miami's anti-money laundering program, was in line with
+regulatory guidance provided by the Federal Reserve, in practice the definition was too
+narrowly applied. As a result of these deficiencies, the politically exposed person's
+account activity went unreported until September 2004.
+Due diligence documentation for large accounts was considered insufficient and
+even minimal documentation for correspondent accounts was not required by Banco de
+Chile-Miami's written compliance program. Policies and procedures did not include
+guidance requiring sufficient detail on customer profiles for large, potentially riskier
+accounts. Customers with multiple accounts were not required to have all of their
+account relationships identified and reviewed on an aggregate, risk-graded basis. With
+respect to Customer Identification Program requirements, Banco de Chile-Miami failed
+to provide notice of the requirements of the Customer Identification Program to its
+customers in order to fulfill the "notice" requirement under the rules and its written
+Customer Identification Program. The Customer Identification Program also failed to
+describe circumstances under which a suspicious activity report should be filed.
+Suspicious activity monitoring practices at Banco de Chile-Miami were
+ineffective. As a result, the Branch was unable to adequately detect and report suspicious
+activity on a timely basis. Banco de Chile-Miami's written suspicious activity reporting
+policy was outdated, limited in detail and scope, and not commensurate with the risk to
+ensure compliance with the Bank Secrecy Act. Controls and procedures for establishing
+account profiles were inadequate. Documentation for cleared exceptions was inadequate.
+The Federal Reserve determined that the monitoring program needed to be expanded to
+review concentration accounts and third-party activity with regard to the correspondent
+relationship between Banco de Chile and Banco de Chile-Miami. The Branch's log of
+investigations did not effectively track open investigations. Aggregate wire transfer
+activity was not monitored over a sufficiently broad time period to identify potentially
+suspicious activity.
+2.
+
+Audit and Testing
+
+Banco de Chile-New York failed to conduct adequate independent testing for
+compliance with the Bank Secrecy Act and its implementing regulations. Further,
+
+deficiencies cited by the Office of the Comptroller of the Currency highlighted Banco de
+Chile-New York's inadequate processes for independent testing of compliance with the
+Bank Secrecy Act and anti-money laundering requirements in the United States. In
+particular, the management of Banco de Chile failed to ensure that auditor training, as
+well as the scope and procedures of audits, were sufficient to adequately ensure that
+Banco de Chile-New York could manage the risk of money laundering and comply with
+the Bank Secrecy.
+Banco de Chile-Miami failed to implement an adequate system for independent
+testing for compliance with the Bank Secrecy Act. The Federal Reserve found
+deficiencies in Banco de Chile-Miami's independent testing and auditing function in the
+anti-money laundering compliance area. The audit scope did not include pertinent
+sections of the USA PATRIOT Act. The scope of the audits did not adequately test new
+account reviews, compliance with the Customer Identification Program requirements,
+wire transfer and cash activity, account monitoring and reviews of existing accounts
+(particularly for high-risk accounts) for adequate due diligence. Furthermore, Banco de
+Chile's compliance officer was, in part, responsible for both the audit and compliance
+functions for both branches in the United States, which compromised the independence
+of the audit function.
+3.
+
+Designation of Person( s)
+
+Banco de Chile-Miami failed to designate a person, or persons, to ensure adequate
+compliance with the Bank Secrecy Act and its implementing regulations. The Federal
+Reserve described the Bank Secrecy Act staffing structure at Banco de Chile-Miami as
+ambiguous, insufficiently segregated from the rest of the bank, and generally inadequate.
+Until October 2004, only one person was responsible for compliance for both branches in
+the United States. Also, as previously noted, the Office of the Comptroller of the
+Currency issued a prohibition order and civil money penalty, in the amount of $200,000,
+against the former General Manager of the New York Branch on April 14, 2005, due, in
+part, to his failure to ensure compliance with the Bank Secrecy Act in the United States.
+In view of the scope and geographical reach of Banco de Chile's business-lines, Banco de
+Chile-New York and Banco de Chile-Miami failed to designate adequate staff to properly
+manage the risk of money laundering and ensure compliance with the Bank Secrecy Act.
+
+C.
+
+Violations of the Requirement to Report Suspicious Transactions
+
+The Financial Crimes Enforcement Network has determined that both Banco de
+Chile-New York and Banco de Chile-Miami violated the suspicious activity reporting
+provisions of the Bank Secrecy Act and regulations issued pursuant to that Act.s Under
+the Bank Secrecy Act, financial institutions are obligated to report transactions that the
+institution "knows, suspects, or has reason to suspect" are suspicious. The financial
+institution must report the transactions if the transactions involve or aggregate to at least
+$5,000, and the transactions are "conducted or attempted by, at, or through" the financial
+831 D.S.C. § 5318(g) and 31 C.P.R. § 103.18.
+
+institution. A transaction is "suspicious" if the transaction: (1) involves funds derived
+from illegal activities, or is conducted to disguise funds derived from illegal activities; (2)
+is designed to evade the reporting or recordkeeping requirements of the Bank Secrecy
+Act or regulations under the Bank Secrecy Act; or (3) has no business or apparent lawful
+purpose or is not the sort in which the customer would normally be expected to engage,
+and the financial institution knows of no reasonable explanation for the transaction after
+examining the available facts, including background and possible purpose of the
+transaction. 9
+
+Financial institutions must report suspicious transactions by filing suspicious
+activity reports.10 In general, financial institutions must file a suspicious activity report
+no later than thirty (30) calendar days after detecting facts that may constitute a basis for
+filing a suspicious activity report. Ifno suspect is identified within thirty (30) days of the
+date of detection, a financial institution may delay the filing for an additional thirty (30)
+calendar days, in order to identify a suspect. However, in no event may the financial
+institution file a suspicious activity report more than sixty (60) calendar days after the
+date of detection. II
+
+Due to failures in their anti-money laundering compliance programs, neither
+Banco de Chile-New York nor Banco de Chile-Miami identified, reviewed or evaluated
+numerous large dollar value transactions by, for or on behalf of, a prominent politically
+exposed person and a family member and associate ofthe prominent politically exposed
+person. As a result, in the aggregate, both Banco de Chile-New York and Banco de
+Chile-Miami failed to timely report suspicious activity involving millions of dollars.
+IV.
+
+CIVIL MONEY PENALTY
+
+Under the authority of the Bank Secrecy Act and the regulations issued pursuant
+to that Act,12the Financial Crimes Enforcement Network has determined that a civil
+money penalty is due for the violations of the Bank Secrecy Act and the regulations
+issued pursuant to that Act described in this Assessment.
+Based on the seriousness of the violations at issue in this matter, and the financial
+resources available to Banco de Chile, the Financial Crimes Enforcement Network has
+determined that the appropriate penalty in this matter is $3,000,000.00.
+
+v.
+
+CONSENT TO ASSESSMENT
+
+To resolve this matter, and only for that purpose, Banco de Chile, without
+admitting or denying either the facts or determinations described in Sections III and IV
+931 C.F.R. § 103. 18(a)(2)(i) through (iii).
+1031 C.F.R. § 103.18(b)(2).
+1131 C.F.R. § 103.18(b)(3).
+1231 U.S.c. § 5321 and 31 C.F.R. § 103.57.
+
+above, except as to jurisdiction in Section II,which is admitted, consents to the
+assessment of a civil money penalty against it in the sum of $3,000,000.00. The
+assessment shall be concurrent with the assessment of a civil money penalty, in the
+amount of $3,000,000.00, by the Office of the Comptroller of the Currency, and shall be
+satisfied by one payment of$3,000,000.00 to the Department of the Treasury.
+Banco de Chile agrees to pay the amount of $3,000,000.00within five (5)
+business days of this ASSESSMENT. Such payment shall be:
+a.
+
+Made by certified check, bank cashier's check, bank money order, or wire;
+
+b.
+
+Made payable to the United States Department of the Treasury;
+
+c.
+
+Hand-delivered or sent by overnight mail to the Financial Crimes
+Enforcement, Attention: Associate Director, Administration &
+Communications Division, 2070 Chain Bridge Road, Suite 200, Vienna,
+Virginia 22182; and
+
+d.
+
+Submitted under a cover letter, which references the caption and file
+number in this matter.
+
+Banco de Chile recognizes and states that it enters into the CONSENT freely and
+voluntarily and that no offers, promises, or inducements of any nature whatsoever have
+been made by the Financial Crimes Enforcement Network or any employee, agent, or
+representative ofthe Financial Crimes Enforcement Network, to induce Banco de Chile
+to enter into the CONSENT, except for those specified in the CONSENT.
+Banco de Chile understands and agrees that the CONSENT embodies the entire
+agreement between Banco de Chile and the Financial Crimes Enforcement Network
+relating to this enforcement matter only, as described in Section III above. Banco de
+Chile further understands and agrees that there are no express or implied promises,
+representations, or agreements between Banco de Chile and the Financial Crimes
+Enforcement Network other than those expressly set forth or referred to in the
+CONSENT and that nothing in the CONSENT or in this ASSESSMENT is binding on
+any other agency or government, whether federal, state, or local.
+
+VI.
+
+RELEASE
+
+Banco de Chile understands that execution of the CONSENT, and compliance
+with the terms of this ASSESSMENT and the CONSENT, constitute a complete
+settlement of civil liability for the violations of the Bank Secrecy Act and regulations
+issued pursuant to that Act described in the CONSENT and this ASSESSMENT.
+
+By:
+'l1i~x,
+Director
+Financial Crimes Enforcement Network
+United States Department of the Treasury
+Date:
+
+n.acr-1eeC
+
+

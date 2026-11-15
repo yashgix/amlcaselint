@@ -1,0 +1,295 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+
+IN THE MATTER OF:
+
+JPMorgan Chase Bank, N.A.
+Columbus, OH
+
+)
+)
+)
+)
+)
+)
+
+Number 2014-1
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+I.
+
+INTRODUCTION
+The Financial Crimes Enforcement Network has determined that grounds exist to assess a
+
+civil money penalty against JPMorgan Chase Bank, N.A. (“JPMorgan” or “the Bank”), pursuant
+to the Bank Secrecy Act and regulations issued pursuant to that Act.1
+JPMorgan admits to the facts set forth below and that its conduct violated the Bank
+Secrecy Act.2 JPMorgan consents to the assessment of a civil money penalty and enters the
+CONSENT TO THE ASSESSMENT OF CIVIL MONEY PENALTY (“CONSENT”) with the
+Financial Crimes Enforcement Network.
+The CONSENT is incorporated into this ASSESSMENT OF CIVIL MONEY PENALTY
+(“ASSESSMENT”) by reference.
+The Financial Crimes Enforcement Network has authority to investigate banks for
+compliance with and violation of the Bank Secrecy Act pursuant to 31 C.F.R. § 1010.810, which
+
+1
+
+The Bank Secrecy Act is codified at 12 U.S.C. §§ 1829b, 1951-1959 and 31 U.S.C. §§ 53115314, 5316-5332. Regulations implementing the Bank Secrecy Act appear at 31 C.F.R. Chapter
+X (formerly 31 C.F.R. Part 103).
+2
+
+JPMorgan makes the admissions as stated above and elsewhere in this document solely in
+connection with the resolution of this civil proceeding and for purposes of the imposition of the
+civil penalty set forth herein.
+1
+
+grants the Financial Crimes Enforcement Network “overall authority for enforcement and
+compliance, including coordination and direction of procedures and activities of all other
+agencies exercising delegated authority under this chapter.” JPMorgan is a global bank and
+financial services company and is part of the largest bank holding company in the United States
+with approximately $2.5 trillion in assets. JPMorgan is a “financial institution” and a “bank”
+within the meaning of the Bank Secrecy Act and its implementing regulations. 31 U.S.C.
+§ 5312(a)(2) and 31 C.F.R. § 1010.100.
+Resolution with U.S. Attorney’s Office for the Southern District of New York
+The U.S. Attorney’s Office for the Southern District of New York and JPMorgan have
+entered into a deferred prosecution agreement and related forfeiture action based on JPMorgan’s
+failure to timely file a suspicious activity report (“SAR”) on transactions arising out of the
+Bernard Madoff fraudulent investment scheme and based on JPMorgan’s failure to maintain an
+effective anti-money laundering program, which is described in more detail below in Section II
+(Determinations). As part of the Deferred Prosecution Agreement, JPMorgan has agreed to
+forfeit $1.7 billion.
+Resolution with Office of the Comptroller of the Currency
+The Office of the Comptroller of the Currency (“OCC”) is JPMorgan’s Federal functional
+regulator and is responsible for conducting examinations of JPMorgan for compliance with the
+Bank Secrecy Act and its implementing regulations and similar rules under Title 12 of the United
+States Code. The OCC is simultaneously assessing a civil money penalty against JPMorgan for
+violations of 31 U.S.C. § 5318(i); 12 C.F.R. § 21.21(c); 12 C.F.R. § 21.11(c) and (d); 31 C.F.R.
+§ 1010.610(a), (b) and (c); and 12 U.S.C. § 1818(s). JPMorgan has agreed to a $350 million
+civil money penalty assessed by the OCC. The deficiencies in JPMorgan’s anti-money
+
+2
+
+laundering program also resulted in a Consent Cease and Desist Order issued by the OCC on
+January 14, 2013 that required JPMorgan to take a number of steps to improve its Bank Secrecy
+Act compliance. JPMorgan is working to meet its obligations under the Consent Order, which
+remains in effect.
+II.
+
+DETERMINATIONS
+The Financial Crimes Enforcement Network has determined that JPMorgan willfully
+
+violated the Bank Secrecy Act by failing to detect and adequately report suspicious transactions
+arising out of Bernard Madoff’s fraudulent investment scheme, in violation of 31 U.S.C.
+§ 5318(g) and 31 C.F.R. § 1020.320.
+The Bank Secrecy Act and its implementing regulations require banks to report
+transactions that involve or aggregate to at least $5,000, are conducted by, at, or through the
+bank, and that the bank “knows, suspects, or has reason to suspect” are suspicious. 31 U.S.C.
+§ 5318(g) and 31 C.F.R. § 1020.320. A transaction is “suspicious” if the transaction:
+(1) involves funds derived from illegal activities, or is conducted to disguise funds derived from
+illegal activities; (2) is designed to evade the reporting or recordkeeping requirements of the
+Bank Secrecy Act or regulations under the Act; or (3) has no business or apparent lawful purpose
+or is not the sort in which the customer would normally be expected to engage, and the bank
+knows of no reasonable explanation for the transaction after examining the available facts,
+including background and possible purpose of the transaction. 31 C.F.R. §§ 1020.320(a)(2)(i)(iii).
+Banks, and other financial institutions, file these suspicious activity reports with the
+Financial Crimes Enforcement Network, which serves as the Financial Intelligence Unit for the
+United States. The Financial Crimes Enforcement Network, in turn, makes these reports
+
+3
+
+available to law enforcement for criminal enforcement purposes and regulators, such as the
+Securities and Exchange Commission, for regulatory enforcement purposes. Most countries
+have a Financial Intelligence Unit that carries out similar responsibilities for collecting,
+analyzing, and sharing similar reports with its enforcement authorities.
+Bernard Madoff committed a massive securities fraud scheme against investors from the
+1970s until he was arrested in December 2008. Madoff defrauded his investors of more than $20
+billion and caused significant economic harm to thousands of victims. On March 12, 2009,
+Madoff pleaded guilty to eleven felony charges in the U.S. District Court for the Southern
+District of New York. On June 29, 2009, the Court sentenced Madoff to 150 years in prison. In
+addition, the U.S. Attorney’s Office has previously obtained final orders of forfeiture securing
+approximately $2.35 billion in fraud proceeds, which will be distributed to the victims of
+Madoff’s scheme through a remission process established by the U.S. Attorney’s Office for the
+Southern District of New York.
+JPMorgan, and its predecessors and affiliates, had a long relationship with Bernard L.
+Madoff Investment Securities LLC (“BLM”) beginning in the mid-1980s and spanning over 20
+years. During that time, JPMorgan held the primary bank accounts that BLM used to facilitate
+the fraudulent investment scheme. BLM’s activities raised concerns with JPMorgan personnel
+from time to time over the course of several years. For example, in the 1990s through 2003,
+employees at JPMorgan’s private bank identified very large, repeated round-dollar transactions
+between BLM and another JPMorgan client and did not report the transactions to its anti-money
+laundering personnel. In addition, in 2007 and 2008, JPMorgan’s computer monitoring system
+issued two alerts with respect to potentially suspicious account activity in the BLM accounts.
+
+4
+
+In addition to maintaining bank accounts for BLM, from 2006 to 2008, JPMorgan
+developed and issued investment products that were tied to the investment returns of certain
+Madoff “feeder funds.” JPMorgan created these investment products as an opportunity to profit
+from investment-banking fees. In connection with those products, JPMorgan invested its own
+money in Madoff feeder funds as a hedge to offset risks associated with JPMorgan’s obligations.
+Due to the features of the products, JPMorgan could not eliminate all risks from its exposure to
+Madoff feeder funds and could lose a substantial portion of its capital in the event of a significant
+decline in the feeder funds’ performance, which, in turn, was dependent on Madoff’s
+performance.
+Between 2006 and 2008, JPMorgan conducted several due diligence reviews on BLM
+and these feeder funds and identified multiple potential fraud “red flags” associated with BLM.
+In 2007, a JPMorgan Executive told the Chief Risk Officer for JPMorgan’s Investment Bank,
+referring to a press article from 2001, that there “is a well-known cloud over the head of Madoff
+and that his returns are speculated to be part of a ponzi scheme.” Based upon its due diligence in
+2007, JPMorgan ultimately concluded that risk of fraud at BLM “was extremely unlikely.” In
+2007, JPMorgan personnel did not report any concerns regarding BLM to its anti-money
+laundering personnel. In the Fall of 2008, the following “red flags” identified by JPMorgan
+personnel raised concerns at JPMorgan that BLM could be engaged in a potential fraud:
+
+
+BLM’s investment performance was so consistently and significantly ahead of its
+peers, even in prevailing market conditions, as to appear too good to be true.
+
+
+
+BLM’s trading techniques and investment activity lacked expected transparency.
+
+
+
+BLM utilized a very small, unknown auditor that was not registered with the
+American Institute of Certified Public Accountants or peer-rated.
+
+5
+
+
+
+BLM or BLM feeder funds repeatedly refused to provide full information to
+JPMorgan as part of its due diligence reviews.
+
+During 2007, as a result of the investment products described above, JPMorgan held
+approximately $250 million in risk exposure to assets related to BLM’s investment strategy.
+However, JPMorgan elected not to approve a proposal to increase the amount of its product
+offerings that were related to BLM by approximately $1 billion. Further, during the Fall of
+2008, JPMorgan incrementally reduced its hedge position in Madoff feeder funds from
+approximately $369 million to $81 million. When Madoff was arrested on December 11, 2008,
+JPMorgan booked a loss of approximately $40 million, substantially less than the approximately
+$250 million that it would have lost but for these transactions in the Fall of 2008.
+In the Fall of 2008, JPMorgan took steps to protect its own business interests based on
+the information it learned regarding BLM’s conduct in the due diligence reviews and based on a
+broader business strategy to reduce JPMorgan’s overall risk exposure to hedge funds. During
+this same time period, JPMorgan failed to notify the Financial Crimes Enforcement Network of
+BLM’s suspicious, potentially fraudulent activities as required by the Bank Secrecy Act, thereby
+undermining the existing reporting mechanism to alert U.S. law enforcement.
+On October 29, 2008, JPMorgan’s London branch filed a SAR-equivalent report
+concerning the Madoff funds with the United Kingdom’s Serious Organised Crime Agency
+(“SOCA”), which was the United Kingdom’s Financial Intelligence Unit. In the SAR-equivalent
+report, JPMorgan’s London branch identified significant concerns about the Madoff funds,
+including that the investment performance “appeared too good to be true,” its lack of
+transparency regarding its trading techniques, its unwillingness to provide helpful information in
+the course of JPMorgan’s due diligence reviews, its choice of auditor, and a threat made to a
+
+6
+
+JPMorgan employee by a foreign distributor of Madoff-linked notes regarding JPMorgan’s
+stated intention to invoke a provision of a note agreement that would enable JPMorgan to
+remove the link between the notes and the performance of a Madoff Securities feeder fund.
+In October 2008, JPMorgan’s London branch employees also reported their concerns
+about BLM to several of JPMorgan’s U.S. legal and investment bank compliance employees.
+JPMorgan’s U.S. legal and investment bank compliance employees reviewed information on
+which the October 2008 United Kingdom SAR-equivalent report was based; learned, in
+November 2008, that its London branch had filed a SAR-equivalent report; and were aware of
+JPMorgan’s decision to reduce its risk exposure to BLM for a number of reasons, including
+concerns regarding Madoff. Notwithstanding these facts, the U.S. employees never notified
+JPMorgan’s U.S. Bank Secrecy Act Officer or employees in U.S. Anti-Money Laundering
+Operations, the individuals who would have made a decision whether to file a SAR with the
+Financial Crimes Enforcement Network in the United States.
+On November 19, 2008, JPMorgan’s London branch filed a second SAR-equivalent
+report with SOCA on the Madoff funds. JPMorgan’s London branch did not report this
+additional filing to any JPMorgan employees in the United States.
+JPMorgan failed to file any SARs in the United States related to the Madoff transactions
+until after Madoff’s arrest in December 2008. In fact, even after JPMorgan’s London branch
+filed the two SAR-equivalent reports with SOCA, JPMorgan continued to process transfers of
+billions of dollars through BLM’s accounts until Madoff’s arrest. During this time period,
+JPMorgan redeemed approximately $275 million of its own hedge investments from the BLM
+feeder funds, which in turn drew funds out of BLM’s JPMorgan accounts. Madoff also drained
+billions of dollars out of BLM’s JPMorgan accounts. After Madoff’s arrest, JPMorgan, for the
+
+7
+
+first time, filed SARs in the United States that reported billions of dollars in potential suspicious
+activity that occurred between approximately 2000 and December 2008 in BLM’s JPMorgan
+accounts.
+JPMorgan failed to report its concerns regarding Madoff’s potential fraud to the Financial
+Crimes Enforcement Network, and thereby U.S. law enforcement, until after Madoff was
+arrested. By the time of Madoff’s arrest, JPMorgan had substantially recovered its own
+investment funds.
+III.
+
+CIVIL MONEY PENALTY
+FinCEN has determined that grounds exist to assess a civil money penalty for violations
+
+of the Bank Secrecy Act and its implementing regulations, as described in this CONSENT.
+31 U.S.C. § 5321(a)(1) and 31 C.F.R. § 1010.820(f).
+FinCEN has determined that the penalty in this matter will be $461 million, based on the
+suspicious transactions that flowed through Madoff’s primary account at JPMorgan during 2008.
+31 U.S.C. § 5321(a)(1) and 31 C.F.R. § 1010.820(f). The U.S. Attorney’s Office for the
+Southern District of New York will collect $1.7 billion from JPMorgan through asset forfeiture.
+The U.S. Attorney’s Office has stated that the funds collected through its asset forfeiture will be
+contributed to the recovery fund for Madoff’s victims. In recognition of this arrangement,
+FinCEN is deeming its penalty satisfied by JPMorgan’s payment to the U.S. Attorney’s Office.
+The OCC will collect $350 million from JPMorgan. In total, JPMorgan has agreed to a
+combined collection amount of $2.05 billion.
+
+8
+
+IV.
+
+CONSENT TO ASSESSMENT
+To resolve this matter, and only for that purpose, JPMorgan consents to the assessment of
+
+a civil money penalty in the sum of $461 million and admits that it violated the Bank Secrecy
+Act’s reporting requirements.
+JPMorgan recognizes and states that it enters into the CONSENT freely and voluntarily
+and that no offers, promises, or inducements of any nature whatsoever have been made by the
+Financial Crimes Enforcement Network or any employee, agent, or representative of the
+Financial Crimes Enforcement Network to induce JPMorgan to enter into the CONSENT, except
+for those specified in the CONSENT.
+JPMorgan understands and agrees that the CONSENT embodies the entire agreement
+between JPMorgan and the Financial Crimes Enforcement Network relating to this enforcement
+matter only, as described in Section II above. JPMorgan further understands and agrees that
+there are no express or implied promises, representations, or agreements between JPMorgan and
+the Financial Crimes Enforcement Network other than those expressly set forth or referred to in
+this document and that nothing in the CONSENT or in this ASSESSMENT is binding on any
+other agency of government, whether Federal, State or local.
+V.
+
+RELEASE
+Execution of the CONSENT, and compliance with the terms of this ASSESSMENT and
+
+the CONSENT, settles all claims that the Financial Crimes Enforcement Network may have
+against JPMorgan for the conduct described in Section II of this ASSESSMENT. Execution of
+the CONSENT, and compliance with the terms of this ASSESSMENT and the CONSENT, does
+not release any claim that the Financial Crimes Enforcement Network may have, or waive the
+Financial Crimes Enforcement Network’s right to bring any enforcement action based on such
+
+9
+
+claims, for conduct by JPMorgan other than the conduct expressly described in Section II of this
+ASSESSMENT, or any claim that the Financial Crimes Enforcement Network may have against
+any party other than JPMorgan, such parties to include, without limitation, any director, officer,
+employee, or agent of JPMorgan. Upon request, JPMorgan shall truthfully disclose to the
+Financial Crimes Enforcement Network all factual information not protected by a valid claim of
+attorney-client privilege or work product doctrine with respect to the participation of its current
+or former directors, officers, employees, or agents in the conduct described in Section II of this
+ASSESSMENT.
+
+By:
+
+/S/
+January 7, 2014
+_________________________________________
+Jennifer Shasky Calvery
+Date
+Director
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+U.S. Department of the Treasury
+
+10
+
+

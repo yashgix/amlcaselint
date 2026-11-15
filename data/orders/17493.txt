@@ -1,0 +1,382 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+
+IN THE MATTER OF:
+
+Bank of Mingo
+Williamson, West Virginia
+
+)
+)
+)
+)
+)
+)
+
+Number 2015-08
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+
+I.
+
+INTRODUCTION
+The Financial Crimes Enforcement Network (“FinCEN”) has determined that grounds
+
+exist to assess a civil money penalty against Bank of Mingo (“Mingo”), pursuant to the Bank
+Secrecy Act (“BSA”) and regulations issued pursuant to that Act.1
+Mingo admits to the facts set forth below and that its conduct violated the Bank Secrecy
+Act. Mingo consents to the assessment of a civil money penalty and enters the CONSENT TO
+THE ASSESSMENT OF CIVIL MONEY PENALTY (“CONSENT”) with FinCEN.
+The CONSENT is incorporated into this ASSESSMENT OF CIVIL MONEY PENALTY
+(“ASSESSMENT”) by reference.
+FinCEN has the authority to investigate banks for compliance with and violation of the
+Bank Secrecy Act pursuant to 31 C.F.R. § 1010.810, which grants FinCEN “[o]verall authority
+for enforcement and compliance, including coordination and direction of procedures and
+
+1
+
+The Bank Secrecy Act is codified at 12 U.S.C. §§ 1829b, 1951-1959 and 31 U.S.C. §§ 53115314, 5316-5332. Regulations implementing the Bank Secrecy Act appear at 31 C.F.R. Chapter
+X.
+1
+
+activities of all other agencies exercising delegated authority under this chapter.” Mingo was a
+“financial institution” and a “bank” within the meaning of the Bank Secrecy Act and its
+implementing regulations during the time relevant to this action. 31 U.S.C. § 5312(a)(2)(A); and
+31 C.F.R. §§ 1010.100(d)(1), 1010.100(t).
+Bank of Mingo is headquartered in Williamson, Mingo County, West Virginia. Mingo
+has six branches, all located in Mingo County, with a total of 48 employees. As of December 31,
+2014, Mingo reported total assets of $93.879 million. Mingo provides personal, commercial, and
+consumer banking products, as well as online banking services. Mingo had systemic BSA
+violations that derived from its failure to establish and maintain an adequate anti-money
+laundering program and customer due diligence program. Mingo’s program deficiencies led to
+its failure to monitor, detect and report suspicious activity and to timely file currency transaction
+reports. Consequently, from 2008 through 2012, Mingo allowed more than $9.2 million in
+structured and otherwise suspicious cash transactions to flow through the institution unreported.
+Resolution with U.S. Attorney’s Office for the Southern District of West Virginia
+The U.S. Attorney’s Office for the Southern District of West Virginia and Mingo have
+entered into a deferred prosecution agreement and forfeiture action based on Mingo’s failure to
+establish an effective anti-money laundering program, in violation of 31 U.S.C. §§ 5318(h)(1)
+and 5322(b). Mingo admitted that a particular corporate customer structured hundreds of
+currency transactions through its accounts at Mingo’s Williamson Branch. The Williamson
+Branch Manager facilitated the corporate customer’s structured transactions to evade the filing of
+currency transaction reports (CTRs). Mingo was aware of the Branch Manager’s structuring
+scheme, yet failed to file the requisite CTRs and suspicious activity reports related to the high
+
+2
+
+volume of unusual cash transactions conducted by the corporate customer. As part of the
+deferred prosecution agreement, Mingo has agreed to forfeit $2.2 million.
+Resolution with Federal Deposit Insurance Corporation
+The Federal Deposit Insurance Corporation (“FDIC”) is Mingo’s primary federal
+regulator and examines banks, including Mingo, for compliance with the BSA and its
+implementing regulations and similar rules under Title 12 of the United States Code. The FDIC
+has assessed a civil money penalty against Mingo for violations of 12 U.S.C. §§1818(i)(2)(A),
+1829b, 1951-1959; 31 U.S.C. § 5311 et seq.; 31 C.F.R. Chapter X; 12 C.F.R. § 326.8, and 12
+C.F.R. Part 353 (collectively, “BSA Regulations”). Mingo has agreed to a $3.5 million civil
+money penalty assessed by the FDIC.
+The deficiencies in Mingo’s anti-money laundering program had resulted in a Consent
+Order issued by the FDIC on November 1, 2013, that required Mingo to take a number of steps
+to improve its BSA compliance. Mingo is currently working to meet its obligations under the
+Consent Order, which remains in effect.
+II.
+
+DETERMINATIONS
+
+Mingo willfully violated the BSA’s program, reporting, and recordkeeping requirements
+from 2008 through the end of 2013.2 As described in more detail below, Mingo: (a) failed to
+implement an adequate anti-money laundering program; (b) failed to develop and implement an
+
+2
+
+In civil enforcement of the Bank Secrecy Act under 31 U.S.C. § 5321(a)(1), to establish that a
+financial institution or individual acted willfully, the government need only show that the
+financial institution or individual acted with either reckless disregard or willful blindness. The
+government need not show that the entity or individual had knowledge that the conduct violated
+the Bank Secrecy Act, or that the entity or individual otherwise acted with an improper motive or
+bad purpose. Bank of Mingo admits to “willfulness” only as the term is used in civil
+enforcement of the Bank Secrecy Act under 31 U.S.C. § 5321(a)(1).
+3
+
+adequate customer identification program; (c) failed to identify and adequately report currency
+transactions; and (d) failed to detect and adequately report suspicious transactions.
+A. Violation of the Requirement to Implement an Anti-Money Laundering
+Program
+Mingo failed to establish and implement an adequate anti-money laundering compliance
+program as expressly required by the BSA and its implementing regulations. 31 U.S.C.
+§§ 5318(a)(2) and 5318(h); 31 C.F.R. § 1020.210. The FDIC requires each bank under its
+supervision to develop and provide for the continued administration of a program reasonably
+designed to assure and monitor compliance with the BSA’s recordkeeping and reporting
+requirements, including an appropriate customer identification program. 12 C.F.R.
+§§ 326.8(b)(1) and (2).
+Mingo failed to establish and maintain an adequate anti-money laundering program that,
+at a minimum: (1) provides for a system of internal controls to assure ongoing compliance; (2)
+provides for independent testing for compliance to be conducted by bank personnel or by an
+outside party; (3) designates an individual or individuals responsible for coordinating and
+monitoring day-to-day compliance; and (4) provides training for appropriate personnel. 31
+U.S.C. §§ 5318(a)(2) and 5318(h)(1); 31 C.F.R. § 1020.210; 12 C.F.R. § 326.8(c). Mingo’s
+compliance program also did not include a customer identification program that was appropriate
+for its size and type of business. 31 C.F.R. § 1020.220.
+1.
+
+Internal Controls
+
+Mingo failed to implement an effective system of internal controls reasonably designed to
+ensure compliance with the BSA and its implementing regulations. 31 U.S.C. § 5318(h)(1)(A);
+31 C.F.R. § 1020.210. It did not adequately assess its money laundering risk or design an antimoney laundering compliance program to address those risks. As a result, and as described in
+4
+
+detail below, Mingo serviced high-risk customers without effectively monitoring their respective
+accounts, and further failed to detect and report unusual large currency transactions and
+otherwise suspicious activities.
+Mingo’s procedures for monitoring, detecting, and reporting suspicious activity were
+ineffective. Banks, and other financial institutions, are required to implement such procedures,
+and file reports of suspicious activity with FinCEN. Like other BSA filings, suspicious activity
+reports (“SARs”) play an important role in detecting possible criminal activity. FinCEN and law
+enforcement use SARs to investigate money laundering, terrorist financing and other serious
+criminal activity, among other things. Although Mingo used a software system to monitor its
+accounts for unusual activity going through the bank; it did not use it to detect and report
+suspicious activity. As a result, Mingo undermined the existing reporting mechanism to alert law
+enforcement and regulators to suspicious and potentially illicit activities.
+Mingo also failed to assess the money laundering risks associated with its customers.
+Risk assessment procedures are a vital part of a compliance program, as they permit a financial
+institution to assess its particular risks associated with its business lines, practices, and clientele
+and to design a program that can reasonably assure and monitor BSA compliance given those
+risks. Mingo did not properly risk rate its high-risk customers and their respective accounts
+leaving the bank ill-equipped to adequately monitor transactions based on a customer’s particular
+level of risk or the account’s purpose and expected activity. For instance, Mingo did not risk rate
+its customers during the account opening process or classify their respective accounts.
+Consequently, Mingo failed to properly designate numerous customers as high-risk. Because
+Mingo failed to properly designate these customers and their accounts as high-risk, it could not
+adequately monitor them and therefore failed to detect the unusual currency transactions or
+
+5
+
+suspicious activities in which the customers engaged. It was only after law enforcement issued
+subpoenas to Mingo requesting information related to these high-risk customers, that Mingo
+added the customers to its high-risk list for enhanced due diligence and monitoring.
+Mingo’s risk assessment procedures were also inadequate because they were not tailored
+to address Mingo’s inherent risks. Mingo failed, for example, to address procedures to handle
+check cashing, payroll activity, and cash intensive customers. The failure to complete a
+comprehensive risk assessment to account for such significant risks severely limited the
+effectiveness of Mingo’s anti-money laundering program.
+2.
+
+Independent Testing
+
+A bank’s anti-money laundering program must provide for independent compliance
+testing to monitor and maintain an adequate program. 31 U.S.C. § 5318(h)(1)(D); 31 C.F.R.
+§ 1020.210. Mingo’s annual independent testing was inadequate. For example, Mingo’s most
+recent BSA independent compliance testing, conducted in December 2011, failed to include the
+high-risk activities cited above, and failed to determine whether appropriate controls were in
+place to detect, monitor, and report suspicious activity and large currency transactions.
+3.
+
+Designation of BSA Compliance Officer
+
+A bank is required to designate a person responsible for ensuring day-to-day compliance
+with BSA requirements. 31 U.S.C. § 5318(h)(1)(B); 31 C.F.R. § 1020.210. Although Mingo
+designated a BSA Officer, it did not provide the BSA Officer with sufficient resources and time
+to adequately oversee Mingo’s BSA compliance program. Specifically, Mingo assigned the
+BSA Officer multiple non-BSA responsibilities that left him unable to adequately fulfill his BSA
+obligations. Mingo was aware of this situation but failed to designate an additional person to
+support the BSA Officer or otherwise remedy the situation.
+
+6
+
+4.
+
+Training
+
+A bank’s anti-money laundering program must provide for education and training of
+personnel regarding their responsibilities under the program, including monitoring, detecting and
+reporting suspicious transactions. 31 U.S.C. § 5318(h)(1)(C); 31 C.F.R. § 1020.210. Mingo’s
+training program was ineffective. Its employees lacked the knowledge and skills to identify
+high-risk accounts; recognize and report suspicious activities and currency transactions; and
+appropriately aggregate large cash transactions for BSA reporting requirement. As of October
+2013, Mingo still had not implemented a training program that would provide comprehensive
+training tailored to the needs of specific positions, departments, board members and other
+personnel.
+B.
+
+Violation of Requirement to Develop and Implement an Adequate Customer
+Identification Program
+
+As part of its anti-money laundering compliance program, a bank must implement a
+written Customer Identification Program (“CIP”) appropriate for its size and type of business.
+The program must include risk-based identity verification, recordkeeping, and retention
+procedures. In general, the minimum information a bank must obtain prior to opening an
+account is the customer’s name, date of birth, and a residential or business street address. 31
+C.F.R §§ 1020.210, 1020.220(a)(2)(i). A CIP helps a financial institution determine the risks
+posed by a particular customer, allowing the institution to ensure that it has the proper controls in
+place, including suspicious activity monitoring procedures, and to monitor and report on the risks
+of a particular client. Mingo did not have a sufficient CIP. For example, a review of the opening
+account documentation for 53 new customers revealed that 26 percent of those accounts were
+opened with P.O. Box addresses instead of physical street addresses as required.
+
+7
+
+C.
+
+Violation of the Requirement to File Currency Transaction Reports
+
+Mingo violated its currency transaction reporting requirements. The BSA and its
+implementing regulations impose an obligation on financial institutions to report currency
+transactions that involve or aggregate to more than $10,000. 31 U.S.C. § 5313(a); 31 C.F.R. §§
+1010.311, 1010.313. A bank must file a CTR within 15 days after the transaction triggering the
+reporting requirement is conducted. 31 C.F.R. § 1020.310; 31 C.F.R. § 1010.306(a)(1). A
+person is prohibited from structuring a transaction in any manner for the purpose of evading the
+CTR requirement. 31 U.S.C. § 5324(a); 31 C.F.R. §§ 1010.314, 1010.100(xx). From 2007 to
+2013, Mingo failed to file 619 CTRs, in violation of the BSA and its implementing regulations.
+Of those, 438 CTRs were related to one particular corporate customer. Mingo’s records and
+daily transaction logs revealed that the corporate customer conducted multiple currency
+transactions through its accounts at Mingo’s Williamson Branch. Despite this knowledge,
+Mingo failed to aggregate those transactions for purposes of filing corresponding CTRs.
+Specifically, in early 2008, Mingo’s Williamson Branch Manager approved a $50,000 Line of
+Credit (“LOC”) for the corporate customer, which was to be used for payroll. The investigation
+demonstrated that the Williamson Branch Manager knowingly acted to facilitate the corporate
+customer’s structured transactions to evade the filing of CTRs. Specifically, as part of this
+scheme, the Branch Manager instructed the corporate customer to fax a “Request for Advance”
+form to the Williamson Branch for each cash withdrawal from the line of credit account. The
+Branch Manager or his assistant would approve the Requests for Advance, and a teller would
+then prepare a cashier's check in the name of the corporate customer’s employee for amounts just
+under $10,000. The employee was allowed to cash the check without depositing it into the
+checking account of the corporate customer. From 2008 to 2012, the corporate customer made
+
+8
+
+981 cash withdrawals from its LOC, which averaged $9,417 per withdrawal, just under the
+$10,000 currency reporting requirement, totaling over $9.2 million. During 2012 alone, the
+corporate customer’s employees cashed 113 cashier's checks from Mingo totaling over
+$1,106,678.
+In November 2013, the corporate customer was charged and pleaded guilty in the United
+States District Court for the Southern District of West Virginia to conspiring to structure
+currency transactions, in violation of 18 U.S.C. § 371 and 31 U.S. C. § 5324. As part of the plea
+agreement, the corporate customer admitted that it had knowingly engaged in structured
+transactions totaling at least $2.2 million through accounts at the Bank of Mingo. The
+Williamson Branch Manager also pleaded guilty to lying to federal agents regarding his
+knowledge of the cash withdrawals. The Branch Manager separately agreed with the FDIC that
+he would be permanently barred from working for an FDIC covered financial institution.
+Mingo was on notice since at least September 2008 of the manner in which its
+Williamson Branch Manager allowed this corporate customer to structure cash withdrawals from
+the LOC. Despite the high volume of unusual cash transactions conducted by the corporate
+customer, Mingo failed to timely file 438 CTRs relating to the cash intensive transactions and
+structured transactions conducted through the Bank.
+The BSA Officer monitored such activity through handwritten teller logs. This practice
+was an inadequate control given the volume of cash activity going through the bank and allowed
+a high volume of structured transactions to go undetected and, therefore, unreported. In sum,
+Mingo failed to perform the required account monitoring; aggregate and report appropriate
+transactions; and identify structured transactions.
+
+9
+
+D.
+
+Suspicious Activity Reporting Violations
+
+Mingo failed to adequately monitor, detect and timely report suspicious activity. The
+BSA and its implementing regulations impose an obligation on banks to report transactions that
+involve or aggregate to at least $5,000 are conducted by, at, or through the bank, and that the
+bank “knows, suspects, or has reason to suspect” are suspicious. 31 U.S.C. § 5318(g) and 31
+C.F.R. § 1020.320. A transaction is “suspicious” if the transaction: (1) involves funds derived
+from illegal activities, or is conducted to disguise funds derived from illegal activities; (2) is
+designed to evade the reporting or recordkeeping requirements of the BSA or regulations under
+the BSA; or (3) has no business or apparent lawful purpose or is not the sort in which the
+customer would normally be expected to engage, and the bank knows of no reasonable
+explanation for the transaction after examining the available facts, including background and
+possible purpose of the transaction. 31 C.F.R. § 1020.320(a)(2)(i) - (iii). Mingo failed to file
+SARs concerning a high volume of cash transactions that had no apparent lawful purpose and, as
+described above, that were designed to evade the BSA reporting requirements.
+In addition to the structured transactions described above, which should have prompted
+the bank to file SARs, at least two of Mingo’s other customers also demonstrated unusual
+transaction patterns raising significant red flags that Mingo should have detected and evaluated
+to determine whether a SAR should have been filed. One customer, with a cash intensive
+business, opened a commercial account at Mingo in July 2007, using only a P.O. Box address
+(which also reflects Mingo’s weak CIP by failing to require a physical address). This customer
+made frequent and unusually large cash deposits and withdrawals that were allegedly used for
+payroll purposes. In just the first quarter of 2013, the customer cashed checks totaling
+$431,000.00. The customer also had an LOC with Mingo, out of which he took cash advances to
+
+10
+
+be converted into cashier's checks payable to his employees. Three to four times a year, the
+customer conducted three to six principal advances in a given month and then paid down the
+LOC to near zero. This account activity was inconsistent with his customer profile and expected
+transactions. Raising further concerns, when presented with these findings, Mingo’s BSA
+Officer stated that he was not only unaware of this account’s activity but also suggested that
+Mingo did not have other accounts with similar transactions, although Mingo did.
+A second customer, whose activity raised significant red flags, conducted a large volume
+of questionable and unusual cash transactions through his account at Mingo. In 2012, this
+customer deposited approximately $310,000 in cash, compared to only $72,000 deposited in
+checks. The significant amount of cash deposits, particularly compared to the substantially
+lesser amount deposited by check, is unusual account activity from what was expected from this
+customer’s customer profile and expected account activity. In addition, the customer’s file
+contained an account closure statement issued by a different bank for inappropriate activity.
+Notwithstanding the ongoing suspicious activity, Mingo failed to conduct account monitoring,
+failed to detect and report suspicious activity and failed to conduct enhanced due diligence with
+respect to this customer.
+III.
+
+CIVIL MONEY PENALTY
+FinCEN has determined that Mingo willfully violated the anti-money laundering
+
+program, reporting, and recordkeeping requirements of the Bank Secrecy Act and its
+implementing regulations, as described in the CONSENT, and that grounds exist to assess a civil
+money penalty for these violations. 31 U.S.C. § 5321; 31 C.F.R. § 1010.820.
+FinCEN has determined that the penalty in this matter will be $4.5 million. The penalty
+will run concurrent with the FDIC $3.5 million penalty, of which $2.2 million is concurrent with
+
+11
+
+the amount forfeited pursuant to the deferred prosecution agreement with the U.S. Attorney’s
+Office for the Southern District of West Virginia. Accordingly, this penalty will be deemed
+satisfied by an immediate payment of $1 million to the U.S. Department of the Treasury with the
+remaining balance satisfied by payment of the FDIC civil money penalty and the U.S. Attorney’s
+Office for the Southern District of West Virginia forfeiture of criminal proceeds.
+IV.
+
+CONSENT TO ASSESSMENT
+To resolve this matter, and only for that purpose, Mingo consents to the assessment of a
+
+civil money penalty in the sum of $4.5 million and admits that it violated the BSA’s program,
+recordkeeping, and reporting requirements.
+Mingo recognizes and states that it enters into the CONSENT freely and voluntarily and
+that no offers, promises, or inducements of any nature whatsoever have been made by FinCEN
+or any employee, agent, or representative of FinCEN to induce Mingo to enter into the
+CONSENT, except for those specified in the CONSENT.
+Mingo understands and agrees that the CONSENT embodies the entire agreement
+between Mingo and FinCEN relating to this enforcement matter only, as described in Section II
+above. Mingo further understands and agrees that there are no express or implied promises,
+representations, or agreements between Mingo and FinCEN other than those expressly set forth
+or referred to in this document and that nothing in the CONSENT or in this ASSESSMENT is
+binding on any other agency of government, whether Federal, State or local.
+V.
+
+RELEASE
+Execution of the CONSENT, and compliance with all of the terms of this ASSESSMENT
+
+and the CONSENT, settles all claims that FinCEN may have against Mingo for the conduct
+described in Section II of the CONSENT. Execution of the CONSENT, and compliance with the
+terms of this ASSESSMENT and the CONSENT, does not release any claim that FinCEN may
+12
+
+have for conduct by Mingo other than the conduct described in Section II of the CONSENT, or
+any claim that FinCEN may have against parties other than Mingo, including, without limitation,
+any current or former partner, director, officer, or employee of Mingo. Upon request, Mingo
+shall truthfully disclose to FinCEN all factual information not protected by a valid claim of
+attorney-client privilege or work product doctrine with respect to the conduct of its current or
+former directors, officers, employees, agents, or others.
+
+By:
+/s/
+6/15/2015
+_____________________________________________
+Jennifer Shasky Calvery
+Date
+Director
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+U.S. Department of the Treasury
+
+13
+
+

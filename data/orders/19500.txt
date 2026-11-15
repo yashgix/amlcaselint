@@ -1,0 +1,1179 @@
+UNITED STATES OF AMERICA
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+DEPARTMENT OF THE TREASURY
+IN THE MATTER OF:
+Bancrédito International Bank and
+Trust Corporation
+
+)
+)
+)
+)
+)
+)
+
+Number [2023-02]
+
+CONSENT ORDER IMPOSING CIVIL MONEY PENALTY
+The Financial Crimes Enforcement Network (FinCEN) has conducted a civil enforcement
+investigation and determined that grounds exist to impose a Civil Money Penalty against
+Bancrédito International Bank and Trust Corporation (Bancrédito or the Bank) for violations of the
+Bank Secrecy Act (BSA) and its implementing regulations. 1 Bancrédito admits to the Statement
+of Facts and Violations set forth below and consents to the issuance of this Consent Order.
+I.
+
+JURISDICTION
+Overall authority for enforcement and compliance with the BSA lies with the Director of
+
+FinCEN, and the Director may impose civil penalties for violations of the BSA and its
+implementing regulations. 2
+At all times relevant to this Consent Order, Bancrédito was a “bank” and a “domestic
+financial institution” as defined by the BSA and its implementing regulations. 3 Bancrédito was
+required to report suspicious transactions 4 and to implement a due diligence program for
+
+The BSA, as amended, is codified at 31 U.S.C. §§ 5311-5314, 5316-5336, and notes thereto, and 12 U.S.C. §§
+1829b, 1951-1959. Regulations implementing the BSA appear at 31 C.F.R. Chapter X.
+
+1
+
+2
+
+31 U.S.C. § 5321(a); 31 C.F.R. §§ 1010.810(a), (d); Treasury Order 180-01 (July 1, 2014).
+
+3
+
+31 U.S.C. §§ 5312(a)(2)(B) and 5312(b)(1); 31 C.F.R. § 1010.100(d)(1).
+
+4
+
+31 U.S.C. § 5318(g); 31 C.F.R. § 1020.320.
+
+correspondent accounts established, maintained, administered, or managed in the United States
+(U.S.) for foreign financial institutions.5 Beginning March 15, 2021, Bancrédito was also required
+to implement an anti-money laundering (AML) program. 6
+II.
+
+STATEMENT OF FACTS
+The conduct described below took place from on or about October 1, 2015, through May
+
+16, 2022 (the Relevant Time Period), unless otherwise indicated.
+A.
+
+Bank Secrecy Act
+
+The BSA, together with its implementing regulations, establishes a framework for financial
+institutions to guard against money laundering, and to report essential financial intelligence to
+FinCEN. The BSA accomplishes this by, among other things, requiring banks to implement and
+maintain an AML program in order to guard against money laundering through financial
+institutions.7 Additionally, the BSA imposes other duties on all banks, including the duty to
+identify and report suspicious transactions relevant to a possible violation of law or regulation in
+suspicious activity reports (SARs) filed with FinCEN, 8 and the duty to establish a due diligence
+program for correspondent accounts for foreign financial institutions. 9 FinCEN, law enforcement,
+and others use intelligence reported by financial institutions to safeguard the U.S. financial system
+and combat serious threats, including money laundering, terrorist financing, organized crime,
+corruption, drug trafficking, and massive fraud schemes targeting the U.S. government, businesses,
+
+5
+
+31 U.S.C. § 5318(i); 31 C.F.R. § 1010.610.
+
+6
+
+31 U.S.C. § 5318(h); 31 C.F.R. § 1020.210.
+
+7
+
+Id.
+
+8
+
+31 U.S.C. § 5318(g); 31 C.F.R. § 1020.320.
+
+9
+
+31 U.S.C. § 5318(i); 31 C.F.R. § 1010.610.
+
+2
+
+and individuals. 10
+B.
+
+FinCEN
+
+FinCEN is a bureau within the U.S. Department of the Treasury and is the federal authority
+that enforces the BSA by investigating and imposing civil money penalties on financial institutions
+and individuals for willful violations of the BSA. 11 As delegated by the Secretary of the Treasury,
+FinCEN has “authority for the imposition of civil penalties” and “[o]verall authority for
+enforcement and compliance” of the BSA. 12
+C.
+
+Office of the Commissioner of Financial Institutions of Puerto Rico
+
+The Office of the Commissioner of Financial Institutions of Puerto Rico (OCIF) is
+responsible for supervising and regulating banks and certain other businesses operating in Puerto
+Rico. OCIF examines banks operating in Puerto Rico, such as Bancrédito, for compliance with
+the banking laws of Puerto Rico. Puerto Rico law required International Banking Entities to comply
+with all applicable requirements of the BSA during the Relevant Time Period. 13
+D.
+
+International Banking Entities
+
+International Banking Entities (IBEs) operate in Puerto Rico under the International
+
+FinCEN, FIN-2014-A007, FinCEN Advisory to U.S. Financial Institutions on Promoting a Culture of Compliance
+(Aug. 11, 2014).
+10
+
+11
+31 U.S.C. § 5321(a). In civil enforcement of the BSA under 31 U.S.C. § 5321(a)(1), to establish that a financial
+institution or individual acted willfully, the government need only show that the financial institution or individual
+acted with either reckless disregard or willful blindness. The government need not show that the entity or individual
+had knowledge that the conduct violated the BSA, or that the entity or individual otherwise acted with an improper
+motive or bad purpose. Bancrédito admits to “willfulness” only as the term is used in civil enforcement of the BSA
+under 31 U.S.C. § 5321(a)(1).
+12
+
+31 C.F.R. § 1010.810(a), (d).
+
+See 7 L.P.R.A. § 232j-1 (requiring IBE license holders to “(a) [a]dopt written policies and procedures to ensure . . .
+compli[ance] with . . . the Bank Secrecy Act; (b) [f]aithfully compy with . . . the Bank Secrecy Act; [and] (c) [f]ile currency
+transaction or suspicious activity reports required by the Bank Secrecy Act . . . .”).
+13
+
+3
+
+Banking Center Regulatory Act of 1989 (known as Law 52). 14 IBEs provide banking and
+other financial services and are granted special tax benefits. Law 52 prohibits IBEs from providing
+financial services to residents of Puerto Rico. 15
+During the Relevant Time Period, IBEs that provided banking services were required under
+the BSA (and Puerto Rico law) to identify and report suspicious transactions relevant to a possible
+violation of law or regulation, and to implement due diligence programs for correspondent
+accounts established, maintained, administered, or managed in the United States for foreign
+financial institutions. 16 Beginning March 15, 2021, IBEs were required under the BSA to
+implement AML programs. 17
+E.
+
+Regulatory Expectations Surrounding Venezuela
+
+Throughout the Relevant Time Period, the U.S. government repeatedly issued warnings
+indicating that Venezuela was a high-risk country for money laundering and other financial crimes.
+Critically, during the Relevant Time Period, FinCEN issued two advisories to financial institutions
+highlighting AML risks associated with Venezuela. In September 2017, FinCEN issued its first
+advisory, “Advisory on Widespread Public Corruption in Venezuela.” 18 This advisory identified
+
+14
+
+7 L.P.R.A. § 232, et seq.
+
+The International Banking Center Regulatory Act of 1989 was in effect from 1989 through 2012 when Puerto Rico
+enacted the International Financial Center Regulatory Act (collectively, Law 52).
+
+15
+
+16
+
+31 U.S.C. § 5318(g); 31 C.F.R. § 1020.320; 31 C.F.R. § 1010.610.
+
+Banks lacking a Federal functional regulator had been exempted from AML program requirements pursuant to 31
+U.S.C. § 5318(h)(2)(A) and 31 C.F.R. § 1020.210(a). FinCEN removed the exemption on September 15, 2020. 85
+FR 57129 (Sept. 15, 2020). See 31 C.F.R. § 1020.210(b). The rule has a compliance date of March 15, 2021.
+17
+
+FinCEN, Advisory on Widespread Public Corruption in Venezuela (Sept. 20, 2017) available at
+https://www.fincen.gov/sites/default/files/advisory/2017-09-20/FinCEN%20Advisory%20FIN-2017-A006508%20Compliant.pdf. In addition, since 2015, the President has issued seven Executive Orders under the
+International Emergency Economic Powers Act (IEEPA) imposing sanctions with respect to certain transactions
+relating to Venezuela. See Venezuela-Related Sanctions | U.S. Department of the Treasury available at
+https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/venezuelarelated-sanctions; see also OFAC, Venezuela Currency Exchange Network Scheme (Jan. 8, 2019) available at
+gorrin_network_chart_20190108.pdf (treasury.gov) (addressing a Venezuelan currency exchange scheme); OFAC,
+18
+
+4
+
+several red flags related to business with government agencies and state-owned enterprises in
+Venezuela. These red flags included the following: transactions between companies in unrelated
+lines of business; transactions directed to shell corporations; payments involving Venezuelan
+government contracts originating from non-official accounts located outside of Venezuela (e.g.,
+Panama or the Caribbean); and transactions for the purchase of real estate in the Houston, Texas,
+and South Florida areas. This advisory also reminded U.S. financial institutions of their AML
+program, SAR filing, and other obligations under the BSA. FinCEN renewed this advisory in
+2019, adding substantial information, including background about U.S. Government statements
+and actions concerning the Venezuelan government and related corruption, information on schemes
+related to trade-based money laundering and digital currencies, and updating known red flags. 19
+F.
+
+Bancrédito International Bank and Trust Corporation
+
+Bancrédito was organized as an IBE under Puerto Rico law in August 2008 and was
+headquartered in San Juan, Puerto Rico. Bancrédito is one of the oldest and was, at times, one of
+the largest IBEs in Puerto Rico. Bancrédito drew customers from around Latin America and the
+Caribbean, particularly customers in the high-risk jurisdiction of Venezuela who regularly
+engaged in large international U.S. dollar-denominated transfers. Bancrédito offered several
+banking products and services including foreign correspondent banking, checking accounts,
+certificates of deposit, debit cards, commercial loans, and trade finance and investment property
+secured loans, mostly to customers in Venezuela and Florida.
+Beginning in 2016, Bancrédito expanded its services to provide U.S. dollar-denominated
+
+PDVSA Sanctions Evasion Network (June 2020) available at pdvsa_network_chart_20200618.pdf (treasury.gov)
+(highlighting a foreign bribery scheme). The European Union has also publicly imposed a variety of sanctions on
+Venezuela.
+FinCEN, Updated Advisory on Widespread Public Corruption in Venezuela (May 3, 2019), available at
+https://www.fincen.gov/sites/default/files/advisory/2019-05-03/Venezuela%20Advisory%20FINAL%20508.pdf.
+19
+
+5
+
+correspondent accounts for foreign financial institutions—that is, it permitted foreign financial
+institutions to hold U.S. dollar-denominated accounts at Bancrédito. The Bank provided such
+services to foreign financial institutions operating in Central America and the Caribbean, although
+often the counterparties, the ultimate senders and recipients, were located in Venezuela. As such,
+during the Relevant Time Period, Bancrédito’s customer base and aspects of its business model put
+it at an elevated risk for AML concerns, as described herein.
+In January 2023, OCIF issued a Complaint and Order of Provisional and Permanent
+Appointment of Receiver (Receivership Order), where it, among other things, appointed a receiver
+to complete Bancrédito’s liquidation and administer its assets.
+1.
+
+Bancrédito Executive A
+
+Executive A was a citizen of Venezuela and Italy, and a resident of the United Kingdom.
+Executive A founded Bancrédito in or around August 2008. Executive A was the indirect beneficial
+owner of Bancrédito through his ownership in its parent companies. Executive A also served as
+Bancrédito’s Chairman of the Board of Directors until August 4, 2022. Prior to founding
+Bancrédito, Executive A worked at multiple Venezuelan banks. Executive A held multiple
+accounts at Bancrédito, including an account in the name of a Hong Kong-based personal
+investment company owned by Executive A (the PIC Account) and an account in the name of a
+Cayman Islands securities broker-dealer, also indirectly owned by Executive A. During the
+Relevant Time Period, Executive A exercised control over the day-to-day operations of the Bank.
+2.
+
+Oversight by OCIF
+
+The high-risk nature of Bancrédito’s customer base, especially those with ties to Venezuela,
+warranted robust BSA compliance. Instead, the Bank’s compliance with the BSA has been marked
+by repeated deficiencies and violations, as reported in multiple OCIF examinations. OCIF
+
+6
+
+examined the Bank in 2010, 2012, and 2014, and in each case identified several BSA deficiencies
+and other violations, including failure to report suspicious activity to FinCEN and AML program
+violations (consistent with BSA requirements). On October 1, 2015, Bancrédito entered
+into a consent order (2015 Consent Order) with OCIF, in which it agreed to remedy these failures
+and violations.
+In 2017 and 2019, OCIF examined Bancrédito and cited it for additional BSA violations,
+including failures to file SARs, failures to document decisions not to file SARs, and failures related
+to due diligence on correspondent accounts for foreign financial institutions, among other AML
+program deficiencies. On December 20, 2021—after the BSA required the Bank to comply with
+AML program requirements—Bancrédito and OCIF entered into a Memorandum of
+Understanding (2021 MOU). Bancrédito paid a fine and agreed to undertake remedial measures
+to address these ongoing violations. Bancrédito failed to comply with provisions of the 2021 MOU,
+including the requirement to establish a BSA/AML special compliance committee with a minimum
+number of independent directors. On May 16, 2022, OCIF began legal proceedings related to
+Bancrédito’s breach of the 2021 MOU. 20
+Throughout the Relevant Time Period, Executive A engaged in a number of suspicious
+transactions through the Bank, between Executive A or entities under his control, between his
+personal and business accounts, or with his associates. Many of Executive A’s transactions
+generated internal alerts for possible suspicious activity. Some of these alerts were initially cleared
+while others were left unexamined for significant periods of time. Consequently, a number of
+these transactions would result in untimely SAR filings. 21
+See Querella y Orden para Mostrar Causa, OCIF v. Bancredito International Bank & Trust, Corp., C22-D-005
+(OCIF May 16, 2022).
+20
+
+Prior to 2021, Bancrédito filed only one SAR on Executive A, despite OCIF notifying Bancrédito by at least early
+2020 that certain transactions involving Executive A had gone unreported.
+
+21
+
+7
+
+As set forth below, FinCEN has determined that these facts establish that Bancrédito
+willfully violated the BSA by failing to timely and adequately file SARs on suspicious transactions
+moving through the Bank, failing to establish an adequate due diligence program for
+correspondent accounts for foreign financial institutions, and failing to implement and maintain
+an adequate AML program.
+G.
+
+The Bank Failed to File Suspicious Activity Reports
+
+The BSA and its implementing regulations require all banks to report transactions that
+involve or aggregate to at least $5,000, are conducted by, at, or through the bank, and that the bank
+“knows, suspects, or has reason to suspect” are suspicious. 22 A transaction is “suspicious” if a
+bank “knows, suspects, or has reason to suspect” the transaction: (a) involves funds derived from
+illegal activities, or is conducted to disguise funds derived from illegal activities; (b) is designed to
+evade the reporting or recordkeeping requirements of the BSA or regulations implementing it; or
+(c) has no business or apparent lawful purpose or is not the sort in which the customer normally
+would be expected to engage, and the bank knows of no reasonable explanation for the transaction
+after examining the available facts, including background and possible purpose of the
+transaction. 23 A bank is required to file a SAR no later than 30 calendar days after the initial
+detection by the bank of the facts that may constitute a basis for filing a SAR. 24
+FinCEN, law enforcement, and other regulators rely on financial institutions’ accurate and
+timely filing of SARs to obtain the necessary transparency into potentially illicit activity. Known
+subjects involved in the suspicious activity should be identified in the appropriate fields on the
+
+22
+
+31 U.S.C. § 5318(g); 31 C.F.R. § 1020.320.
+
+23
+
+31 C.F.R. § 1020.320(a)(2)(i)-(iii).
+
+24
+
+31 C.F.R. § 1020.320(b)(3).
+
+8
+
+SAR form to prepare a SAR accurately and completely. 25 Investigators use these names and other
+identifiers to retrieve relevant records related to the subjects and targets of an investigation.
+Failure to file a SAR can hamper an investigator’s ability to identify relevant records. Additionally,
+filing SARs without properly identifying the subjects (i.e., failing to identify all subjects connected
+to the conduct) can obfuscate the true nature of the activity and those involved.
+During the Relevant Time Period, the BSA required all banks—including IBEs and other
+banks not regulated by a Federal functional regulator—to file SARs on suspicious activity, as
+described above. Prior to 2016, Bancrédito did not file a single SAR on any transaction, despite
+moving large amounts of money internationally on behalf of high-risk customers, including those
+located in Venezuela. Bancrédito failed to file SARs during this time despite numerous related
+examination findings and the 2015 Consent Order, which explicitly reinforced Bancrédito’s
+obligation to monitor all its transactions for suspicious activity and to file SARs with FinCEN.
+Bancrédito’s failure to file SARs, or limited SAR filings, continued for several years after 2016,
+particularly in regard to the detection and reporting of suspicious activity involving Executive A
+and his business associates, suspicious activity moving through foreign correspondent accounts,
+and suspicious activity involving customers in the high-risk jurisdiction of Venezuela. In its 2019
+examination, OCIF identified dozens of transactions between October 2016 and March 2019 where
+Bancrédito should have filed a SAR, including several where Executive A was a party to the
+transactions. Following that examination, OCIF instructed Bancrédito to backfile SARs on over
+300 transactions. Bancrédito only agreed to backfile SARs on 182 transactions. 26 Even then, a
+
+FinCEN, FinCEN Suspicious Activity Report (FinCEN SAR) Electronic Filing Instructions, Version 1.2 (Oct.
+2012).
+25
+
+Many of these excluded suspicious transactions were escalated as suspicious during a suspicious activity lookback
+review.
+
+26
+
+9
+
+significant number of these 182 SARs included language in the narrative disputing whether OCIF
+properly identified the activity as suspicious. FinCEN determined that the misleading language
+Bancrédito included in these SARs undermines the value and integrity of suspicious activity
+reporting, and creates potential confusion for law enforcement.
+In 2021, OCIF further instructed Bancrédito to perform a lookback review of its
+transactions for the period of 2016 through 2020. A third-party consultant conducted an
+independent lookback review in 2022, which identified and escalated hundreds of additional
+transactions (not identified by the Bank’s earlier 2019 internal review described above) that
+presented red flags of potentially suspicious activity to Bancrédito’s BSA/Compliance
+Department. Ultimately, the independent lookback review supported OCIF’s original findings that
+the over 300 transactions were suspicious, and resulted in Bancrédito belatedly filing SARs
+capturing all escalated transactions, and confirming the Bank’s failure to detect and report
+suspicious activity.
+FinCEN independently identified hundreds of millions of dollars in suspicious transactions
+on which it has determined Bancrédito failed to file timely SARs. The following are selected
+examples:
+1.
+
+Customer A
+
+Customer A, an associate of Executive A, was a Venezuelan national with residences in
+Venezuela, and Miami, Florida. Customer A opened a personal banking account at Bancrédito in
+March 2014. At the time Customer A opened his account, Customer A was publicly named in a
+civil lawsuit stemming from a connection to a criminal Venezuelan Ponzi and bribery scheme.
+Further, publicly available information connected a close relative of Customer A to Hugo Chavez.
+Customer A reported to Bancrédito that he owned multiple restaurants, jewelry stores,
+
+10
+
+bought and sold art, bought and sold vehicles and airplanes, lent money, was the president of
+multiple companies, and was the chief financial officer of another company. When pressed by
+OCIF and FinCEN, Bancrédito was unable to substantiate several of these claims, or Customer A’s
+anticipated income and expenses, with financial statements, tax returns, beneficial ownership
+information, or other independent information.
+
+Throughout the Relevant Time Period,
+
+Executive A and Customer A engaged in a series of transactions that were inconsistent with the
+personal nature of Customer A’s account, were outside of the range of anticipated transactions as
+reflected in Customer A’s customer due diligence documents, and had other suspicious indicia.
+Bancrédito did not timely file SARs on these suspicious transactions.
+For example, in May 2017, Executive A wired $1,000,000 from the PIC Account to
+Customer A’s personal account at Bancrédito. Immediately thereafter, Customer A wired the
+$1,000,000 from his personal account at Bancrédito to a corporate account at another financial
+institution. Both Customer A and Executive A told Bancrédito that this wire transfer was for the
+exchange of dollars to euros at a favorable rate. However, Bancrédito had no information to
+indicate Customer A held euro-denominated accounts at any bank, and Customer A did not provide
+any documentation showing any subsequent transfer in euros.
+In June 2019, Customer A sold a piece of art for $7.5 million to Executive A’s Cayman
+Islands broker-dealer company. Customer A received $1 million on the date of execution of the
+purchase agreement and agreed to receive the remaining $6.5 million within the 18 months
+following the execution date of the agreement. The deposit of these funds by a broker-dealer was
+inconsistent with Customer A’s stated use of the account for personal funds, and the volume was
+well-above the expected cash account flows into the account. Further, Bancrédito did not have or
+seek information to support Customer A’s lawful acquisition of this piece of art.
+
+11
+
+2.
+
+Customer B
+
+Customer B was a Venezuelan national residing in Miami, Florida, and an associate of
+Customer A. In 2016, when Bancrédito onboarded Customer B, publicly available information
+reflected that a close relative of Customer B was an executive at a state-owned Venezuelan bank,
+who, in 2013, was convicted of U.S. federal criminal violations relating to a foreign bribery and
+money laundering scheme.
+In June 2016, Customer B opened an account at Bancrédito in the name of Company 1, a
+Florida company wholly owned by Customer B. At account opening, Customer B presented to
+Bancrédito that Company 1 was a real estate company with anticipated account activity of one to
+five incoming and outgoing transactions each month, totaling between $50,000 and $100,000.
+Prior to Customer B opening his account with Bancrédito, the U.S. government forfeited
+funds in connection with the criminal conviction of Customer B’s close relative. To effect the
+forfeiture, attorneys for Customer B’s close relative collected potentially forfeitable funds under the
+control of Customer B’s close relative and held those funds in escrow. As was reflected in a publicly
+available court document, at least some portion of the funds came from an account in Switzerland
+held in Customer B’s name. Another portion of the funds came from a British Virgin Islandsincorporated company that Customer B purported to beneficially own. After the adjudication of
+the forfeiture matter, starting in July 2016—one month after Customer B opened the Company 1
+account at Bancrédito—attorneys for Customer B’s close relative transferred a combined sum of
+over $13.6 million to Company 1’s corporate account at Bancrédito. Customer B provided a letter
+from a law firm and other documentation purporting to support the legitimacy of this transaction
+and purporting to represent the beneficial ownership information for the British Virgin Islands
+company. However, Bancrédito did not independently verify the claims made in the letter,
+
+12
+
+including corroborating the beneficial ownership information, which was unusual in that Customer
+B was a minor at the time that Company 1 was incorporated in his name. Bancrédito did not timely
+file SARs on these transactions.
+In July 2018, Customer B used a portion of the funds in the Company 1 account to purchase
+securities through Executive A’s Cayman Islands broker-dealer in securities. Customer B then
+used these securities as collateral for a liquid facility agreement (a kind of line of credit) from
+Bancrédito. Customer B used the funds from the liquid facility agreement to acquire a luxury
+apartment in South Florida. On January 31, 2019, Customer B liquidated the securities and paid
+off the liquid facility agreement. Bancrédito did not timely file SARs on these transactions.
+3.
+
+Customer C
+
+Customer C was a private investment company, created for the purpose of owning a luxury
+yacht, with an account at Bancrédito. Between December 2016 and June 2018, Executive A
+initiated a series of five transfers from the PIC Account to various payees totaling over $1.3 million.
+The stated purpose for each of these transfers was to make payments for the renovation of the
+yacht under the control of Customer C. However, neither Executive A nor his Hong Kong-based
+private investment company that was the beneficial owner of the PIC Account held any ownership
+interest in this yacht or Customer C. Further, Bancrédito had no information in its possession
+identifying the true beneficial owner of the yacht. Several of these transactions generated alerts in
+Bancrédito’s automated transaction monitoring system but Bancrédito closed the transactions as
+“normal” without validating the stated purpose of these payments. Bancrédito did not timely file
+SARs on these transactions.
+
+13
+
+H.
+
+The Bank Did Not Conduct Adequate Due Diligence on Foreign
+Correspondent Accounts.
+
+Foreign correspondent accounts are used as a gateway to the U.S. financial system. One of
+the central goals of the USA PATRIOT Act was to protect the U.S. financial system by requiring
+certain records, reports, and due diligence programs for foreign correspondent accounts. 27
+Accordingly, the BSA requires all “covered financial institutions,” including IBEs such as
+Bancrédito to:
+establish a due diligence program that includes appropriate, specific,
+risk-based, and, where necessary, enhanced policies, procedures,
+and controls that are reasonably designed to enable the covered
+financial institution to detect and report, on an ongoing basis, any
+known or suspected money laundering activity conducted through
+or involving any correspondent account established, maintained,
+administered, or managed by such covered financial institution in
+the United States for a foreign financial institution. 28
+This foreign correspondent account due diligence rule imposes certain specific
+requirements on covered financial institutions, specifically,
+(1) Determining whether any such correspondent account is subject to [enhanced
+due diligence];
+(2) Assessing the money laundering risk presented by such correspondent
+account, based on a consideration of all relevant factors, which shall include, as
+appropriate:
+(i) The nature of the foreign financial institution’s business and the markets it
+serves;
+(ii) The type, purpose, and anticipated activity of such correspondent account;
+(iii) The nature and duration of the covered financial institution’s relationship
+with the foreign financial institution (and any of its affiliates);
+(iv) The anti-money laundering and supervisory regime of the jurisdiction that
+issued the charter or license to the foreign financial institution, and, to the extent
+
+See USA PATRIOT Act, as amended, § 302(a) (6) (“(a) . . . Congress finds that . . . (6) correspondent banking
+facilities are one of the banking mechanisms susceptible in some circumstances to manipulation by foreign banks to
+permit the laundering of funds by hiding the identity of real parties in interest to financial transactions[.] ”).
+27
+
+28
+
+31 C.F.R. § 1010.610.
+
+14
+
+that information regarding such jurisdiction is reasonably available, of the
+jurisdiction in which any company that is an owner of the foreign financial
+institution is incorporated or chartered; and
+(v) Information known or reasonably available to the covered financial
+institution about the foreign financial institution’s anti-money laundering
+record; and
+(3) Applying risk-based procedures and controls to each such correspondent
+account reasonably designed to detect and report known or suspected money
+laundering activity, including a periodic review of the correspondent account
+activity sufficient to determine consistency with information obtained about the
+type, purpose, and anticipated activity of the account. 29
+Under Puerto Rico law, an IBE cannot provide correspondent bank accounts for foreign
+financial institutions unless given permission to do so by OCIF. 30 Bancrédito sought permission
+to provide such services shortly after entering into the 2015 Consent Order, and OCIF granted that
+permission on March 29, 2016. OCIF first examined Bancrédito’s provision of correspondent
+banking services in its 2016 examination. Although OCIF noted some deficiencies in Bancrédito’s
+correspondent account due diligence program, OCIF rated the program as “adequate.” Thereafter,
+Bancrédito’s correspondent account due diligence program deteriorated.
+
+In its 2019
+
+examination—by which time the number of Bancrédito’s correspondent accounts had more than
+doubled—OCIF found substantial deficiencies. Such violations included, among other things: due
+diligence forms that were incomplete and missing key information necessary to determine whether
+transactions were reasonable or suspicious; the failure by compliance personnel to review or
+scrutinize invoices for high-risk correspondent transactions; and the failure by Bancrédito to
+compare high-risk transactions to anticipated transaction volume and account balances. OCIF
+also identified multiple suspicious transactions moving through Bancrédito’s correspondent
+accounts with respect to which Bancrédito did not file a SAR.
+
+29
+
+31 C.F.R. § 1010.610(a).
+
+30
+
+7 L.P.R.A. § 232j(a)(23).
+
+15
+
+Based on the above, OCIF issued a Matter Requiring Board Attention requiring the Bank
+to take “immediate action” to address its deficient correspondent account due diligence program.
+OCIF then reiterated in the 2021 MOU that Bancrédito needed to bring its correspondent account
+due diligence program into compliance with the law. Specifically, the 2021 MOU required
+Bancrédito to implement substantial changes to address these failures. Further, because of the
+historical and ongoing failures, the 2021 MOU required Bancrédito to perform a lookback on,
+among other things, “all accounts and transactions from foreign correspondent accounts” between
+October 1, 2016, and December 17, 2020. Additionally, FinCEN has since identified tens of
+thousands of transactions by high-risk accountholders processed through Bancrédito’s foreign
+correspondent accounts, representing hundreds of millions of dollars in transactions.
+
+The
+
+following examples are illustrative of Bancrédito’s failure to establish an adequate correspondent
+account due diligence program:
+1. AllBank Corporation
+AllBank Corporation (AllBank) was a Panamanian bank with operations in Panama, a
+jurisdiction that had a high risk for money laundering during part of the Relevant Time Period.
+AllBank held a correspondent account at Bancrédito from 2014 to 2019, during which time it
+transferred over $100 million through Bancrédito. During this time, Bancrédito permitted AllBank
+to conduct cross-border transactions through its correspondent accounts, at times without
+conducting any analysis on the underlying transactions at issue. For example:
+a. Company 2 was a Panamanian company and an AllBank customer purporting to
+provide online education, but with no web presence offering such services. On the
+contrary, publicly available documents indicated that Company 2 was in the business
+of buying and selling cryptocurrency. Contemporaneous adverse media connected
+
+16
+
+Company 2 to a risky cryptocurrency venture (what later became known as the
+OneCoin Ponzi scheme). Between August and November 2018, companies in
+Colombia transferred $970,000 in six wires through AllBank’s correspondent
+account at Bancrédito to Company 2.
+b. Company 3 was a Panamanian company and an AllBank customer. Individual A
+was a Venezuelan national, President of Company 3, and an AllBank customer. By
+at least 2015 publicly available information connected Individual A to possible drug
+crimes. Specifically, Individual A had filed suit against the United States seeking
+the return of a yacht and an airplane seized by the Drug Enforcement Administration.
+Nevertheless, between December 2017 and September 2018, Company 3
+transferred several hundred thousand dollars through AllBank’s correspondent
+account at Bancrédito to various parties including to another account held by
+Company 3, an account held by Individual A, and a Bahamian trust company.
+c. Company 4 was a Venezuelan company purporting to operate in the construction
+industry and a customer of AllBank.
+
+On December 29, 2016, Company 4
+
+transmitted a $100,000 wire that cleared through AllBank’s correspondent account
+at Bancrédito to a British Virgin Islands company. Publicly available information
+connected the British Virgin Islands company to an address commonly affiliated
+with shell companies and indicated that its ultimate beneficial owner was
+Individual B. At the time, publicly available information indicated that Individual B
+was a Venezuelan national convicted of operating in the United States as an
+unregistered agent of Venezuela and who was involved in the bribery of Argentine
+government officials with Venezuelan government funds.
+
+17
+
+Bancrédito’s failure to conduct due diligence on its correspondent accounts for foreign
+financial institutions meant that it did not have sufficient information to verify the true nature and
+purpose of wire transfers. Further, the absence of this due diligence information also meant that
+Bancrédito failed to identify such activity as suspicious and to file SARs where required by the BSA.
+In September 2019, Panamanian authorities seized AllBank and initiated liquidation proceedings
+based in part on its failure to comply with appropriate AML laws in Panama.
+I.
+
+The Bank Failed to Implement an Adequate Anti-Money Laundering
+Program.
+
+In order to guard against money laundering, the BSA and its implementing regulations
+require banks lacking a Federal functional regulator, such as IBEs like Bancrédito, to establish and
+maintain an AML program that is reasonably designed to assure and monitor BSA compliance, and
+includes at a minimum the following “pillars”: (a) the development of internal policies, procedures,
+and controls; (b) an independent audit function to test programs; (c) designation of a compliance
+officer; (d) an ongoing employee training program; and (e) appropriate risk-based procedures for
+conducting ongoing customer due diligence. 31
+As of March 15, 2021, the BSA required Bancrédito to implement and maintain an AML
+program. OCIF previously examined Bancrédito’s AML program under Puerto Rico law. In fact,
+the Bank’s AML program failures, including violations of every pillar, were the subject of the
+2015 Consent Order. Bancrédito agreed, among other things, to create a standing Compliance and
+Corporate Governance Committee of the Board of Directors to monitor compliance with the BSA;
+analyze and assess the Bank’s entire AML program; develop, adopt, and implement a revised,
+written AML compliance program; provide training to all appropriate personnel; review and
+
+31
+
+31 U.S.C. § 5318(h); 31 C.F.R. § 1020.210(b).
+
+18
+
+improve the Bank’s customer due diligence policies, procedures, and processes; and monitor all
+transactions for suspicious activity, detect suspicious activity, and file SARs where appropriate.
+Despite Bancrédito’s agreement to improve its AML program, OCIF later cited the Bank
+for having an ineffective AML program in its two subsequent examinations.
+
+In its 2019
+
+examination, OCIF cited Bancrédito for violations relating to internal controls, BSA officer,
+training, and independent testing, as well as the requirement to conduct ongoing monitoring to
+identify and report suspicious activity.
+By the time Bancrédito became subject of FinCEN’s BSA’s AML program requirements
+in March 2021, Bancrédito had several years of notice that it was required to implement and
+maintain an AML program that met the four pillars. However, as of March 2021, Bancrédito was
+not in compliance with this requirement, and did not come into compliance with the requirement
+during the Relevant Time Period. For example, from March 2021 through the end of the Relevant
+Time Period, FinCEN determined that Bancrédito failed to conduct ongoing monitoring to identify
+and report suspicious transactions to FinCEN. Specifically, high-risk customers on whom the
+Bank previously filed SARs conducted over $100 million in suspicious transactions through the
+Bank, including to accounts affiliated with Executive A, yet Bancrédito did not timely file SARs
+on suspicious transactions that were part of this reporting activity. This occurred even as
+Bancrédito was under an OCIF MOU and under investigation by FinCEN.
+Further, in December 2021, OCIF and Bancrédito entered into the 2021 MOU, whereby
+Bancrédito agreed to staff a Special BSA Director’s Committee to overhaul its AML program,
+and to improve all AML program pillars. Bancrédito did not fulfill the commitments it made in
+the 2021 MOU, including failing to staff such committee as agreed, and did not bring its AML
+program into compliance with the BSA by the end of the Relevant Time Period.
+
+19
+
+II.
+
+VIOLATIONS
+FinCEN has determined that Bancrédito willfully violated the BSA and its implementing
+
+regulations during the Relevant Time Period.
+
+Specifically, FinCEN has determined that
+
+Bancrédito:
+(1) willfully violated the requirement at 31 U.S.C. § 5318(g) and 31 C.F.R. § 1020.320
+to report suspicious transactions;
+(2) willfully violated the requirement at 31 U.S.C. § 5318(i) and 31 C.F.R. § 1010.610
+to establish a due diligence program for correspondent accounts established,
+maintained, administered, or managed in the United States for foreign financial
+institutions, from October 1, 2016, to the end of the Relevant Time Period; and
+(3) willfully violated the requirement at 31 U.S.C. § 5318(h) and 31 C.F.R. § 1020.210
+to implement and maintain an AML program, from March 15, 2021, to the end of
+the Relevant Time Period.
+III.
+
+ENFORCEMENT FACTORS
+FinCEN considered all of the factors outlined in the Statement on Enforcement of the BSA,
+
+issued August 18, 2020, when deciding whether to impose a civil money penalty in this matter.32
+The following factors were particularly relevant to FinCEN’s evaluation of the appropriate
+disposition of this matter, including the decision to impose a civil money penalty and the size of
+the penalty.
+•
+
+Nature and seriousness of the violations, including the extent of possible harm
+to the public and the amounts involved: Bancrédito’s violations of the BSA and its
+implementing regulations were serious and risked significant possible harm to the
+public. During its more than 15 years in operation, Bancrédito conducted several
+billion dollars in transactions through the U.S. financial system. The Bank conducted
+a large portion of its banking with persons doing business in or with Venezuela, a
+
+32
+
+FinCEN, Statement on Enforcement of the BSA (Aug. 18, 2020).
+
+20
+
+high-risk jurisdiction subject to sanctions. For at least five years, Bancrédito also
+provided foreign correspondent accounts to high-risk financial institutions. Despite
+adverse findings by OCIF, the Bank did not timely file SARs on hundreds of millions
+of dollars in suspicious transactions as required under the BSA, it failed to establish
+an adequate due diligence program for correspondent accounts for foreign financial
+institutions, including several high-risk foreign financial institutions, and it failed to
+implement and maintain an adequate AML program.
+•
+
+Impact or harm of the violations on FinCEN’s mission to safeguard the financial
+system from illicit use, combat money laundering, and promote national
+security: Bancrédito operated as an offshore financial institution for persons
+conducting business in or with Venezuela, a high-risk jurisdiction subject to FinCEN
+warnings—warnings that FinCEN issues to safeguard the financial system from illicit
+use, combat money laundering, and promote national security. Bancrédito processed
+thousands of transactions with the same red flags identified in these warnings,
+including transactions with persons known to be connected to the Venezuelan
+government, transactions between shell companies, transactions moving through
+multiple financial institutions or jurisdictions, and transactions for the purchase of
+real estate in South Florida.
+
+Bancrédito failed to properly monitor these
+
+transactions, failed to implement AML procedures that would allow it to detect
+suspicious activity moving through the Bank, and failed to file SARs on thousands of
+suspicious transactions over the course of several years.
+
+21
+
+•
+
+Pervasiveness of wrongdoing within the institution, including management’s
+complicity in, condoning, or enabling of, or knowledge of the conduct
+underlying the violations: Bancrédito’s actions reflect a culture of non-compliance
+with the BSA. Executive A or Executive A’s associates conducted many of the
+suspicious transactions that the Bank failed to detect initially. 33 Even when OCIF
+identified these transactions as suspicious and instructed Bancrédito to file SARs on
+them, Bancrédito did not timely file SARs on such transactions.
+
+•
+
+History of similar violations, or misconduct in general, including prior criminal,
+civil, and regulatory enforcement actions: Bancrédito entered into a consent order
+with OCIF in 2015 and an MOU in 2021 due to similar BSA violations.
+
+•
+
+Financial gain or other benefit resulting from, or attributable to, the violations: In
+recent years, Bancrédito has generated limited profits. In 2022, Bancrédito initiated
+its voluntary liquidation. Bancrédito has not been able to successfully obtain full
+custody or control over some of its assets or funds held outside the U.S., including
+funds at financial institutions associated with Executive A.
+
+•
+
+Presence or absence of prompt, effective action to terminate the violations
+upon discovery, including self-initiated remedial measures: Bancrédito failed to
+take prompt or effective action to remediate or terminate violations identified by OCIF.
+For example, Bancrédito only filed a handful of SARs (after failing to file for seven
+years) and filing other SARs months or years after OCIF determined these certain
+transactions to be suspicious.
+
+The Bank delayed filing SARs on suspicious
+
+transactions that OCIF identified, and when it did file SARs on those transactions, it
+See, e.g., Plea Agreement, United States v. Diaz, No. 22-cr-00085 (D. P.R. March 4, 2022) (former President and
+CEO of Bancrédito pleading guilty to a multi-object conspiracy that includes violating the Bank Secrecy Act).
+33
+
+22
+
+did so by including misleading surplusage.
+•
+
+Timely and voluntary disclosure of the violations to FinCEN: Bancrédito
+did not voluntarily disclose its violations of the BSA to FinCEN or any other agency.
+
+•
+
+Quality and extent of cooperation with FinCEN and other relevant agencies,
+including as to potential wrongdoing by its directors, officers, employees,
+agents, and counterparties: Bancrédito cooperated with FinCEN’s investigation
+by
+
+providing documents in response to FinCEN’s investigation and signing
+
+agreements tolling the statutes of limitations multiple times during FinCEN’s
+investigation. Bancrédito completed an OCIF-mandated SAR lookback review on
+conduct occurring during the Relevant Time Period during the course of FinCEN’s
+investigation.
+•
+
+Systemic Nature of the Violations. Considerations include, but are not limited
+to, the number and extent of violations, failure rates (e.g., the number of
+violations out of total number of transactions), and duration of violations:
+Bancrédito’s violations included large-dollar, offshore transfers of funds between
+persons in high-risk jurisdictions, especially Venezuela. Many of the violations are
+attributable to Executive A himself or entities related to Executive A. The violations
+occurred over many years.
+
+•
+
+Whether another agency took enforcement action for related activity. FinCEN
+will consider the amount of any fine, penalty, forfeiture, and/or remedial action
+ordered: OCIF has imposed a civil money penalty under its own regulations arising
+from same pattern or practice of conduct associated with the violations described in
+this Consent Order.
+
+23
+
+IV.
+
+CIVIL PENALTY
+For each willful violation, occurring after November 2, 2015, of the requirement at 31 U.S.C.
+
+§ 5318(g) and 31 C.F.R. § 1020.320 to report suspicious transactions, FinCEN may impose a Civil
+Money Penalty not to exceed the greater of the amount involved in the transaction (capped
+at $270,180) or $67,544. 34
+For each violation, occurring after November 2, 2015, of the requirement at 31 U.S.C.
+§ 5318(i) and 31 C.F.R. § 1010.610 to implement a risk-based due diligence program for
+correspondent accounts established, maintained, administered, or managed in the United States for
+foreign financial institutions, FinCEN may impose a Civil Money Penalty “in an amount equal to
+not less than two (2) times the amount of the transaction,” but not more than $1,677,030. 35
+For each willful violation, occurring after November 2, 2015, of the requirement at 31 U.S.C.
+§ 5318(h) and 31 C.F.R. § 1020.210 to implement an effective, risk-based AML program, FinCEN
+may impose a Civil Money Penalty of up to $67,544. A separate violation occurs for each day that
+an adequate AML program has not been implemented. 36
+After considering all the facts and circumstances, as well as the enforcement factors
+discussed above, FinCEN is imposing a Civil Money Penalty of $15,000,000 (fifteen million
+dollars) in this matter. Bancrédito shall make payment in the aggregate amount of $15,000,000
+(fifteen million dollars) to the U.S. Department of the Treasury pursuant to the payment
+instructions that will be transmitted to Bancrédito upon execution of this Consent Order.
+
+34
+
+31 U.S.C. § 5321(a)(1); 31 C.F.R. § 1010.821.
+
+35
+
+31 U.S.C. § 5321(a)(7); 31 C.F.R. § 1010.821.
+
+36
+
+31 U.S.C. § 5321(a)(1); 31 C.F.R. § 1010.821.
+
+24
+
+V.
+
+REMEDIAL REQUIREMENTS
+Bancrédito agrees to the following Undertakings:
+A.
+
+LICENSE SURRENDER
+
+Bancrédito agrees to surrender its IBE license, and that it will not seek to repudiate, or
+otherwise cancel the surrender of its IBE license, and not seek to obtain any new banking license.
+This requirement is distinct from any requirement contained in OCIF’s Receivership Order.
+FinCEN, in its sole discretion, may determine whether Bancrédito has complied with all of the
+terms in this Order related to the surrender of its IBE license. For good cause, FinCEN, in its sole
+discretion, may choose to waive all or any portion of this Undertaking.
+FinCEN acknowledges that as of the date of this Consent Order, Bancrédito has
+surrendered its IBE license.
+B.
+
+RECORDS PRESERVATION
+
+Bancrédito agrees to take all reasonable steps to provide for the preservation of all business
+records related to compliance with the BSA and its implementing regulations for a period of at
+least five years from the effective date of this Consent Order. Such records shall be made available
+to FinCEN, any law enforcement agency, or any regulatory agency upon request, subject to
+applicable laws and regulations, as well as valid and properly documented claims of attorney-client
+privilege or the attorney work product doctrine.
+FinCEN, in its sole discretion, may determine whether Bancrédito has complied with any
+of the requirements of the Record Preservation Undertaking.
+VI.
+
+CONSENT AND ADMISSIONS
+To resolve this matter, and only for that purpose, Bancrédito admits to the Statement of Facts
+
+and Violations set forth in this Consent Order and admits that it willfully violated the BSA and its
+
+25
+
+implementing regulations. Bancrédito consents to the use of the Statement of Facts, and any other
+findings, determinations, and conclusions of law set forth in this Consent Order, in any other
+proceeding brought by or on behalf of FinCEN, or to which FinCEN is a party or claimant, and
+agrees they shall be taken as true and correct and be given preclusive effect without any further
+proof. Bancrédito understands and agrees that in any administrative or judicial proceeding brought
+by or on behalf of FinCEN against it, including any proceeding to enforce the Civil Money Penalty
+imposed by this Consent Order or for any equitable remedies under the BSA, Bancrédito shall be
+precluded from disputing any fact or contesting any determinations set forth in this Consent Order.
+To resolve this matter, Bancrédito agrees to and consents to the issuance of this Consent
+Order and all terms herein and agrees to make a payment of $15,000,000 (fifteen million dollars) to
+the U.S. Department of the Treasury pursuant to the payment instructions that will be transmitted
+to Bancrédito upon execution of this Consent Order. If timely payment is not made, Bancrédito
+agrees that interest, penalties, and administrative costs will accrue. 37
+Bancrédito understands and agrees that it must treat the Civil Money Penalty paid under
+this Consent Order as a penalty paid to the government and may not claim, assert, or apply for a
+tax deduction, tax credit, or any other tax benefit for any payments made to satisfy the Civil Money
+Penalty. Bancrédito understands and agrees that any acceptance by or on behalf of FinCEN of any
+partial payment of the Civil Money Penalty obligation will not be deemed a waiver of Bancrédito’s
+obligation to make further payments pursuant to this Consent Order, or a waiver of FinCEN’s right
+to seek to compel payment of any amount assessed under the terms of this Consent Order, including
+any applicable interest, penalties, or other administrative costs.
+Bancrédito affirms that it agrees to and approves this Consent Order and all terms herein
+
+37
+
+31 U.S.C. § 3717; 31 C.F.R. § 901.9.
+
+26
+
+freely and voluntarily and that no offers, promises, or inducements of any nature whatsoever have
+been made by FinCEN or any employee, agent, or representative of FinCEN to induce Bancrédito
+to agree to or approve this Consent Order, except as specified in this Consent Order.
+Bancrédito understands and agrees that this Consent Order implements and embodies the
+entire agreement between Bancrédito and FinCEN, and its terms relate only to this enforcement
+matter and any related proceeding, and the facts and determinations contained herein. Bancrédito
+further understands and agrees that there are no express or implied promises, representations, or
+agreements between Bancrédito and FinCEN other than those expressly set forth or referred to in
+this Consent Order and that nothing in this Consent Order is binding on any other law enforcement
+or regulatory agency or any other governmental authority, whether foreign, Federal, State, or local.
+Bancrédito understands and agrees that nothing in this Consent Order may be construed as
+allowing Bancrédito, its holding company(ies), subsidiaries, affiliates, Board, officers, employees,
+or agents to violate any law, rule, or regulation.
+Bancrédito consents to the continued jurisdiction of the courts of the United States over it
+and waives any defense based on lack of personal jurisdiction or improper venue in any action to
+enforce the terms and conditions of this Consent Order or for any other purpose relevant to this
+enforcement action. Solely in connection with an action filed by or on behalf of FinCEN to enforce
+this Consent Order or for any other purpose relevant to this action, Bancrédito authorizes and
+agrees to accept all service of process and filings through the Notification procedures below and to
+waive formal service of process.
+VII.
+
+COOPERATION
+Bancrédito shall fully cooperate with FinCEN in any and all matters within the scope of or
+
+related to the Statement of Facts, including any investigation of its current or former directors,
+
+27
+
+officers, employees, agents, consultants, or any other party. Bancrédito understands that its
+cooperation pursuant to this paragraph shall include, but is not limited to, truthfully disclosing all
+factual information with respect to its activities, and those of its present and former directors,
+officers, employees, agents, and consultants. This obligation includes providing to FinCEN, upon
+request, any document, record or other tangible evidence in its possession, custody, or control,
+about which FinCEN may inquire of Bancrédito. Bancrédito’s cooperation pursuant to this
+paragraph is subject to applicable laws and regulations, as well as valid and properly documented
+claims of attorney-client privilege or the attorney work-product doctrine.
+VIII. RELEASE
+Execution of this Consent Order and compliance with all of the terms of this Consent Order
+settles all claims that FinCEN may have against Bancrédito for the conduct described in this
+Consent Order during the Relevant Time Period. Execution of this Consent Order, and compliance
+with the terms of this Consent Order, does not release any claim that FinCEN may have for conduct
+by Bancrédito other than the conduct described in this Consent Order during the Relevant Time
+Period, or any claim that FinCEN may have against any current or former director, officer, owner,
+or employee of Bancrédito, or any other individual or entity other than those named in this Consent
+Order. In addition, this Consent Order does not release any claim or provide any other protection
+in any investigation, enforcement action, penalty assessment, or injunction relating to any conduct
+that occurs after the Relevant Time Period as described in this Consent Order.
+IX.
+
+WAIVERS
+Nothing in this Consent Order shall preclude any proceedings brought by, or on behalf of,
+
+FinCEN to enforce the terms of this Consent Order, nor shall it constitute a waiver of any right,
+power, or authority of any other representative of the United States or agencies thereof, including,
+
+28
+
+but not limited to, the Department of Justice.
+In consenting to and approving this Consent Order, Bancrédito stipulates to the terms of
+this Consent Order and waives:
+A. Any and all defenses to this Consent Order, the Civil Money Penalty imposed by this
+Consent Order, and any action taken by or on behalf of FinCEN that can be waived,
+including any statute of limitations or other defense based on the passage of time;
+B. Any and all claims that FinCEN lacks jurisdiction over all matters set forth in this
+Consent Order, lacks the authority to issue this Consent Order or to impose the Civil
+Money Penalty, or lacks authority for any other action or proceeding related to the
+matters set forth in this Consent Order;
+C. Any and all claims that this Consent Order, any term of this Consent Order, the Civil
+Money Penalty, or compliance with this Consent Order, or the Civil Money Penalty,
+is in any way unlawful or violates the Constitution of the United States of America
+or any provision thereof;
+D. Any and all rights to judicial review, appeal or reconsideration, or to seek in any way
+to contest the validity of this Consent Order, any term of this Consent Order, or the
+Civil Money Penalty arising from this Consent Order;
+E. Any and all claims that this Consent Order does not have full force and effect, or
+cannot be enforced in any proceeding, due to changed circumstances, including any
+change in law; and
+F. Any and all claims for fees, costs, or expenses related in any way to this enforcement
+matter, Consent Order, or any related administrative action, whether arising under
+common law or under the terms of any statute, including, but not limited to, under the
+
+29
+
+Equal Access to Justice Act. Bancrédito agrees to bear its own costs and attorneys’
+fees.
+X.
+
+VIOLATIONS OF THE CONSENT ORDER
+Determination of whether Bancrédito has failed to comply with this Consent Order, or any
+
+portion thereof, and whether to pursue any further action or relief against Bancrédito, shall be in
+FinCEN’s sole discretion. If FinCEN determines, in its sole discretion, that a failure to comply
+with this Consent Order, or any portion thereof, has occurred, or that Bancrédito has made any
+misrepresentations to FinCEN or any other government agency related to the underlying
+enforcement matter, FinCEN may void any and all releases or waivers contained in this Consent
+Order; reinstitute administrative proceedings; take any additional action that it deems appropriate;
+and pursue any and all violations, maximum penalties, injunctive relief, or other relief that FinCEN
+deems appropriate.
+FinCEN may take any such action even if it did not take such action against Bancrédito in
+this Consent Order and notwithstanding the releases and waivers herein. In the event FinCEN takes
+such action under this paragraph, Bancrédito expressly agrees to toll any applicable statute of
+limitations and to waive any defenses based on a statute of limitations or the passage of time that
+may be applicable to the Statement of Facts in this Consent Order, until a date 180 days following
+Bancrédito’s receipt of notice of FinCEN’s determination that a misrepresentation or breach of
+this agreement has occurred, except as to claims already time barred as of the Effective Date of
+this Consent Order.
+In the event that FinCEN determines that Bancrédito has made a misrepresentation or failed
+to comply with this Consent Order, or any portion thereof, all statements made by or on behalf of
+Bancrédito to FinCEN, including the Statement of Facts, whether prior or subsequent to this
+
+30
+
+Consent Order, will be admissible in evidence in any and all proceedings brought by or on behalf
+of FinCEN.
+Bancrédito agrees that it will not assert any claim under the Constitution of the United
+States of America, Rule 408 of the Federal Rules of Evidence, or any other law or federal rule that
+any such statements should be suppressed or are otherwise inadmissible. Such statements will be
+treated as binding admissions, and Bancrédito agrees that it will be precluded from disputing or
+contesting any such statements. FinCEN shall have sole discretion over the decision to impute
+conduct or statements of any director, officer, employee, agent, or any person or entity acting on
+behalf of, or at the direction of Bancrédito in determining whether Bancrédito has violated any
+provision of this Consent Order.
+XI.
+
+PUBLIC STATEMENTS
+Bancrédito expressly agrees that it shall not, nor shall its attorneys, agents, partners,
+
+directors, officers, employees, affiliates, or any other person authorized to speak on its behalf or
+within its authority or control, take any action or make any public statement, directly or indirectly,
+contradicting its admissions and acceptance of responsibility or any terms of this Consent Order,
+including any fact finding, determination, or conclusion of law in this Consent Order.
+FinCEN shall have sole discretion to determine whether any action or statement made by
+Bancrédito, or by any person under the authority, control, or speaking on behalf of Bancrédito
+contradicts this Consent Order, and whether Bancrédito has repudiated such statement.
+XII.
+
+RECORD RETENTION
+In addition to any other record retention required under applicable law, Bancrédito agrees
+
+to retain all documents and records required to be prepared or recorded under this Consent Order
+or otherwise necessary to demonstrate full compliance with each provision of this Consent Order,
+
+31
+
+including supporting data and documentation. Bancrédito agrees to retain these records for a
+period of five years after creation of the record, unless required to retain them for a longer period
+of time under applicable law.
+XIII. SEVERABILITY
+Bancrédito agrees that if a court of competent jurisdiction considers any of the provisions
+of this Consent Order unenforceable, such unenforceability does not render the entire Consent
+Order unenforceable. Rather, the entire Consent Order will be construed as if not containing the
+particular unenforceable provision(s), and the rights and obligations of FinCEN and Bancrédito
+shall be construed and enforced accordingly.
+XIV.
+
+SUCCESSORS AND ASSIGNS
+Bancrédito agrees that the provisions of this Consent Order are binding on its owners,
+
+officers, employees, agents, representatives, affiliates, successors, assigns, and transferees to
+whom Bancrédito agrees to provide a copy of the executed Consent Order. Should Bancrédito
+seek to sell, merge, transfer, or assign its operations, or any portion thereof, that are the subject of
+this Consent Order, Bancrédito must, as a condition of sale, merger, transfer, or assignment obtain
+the written agreement of the buyer, merging entity, transferee, or assignee to comply with this
+Consent Order.
+XV.
+
+MODIFICATIONS AND HEADINGS
+This Consent Order can only be modified with the express written consent of FinCEN and
+
+Bancrédito. The headings in this Consent Order are inserted for convenience only and are not
+intended to affect the meaning or interpretation of this Consent Order or its individual terms.
+
+32
+
+XVI. AUTHORIZED REPRESENTATIVE
+Bancrédito’s representative, by consenting to and approving this Consent Order, hereby
+represents and warrants that it has been duly appointed as receiver by OCIF and has full power and
+authority to consent to and approve this Consent Order for and on behalf of Bancrédito, and further
+represents and warrants that Bancrédito agrees to be bound by the terms and conditions of this
+Consent Order.
+XVII. NOTIFICATION
+Unless
+
+otherwise
+
+specified
+
+herein,
+
+whenever
+
+notifications,
+
+submissions,
+
+or
+
+communications are required by this Consent Order, they shall be made in writing and sent via
+first-class mail and simultaneous email, addressed as follows:
+To FinCEN:
+
+Associate Director, Enforcement and Compliance
+Division, Financial Crimes Enforcement Network,
+P.O. Box 39, Vienna, Virginia 22183
+
+To Bancrédito:
+
+Mr. Ryan Marin
+Managing Member
+Driven Administrative Services, LLC, as receiver of
+Bancrédito International Bank and Trust Corporation
+P.O. Box 363343
+San Juan, Puerto Rico 00936-3343
+
+Notices submitted pursuant to this paragraph will be deemed effective upon receipt unless
+otherwise provided in this Consent Order or approved by FinCEN in writing.
+XVIII. COUNTERPARTS
+This Consent Order may be signed in counterpart and electronically. Each counterpart,
+when executed and delivered, shall be an original, and all of the counterparts together shall
+constitute one and the same fully executed instrument.
+
+33
+
+XIX. EFFECTIVE DATE AND CALCULATION OF TIME
+This Consent Order shall be effective upon the date signed by FinCEN. Calculation of
+deadlines and other time limitations set forth herein shall run from the effective date (excluding
+the effective date in the calculation) and be based on calendar days, unless otherwise noted,
+including intermediate Saturdays, Sundays, and legal holidays.
+By Order of the Director of the Financial Crimes Enforcement Network.
+
+/s/
+Andrea Gacki
+Director
+
+Date:
+
+Consented to and Approved By:
+
+/s/
+Mr. Ryan Marin
+Date:
+Managing Member
+Driven Administrative Services, LLC, as receiver of Bancrédito
+International Bank and Trust Corporation
+
+34
+
+

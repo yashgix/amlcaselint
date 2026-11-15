@@ -1,0 +1,156 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+
+IN THE MATTER OF
+SOVEREIGN BANK,
+Wyomissing, PA
+
+No. 2002-01
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+I.
+
+INTRODUCTION
+
+The Secretary of the United States Department of the Treasury has delegated to
+the Director of the Financial Crimes Enforcement Network (“FinCEN”) the authority to
+determine whether a financial institution has violated the Bank Secrecy Act, 31 U.S.C.
+§§5311 et seq. and 31 CFR Part 103 thereunder (“BSA”), and what, if any, sanction is
+appropriate.
+In order to resolve this matter, and only for that purpose, Sovereign Bank
+(“Sovereign” or the “Bank”) has entered into a CONSENT TO THE ASSESSMENT OF
+CIVIL MONEY PENALTY without admitting or denying FinCEN’s determinations
+described in Sections III and IV below, except as to jurisdiction in Section II below,
+which is admitted.
+Sovereign’s CONSENT TO THE ASSESSMENT OF CIVIL MONEY
+PENALTY, dated April 3, 2002, is incorporated herein by this reference.
+
+II.
+
+JURISDICTION
+
+Sovereign is a federally chartered savings bank examined by the Office of Thrift
+Supervision. Sovereign, with headquarters in Wyomissing, Pennsylvania, had total assets
+of approximately $35.6 billion as of December 31, 2001. Sovereign is a “financial
+institution” within the meaning of 31 U.S.C. §5312(a)(2) and 31 CFR §103.11 (c).
+III.
+A.
+
+FINCEN’S DETERMINATIONS
+
+Failure to File Currency Transaction Reports
+
+FinCEN has determined that from June 1998, through May 2001, Sovereign failed
+to file timely approximately 2000 Currency Transaction Report (“CTR”) forms for
+currency transactions in amounts greater than $10,000 as required by 31 CFR §103.22,
+promulgated under §5313 of the Bank Secrecy Act.
+
+B.
+
+Willful Violations
+
+FinCEN has determined that Sovereign’s failures to file CTRs were willful. Over
+a two-year period, Sovereign had experienced a number of extraordinary events,
+including several mergers and acquisitions and systems conversions. These events
+strained Sovereign’s compliance systems, leading to the failure to file CTRs primarily for
+new cash management customers in Pennsylvania and New Jersey that had been acquired
+through the mergers and acquisitions. While Sovereign BSA compliance personnel or its
+internal auditors ultimately identified each of these problems, the recurring nature of the
+problems should have alerted Sovereign and particularly the group responsible for
+arranging cash pick ups and deliveries for these new customers (“Group”), to the need to
+more fully evaluate its BSA compliance procedures and systems completely and
+thoroughly at an earlier time.
+In particular, Sovereign relied on third party vendors without adequate internal
+controls to assure BSA compliance. First, for a year after it acquired the cash
+management business, Sovereign believed that its outside vendors, several armored car
+services that picked up and delivered cash to and from the Bank’s customers, prepared
+and filed the necessary CTRs for the pick-ups and deliveries for these customers.
+However, Sovereign did not have sufficient internal controls in place to verify this belief
+and did not monitor or test the vendors’ performance of this function. In fact, the vendors
+did not prepare or file the CTRs for these customers. As a result, from June 1998 though
+March 1999, Sovereign failed to file about 1155 CTRs.
+Second, when Sovereign discovered that neither the outside vendors nor the
+Bank’s branches had filed the required CTRs, the Group assumed responsibility for
+preparing and filing CTRs. The Group obtained a list from the vendors of the customers
+taking advantage of the cash pick-up and delivery service but did not verify that the list
+was complete. Because some of these customers were not on the vendors’ lists,
+Sovereign failed to file timely an additional approximately 241 CTRs for a five-month
+period between March and August 1999 for reportable cash transactions by customers
+missing from the list.
+Lastly, from July 1999 through May 2001, the Group relied on a third party
+currency handling service to prepare reports of the currency orders by the Bank’s
+customers who received cash from or delivered cash to these third party vendors. The
+Group would identify reportable transactions from the information in the vendor’s reports
+and prepare and file the necessary CTRs. The BSA Compliance Department, in turn,
+would compare the CTRs prepared by the Group to the same vendor’s report. Beginning
+in July 1999, however, the report provided by the vendor did not list all the transactions.
+The Bank did not test the accuracy of the vendor’s reports against the Bank’s own
+records of such currency transactions by these customers and did not monitor or test the
+accuracy of the resulting CTRs. Because of undetected inaccuracies in the vendor’s
+reports, Sovereign failed to file over about 578 additional CTRs between July 1999 and
+May 2001.
+
+2
+
+FinCEN has determined that Sovereign failed to implement sufficient internal
+controls and testing to insure that it filed accurate and timely CTRs, even after it was on
+notice that there were significant deficiencies in its BSA compliance. Therefore, FinCEN
+has concluded that Sovereign’s failures to file CTRs constitute willful violations of the
+BSA.
+
+IV.
+
+CIVIL MONEY PENALTY
+
+FinCEN has determined that by failing to file CTRs as described in Section III,
+above, Sovereign willfully violated the currency reporting provisions of the BSA and a
+civil money penalty is due pursuant to 31 U.S.C. §5321 and 31 CFR §103.57(f).
+V.
+
+ASSESSMENT
+
+THEREFORE, the Department of the Treasury assesses against Sovereign a civil
+money penalty of $700,000.
+By the execution of its CONSENT, Sovereign, without admitting or denying
+FinCEN’s determinations described in Sections III and IV above, except as to jurisdiction
+in Section II, which is admitted, consents to the assessment of a civil money penalty in
+the sum of $700,000.
+THEREFORE, Sovereign shall, under the terms of its CONSENT:
+1. Pay the amount of $700,000 within five (5) business days of the date of this
+ASSESSMENT.
+2. Such payment shall be:
+a. made by certified check, bank cashier’s check, or bank money order;
+b. made payable to the United States Department of the Treasury;
+c. hand-delivered or sent by overnight mail to Nicholas A. Procaccini,
+Assistant Director and Chief Financial Officer, FinCEN, P.O.Box
+39, Vienna, Virginia 22183; and
+d. submitted under a cover letter, which references the caption and file
+number in this matter.
+
+3
+
+VI.
+
+RELEASE
+
+Execution of the CONSENT by Sovereign and compliance with the terms of the
+ASSESSMENT OF CIVIL MONEY PENALTY and the CONSENT constitute a
+complete settlement of civil liability for reporting violations of the Bank Secrecy Act, and
+the regulations promulgated thereunder, which were identified by Sovereign in its letters
+to FinCEN dated February 28, 2000, July 31, 2000, September 6, 2001 and March 18,
+2002.
+
+By:
+
+//signed//____________________
+James F. Sloan, Director
+FINANCIAL CRIMES ENFORCEMENT
+NETWORK
+
+4
+
+April 8, 2002
+Date
+
+

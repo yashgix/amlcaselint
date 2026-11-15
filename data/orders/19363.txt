@@ -1,0 +1,885 @@
+UNITED STATES OF AMERICA
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+DEPARTMENT OF THE TREASURY
+
+IN THE MATTER OF:
+USAA Federal Savings Bank
+
+)
+)
+)
+)
+
+Number 2022-01
+
+CONSENT ORDER IMPOSING CIVIL MONEY PENALTY
+The Financial Crimes Enforcement Network (FinCEN) conducted a civil enforcement
+investigation and determined that grounds exist to impose a Civil Money Penalty against USAA
+Federal Savings Bank (USAA FSB or the Bank) for violations of the Bank Secrecy Act (BSA) and
+its implementing regulations.1 USAA FSB admits to the Statement of Facts and Violations set forth
+below and consents to the issuance of this Consent Order.
+I.
+
+JURISDICTION
+Overall authority for enforcement and compliance with the BSA lies with the Director of
+
+FinCEN, and the Director may impose civil penalties for violations of the BSA and its implementing
+regulations.2
+At all times relevant to this Consent Order, USAA FSB was a “bank” and a “domestic
+financial institution” as defined by the BSA and its implementing regulations.3 As such, USAA FSB
+was required to comply with applicable FinCEN regulations.
+
+1
+
+The BSA is codified at 31 U.S.C. §§ 5311-5314, 5316-5336 and 12 U.S.C. §§ 1829b, 1951-1960. Regulations
+implementing the BSA appear at 31 C.F.R. Chapter X.
+2
+31 U.S.C. § 5321(a); 31 C.F.R. §§ 1010.810(a), (d); Treasury Order 180-01 (July 1, 2014).
+3
+31 U.S.C. § 5312(b)(1); 31 C.F.R. § 1010.100(d).
+
+II.
+
+STATEMENT OF FACTS
+The conduct described below took place beginning on or about January 1, 2016, and
+
+continuing until on or about April 30, 2021 (the Relevant Time Period), unless otherwise indicated.
+Background
+Bank Secrecy Act
+The BSA requires banks to implement and maintain an effective anti-money laundering
+(AML) program in order to guard against money laundering through financial institutions.4
+Additionally, the BSA imposes affirmative duties on banks such as USAA FSB, including the duty
+to identify and report suspicious transactions relevant to a possible violation of law or regulation in
+suspicious activity reports (SARs) filed with FinCEN.5 The reporting and transparency that financial
+institutions provide through these reports is essential financial intelligence that FinCEN, law
+enforcement, and others use to safeguard the U.S. financial system and combat serious threats,
+including money laundering, terrorist financing, organized crime, corruption, drug trafficking, and
+massive fraud schemes targeting the U.S. government, businesses, and individuals.6
+FinCEN
+FinCEN is a bureau within the U.S. Department of the Treasury and is the federal authority
+that enforces the BSA by investigating and imposing civil money penalties on financial institutions
+
+4
+
+31 U.S.C. § 5318(h); 31 C.F.R. § 1020.210.
+31 U.S.C. § 5318(g); 31 C.F.R. § 1020.320.
+6
+FinCEN, FIN-2014-A007, FinCEN Advisory to U.S. Financial Institutions on Promoting a Culture of Compliance
+(Aug. 11, 2014).
+5
+
+2
+
+and individuals for willful violations of the BSA.7 As delegated by the Secretary of the Treasury,
+FinCEN has “authority for the imposition of civil penalties” and “[o]verall authority for enforcement
+and compliance, including coordination and direction of procedures and activities of all other
+agencies exercising delegated authority under this chapter,” including the Office of the Comptroller
+of the Currency (OCC).8
+The OCC
+The OCC is a federal banking agency within the U.S. Department of the Treasury that has
+both delegated authority from FinCEN for examinations and separate authority under Title 12 of the
+United States Code for compliance and enforcement.9 Under this authority, the OCC conducts regular
+examinations and issues reports assessing a bank’s AML and BSA compliance.
+USAA Federal Savings Bank
+Throughout the Relevant Time Period, USAA FSB was a federally chartered savings bank
+headquartered in San Antonio, Texas.10 The Bank provided retail deposit and consumer loan products
+to approximately 13 million members (customers)—consisting of U.S. military personnel and their
+families—throughout the United States and at military installations around the world. The Bank did
+not offer small business or commercial products. During the Relevant Time Period, the Bank was a
+
+7
+
+31 U.S.C. § 5321(a). In civil enforcement of the BSA under 31 U.S.C. § 5321(a)(1), to establish that a financial
+institution or individual acted willfully, the government need only show that the financial institution or individual acted
+with either reckless disregard or willful blindness. The government need not show that the entity or individual had
+knowledge that the conduct violated the BSA, or that the entity or individual otherwise acted with an improper motive
+or bad purpose. The Bank admits to “willfulness” only as the term is used in civil enforcement of the BSA under 31
+U.S.C. § 5321(a)(1).
+8
+31 C.F.R. § 1010.810(a), (d).
+9
+Id; 12 U.S.C. § 1818(s)(2); 12 C.F.R. § 21.21.
+10
+The Bank is an indirect subsidiary of United Services Automobile Association, a mutual inter-insurance exchange
+organization that wholly owns USAA Capital Corporation, which wholly owns the Bank.
+
+3
+
+“financial institution” and a “bank” within the meaning of the BSA and its implementing regulations11
+and was subject to an annual examination performed by the OCC as its Federal functional regulator.
+Factual Background
+During the Relevant Time Period, USAA FSB experienced tremendous growth as a financial
+institution. While USAA FSB’s membership eligibility expanded, it failed to match that growth with
+effective AML compliance capabilities.
+Beginning by at least 2017, the OCC informed USAA FSB that there were significant
+problems with its AML program, including that it failed to develop a compliance program that met
+all of the requirements of the OCC’s regulations.12 In response to the OCC’s notification, in 2018,
+USAA FSB made commitments to overhaul its AML program (2018 Commitments) by March 31,
+2020. Specifically, USAA FSB committed to making the following improvements:
+
+
+
+
+
+
+
+
+Fully address the scope of the internal controls and independent testing deficiencies.
+Establish a compliance committee to monitor the implementation of the 2018 Commitments.
+Conduct a comprehensive, enterprise-wide risk assessment.
+Develop and implement adequate customer due diligence (CDD), enhanced due diligence
+(EDD), and customer risk identification processes.
+Develop and implement written policies for timely review and disposition of suspicious
+activity alerts and improve suspicious activity identification processes.
+Provide for thorough and effective independent testing of the AML program.
+Conduct a lookback review of Remote Deposit Capture (RDC) transaction activity and file
+suspicious activity reports (SARs) as needed.
+
+However, USAA FSB failed to make adequate progress to meet the March 31, 2020 deadline and
+instead amended its completion date to June 30, 2021. To date, the Bank has not met all of the terms
+of the 2018 Commitments. Now, concurrent with FinCEN’s action, the OCC is undertaking a public
+
+11
+12
+
+31 U.S.C. § 5312(a)(2)(A); 31 C.F.R. §§ 1010.100(d)(5), 1010.100(t)(1).
+12 C.F.R. § 21.21(d).
+
+4
+
+enforcement action against USAA FSB for non-compliance with the OCC’s regulations. The OCC
+is assessing a $60 million civil money penalty against the Bank.
+In sum, as early as 2017, USAA FSB was aware of significant problems that resulted in its
+failure to develop an adequate BSA/AML compliance program. USAA FSB authored the 2018
+Commitments and pledged to make improvements, yet it missed two completion deadlines over four
+years and remains out of compliance with them. Since the 2018 Commitments, the OCC informed
+the Bank of additional BSA deficiencies—some as recent as 2021. Collectively, these facts describe
+a bank that willfully failed to comply with the BSA over many years.
+The Bank Failed to Implement an Adequate Anti-Money Laundering Program
+In order to guard against money laundering, the BSA and its implementing regulations require
+banks with a Federal functional regulator, such as the OCC, to establish an AML program that is
+reasonably designed to assure and monitor BSA compliance, and includes at a minimum: (a) the
+development of internal policies, procedures, and controls; (b) an independent audit function to test
+programs; (c) designation of a compliance officer; (d) an ongoing employee training program; and
+(e) appropriate risk-based procedures for conducting ongoing customer due diligence.13 Additionally,
+a bank is required to implement and maintain an AML program that “[c]omplies with the regulation
+of its Federal functional regulator governing such programs.”14
+
+The Bank willfully failed to
+
+implement an AML program that met these BSA requirements during the Relevant Time Period.
+Internal Policies, Procedures, and Controls
+In 2017, USAA FSB’s AML program was rudimentary, lacking comprehensive risk-based
+policies and procedures and the operational rigor needed to successfully address the risks associated
+
+13
+14
+
+31 U.S.C. § 5318(h); 31 C.F.R. § 1020.210 (2016); 12 C.F.R. §§ 21.21(c)(1), 21.21(d).
+31 C.F.R. § 1020.210(c) (2016) and 31 C.F.R. § 1020.210(a)(3) (2020).
+
+5
+
+with its customer base, products and services, and geographies. While the Bank’s AML program
+improved over time, the Bank still failed to develop internal policies, procedures, and controls
+sufficient to meet the minimum requirements of the BSA.
+During the Relevant Time Period, USAA FSB’s BSA/AML compliance department was
+significantly understaffed. As a result, the Bank relied on third-party contractors to augment staffing
+levels. In 2018, the Bank conducted an assessment and determined that it needed 178 permanent,
+full-time positions to fully staff its compliance functions. As of early 2021, the Bank had 62 vacant
+positions, including the head of the Bank’s Financial Intelligence Unit (FIU). Additionally, USAA
+FSB supplemented approximately 76% of its compliance staffing needs with third-party contractors.
+However, the Bank failed to properly train or otherwise ensure these contractors possessed
+satisfactory qualifications and expertise. These staffing deficits exacerbated management’s inability
+to assure compliance with the BSA.
+USAA FSB’s case alert and investigation system was also chronically deficient. For example,
+beginning in 2014, USAA FSB implemented an internally developed system for its transaction
+monitoring (legacy system). As early as 2016, the Bank knew the legacy system failed to capture
+critical information needed for the Bank’s AML program, due to the CDD failures described below.
+Additionally, USAA FSB did not have distinct policies and procedures to govern the validation and
+adjustment of its legacy system, including the testing, updating and optimizing (tuning) of suspicious
+activity detection scenarios. As such, 40% of active scenarios had not been tuned in over two years,
+with only seven scenarios tuned in the second year and six scenarios that were never tuned since
+initial implementation of the legacy system. Further, USAA FSB’s legacy system had significant
+control gaps including inappropriately high limits for electronic activity such as RDC and Automated
+Teller Machine (ATM) deposits and withdrawals.
+
+6
+
+In the first quarter of 2021, USAA FSB implemented a new transaction monitoring system to
+replace the legacy system. However, the Bank failed to perform adequate pilot testing before
+launching the system, and deficiencies continued throughout implementation. The Bank elected to
+implement the system after only two months of parallel testing with the legacy system despite
+significant failures identified during that two-month period. Specifically, the new system failed to
+flag over 1,300 cases flagged by the legacy system, resulting in at least 160 filed SARs that would
+not have been filed using the new system.
+USAA FSB now reports that the new system is too sensitive and creates an unmanageable
+number of alerts and cases. As of the end of 2021, this resulted in a total backlog of around 90,000
+un-reviewed alerts and 6,900 un-reviewed cases. At its current rate of growth, these backlogs are
+expected to grow to 120,000 alerts and 24,000 cases before USAA FSB is able to begin reducing
+these numbers. These backlogs lead to unreasonable delays in the detection and reporting of
+potentially suspicious activity, and further highlight the negative consequences of the Bank’s failure
+to hire adequate staff.
+Other issues with USAA FSB’s internal controls also persisted throughout the Relevant Time
+Period. As of 2021, USAA FSB suffered from numerous control gaps within operations, including
+excessive limits for electronic activity (RDC, wires, bill pay), ATM deposit and withdrawal, and
+ATM PIN attempts. Further, even when potentially suspicious activity was properly alerted and a
+case was generated, a sampling of instances in which USAA FSB decided not to file SARs in 2021
+revealed shortcomings. Specifically, for 22% of its decisions, the Bank did not have sufficient
+information as to the customer’s source or purpose of funds to justify the decision not to file a SAR.
+
+7
+
+Independent Testing
+USAA FSB relied on an internal audit team to conduct enterprise-wide independent testing
+of its AML program during the Relevant Time Period. The audit team concluded that the Bank’s
+BSA compliance was generally satisfactory in a 2016 report, but subsequent reviews demonstrate
+that this report was deficient. The 2016 report noted the Bank’s failure to act on account closure
+recommendations, for example, but failed to recognize the numerous weaknesses identified during
+the same time period, including weaknesses with key internal controls, such as risk assessment
+processes, CDD, EDD, customer risk identification, and suspicious activity monitoring processes.
+Training
+Management did not tailor USAA FSB’s training program for the FIU investigators (including
+third-party contractors) and KYC analysts to the Bank’s risk profile and suspicious activity
+typologies. For example, training in 2020 focused on changes in policies and procedures and the
+documentation of certain reviews in the Bank’s systems, but failed to address how to analyze accounts
+or to describe what constitutes potential suspicious activity. The 2021 training schedule purported to
+include more targeted training for the FIU and KYC analysts, but the training did not focus on the
+Bank’s products, services, or customers, and was inconsistent with USAA FSB’s business model as
+a retail bank with predominantly consumer accounts. Management also failed to properly oversee,
+train, and test third-party contractors.
+Customer Due Diligence
+The BSA and its implementing regulations require banks to have “[a]ppropriate risk-based
+procedures for conducting ongoing customer due diligence.”15 Under this requirement, a bank’s
+AML program must include procedures for understanding the nature and purpose of a customer’s
+
+15
+
+31 C.F.R. § 1020.210(a)(5) (2016); 31 C.F.R. § 1020.210(a)(2)(v) (2020).
+
+8
+
+financial relationships in order to develop a customer risk profile. A bank must also conduct ongoing
+monitoring to maintain and update customer information. FinCEN guidance clarifies that banks
+“must establish policies, procedures, and processes for determining whether and when, on the basis
+of risk, to update customer information to ensure that customer information is current and accurate.”16
+It further states that a bank “should have an understanding of the money laundering, terrorist
+financing, and other financial crime risks of its customers to develop the customer risk profile.”17
+The determination of customer risk profiles “should be sufficiently detailed to distinguish between
+significant variations in the risks of its customers.”18
+USAA FSB’s CDD policies and procedures were deficient. For example, information
+obtained at account opening was insufficient to assess a customer’s risk and support effective
+suspicious activity monitoring. This resulted in the development and use of a critically flawed
+customer risk score model, which the Bank employed to assess customer risk and identify high-risk
+accounts requiring EDD. Due to insufficient customer information, model developers were unable
+to incorporate key risk factors—such as type and volume of expected account activity—into the
+model to augment its predictive power.
+This critical absence of data created another problem. Management would arbitrarily assign
+risk sub-scores of 1 or 2 (on a 10-point maximum scale) for risk factors where member data was
+missing. This in turn caused customer-specific and overall BSA/AML risks to be severely and
+materially underestimated. An internal Bank report revealed that of approximately six million
+customer-risk scores, not a single customer received a high-risk score of 5.5 or higher, and only
+around 11,500 customers received a low-medium risk score between 4 and 5.4. The Bank ignored
+
+16
+
+FinCEN, FIN-2020-G002, Frequently Asked Questions Regarding CDD Requirements for Covered Financial
+Institutions (Aug. 3, 2020).
+17
+Id.
+18
+Id.
+
+9
+
+the report and took no corrective action. In sum, the Bank’s poor CDD practices further undermined
+the Bank’s ability to properly monitor high-risk accounts and its analysts’ abilities to perform quality
+investigations into alerted activity and arrive at rational and informed conclusions to close or escalate
+cases.
+Requirements of USAA FSB’s Federal Functional Regulator
+The OCC imposes parallel AML program requirements on national banks and savings
+associations, such as USAA FSB. Specifically, those regulations require that OCC-regulated banks
+“develop and provide for the continued administration of a program reasonably designed to assure
+and monitor compliance with the recordkeeping and reporting requirements set forth in [the BSA].”19
+Further, this compliance program, “shall, at a minimum:
+(1) Provide for a system of internal controls to assure ongoing compliance;
+(2) Provide for independent testing for compliance to be conducted by national
+bank or savings association personnel or by an outside party;
+(3) Designate an individual or individuals responsible for coordinating and
+monitoring day-to-day compliance; and
+(4) Provide training for appropriate personnel.”20
+USAA FSB knew it was failing to meet the regulatory requirements of its Federal functional
+regulator concerning its AML program, but failed to bring itself into compliance with those
+requirements for over five years. The Bank knew of significant problems in its AML program and
+had an opportunity to bring its AML program into compliance with the law under its own terms, but
+the Bank failed to make adequate progress despite extending its commitment deadline multiple times
+and receiving repeated warnings over many years. As a result, the OCC, concurrent with this Consent
+Order, is issuing a Consent Order for violations of its regulations.
+
+19
+20
+
+12 C.F.R. § 21.21(c).
+12 C.F.R. § 21.21(d).
+
+10
+
+Unfiled SARs
+In addition to the above AML program failures, the AML failures resulted in the below willful
+failures to timely and accurately file at least 3,873 SARs.
+The Bank Failed to File Suspicious Activity Reports
+The BSA and its implementing regulations require banks to report transactions that involve
+or aggregate to at least $5,000, are conducted by, at, or through the bank, and that the bank “knows,
+suspects, or has reason to suspect” are suspicious.21 A transaction is “suspicious” if a bank “knows,
+suspects, or has reason to suspect” the transaction: (a) involves funds derived from illegal activities,
+or is conducted to disguise funds derived from illegal activities; (b) is designed to evade the reporting
+or recordkeeping requirements of the BSA or regulations implementing it; or (c) has no business or
+apparent lawful purpose or is not the sort in which the customer normally would be expected to
+engage, and the bank knows of no reasonable explanation for the transaction after examining the
+available facts, including background and possible purpose of the transaction.22 A bank is generally
+required to file a SAR no later than 30 calendar days after the initial detection by the bank of the facts
+that may constitute a basis for filing a SAR.23
+To obtain the necessary transparency into potentially illicit activity, FinCEN, law
+enforcement, and other regulators rely on financial institutions’ accurate and timely filing of SARs.
+To accurately and completely prepare a SAR, known subjects involved in the suspicious activity
+should be identified in the appropriate fields on the SAR form.24 Investigators use these names and
+other identifiers to retrieve relevant records related to the subjects and targets of an investigation.
+
+21
+
+31 U.S.C. § 5318(g); 31 C.F.R. § 1020.320.
+31 C.F.R. § 1020.320(a)(2)(i)-(iii).
+23
+31 C.F.R. § 1020.320(b)(3).
+24
+FinCEN, FinCEN Suspicious Activity Report (FinCEN SAR) Electronic Filing Instructions, Version 1.2 (Oct. 2012).
+22
+
+11
+
+Failure to file a SAR can hamper an investigator’s ability to identify relevant records. Additionally,
+filing SARs without properly identifying the subjects (i.e., failing to identify all subjects connected
+to the conduct) can obfuscate the true nature of the activity and those involved.
+As described above, during the Relevant Time Period USAA FSB willfully failed to
+implement and maintain its AML program, which included failing to maintain adequate staff to
+review alerts and investigate cases for possible reporting to FinCEN. This meant that AML analysts
+were unable to devote sufficient time and attention to alerts and cases generated by the Bank’s
+transaction monitoring system. At times, AML analysts inappropriately cleared suspicious activity.
+At other times, alerted activity went un-reviewed for months beyond the deadline for reporting
+suspicious activity. The following is a list of examples of the Bank’s willful failure to file SARs.
+Customer A
+Customer A was a Texas-based physician with an annual income of $250,000 to $500,000
+and an approximate net worth between $500,000 and $1 million. Customer A held multiple accounts
+at USAA FSB. Customer A reported to USAA FSB that the accounts were for personal and
+household spending and that expected monthly activity would include cash withdrawals exceeding
+$5,000, and five to ten incoming/outgoing digital application-based transactions of between $1,000
+and $5,000 each.
+From October 2020 through March 2021, one of Customer A’s accounts received 76 deposits
+from a virtual currency exchange totaling nearly $1.5 million, activity inconsistent with the expected
+activity and stated purpose of the account. During that same six-month timeframe, Customer A made
+over 2,800 ATM cash withdrawals totaling approximately $1.6 million from ATMs in Colombia, a
+
+12
+
+high-risk jurisdiction for money laundering.25 During this time, Customer A contacted USAA FSB
+several times to increase the daily ATM withdrawal limit. A conversation between the Bank and
+Customer A revealed that Customer A was temporarily but indefinitely residing in Colombia and that
+the cash withdrawals were to buy and sell virtual currency, which the customer was now relying on
+as an alternative source of cash flow. Customer A stated that using cash to purchase virtual currency
+ensured Customer A got the best price. Overall, Customer A’s accounts collectively facilitated
+approximately $3.3 million in deposits and withdrawals over a six-month period.
+USAA FSB’s initial review of this activity resulted in no escalation or SAR filings. In April
+2021, the Bank became aware of the activity’s gross incompatibility with Customer A’s profile The
+Bank then re-evaluated the activity and, based on that review, filed a SAR and terminated the
+customer relationship. USAA FSB reported the activity to FinCEN on or about April 16, 2021
+approximately seven months after the conduct began and only after re-evaluating the activity.
+Customer B
+Customer B was a 22-year-old individual residing in Los Angeles, California, who maintained
+checking and credit cards with USAA for four years. Customer B reported to USAA that she owned
+a “performance art company” that had a minimal virtual footprint. Customer B reported that her
+annual income was between $50,000 and $100,000, and that her account was for personal and
+household expenses.
+In 2019, Customer B’s account alerted on indicators of possible suspicious activity, and the
+Bank reviewed the alert. The Bank closed initial reviews of alerted activity without escalation and
+without a thorough review of the customer’s reported source of income and the counterparties
+involved. However, the underlying activity within the account showed significant red flags, including
+
+25
+
+See State Department, International Narcotics Control Strategy Report, Volume II, pp. 82–84 (Mar. 2020) available
+at INCSR VOLUME II (state.gov).
+
+13
+
+receiving payments for what may have been unlawful internationally-based prostitution/escort
+ventures. Specifically, an analysis of Customer B’s financial activity revealed high value wire
+deposits from an individual located overseas with whom she had no known or established connection.
+It also showed expensive and unexplained international travel, and incoming and outgoing funds to
+accounts associated with online businesses involved in public allegations of misconduct. Over a
+one-month period, Customer B received three wire transfers from an individual located overseas
+totaling $44,500. These transfers referenced “art purchase,” but there was no discernable, legitimate
+connection between Customer B and the art industry. Additionally, further investigation connected
+the foreign-based individual to an offshore entity named in the Panama Papers. From May 10, 2019
+through June 29, 2020, Customer B engaged in approximately $125,000 of suspicious activity.
+USAA FSB did not report this activity to FinCEN until July 22, 2020 – over one year later.
+Customers C and D
+For fifteen months, USAA FSB permitted two customers to engage in activity consistent with
+check fraud without reporting the activity as suspicious to FinCEN. Specifically, Customers C and
+D held two checking accounts at USAA FSB. Between March 1, 2019, and June 29, 2020, Customers
+C and D deposited 3,457 checks for which they were not the intended beneficiaries via RDC through
+USAA FSB’s mobile app. These checks listed the payee as one of several baby formula or baby
+product companies, and specifically stated on the check that they were intended as self-reimbursing
+rebate coupons for point of sale purchases, to be cashed only by the baby formula or baby product
+companies. These deposited checks ranged from $3 to $17 each, were deposited in a cyclical manner,
+and were inconsistent with Customer C’s occupation as a self-employed construction worker.
+USAA FSB’s RDC controls failed to detect that these checks were actually made payable to
+the baby formula and baby product companies rather than to Customers C and D. Customers C and
+
+14
+
+D utilized these funds for various purchases, including consumer spending, groceries, and bill
+payments. In the end, USAA FSB permitted this scheme to go on for 15 months without reporting
+the activity to FinCEN.
+III.
+
+VIOLATIONS
+FinCEN has determined that USAA FSB willfully violated the BSA and its implementing
+
+regulations during the Relevant Time Period. Specifically, FinCEN has determined that USAA FSB
+willfully failed to implement and maintain an AML program that met the minimum requirements of
+the BSA, in violation of 31 U.S.C. § 5318(h) and 31 C.F.R. § 1020.210. Additionally, FinCEN has
+determined that USAA FSB willfully failed to accurately and timely report suspicious transactions to
+FinCEN, in violation of 31 U.S.C. § 5318(g) and 31 C.F.R. § 1020.320.
+IV.
+
+ENFORCEMENT FACTORS
+FinCEN considered all of the factors outlined in the Statement on Enforcement of the BSA,
+
+issued August 18, 2020, when deciding whether to impose a civil money penalty in this matter.26 The
+following factors were particularly relevant to FinCEN’s evaluation of the appropriate disposition of
+this matter, including the decision to impose a civil money penalty and the size of the penalty.
+
+
+Nature and seriousness of the violations, including the extent of possible harm to
+the public and the amounts involved: USAA FSB’s violations of the BSA and its
+implementing regulations were serious and risked significant possible harm to the public.
+During the Relevant Time Period, USAA FSB’s compliance operations were insufficient
+to address the risks associated with its membership, geographic locations, and products
+and services. The Bank was fully aware of its AML program deficiencies since 2017.
+
+26
+
+FinCEN, Statement on Enforcement of the BSA (Aug. 18, 2020).
+
+15
+
+However, despite ample notice and opportunity to remediate, the Bank failed to
+demonstrate compliance throughout the Relevant Time Period leading to the possibility
+of public harm. USAA FSB’s willful failure to implement and maintain an effective
+AML program undermined its ability to properly monitor and review customer accounts
+and timely report potentially suspicious activity to FinCEN relating to thousands of
+transactions and millions of dollars over the Relevant Time Period.
+
+
+Impact or harm of the violations on FinCEN’s mission to safeguard the financial
+system from illicit use, combat money laundering, and promote national security:
+Although the OCC classifies USAA as a mid-size institution, the Bank plays a relatively
+large role in the U.S. financial system, serving over 13 million members. USAA FSB
+offers only individual, non-commercial services and products, which lowers its exposure
+to certain risks as compared to other banks that offer services to individuals and
+businesses. However, during the Relevant Time Period, the Bank failed to properly
+monitor for and detect personal accounts being used for business activities, which
+allowed millions in potentially suspicious funds to flow through its customers’ accounts
+without adequate scrutiny from the Bank’s compliance department. Given the Bank’s
+overall size and unique customer base, including members deployed to military
+installations around the world, the violations adversely impacted FinCEN’s mission to
+safeguard the financial system from illicit use and combat money laundering.
+
+
+
+Pervasiveness of wrongdoing within the institution, including management’s
+complicity in, condoning or enabling of, or knowledge of the conduct underlying the
+violations: USAA FSB’s BSA/AML compliance failures were pervasive across the
+Bank’s business lines. Additionally, the violations eventually affected all layers of the
+
+16
+
+Bank’s overall risk management during the Relevant Time Period, including the Bank’s
+first (business unit), second (compliance/operations risk), and third (independent testing)
+lines of defense. The Bank failed to correct problems with its AML program that the
+OCC previously reported to the Bank’s management and the Board of Directors. These
+managers therefore had knowledge of the violations, yet they failed to quickly and
+effectively remediate the identified deficiencies. For example, for some time, Bank
+management explicitly acknowledged a monitoring gap as to Bank members using
+personal accounts for business purposes, yet USAA FSB failed to act swiftly to
+implement appropriate detection scenarios and train staff to identify and escalate
+potential suspicious activity.
+
+
+History of similar violations, or misconduct in general, including prior criminal,
+civil, and regulatory enforcement actions: USAA FSB struggled to implement and
+demonstrate compliance with the BSA and its implementing regulations over the last five
+examination cycles. The Bank knew of its BSA violations as early as 2017 but failed to
+take satisfactory corrective actions. As a result, the Bank has not completed its 2018
+Commitments.
+
+
+
+Financial gain or other benefit resulting from, or attributable to, the violations:
+USAA FSB began offering banking services to members of the military in 1983. Over
+the next decades, the Bank experienced substantial company and membership growth as
+it expanded eligibility, but the Bank did not match this growth with increased compliance
+capabilities.
+
+In 2017, the Bank’s AML program was rudimentary, lacking risk
+
+assessments and other fundamental policies and procedures. Since 2019, the Bank
+invested approximately $500 million into overhauling its AML program. Despite this,
+
+17
+
+USAA FSB failed to fully satisfy the terms of the 2018 Commitments. Further, FinCEN
+has identified new and recurring AML program violations throughout the Relevant Time
+Period. Prior to 2017, the Bank’s compliance program was even more rudimentary due
+to a lack of financial investment and a reliance on an internally developed system to
+conduct transaction monitoring and assign customer risk ratings that was less reliable,
+but cheaper to implement, than readily-available, industry-standard transaction
+monitoring systems. Overall, USAA FSB’s inconsistent and ineffective allocation of
+resources to AML compliance operations during the Relevant Time Period delivered both
+a competitive advantage and a financial benefit to the Bank.
+
+
+Presence or absence of prompt, effective action to terminate the violations upon
+discovery, including self-initiated remedial measures:
+
+Although USAA FSB
+
+undertook steps to remediate the problems with its AML program starting in 2017, it was
+unable to fully do so in a timely and effective manner. The Bank was unable to comply
+with the terms of the 2018 Commitments that it authored five years ago. As of early
+2021, three separate corrective actions related to the Bank’s 2017 violations were still
+pending, along with newly-identified deficiencies related to internal controls and
+training. While the Bank made substantial investments to update its AML program,
+serious failures were apparent throughout the Relevant Time Period.
+
+
+Timely and voluntary disclosure of the violations to FinCEN: USAA FSB did not
+voluntarily disclose the violations described in this Consent Order to FinCEN.
+
+
+
+Quality and extent of cooperation with FinCEN and other relevant agencies,
+including as to potential wrongdoing by its directors, officers, employees, agents,
+and counterparties: USAA FSB has been cooperative and responsive to requests from
+
+18
+
+the OCC and from FinCEN.
+
+It has provided documents in response to requests,
+
+conducted lookback reviews of previous activity, and provided timely compliance status
+updates.
+
+
+Systemic Nature of the Violations. Considerations include, but are not limited to,
+the number and extent of violations, failure rates (e.g., the number of violations out
+of total number of transactions), and duration of violations: From at least 2017
+through 2021, USAA FSB had two to three AML program violations at any given time.
+FinCEN’s review revealed that from August 31, 2017 through August 31, 2021, a total
+of 3,873 SARs were filed late, with an average filing time of 226 days after the underlying
+suspicious activity ended, well beyond the 60 calendar day maximum permitted under
+the BSA. Late SARs constituted almost 10% of all of USAA FSB’s SAR filings for the
+same period.
+
+
+
+Whether another agency took enforcement action for related activity. FinCEN will
+consider the amount of any fine, penalty, forfeiture, and/or remedial action
+ordered: The OCC is imposing a civil money penalty under its own regulations for the
+same pattern or practice of conduct associated with the violations described in this
+Consent Order.
+
+19
+
+V.
+
+CIVIL PENALTY
+FinCEN may impose a Civil Money Penalty of up to $62,689 per day for willful violations of
+
+the requirement to implement and maintain an effective AML program occurring after November 2,
+2015.27
+For each willful violation of a SAR reporting requirement occurring after November 2, 2015,
+FinCEN may impose a Civil Money Penalty not to exceed the greater of the amount involved in the
+transaction (capped at $250,759) or $62,689.28
+After considering all the facts and circumstances, as well as the enforcement factors discussed
+above, FinCEN is imposing a Civil Money Penalty of $140,000,000 (one hundred forty million
+dollars) in this matter. As discussed above, FinCEN will credit the $60,000,000 (sixty million dollars)
+civil money penalty imposed by the OCC for the same conduct described in this Consent Order.
+Accordingly, USAA FSB shall make a payment of $80,000,000 (eighty million dollars) to the U.S.
+Department of the Treasury pursuant to the payment instructions that will be transmitted to USAA
+FSB upon execution of this Consent Order.
+VI.
+
+CONSENT AND ADMISSIONS
+To resolve this matter, and only for that purpose, USAA FSB admits to the Statement of Facts
+
+and Violations set forth in this Consent Order and admits that it willfully violated the BSA and its
+implementing regulations. USAA FSB consents to the use of the Statement of Facts, and any other
+findings, determinations, and conclusions of law set forth in this Consent Order in any other
+proceeding brought by or on behalf of FinCEN, or to which FinCEN is a party or claimant, and agrees
+they shall be taken as true and correct and be given preclusive effect without any further proof. USAA
+FSB understands and agrees that in any administrative or judicial proceeding brought by or on behalf
+
+27
+28
+
+31 U.S.C. § 5321(a)(1); 31 C.F.R. § 1010.821.
+31 U.S.C. § 5321(a)(1); 31 C.F.R. § 1010.821.
+
+20
+
+of FinCEN against it, including any proceeding to enforce the Civil Money Penalty imposed by this
+Consent Order or for any equitable remedies under the BSA, USAA FSB shall be precluded from
+disputing any fact or contesting any determinations set forth in this Consent Order.
+To resolve this matter, USAA FSB agrees to and consents to the issuance of this Consent
+Order and all terms herein and agrees to make a payment of $80,000,000 (eighty million dollars) to
+the U.S. Department of the Treasury within ten (10) days of the Effective Date of this Consent Order,
+as defined further below. If timely payment is not made, USAA FSB agrees that interest, penalties,
+and administrative costs will accrue.29 If USAA FSB fails to pay the $60,000,000 (sixty million
+dollars) penalty arising out of its OCC violations, it must pay the entire $140,000,000 (one hundred
+forty million dollars) penalty imposed by this Consent Order.
+USAA FSB understands and agrees that it must treat the Civil Money Penalty paid under this
+Consent Order as a penalty paid to the government and may not claim, assert, or apply for a tax
+deduction, tax credit, or any other tax benefit for any payments made to satisfy the Civil Money
+Penalty. USAA FSB understands and agrees that any acceptance by or on behalf of FinCEN of any
+partial payment of the Civil Money Penalty obligation will not be deemed a waiver of USAA FSB’s
+obligation to make further payments pursuant to this Consent Order, or a waiver of FinCEN’s right
+to seek to compel payment of any amount assessed under the terms of this Consent Order, including
+any applicable interest, penalties, or other administrative costs.
+USAA FSB affirms that it agrees to and approves this Consent Order and all terms herein
+freely and voluntarily and that no offers, promises, or inducements of any nature whatsoever have
+been made by FinCEN or any employee, agent, or representative of FinCEN to induce USAA FSB
+to agree to or approve this Consent Order, except as specified in this Consent Order.
+
+29
+
+31 U.S.C. § 3717; 31 C.F.R. § 901.9.
+
+21
+
+USAA FSB understands and agrees that this Consent Order implements and embodies the
+entire agreement between USAA FSB and FinCEN, and its terms relate only to this enforcement
+matter and any related proceeding and the facts and determinations contained herein. USAA FSB
+further understands and agrees that there are no express or implied promises, representations, or
+agreements between USAA FSB and FinCEN other than those expressly set forth or referred to in
+this Consent Order and that nothing in this Consent Order is binding on any other law enforcement
+or regulatory agency or any other governmental authority, whether foreign, Federal, State, or local.
+USAA FSB understands and agrees that nothing in this Consent Order may be construed as
+allowing USAA FSB, its holding company, subsidiaries, affiliates, Board, officers, employees, or
+agents to violate any law, rule, or regulation.
+USAA FSB consents to the continued jurisdiction of the courts of the United States over it
+and waives any defense based on lack of personal jurisdiction or improper venue in any action to
+enforce the terms and conditions of this Consent Order or for any other purpose relevant to this
+enforcement action. Solely in connection with an action filed by or on behalf of FinCEN to enforce
+this Consent Order or for any other purpose relevant to this action, USAA FSB authorizes and agrees
+to accept all service of process and filings through the Notification procedures below and to waive
+formal service of process.
+
+22
+
+VII.
+
+COOPERATION
+
+USAA FSB shall fully cooperate with FinCEN in any and all matters within the scope of or
+related to the Statement of Facts, including any investigation of its current or former directors,
+officers, employees, agents, consultants, or any other party. USAA FSB understands that its
+cooperation pursuant to this paragraph shall include, but is not limited to, truthfully disclosing all
+factual information with respect to its activities, and those of its present and former directors, officers,
+employees, agents, and consultants. This obligation includes providing to FinCEN, upon request,
+any document, record or other tangible evidence in its possession, custody, or control, about which
+FinCEN may inquire of USAA FSB. USAA FSB’s cooperation pursuant to this paragraph is subject
+to applicable laws and regulations, as well as valid and properly documented claims of attorney-client
+privilege or the attorney work-product doctrine.
+VIII. RELEASE
+Execution of this Consent Order and compliance with all of the terms of this Consent Order
+settles all claims that FinCEN may have against USAA FSB for the conduct described in this Consent
+Order during the Relevant Time Period. Execution of this Consent Order, and compliance with the
+terms of this Consent Order, does not release any claim that FinCEN may have for conduct by USAA
+FSB other than the conduct described in this Consent Order during the Relevant Time Period, or any
+claim that FinCEN may have against any current or former director, officer, owner, or employee of
+USAA FSB, or any other individual or entity other than those named in this Consent Order. In
+addition, this Consent Order does not release any claim or provide any other protection in any
+investigation, enforcement action, penalty assessment, or injunction relating to any conduct that
+occurs after the Relevant Time Period as described in this Consent Order.
+
+23
+
+IX.
+
+WAIVERS
+Nothing in this Consent Order shall preclude any proceedings brought by, or on behalf of,
+
+FinCEN to enforce the terms of this Consent Order, nor shall it constitute a waiver of any right,
+power, or authority of any other representative of the United States or agencies thereof, including but
+not limited to the Department of Justice.
+In consenting to and approving this Consent Order, USAA FSB stipulates to the terms of this
+Consent Order and waives:
+A. Any and all defenses to this Consent Order, the Civil Money Penalty imposed by this
+Consent Order, and any action taken by or on behalf of FinCEN that can be waived,
+including any statute of limitations or other defense based on the passage of time;
+B. Any and all claims that FinCEN lacks jurisdiction over all matters set forth in this Consent
+Order, lacks the authority to issue this Consent Order or to impose the Civil Money
+Penalty, or lacks authority for any other action or proceeding related to the matters set
+forth in this Consent Order;
+C. Any and all claims that this Consent Order, any term of this Consent Order, the Civil
+Money Penalty, or compliance with this Consent Order, or the Civil Money Penalty, is in
+any way unlawful or violates the Constitution of the United States of America or any
+provision thereof;
+D. Any and all rights to judicial review, appeal or reconsideration, or to seek in any way to
+contest the validity of this Consent Order, any term of this Consent Order, or the Civil
+Money Penalty arising from this Consent Order;
+
+24
+
+E. Any and all claims that this Consent Order does not have full force and effect, or cannot
+be enforced in any proceeding, due to changed circumstances, including any change in
+law;
+F. Any and all claims for fees, costs, or expenses related in any way to this enforcement
+matter, Consent Order, or any related administative action, whether arising under common
+law or under the terms of any statute, including, but not limited to, under the Equal Access
+to Justice Act. USAA FSB agrees to bear its own costs and attorneys’ fees.
+X.
+
+VIOLATIONS OF THIS CONSENT ORDER
+Determination of whether USAA FSB has failed to comply with this Consent Order, or any
+
+portion thereof, and whether to pursue any further action or relief against USAA FSB, shall be in
+FinCEN’s sole discretion. If FinCEN determines, in its sole discretion, that a failure to comply with
+this Consent Order, or any portion thereof, has occurred, or that USAA FSB has made any
+misrepresentations to FinCEN or any other government agency related to the underlying enforcement
+matter, FinCEN may void any and all releases or waivers contained in this Consent Order; reinstitute
+administrative proceedings; take any additional action that it deems appropriate; and pursue any and
+all violations, maximum penalties, injunctive relief, or other relief that FinCEN deems appropriate.
+FinCEN may take any such action even if it did not take such action against USAA FSB in this
+Consent Order and notwithstanding the releases and waivers herein. In the event FinCEN takes such
+action under this paragraph, USAA FSB expressly agrees to toll any applicable statute of limitations
+and to waive any defenses based on a statute of limitations or the passage of time that may be
+applicable to the Statement of Facts in this Consent Order, until a date 180 days following USAA
+FSB’s receipt of notice of FinCEN’s determination that a misrepresentation or breach of this
+
+25
+
+agreement has occurred, except as to claims already time barred as of the Effective Date of this
+Consent Order.
+In the event that FinCEN determines that USAA FSB has made a misrepresentation or failed
+to comply with this Consent Order, or any portion thereof, all statements made by or on behalf of
+USAA FSB to FinCEN, including the Statement of Facts, whether prior or subsequent to this Consent
+Order, will be admissible in evidence in any and all proceedings brought by or on behalf of FinCEN.
+USAA FSB agrees that it will not assert any claim under the Constitution of the United States of
+America, Rule 408 of the Federal Rules of Evidence, or any other law or federal rule that any such
+statements should be suppressed or are otherwise inadmissible. Such statements will be treated as
+binding admissions, and USAA FSB agrees that it will be precluded from disputing or contesting any
+such statements. FinCEN shall have sole discretion over the decision to impute conduct or statements
+of any director, officer, employee, agent, or any person or entity acting on behalf of, or at the direction
+of USAA FSB in determining whether USAA FSB has violated any provision of this Consent Order.
+XI.
+
+PUBLIC STATEMENTS
+USAA FSB expressly agrees that it shall not, nor shall its attorneys, agents, partners, directors,
+
+officers, employees, affiliates, or any other person authorized to speak on its behalf or within its
+authority or control, take any action or make any public statement, directly or indirectly, contradicting
+its admissions and acceptance of responsibility or any terms of this Consent Order, including any fact
+finding, determination, or conclusion of law in this Consent Order.
+FinCEN shall have sole discretion to determine whether any action or statement made by
+USAA FSB, or by any person under the authority, control, or speaking on behalf of USAA FSB
+contradicts this Consent Order, and whether USAA FSB has repudiated such statement.
+
+26
+
+XII.
+
+RECORD RETENTION
+
+In addition to any other record retention required under applicable law, USAA FSB agrees to
+retain all documents and records required to be prepared or recorded under this Consent Order or
+otherwise necessary to demonstrate full compliance with each provision of this Consent Order,
+including supporting data and documentation. USAA FSB agrees to retain these records for a period
+of six years after creation of the record, unless required to retain them for a longer period of time
+under applicable law.
+XIII. SEVERABILITY
+USAA FSB agrees that if a court of competent jurisdiction considers any of the provisions of
+this Consent Order unenforceable, such unenforceability does not render the entire Consent Order
+unenforceable. Rather, the entire Consent Order will be construed as if not containing the particular
+unenforceable provision(s), and the rights and obligations of FinCEN and USAA FSB shall be
+construed and enforced accordingly.
+XIV. SUCCESSORS AND ASSIGNS
+USAA FSB agrees that the provisions of this Consent Order are binding on its owners,
+officers, employees, agents, representatives, affiliates, successors, assigns, and transferees to whom
+USAA FSB agrees to provide a copy of the executed Consent Order. Should USAA FSB seek to sell,
+merge, transfer, or assign its operations, or any portion thereof, that are the subject of this Consent
+Order, USAA FSB must, as a condition of sale, merger, transfer, or assignment obtain the written
+agreement of the buyer, merging entity, transferee, or assignee to comply with this Consent Order.
+
+27
+
+XV.
+
+MODIFICATIONS AND HEADINGS
+
+This Consent Order can only be modified with the express written consent of FinCEN and
+USAA FSB. The headings in this Consent Order are inserted for convenience only and are not
+intended to affect the meaning or interpretation of this Consent Order or its individual terms.
+XVI. AUTHORIZED REPRESENTATIVE
+USAA FSB’s representative, by consenting to and approving this Consent Order, hereby
+represents and warrants that the representative has full power and authority to consent to and approve
+this Consent Order for and on behalf of USAA FSB, and further represents and warrants that USAA
+FSB agrees to be bound by the terms and conditions of this Consent Order.
+XVII. NOTIFICATION
+Unless otherwise specified herein, whenever notifications, submissions, or communications
+are required by this Consent Order, they shall be made in writing and sent via first-class mail and
+simultaneous email, addressed as follows:
+To FinCEN:
+
+Associate Director, Enforcement and Compliance Division,
+Financial Crimes Enforcement Network,
+P.O. Box 39, Vienna, Virginia 22183
+
+To USAA FSB:
+
+General Counsel, USAA Federal Savings Bank
+10750 McDermott Freeway., San Antonio, Texas 78288
+
+Notices submitted pursuant to this paragraph will be deemed effective upon receipt unless
+otherwise provided in this Consent Order or approved by FinCEN in writing.
+XVIII. COUNTERPARTS
+This Consent Order may be signed in counterpart and electronically. Each counterpart, when
+executed and delivered, shall be an original, and all of the counterparts together shall constitute one
+and the same fully executed instrument.
+
+28
+
+XIX. EFFECTIVE DATE AND CALCULATION OF TIME
+This Consent Order shall be effective upon the date signed by FinCEN. Calculation of
+deadlines and other time limitations set forth herein shall run from the effective date (excluding the
+effective date in the calculation) and be based on calendar days, unless otherwise noted, including
+intermediate Saturdays, Sundays, and legal holidays.
+
+By Order of the Director of the Financial Crimes Enforcement Network.
+
+/s/
+Himamauli Das
+Acting Director
+
+Date:
+
+Consented to and Approved By:
+
+/s/
+USAA Federal Savings Bank
+
+29
+
+

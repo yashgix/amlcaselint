@@ -1,0 +1,285 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+
+IN THE MATTER OF:
+
+Bethex Federal Credit Union
+Bronx, New York
+
+)
+)
+)
+)
+)
+)
+
+Number 2016-06
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+
+I.
+
+INTRODUCTION
+The Financial Crimes Enforcement Network (FinCEN) has determined that grounds exist
+
+to assess a civil money penalty against Bethex Federal Credit Union (Bethex or the Credit
+Union), pursuant to the Bank Secrecy Act (BSA) and regulations issued pursuant to that Act. 1
+FinCEN has the authority to investigate credit unions for compliance with the BSA
+pursuant to 31 C.F.R. § 1010.810, which grants FinCEN “[o]verall authority for enforcement and
+compliance, including coordination and direction of procedures and activities of all other
+agencies exercising delegated authority under this chapter.” As a credit union, Bethex was a
+“financial institution” and a “bank” within the meaning of the BSA and its implementing
+regulations during the time relevant to this investigation. 31 U.S.C. § 5312(a)(2)(E); 31 C.F.R.
+§§ 1010.100(d)(6) and 1010.100(t). The National Credit Union Administration (NCUA) was
+Bethex’s federal functional regulator and examines credit unions, including Bethex, for
+compliance with the BSA and its implementing regulations.
+
+1
+
+The Bank Secrecy Act is codified at 12 U.S.C. §§ 1829b, 1951–1959 and 31 U.S.C. §§ 5311–5314, 5316–5332.
+Regulations implementing the Bank Secrecy Act appear at 31 C.F.R. Chapter X.
+
+1
+
+Bethex was a federally-chartered, low-income-designated, community development
+financial institution in the Bronx, New York. Since 2002, Bethex maintained internal controls
+specific to low and moderate-income clientele within its designated field of membership in New
+York City. In 2011, Bethex began providing banking services to a large number of wholesale,
+commercial money services businesses (MSBs). Many of these MSBs were located in high-risk
+jurisdictions outside New York and engaged in high-risk activity, including wiring millions of
+dollars per month to foreign jurisdictions at risk for money laundering. When Bethex expanded
+its customer base to include these MSBs, it did not take steps to update its anti-money laundering
+(AML) program. During this time, Bethex relied on a third party to conduct much of the due
+diligence and suspicious activity monitoring for these MSBs without appropriate verification or
+inspection of the third-party’s compliance activity. As a result, Bethex was unable to adequately
+monitor, detect, and report suspicious activity or mitigate the associated risks these MSBs posed,
+leaving the Credit Union particularly vulnerable to money laundering.
+II.
+
+DETERMINATIONS
+From January 1, 2011 through December 31, 2012, Bethex willfully violated 2 the BSA’s
+
+AML program and reporting requirements. Bethex provided banking services to MSBs for
+which it did not adequately assess or mitigate the risks of money laundering and terrorist
+financing.
+Bethex had a history of AML compliance deficiencies that led to egregious BSA failures
+starting in 2011. Systemic and continuing AML program deficiencies were cited in ten of the
+
+2
+
+In civil enforcement of the BSA under 31 U.S.C. § 5321(a)(1), to establish that a financial institution or individual
+acted willfully, the government need only show that the financial institution or individual acted with either reckless
+disregard or willful blindness. The government need not show that the entity or individual had knowledge that the
+conduct violated the BSA, or that the entity or individual otherwise acted with an improper motive or bad purpose.
+
+2
+
+thirteen examinations conducted on Bethex between 2005 and 2013. Without addressing its
+BSA deficiencies, Bethex brought on a substantial new business line devoted to wholesale
+MSBs. At the same time that Bethex’s wholesale MSB activity was increasing, Bethex
+continued to have internal control and independent testing deficiencies. In 2012, Bethex
+continued to have internal control deficiencies, as well as training, customer identification
+program, recordkeeping and reporting deficiencies, and failed to designate an appropriately
+competent compliance officer. Weaknesses in Bethex’s BSA/AML compliance program caused
+significant reputational and regulatory damage to the Credit Union, contributing in part to its
+eventual conservatorship by the NCUA in September 2015. The NCUA liquidated Bethex and
+discontinued its operations in December 2015.
+As described in more detail below, Bethex failed to: (a) implement an adequate AML
+program, 31 U.S.C. § 5318(h); 31 C.F.R. § 1020.210; and (b) detect and adequately report
+suspicious transactions, 31 U.S.C. § 5318(g); 31 CFR § 1020.320.
+A. Violations of the Requirement to Establish and Implement an Effective Anti-Money
+Laundering Program
+Bethex failed to establish and implement an effective AML program. The BSA and its
+implementing regulations require all federally-chartered credit unions to establish and implement
+AML programs. 31 U.S.C. § 5318(h) and 31 C.F.R. § 1020.210. A federally-chartered credit
+union is deemed to have satisfied BSA/AML program requirements if it implements and
+maintains an AML program that complies with the applicable regulations of the NCUA, its
+federal functional regulator. 31 C.F.R. § 1020.210. The NCUA requires each credit union under
+its supervision to establish and maintain a written AML program that, at a minimum: (1)
+provides for a system of internal controls to assure ongoing compliance; (2) provides for
+independent testing for compliance to be conducted by bank personnel or by an outside party; (3)
+3
+
+designates an individual or individuals responsible for coordinating and monitoring day-to-day
+compliance; and (4) provides training for appropriate personnel. 12 C.F.R. § 748.2. Bethex
+failed to implement adequate internal controls or designate a qualified compliance officer.
+1.
+
+Internal Controls
+
+Bethex failed to implement an effective system of internal controls reasonably designed
+to ensure compliance with the BSA. In 2011, Bethex opened its doors to wholesale, commercial
+MSBs and, by the end of 2012, had established relationships with over 70 money transmitters
+and check cashing companies. Bethex’s MSB expansion resulted in an increase in volume from
+$657 million in transactions processed in 2010, all of which were domestic, to over $4 billion in
+domestic and international transactions processed in 2012 – an annual increase of more than
+300%. Although the MSB program had grown to substantial volume and scope, Bethex failed to
+make commensurate changes in compliance controls to account for the money laundering and
+terrorist financing risks posed by those MSBs, many of which were located in high-risk
+jurisdictions overseas. For the level of funds transfer activity at Bethex, which generated
+significant fee income for the institution, it should have had a robust AML and transaction
+monitoring program. Instead, Bethex’s program remained tailored to primarily low and middle
+income individual account holders in New York.
+a.
+
+Risk Assessment
+
+From 2011 through 2012, Bethex failed to conduct a risk assessment that incorporated all
+of its products and services including wire transfers processed for its domestic and international
+MSB accounts. Bethex processed transactions for MSB customers in over 30 countries,
+including jurisdictions with high money laundering risks such as Mexico, Ghana, Bangladesh,
+
+4
+
+China, Pakistan, and South Korea. 3 Bethex failed to conduct any risk assessment in 2011 and
+conducted an inadequate risk assessment in 2012 because it did not assess the risk of its MSB
+clients. An operational and organizational risk assessment is a vital part of a compliance
+program, as it permits the financial institution to assess the particular risks posed by its business
+lines, practices, and clientele and establish appropriate controls to mitigate those risks. Bethex’s
+failure to conduct an adequate risk assessment left Bethex ill-equipped to implement necessary
+AML controls when its MSB transaction activity nearly quadrupled from $1.3 billion in 2010, to
+$2.7 billion in 2011, and finally to $4.0 billion in 2012.
+b.
+
+Due Diligence
+
+Bethex did not perform the due diligence necessary on its MSBs to determine the money
+laundering risks or their expected volume and pattern of activity. Bethex failed to require and
+maintain documentation to identify the business type, use, and associated business partners of its
+MSBs and did not provide for annual or periodic monitoring and updating. For instance, Bethex
+maintained four MSB accounts that shared the same address in an office suite. Each of the
+accounts belonged to a U.S.-based shell company subsidiary of a Mexican MSB, but Bethex
+failed to appropriately identify and incorporate this information into its monitoring system. By
+not knowing its customers and their profiles, Bethex was incapable of understanding MSB
+transactional behavior and was unable to place them under appropriate monitoring for suspicious
+activities.
+
+3
+
+At the time of the MSB activity, Mexico, Ghana, Bangladesh, China, Pakistan, and South Korea were classified by
+the United States Department of State as “Countries of Primary Concern” or “Countries of Concern” in the 2012
+United States Department of State International Narcotics Control Strategy Report, which classifies countries based
+on money laundering risk. See http://www.state.gov/documents/organization/185866.pdf.
+
+5
+
+c.
+
+Transaction Monitoring
+
+Bethex failed to implement an effective suspicious activity monitoring system relative to
+the scale and scope of the currency and electronic funds transmission activity conducted on
+behalf of its MSBs. Bethex did not assign its MSB members a proper risk category. It failed to
+implement enhanced monitoring on higher risk entities to adequately monitor for and detect
+suspicious activity. These failures exposed the U.S. financial system to serious risks of money
+laundering.
+Bethex also failed to maintain an adequate level of staffing to ensure it could effectively
+monitor its MSB customers. In 2011, Bethex had 22 full-time employees for the entire Credit
+Union, many of which Bethex assigned to handle the operational side of its wholesale MSB
+activity. Its independent auditor notified Bethex that 22 full-time employees were insufficient to
+handle the AML risks of processing the $657 million in transactions conducted during 2010. In
+response, Bethex increased its staff by four people. But, at the same time, transactions had
+increased annually from $657 million to over $4 billion, due in large part to transactions that
+Bethex processed for wholesale MSBs. Bethex failed to maintain sufficient staff necessary to
+monitor the significant amount of wholesale MSB transactions. At the same time, customers
+engaged in dramatically increasing volumes of transactions at increasing average amounts per
+transaction.
+2.
+
+Designation of BSA Compliance Officer
+
+A credit union is required to designate a person responsible for ensuring day to day
+compliance with BSA requirements. 31 C.F.R. § 1020.210. Bethex failed to designate a person
+who was technically competent to oversee ongoing compliance efforts for the risks and scope of
+the products and services it provided and the customers it served.
+
+6
+
+Bethex failed to ensure that its BSA officer had sufficient experience, authority, and
+resources to ensure day-to-day compliance with the BSA. From 2011 to 2012, Bethex’s
+designated BSA compliance officer maintained multiple different roles at the Credit Union
+including its Chief Operating Officer and business manager of the MSB relationship and funds
+transfer operations. While having a BSA compliance officer fill multiple roles in a smaller
+institution is not a violation, as the amount of transactions grew to over $4 billion annually,
+Bethex’s BSA compliance officer was unable to adequately fulfill his multiple responsibilities to
+assure BSA compliance. Despite receiving repeated notification from independent auditors and
+the NCUA of deficiencies in its AML program, Bethex did not take steps to address its
+deficiencies until years after the fact. For example, Bethex’s own annual independent BSA audit
+in March 2011 identified lack of internal controls to detect structuring, an overdue BSA risk
+assessment, insufficient know your customer or customer due diligence policies for Bethexserviced MSBs, and no written process to determine high-risk accounts. Its August 2012 audit
+identified those same deficiencies over a year later. This audit also put Bethex on notice that it
+had failed to develop adequate written procedures for wire transfers and lacked protocols to
+detect and report illicit wire transactions. These items continued to remain outstanding several
+months later when the NCUA conducted its examination of Bethex. For over two years,
+Bethex’s leadership allowed significant AML compliance concerns to persist without taking
+sufficient steps to address the deficiencies.
+In addition, given Bethex’s reliance on the proceeds generated by the MSB business and
+the BSA compliance officer’s additional role as business manager of the MSB customers, a
+conflict of interest that was not sufficiently mitigated degraded the BSA compliance officer’s
+ability to evaluate whether clients were engaged in reportable suspicious activity, including
+
+7
+
+layering and structuring. For example, Bethex employees’ willingly disregarded internal
+controls in order to complete transactions for large, revenue generating customers over which the
+BSA officer was the business manager. Specifically, Bethex had written controls that limited the
+value of wire transfers conducted on behalf of a customer in a business day. To avoid these
+limits for its high-revenue generating customers, Bethex would send multiple wires below its
+internal control limit from the same originator to the same beneficiary on the same day.
+B. Suspicious Activity Reporting Violations
+The BSA and its implementing regulations impose an obligation on financial institutions
+to report transactions that involve or aggregate to at least $5,000, that are conducted by, at, or
+through the institution, and that the institution “knows, suspects, or has reason to suspect” are
+suspicious. 31 U.S.C. § 5318(g) and 31 C.F.R. § 1020.320. A transaction is “suspicious” if the
+transaction: (1) involves funds derived from illegal activities or is intended or conducted to hide
+or disguise funds or assets derived from illegal activities; (2) is designed to evade any
+requirement in the BSA or regulations implementing the BSA; or (3) has no business or apparent
+lawful purpose or is not the sort in which the customer would normally be expected to engage,
+and the bank knows of no reasonable explanation for the transaction after examining the
+available facts, including background and possible purpose of the transaction. 31 C.F.R.
+§§ 1020.320(a)(2)(i)–(iii).
+Bethex failed to timely detect and report suspicious activity to FinCEN. In 2013, Bethex
+late-filed 28 SARs as a result of a look back. The look-back covered the period from January
+2010 to March 2013. The majority of the suspicious activity underlying these SARs involved
+high-volume, large amount transfers by MSBs capable of exploiting Bethex’s AML weaknesses.
+
+8
+
+Some MSB customers also wired large volumes of funds to foreign jurisdictions with a high risk
+of money laundering, terrorism or drug trafficking, including Mexico, Pakistan and Yemen. 4
+In addition, the majority of the 28 late-filed SARs were inadequate. The SARs contained
+short, vague narratives that broadly summarized multiple and unrelated instances of suspicious
+activity. For example, one SAR described suspicious transactions involving amounts that
+aggregated to over $906 million. The overuse of boilerplate language and lack of sufficient
+detail in this SAR provided little benefit to law enforcement investigations. Broad summary
+SARs with poor-quality narratives such as these, reduce the value of the suspicious activity
+reporting.
+III.
+
+CIVIL MONEY PENALTY
+FinCEN has determined that Bethex willfully violated the program and reporting
+
+requirements of the BSA and its implementing regulations, and that grounds exist to assess a
+civil money penalty for these violations. 31 U.S.C. § 5321 and 31 C.F.R. § 1010.820. FinCEN
+has determined that the appropriate penalty in this matter is $500,000.
+
+/s/
+12/14/16
+_
+Jamal El-Hindi
+Date
+Acting Director
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+U.S. Department of the Treasury
+
+4
+
+At the time of the MSB activity, Mexico, Pakistan, and Yemen were classified by the United States Department
+of State as “Countries of Primary Concern” or “Countries of Concern” in the 2012 United States Department of
+State International Narcotics Control Strategy Report, which classifies countries based on money laundering risk.
+See http://www.state.gov/documents/organization/185866.pdf.
+
+9
+
+

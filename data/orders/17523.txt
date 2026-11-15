@@ -1,0 +1,471 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+
+ZIONS FIRST NATIONAL BANK
+SAL T LAKE CITY, UTAH
+
+Under the authority of the Bank Secrecy Act ("BSA") and regulations issued pursuant to
+that Act, the Financial Crimes Enforcement Network ("FinCEN") of the Department of the
+Treasury has determined that grounds exist to assess a civil money penalty against Zions First
+National Bank, Salt Lake City, Utah ("Zions" or the "Bank").' Zions enters into the CONSENT TO
+THE ASSESSMENT OF CIVIL MONEY PENALTY ("CONSENT") without admitting or denying
+the determinations by FinCEN, as described in Sections ITI and IV below, except as to jurisdiction
+in Section IT below, which is admitted.
+The CONSENT is incorporated into this ASSESSMENT OF CIVIL MONEY PENALTY
+("ASSESSMENT") by this reference.
+
+Zions is a nationally chartered bank and subsidiary of Zions Bancorporation, a bank holding
+company headquartered in Salt Lake City, Utah. Zions has 130 domestic branches located in Utah
+and Idaho, along with one foreign office in Grand Cayman, Cayman Islands. As of June 30, 2010,
+Zions had over $16.9 billion in total assets.2 The Office of the Comptroller of the Currency of the
+U.S. Department of the Treasury is Zions' Federal functional regulator and examines Zions for
+compliance with the BSA, its implementing regulations, and similar rules under Title 12 of the
+United States Code.3
+
+31 U.S.c. § 5311 et seq. and 31 C.F.R. Part 103.
+See Consolidated Reports of Condition and Income for A Bank with Domestic and Foreign Offices - FFIEC 031
+("Call Report") for Zions First National Bank, Call Report Quarter End Date 6/3012010, Schedule RC Balance Sheet,
+Line 12 Total Assets.
+331 c.F.R. § 103.120(2)(ii). To determine which financial institutions are regulated by the Office of the Comptroller of
+the Currency visit www.ffiec.gov.
+I
+
+2
+
+At all relevant times, Zions was a "financial institution" and a "bank" within the meaning of
+the BSA and the regulations issued pursuant to that Act.4
+FinCEN may impose civil money penalties, or take additional enforcement action, against a
+financial institution for violations of the BSA and the regulations issued pursuant to that Act. 5
+
+FinCEN has determined that Zions violated the BSA requirements: to establish and
+implement an effective anti-money laundering ("AML") program with respect to its casas de
+cambio ("CDC") and foreign correspondent customers' account relationships; timely file Suspicious
+Activity Reports ("SARs"); and comply with the foreign correspondent account regulation(s).
+Zions' foreign correspondent business was initially handled by its Financial Institutions
+Group ("FIG"), and focused on Mexico and countries within Latin America. In January 2007, the
+Bank restructured its correspondent banking from FIG to an International Correspondent Banking
+Group ("ICB"). At its height, the Bank had 54 foreign correspondent relationships that included 19
+CDC accounts, 4 casas de bolsa (securities firms), 15 foreign banks-primarily
+from Latin
+America-and 3 foreign corporation customers. The services provided by the Bank to these
+customers included wire transfers, Automated Clearing House ("ACH") transactions, cash letter
+activity processed through remote deposit capture ("RDC") technology, and deposits.
+The Bank provided wire transfers, ACH transactions, deposits, RDC services and imaging
+for processing cash letter instruments to its foreign correspondent customers. The Bank launched
+its RDC product in January 2005 and realized a significant increase in activity involving its
+correspondent accounts in 2006 and 2007. In 2005, the volume of transactions using RDC
+exceeded hundreds of millions of dollars, and continued to increase into the billions of dollars in
+2007.
+At the beginning of 2008, Zions management terminated nearly all foreign correspondent
+customer accounts in an effort to address AML program deficiencies with respect to this business.
+FinCEN has determined that although management undertook corrective measures to address those
+AML program deficiencies, the Bank failed to meet its SAR reporting requirements and statutory
+obligations under the BSA with respect to foreign correspondent customers before terminating the
+accounts. Consequently, possible money laundering activities within the foreign correspondent
+accounts went undetected. These deficiencies resulted in violations of BSA regulations 31 C.F.R.
+§§ 103.18 (reports by banks of suspicious transactions) and 103.176 (due diligence programs for
+correspondent accounts for foreign financial institutions).
+As a result of the AML deficiencies relating to Zions' CDC and foreign correspondent
+customers, FinCEN has determined that the AML program at Zions was deficient in two of the four
+
+4 31 D.S.C.
+
+531
+
+§ 5312(a)(2) and 31 C.F.R. § 103.1l.
+D.S.C. § 5321 and 31 C.F.R. § 103.57.
+
+core elements required by 31 D.S.C. § 53l8(h)(1) and 31 C.P.R. § 103.120. Namely, the Bank
+failed to:
+•
+•
+
+establish and implement effective internal policies, procedures and controls; and
+designate personnel to ensure day-to-day compliance.
+
+Zions failed to implement an effective AML program for its foreign correspondent business
+reasonably designed to identify and timely report transactions that exhibited indicia of money
+laundering or other suspicious activity, considering the types of products and services offered by the
+Bank, the volume and scope of its business, and the nature of its customers. Zions failed to
+implement a program tailored to the risks inherent within its foreign correspondent business lines
+and geographical reach. As a result, Zions failed to timely file SARs representing billions of dollars
+in suspicious transactions, thus greatly diminishing the potential utility of such reports to both law
+enforcement and regulatory agencies.
+
+FinCEN has determined that Zions violated the requirement to establish and implement an
+adequate AML program with respect to its foreign correspondent business. Since April 24, 2002,
+the BSA and its implementing regulations have required banks to establish and implement an AML
+program.6 The BSA also requires that an AML program contain the following elements: (1) a
+system of internal controls; (2) independent testing for compliance; (3) the designation of an
+individual, or individuals, to coordinate and monitor day-to-day compliance; and (4) training for
+. personne I.7
+appropnate
+
+Zions failed to implement an effective system of internal controls reasonably
+designed to ensure compliance with the BSA and manage the risks of money laundering, in
+its CDC and foreign correspondent customers' accounts. Zions lacked adequate written
+policies, procedures and controls reasonably designed to assess the risks of money
+laundering and ensure the detection and reporting of suspicious transactions with respect to
+its CDC and foreign correspondent customers' accounts.
+Zions' policies, procedures and controls failed to ensure that the Bank gathered and
+reviewed sufficient information on CDC and foreign correspondent account customers to
+adequately assess risk and potential for money laundering. Before January 2007, business
+line employees were the only Bank personnel responsible for ensuring that customer due
+diligence information was obtained and analyzed for adequacy. Corporate compliance
+personnel advised and assisted employees of the business line in implementing a tracking
+process for required customer due diligence information to ensure the required customer
+documentation and information was obtained and, where necessary, verified, in a timely
+manner. Bank personnel consistently failed, however, to obtain the customer due diligence
+
+631 U.S.c. § 5318(h)(I) and 31 C.F.R. § 103.120.
+7 Id.; see also 12 C.F.R. § 208.63(c).
+
+information as required by Federal regulation.8 During two consecutive reviews completed
+by corporate compliance in April and December 2006, it was determined that management
+within the business line(s) had not performed customer due diligence sufficiently.
+Subsequently, a dedicated ICB compliance officer was hired in January 2007 to analyze due
+diligence information for the ICB customers, and implement exception tracking and
+reporting to ICB management related to insufficient and/or expired customer due diligence
+information.
+
+Zions utilized RDC to process certain deposit items from its non-United States
+correspondent accounts. RDC, a deposit-transaction delivery system, allows a financial
+institution to receive digital information from deposit documents captured at remote
+locations such as financial institution branches, ATMs, domestic and foreign
+correspondents, or locations owned or controlled by commercial or retail customers of the
+financial institution. In substance, RDC is similar to traditional deposit-delivery systems at
+financial institutions. However, RDC enables customers of financial institutions to deposit
+items electronically from locations globally.
+RDC introduces additional risks beyond traditional deposit-delivery systems because
+it enables a bank's customers to scan a check or monetary instrument and then send the
+scanned or digitalized image to the financial institution without the need for face-to-face
+transactions. This change in the interaction process for executing such transactions raises
+several challenges, including but not limited to: (i) the difficulty of determining in what
+jurisdiction the equipment is being used and by whom; (ii) development of internal controls
+to ensure transaction data and check images are not altered; and (iii) implementation of
+monitoring by qualified personnel for potentially fraudulent, sequentially numbered or
+altered money orders or traveler's checks.9
+Before the first quarter of 2007, the Bank did not have dedicated BSA Compliance
+personnel to oversee the monitoring of RDC transaction activity. Instead, the Bank
+employed only a part-time individual to review scanned RDC checks from the previous day
+to determine if they were payable to or payable from parties on OFAC lists. The part-time
+employee responsible for BSAI AML RDC review had a retail, not a compliance,
+background, with limited training in the review of cash letter activity.
+Prior to January 2007, Zions underestimated the risks posed by RDC activity, and
+did not provide for appropriate risk management or internal controls to address the
+underlying risks posed by the transaction activity. Furthermore, the Bank did not file SARs
+on any CDC transactions. Corporate security did not perform an in-depth review of the
+CDC activity until the first quarter of 2007, when a new BSA Compliance Officer was hired.
+At the time, FIG management acknowledged the AML monitoring systems in place made it
+difficult to obtain critical information on RDC deposits for compliance purposes because the
+831 C.F.R. § 103.176.
+BSNAML Examination Manual, 209-10 (April 29, 2010); see also FFIEC Guidance: Risk Management of
+Remote Deposit Capture (January 14,2009).
+
+9 See FFIEC
+
+system was unable to extract individual items from a total deposit. Consequently, the
+monitoring failed to identify receipt of large-denomination, sequentially numbered monetary
+instruments and commercial checks from foreign correspondent and CDC customer
+accounts, and receipt of small-denomination, non-sequentially ordered financial instruments
+from U.S. banks lacking usual ties to international business.
+Between 2005 and 2006, Zions did not file any SARs on high-risk CDC customers
+moving billions of dollars via RDC services. This is evidence that the Bank employed an
+insufficient number of alert investigators during a time when the volume and value of CDC
+customers' RDC activity increased from millions to billions of dollars. Zions failed to meet
+the increasing compliance demands posed by such activity by employing only one part-time
+employee to review over $5.4 billion in CDC activity deposited via RDC technology.
+
+In 2005, the Bank installed an automated transaction-monitoring system for its wire
+monitoring. According to bank management, before January 2007, any alerts generated by
+the transaction-monitoring system for CDC wire activity were considered reasonable and no
+SARs were filed. Corporate Security employees determined that the activity was expected
+and reasonable for CDC customers based on a limited review.
+Starting in January 2007, ICB's new Compliance Officer supplemented the
+transaction monitoring system with a manual-monitoring process that included a quarterly
+review of high-risk customers. Moderate-risk customers were reviewed semi-annually and
+low-risk customers were reviewed annually. The new procedures also called for ICB
+customers to be risk-assessed quarterly to identify any changes in customer-risk rating. In
+2007, due to this process, unusual or suspicious patterns of transaction activity involving the
+CDC relationships were immediately identified, which led Bank management to late-file 19
+SARs on CDC transactions totaling $37 million in SAR reportable activity.
+In the fourth quarter of 2007, the new Compliance Officer undertook a transaction
+review of CDC transaction activity and filed additional SARs. Starting in January 2008,
+monthly alerts generated were reviewed by the ICB compliance officer and analyzed in
+conjunction with the manual reports. In 2008, as a result of the improved monitoring
+processes and a transaction review, bank management late-filed a total of 40 SARs on CDC
+transactions.
+
+Each financial
+institution
+that establishes,
+maintains,
+administers, or manages a private banking account or a
+correspondent account in the United States for a non-United
+States person, including a foreign individual visiting the United
+States, or a representative of a non-United States person shall
+
+establish appropriate, specific, and where necessary, enhanced,
+due diligence policies, procedures, and controls that are
+reasonably designed to detect and report instances of money
+laundering through these accounts. [10]
+One of the central goals of Title III of the USA PATRIOT Act was to protect access
+to the United States financial system by requiring due diligence programs for foreign
+correspondent accounts. Foreign correspondent accounts, as noted in past United States
+Senate investigative reports and FinCEN guidance, are a gateway into the United States
+financial system. II Section 312 of the USA PATRIOT Act specifies additional standards for
+correspondent accounts maintained for certain foreign banks.12
+On January 4,2006, FinCEN published an interim final rule implementing the due
+diligence provisions of 31 U.S.c. § 5318(i)(1).13 Subsequently, on August 9,2007, FinCEN
+finalized the regulation with respect to correspondent accounts established or maintained for
+•
+4'
+•
+b an k s. 14
+certam
+lorelgn
+
+•
+•
+
+•
+
+•
+
+A foreign bank;
+Any foreign branch or office located outside the United States
+of any U.S. broker/dealer in securities, futures commission
+merchant or introducing broker, or mutual fund;
+Any other person organized under foreign law that, if located
+in the United States, would be a broker/dealer in securities,
+futures commission merchant or introducing broker, or mutual
+fund;
+Any person organized under foreign law that is engaged in the
+business of, and is readily identifiable as, a currency dealer or
+exchanger or a money transmitter.[l5]
+
+Banks are required to establish a due diligence program that includes appropriate,
+specific, risk-based, and, where necessary, enhanced policies, procedures, and controls that
+are reasonably designed to enable the bank to detect and report, on an ongoing basis, any
+known or suspected money laundering activity conducted through or involving any
+correspondent account established, maintained, administered, or managed by the bank in the
+United States for a foreign financial institution ("foreign correspondent account"). 16
+31 U.S.e. § 5318(i)(l).
+II See A Report by the Minority Staff of the Permanent Subcommittee
+on Investigations; Volume 1, Correspondent
+Banking: A Gateway for Money Laundering, 273 (February 5, 2001); Advisory, Issue 9 (November 1997); FinCEN
+Advisory, Issue 12 (June 1999); FinCEN Advisory FIN-2006-A003 (April 28, 2006); FinCEN Advisory FIN-2010AOOI (February 18,2010) available at www.fincen.gov.
+12 31 U.s.e.
+§ 5318(i).
+1331 C.F.R. § 103.176.
+10
+
+14
+15
+
+[d.
+
+31 e.F.R. § 103. 175(h).
+1631 e.F.R. § 103.176(a); see FFIEC BSAJAML Examination Manual, 109 (August 24, 2007).
+
+A bank's general due diligence program must include policies, procedures, and
+processes to assess the risks posed by the bank's foreign financial institution customers. A
+bank's resources are most appropriately directed at those accounts that pose a more
+significant money laundering risk. I? A bank's due diligence program should provide for the
+risk assessment of foreign correspondent accounts considering all relevant factors, including
+public information in standard industry guides, periodicals, and major publications, and, as
+appropriate:
+•
+•
+•
+
+•
+
+•
+
+The nature of the foreign financial institution's business and
+the markets it serves;
+The type, purpose, and anticipated activity of the foreign
+correspondent account;
+The nature and duration of the bank's relationship with the
+foreign financial institution (and, if relevant, with any affiliate
+of the foreign financial institution);
+The AML and supervisory regime of the jurisdiction that
+issued the charter or license to the foreign financial institution
+and, to the extent that information regarding such jurisdiction
+is reasonably available, of the jurisdiction in which any
+company that is an owner of the foreign financial institution is
+incorporated or chartered;
+Information known or reasonably available to the bank about
+the foreign financial institution's AML record.[18]
+
+Zions failed to establish appropriate, specific due diligence policies, procedures and
+controls reasonably designed to detect and report known or suspected instances of money
+laundering through its correspondent accounts for non-United States persons. The
+deficiencies in the Bank's customer-information and risk-assessment procedures prevented
+the Bank from focusing resources on correspondent accounts that posed a high risk of
+money laundering. 19
+Zions maintained correspondent accounts for high-risk CDCs in Mexico and Latin
+America readily identifiable as engaged in the business of currency dealing, currency
+exchange and money transmission. The CDCs' customers included Mexican centros
+cambiarios, dollar exchangers and money remitters. These entities in effect "nested" within
+the Mexican CDC accounts and Zions did not conduct due diligence and transaction
+monitoring on those accounts. "Nested" accounts result when a foreign financial institution
+gains access to the United States financial system by operating through a United States
+correspondent account belonging to another foreign financial institution. If the United
+States bank is unaware that its foreign correspondent financial institution customer is
+
+17See FFIEC BSA/AML Examination Manual, 123 (April 29,2010).
+31 C.F.R. § 103. I76(a)(2).
+
+18
+
+19 See Anti-Money Laundering Programs; Special Due Diligence Programs for Certain Foreign Accounts, 67 FR 4834850 (July 23, 2002).
+
+providing such access to third-party foreign financial institutions, these third-party financial
+institutions can effectively gain anonymous access to the United States financial system.20
+In summary, Zions failed to implement for its foreign correspondent business
+adequate policies, procedures, systems and internal controls reasonably designed to detect
+and report potential instances of known or suspected money laundering. This business
+covered 54 foreign correspondent relationships that included 19 CDC accounts, 4 casas de
+bolsa (securities firms), 15 foreign banks primarily in Latin America and 3 foreign
+corporation customers. Such measures would have enabled Zions to obtain due diligence
+information on these customers, satisfying the BSA due diligence requirement, and
+determine whether related transactions conducted in the United States were commensurate
+with the customers' normal range or expected range of conduct, or lacked any apparent
+business or lawful purpose. The Bank's line of business failed to consistently obtain
+sufficient due diligence information for foreign correspondent customers in accordance with
+the BSA.21 Monitoring of foreign correspondent remote deposit capture and wire
+transaction activity, from the period of 2005 to first quarter of 2007, was seriously deficient.
+Zions did not file any SARs on CDC activity before 2007.
+The failure of Zions to contemporaneously identify billions of dollars in suspicious
+activity and timely file SARs on CDC transaction activity involving wire transfers and
+remote deposit capture supports the conclusions about the Bank's failures during this period
+concerning its BSA compliance program for correspondent customers and the Bank's SAR
+monitoring processes. This lack of adequate policies, procedures, and processes covering
+customer due diligence and monitoring for the Bank's former foreign correspondent
+customers results in a violation of 31 c.F.R. § 103.176 and related implementing
+regulation( s).
+
+Zions failed to adequately staff the BSA compliance function at the Bank with
+individuals responsible for coordinating and monitoring day-to-day compliance with the
+BSA with respect to its CDC and foreign correspondent customers. During 2005 and 2006,
+the Bank lacked adequate personnel to monitor for the risk of money laundering and noncompliance with the BSA. The alerts generated from wire transfer activity by the
+monitoring system were reviewed and managed by personnel in Corporate Security without
+inclusion of compliance personnel. In 2006, the total number of full-time employees
+responsible for monitoring alerts was increased from four to six. Later that year,
+modifications to the transaction-monitoring system used to filter the transactions for further
+investigation required the number of full-time employees assigned to this function to
+increase further to nine. Until the first quarter of 2007, the Bank did not employ a dedicated
+BSA Compliance Officer overseeing the monitoring of RDC transaction activity. The Bank
+lacked a sufficient number of staff to properly monitor high-risk activity in the CDC and
+foreign correspondent customer business areas. Prior to the first quarter of 2007, the Bank
+employed only one part-time individual whose responsibility it was to review billions of
+20 See FFIEC
+21
+
+BSAI AML Examination Manual, 171 (August 24, 2007).
+See 72 FR 44772, 44768-75 (August 9,2007).
+
+dollars in scanned RDC checks. The Bank's failure to provide adequately qualified,
+designated personnel limited its ability to initiate and complete its internal investigations and
+file complete, accurate, and timely SARs.
+
+Zions violated the suspicious transactions reporting requirements of the BSA and its
+implementing regulations.22 These reporting requirements impose an obligation on financial
+institutions to report transactions that involve or aggregate to at least $5,000, are conducted by, at,
+or through the financial institution, and that the financial institution "knows, suspects, or has reason
+to suspect" are suspicious.23 A transaction is suspicious if the transaction: (1) involves funds
+derived from illegal activities, or is conducted to disguise the funds derived from illegal activities;
+(2) is designed to evade reporting or recordkeeping requirements under the BSA; or (3) has no
+business or apparent lawful purpose or is not the sort in which the particular customer would
+normally be expected to engage, and the financial institution knows of no reasonable explanation
+for the transaction after examining the available facts, including the background and possible
+.
+24
+purpose 0f th e transactIOn.
+Financial institutions must report suspicious transactions by filing SARs, generally no later
+than 30 calendar days after detecting the facts that may constitute a basis for filing a suspicious
+report. If no suspect was identified on the date of detection, a bank may delay the filing for an
+additional 30 calendar days in order to identify a suspect. However, in no event may the bank file a
+SAR more than 60 days after the date of detection.25 In this case, the failure to have in place
+adequate procedures and internal controls to monitor for and detect suspicious activity when the
+activity took place is what initially prevented, and ultimately delayed, the timely reporting of
+suspicious activity.
+Zions violated the SAR filing requirements of 31 U.S.C. § 5318(g) and 31 c.F.R. § 103.18
+by failing to timely file a total of 132 SARs, representing over $12.3 billion in suspicious activity.
+The failure to adequately conduct due diligence relative to foreign correspondent accounts, and the
+absence of effective internal policies, procedures and controls, and designated compliance
+personnel, resulted in numerous violations of the requirement to timely and accurately report
+suspicious activity, as required by the BSA. These suspicious activities involved, among other
+things, sequentially numbered travelers checks, possible black market peso exchange, transactions
+involving entities and accounts alleged to have been involved in drug trafficking activities and
+unusual wire transfers. The Bank's monitoring systems failed to identify this activity and,
+consequently, this resulted in late-filed SARs that included transactions which took place years
+earlier, in 2005 and 2006.
+
+2231
+
+D.S.C. § 5318(g) and 31 C.F.R. § 103.18.
+§ 103.18(a)(2).
+2431 c.F.R. § 103. I 8(a)(2)(i)-(iii).
+25
+31 C.F.R. § 103.18(b)(3); see also SAR Activity Review-Trends, Tips and Issues, Issue 14,36-9 (October 28,2008);
+SAR Activity Review-Trends, Tips and Issues, Issue 10,44-6 (May 2006); SAR Activity Review-Trends, Tips and
+Issues, Issue 27-8 (October 2000) available at www.fincen.gov.
+23 31 C.F.R.
+
+Zions processed funds transfers that, at times, exhibited patterns commonly associated with
+money laundering, including the nature of the business; were from an originator and/or beneficiary
+located in a high-risk geographic location; and lacked any business or apparent lawful purpose or
+were inconsistent with the normal and expected transactions for actual or similar customers. The
+absence of effective internal controls and properly trained designated personnel resulted in
+numerous violations of the requirement to report suspicious transactions in a timely manner.
+Zions, via its third-party consultants, conducted a voluntary transaction review on the
+activity of the CUC and foreign correspondent customers covering the period of 2005 to 2008.
+Specific to this review 20 SARs were filed in November 2008 with aggregate reportable suspicious
+transaction activity totaling $11.5 billion. Adequate BSA compliance measures for non-United
+States correspondent relationships could have enabled Zions to detect and report suspicious
+transactions through these accounts in a timely manner, making the information contained within
+the reports available to law enforcement and bank regulators for the initiation or support of ongoing
+law enforcement investigations.
+
+As noted in Section II above, FinCEN may impose civil money penalties against a financial
+institution for violations of the BSA and the regulations implementing that Act.26 FinCEN has
+determined that a civil money penalty is due for the violations of the BSA and the regulations issued
+pursuant to that Act as described in this ASSESSMENT.
+After considering the seriousness of the violations and the financial resources available to
+Zions, FinCEN has determined that the appropriate penalty in this matter is $8,000,000.
+
+To resolve this matter, and only for that purpose, Zions, without admitting or denying either
+the facts or determinations described in Sections III and IV above, except as to jurisdiction in
+Section II, which is admitted, consents to the assessment of a civil money penalty in the sum of
+$8,000,000. This assessment is being issued concurrently with an $8,000,000 civil money penalty
+assessed by the Office of the Comptroller of the Currency against Zions. The penalty assessed by
+FinCEN shall be deemed fully satisfied by the single payment of $8,000,000 to the Department of
+the Treasury.
+Zions recognizes and states that it enters into the CONSENT freely and voluntarily and that
+no offers, promises, or inducements of any nature whatsoever have been made by FinCEN or any
+employee, agent, or representative of FinCEN to induce Zions to enter into the CONSENT, except
+for those specified in the CONSENT.
+Zions understands and agrees that the CONSENT embodies the entire agreement between
+Zions and FinCEN relating to this enforcement matter only, as described in Section III above.
+Zions further understands and agrees that there are no express or implied promises, representations,
+or agreements between Zions and FinCEN other than those expressly set forth or referred to in the
+
+CONSENT or in this ASSESSMENT. Neither the CONSENT nor this ASSESSMENT are binding
+on any other agency of government, whether Federal, State, or local.
+
+Zions understands that execution of the CONSENT, and compliance with the terms of this
+ASSESSMENT and the CONSENT, constitute a complete settlement and release of the Bank's civil
+liability for the violations of the BSA and regulations issued pursuant to that Act as described in the
+CONSENT and this ASSESSMENT against the Bank.
+
+x#~w::
+
+James H. Freis, Jr., Director
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+U.S. Department of the Treasury
+
+

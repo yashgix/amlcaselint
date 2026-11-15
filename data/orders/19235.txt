@@ -1,0 +1,678 @@
+UNITED STATES OF AMERICA
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+DEPARTMENT OF THE TREASURY
+
+IN THE MATTER OF:
+
+Capital One, National Association
+McLean, Virginia
+
+)
+)
+)
+)
+)
+)
+
+Number 2021-01
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+The Financial Crimes Enforcement Network (FinCEN) has determined
+that grounds exist to assess a civil money penalty against Capital One, National
+Association (CONA or the Bank), pursuant to the Bank Secrecy Act (BSA) and
+regulations issued pursuant to the BSA.1
+CONA has admitted to the facts set forth below and that its conduct violated
+the BSA. CONA has consented to the assessment of a civil money penalty and
+entered into a CONSENT TO THE ASSESSMENT OF CIVIL MONEY PENALTY
+(CONSENT) with FinCEN. The CONSENT is incorporated into this ASSESSMENT
+OF CIVIL MONEY PENALTY (ASSESSMENT) by reference.
+JURISDICTION
+At all times relevant to this ASSESSMENT, CONA was a “financial institution”
+and a “bank” within the meaning of the BSA and its implementing regulations.2
+FinCEN has the authority to impose civil money penalties on financial institutions,
+including banks, that violate the BSA.3
+1.
+The BSA is codified at 31 U.S.C. §§ 5311-5314, 5316-5332, and 12 U.S.C. §§ 1829b, 1951-1959. Regulations implementing the BSA appear at 31 C.F.R. Chapter X.
+2.
+31 U.S.C. § 5312(a)(2)(A); 31 C.F.R. §§ 1010.100(d)(1), 1010.100(t)(1).
+3.
+31 U.S.C. § 5321(a); 31 C.F.R. § 1010.810(d).
+
+–1–
+
+DETERMINATIONS
+FinCEN has determined that CONA violated certain of its BSA obligations
+for a particular business unit, namely, its Check Cashing Group (CCG), from in or
+about 2008 through in or about 2014. As described below in the Statement of Facts,
+CONA willfully failed to establish and maintain an effective anti-money laundering
+(AML) program to guard against money laundering within the CCG. Further, CONA
+willfully4 failed to accurately and timely file suspicious activity reports (SARs) on
+suspicious transactions associated with the CCG. Last, CONA negligently failed to
+timely file currency transaction reports (CTRs) for the CCG. CONA’s violations of
+its BSA obligations resulted in the failure to accurately and timely report millions of
+dollars in suspicious transactions, including proceeds connected to organized crime,
+tax evasion, fraud, and other financial crimes laundered through the Bank into the
+U.S. financial system.
+STATEMENT OF FACTS
+The following facts took place beginning in or about 2008 and continuing until
+in or about 2014 (the relevant time), unless otherwise indicated.
+Background
+The BSA
+The BSA requires banks to implement and maintain an effective AML program
+in order to guard against money laundering.5 Additionally, the BSA imposes
+affirmative duties on banks such as CONA, including the duty to identify and report
+
+4.
+In civil enforcement of the BSA under 31 U.S.C. § 5321(a)(1), to establish that a financial institution or individual acted willfully, the government need only show that the financial institution or individual acted with either reckless disregard or willful blindness. The government need not show that the
+entity or individual had knowledge that the conduct violated the BSA, or that the entity or individual
+otherwise acted with an improper motive or bad purpose. CONA admits to “willfulness” only as the
+term is used in civil enforcement of the BSA under 31 U.S.C. § 5321(a)(1).
+5.
+31 U.S.C. § 5318(h); 31 C.F.R. § 1020.210; 12 C.F.R. § 21.21.
+
+–2–
+
+suspicious transactions in SARs filed with FinCEN and identify and report certain
+currency transactions in CTRs filed with FinCEN.6 The reporting and transparency
+that financial institutions provide through these reports is essential financial
+intelligence that FinCEN, law enforcement, and others use to safeguard the U.S.
+financial system and combat serious threats, including money laundering, terrorist
+financing, organized crime, corruption, drug trafficking, and massive fraud schemes
+targeting the U.S. government, businesses, and individuals.7
+The Financial Crimes Enforcement Network (FinCEN)
+FinCEN is a bureau within the U.S. Department of the Treasury and is the
+federal authority that enforces the BSA by investigating and imposing civil money
+penalties and compliance measures on financial institutions, nonfinancial trades
+or businesses, and individuals for willful and negligent violations of the BSA. As
+delegated by the Secretary of the Treasury, FinCEN has “[o]verall authority for
+enforcement and compliance, including coordination and direction of procedures
+and activities of all other agencies exercising delegated authority under this
+chapter” and its implementing regulations, including the Office of the Comptroller
+of the Currency (OCC).8
+The Office of the Comptroller of the Currency (OCC)
+The OCC is a federal banking agency within the U.S. Department of the
+Treasury that has both delegated authority from FinCEN and some autonomous
+authority under Title 12 of the United States Code to examine national banks for
+compliance with the BSA. Under these authorities, it conducts regular examinations
+and issues reports assessing national banks’ BSA compliance.9
+6.
+31 U.S.C. § 5313; 31 C.F.R. §§ 1010.311, 1020.320(a).
+7.
+FinCEN, FIN-2014-A007, FinCEN Advisory to U.S. Financial Institutions on Promoting a Culture of
+Compliance (Aug. 11, 2014).
+8.
+31 C.F.R. § 1010.810(a).
+9.
+12 U.S.C. § 1818(s)(2); 12 C.F.R. § 21.21.
+
+–3–
+
+Capital One, National Association (CONA)
+CONA is a wholly owned subsidiary of Capital One Financial Corporation
+(COFC), a Delaware corporation and bank holding company headquartered in
+McLean, Virginia. COFC is one of the nation’s largest banks and takes an enterprisewide approach to its BSA/AML obligation. CONA provides a broad spectrum
+of banking products and financial services to consumers, small businesses, and
+commercial clients throughout the U.S. and is regulated by, among other regulators,
+the OCC. CONA is a “financial institution” and a “bank” within the meaning of the
+BSA and its implementing regulations.10
+CONA’s Check Cashing Group (CCG)
+In December 2006, COFC acquired North Fork Bank (NFB), including NFB’s New
+York and New Jersey check cashing customers. NFB merged into CONA on August
+1, 2007, and by 2008 CONA established the CCG as part of its Middle Market Lending
+group within its Commercial Bank. CONA operated the CCG until it made the decision
+to exit this business line in December 2013, and ultimately exited in 2014. CONA was
+responsible for ensuring that it met the BSA’s legal requirements in banking the CCG.11
+The CCG customer base included a range of between approximately 90 and
+150 New York- and New Jersey-area check cashers that usually operated storefront
+locations and conducted check cashing as their primary business. CCG customers
+cashed checks by providing cash in exchange for paper checks from individuals
+(known as retail checks) and from business entities (known as corporate checks)
+and charged a fee for this service. CONA provided banking services to the CCG
+including, among other things, processing checks deposited by CCG customers and
+providing CCG customers with armored car cash shipments. CCG customers used
+10.
+31 U.S.C. § 5312(a)(2)(A); 31 C.F.R. §§ 1010.100(d)(1), 1010.100(t)(1).
+11.
+The BSA separately requires check cashers (and other money services businesses) to have their
+own AML programs, file CTRs, and register with FinCEN.
+
+–4–
+
+over 1,000 CONA accounts related to their check cashing businesses, including to
+deposit checks they cashed. CONA also provided CCG customers with the currency
+needed to cash checks, which was mostly delivered via armored car shipments.
+AML PROGRAM VIOLATIONS
+In order to guard against money laundering, the BSA and its implementing
+regulations require each financial institution to establish an AML program that
+includes at a minimum: (a) the development of internal policies, procedures, and
+controls; (b) designation of a compliance officer; (c) an ongoing employee training
+program; and (d) an independent audit function to test programs.12 As further
+described below, CONA willfully violated the BSA’s AML Program requirements
+from in or about 2008 until in or about 2014.
+Early Warnings
+CONA built its Retail and Commercial Bank lines of business primarily by
+virtue of a series of acquisitions of regional banks, beginning with the acquisition
+of Hibernia Bank (Hibernia) in November 2005 and the acquisition of NFB in
+December 2006.13 Hibernia and NFB began operating under CONA’s name in April
+2006 and March 2008, respectively. Prior to CONA’s acquisitions of and mergers
+with Hibernia and NFB, federal and state bank regulators identified deficiencies in
+the AML programs at both banks, including weaknesses in transaction monitoring,
+
+12.
+31 U.S.C. § 5318(h); 31 C.F.R. § 1020.210 (prior to July 2016 amendments).
+13.
+In April 2005, FinCEN and the federal banking agencies issued interpretive guidance on providing banking services to MSBs such as check cashers that states, “as with any category of accountholder,
+there will be [MSBs] that pose little risk of money laundering and those that pose significant risk.” This
+guidance specifically states that “banking organizations that open and maintain accounts for [MSBs]” are
+expected to apply the BSA requirements, “as they do with all accountholders, on a risk-assessed basis.”
+In order to properly assess risk, the bank should know the types of services the MSB accountholder engages in, such as if the customer’s primary business is derived from check cashing. The FinCEN guidance
+states, “a check casher that cashes any type of third-party check or cashes checks for commercial enterprises (which generally involve larger amounts)” presents a higher risk of money laundering. FIL-322005, Interagency Interpretive Guidance on Providing Banking Services to Money Services Businesses in
+the United States (Apr. 26, 2005).
+
+–5–
+
+suspicious activity identification, and CTR filing. Further, around the time of
+CONA’s acquisition of NFB, the OCC notified CONA personnel of certain AML
+risks associated with banking the CCG. Then, in 2008, New York County indicted a
+CCG customer and its President and owner for various charges directly related to its
+business operations. CONA responded to these issues and risks by implementing
+certain AML controls, but these efforts, as further described below, failed to effectively
+address the illicit finance risk associated with the CCG.
+Establishment of AML Program
+After acquiring and incorporating NFB and Hibernia, CONA internally
+acknowledged having significant “residual AML risk attributable to inadequate AML
+internal controls.” To address the deficiencies identified by its regulators, CONA
+hired BSA/AML officers to build out an enterprise-wide AML program befitting
+CONA’s consolidated operations. Over time, these officers produced enterprisewide AML policies, procedures, and process controls. However, these controls and
+procedures were inadequate to address the money laundering risk associated with
+the CCG, were inconsistently and ineffectively implemented for CCG customers, were
+plagued by a number of technical failures that were not promptly addressed, and
+gave too much credence to dubious explanations from the business line about CCG
+banking activity, all of which ultimately resulted in a failure to guard against money
+laundering and other criminal and suspicious activity.
+Customer Due Diligence and Reviews
+A bank’s management should have a thorough understanding of the money
+laundering risks of its customer base. Further, as part of its AML processes, a bank
+should stay apprised of changes within the industry, business models, and customer
+profiles and patterns that impact the source, nature, or purpose of a customer’s
+transactional activity; understand red flag indicators; and act on information learned
+–6–
+
+through the AML process. A bank should combine all of its knowledge about its
+customers’ industries, legitimate business models, individual occupations and
+activity, and money laundering indicators to assess money laundering risks and
+apply appropriate risk ratings. Those risk ratings can then aid a bank in assessing
+the appropriate basis for due diligence and ongoing transaction monitoring for its
+customers.
+In mid-2008, CONA connected certain CCG customer information to its
+enterprise-wide automated AML monitoring system, which rated customers based
+on their overall risk for money laundering. CONA used a risk scoring system based
+on points it assigned for various factors. Based on the risk of the industry and
+geographic location, CCG customers automatically received a baseline number of
+points placing them in the highest risk category. One such review conducted in 2010
+identified 6,000 Bank customers at highest risk for money laundering. Most CCG
+customers ranked in the top 100 of these highest risk customers, including C&F Inc.
+(C&F), a Domenick Pucillo (Pucillo) check cashing entity that was the highest risk
+among the CCG at number 21 for the entire bank.14
+CONA used the customer scores for different purposes, including semi-annual
+high-risk customer reviews, which was CONA’s greatest frequency for regular AML
+reviews. While these semi annual high-risk customer reviews did focus on identifying
+if the customer had negative news on them, assessing account activity, comparing the
+historic dollar volume to the current dollar volume to assess the reasonableness of the
+CCG customer’s transaction activity, and sampling checks within the CCG account,
+they failed to fully enable CONA to understand the nature and legitimacy of their
+customers’ activity and patterns therein.
+
+14.
+
+If one aggregates ties, C&F’s rank increases to 18.
+
+–7–
+
+Specifically, CONA developed and relied on a macro that aggregated debits
+and credits for the CCG customer under review and then compared the macro
+information with a sample of historic transactional dollar volume to determine
+if the customer’s activity was “consistent” or if it had a statistically significant
+deviation in transaction volume. As long as the activity appeared to be related to
+the business model—such as a check casher depositing checks—or had a ready
+explanation for deviations outside the “consistent” volume marker, the activity
+was deemed “reasonable” and the initial high-risk alert was closed without further
+action. Although CCG accounts were reviewed again after initial reviews, often
+these further reviews were perfunctory, relying too heavily on the results of the
+macros and comparisons to past activity, without taking additional investigative
+steps or incorporating additional knowledge about the customers. As a consequence,
+CONA failed to detect red flags or follow up appropriately on potential indications
+of suspicious activity. In other words, CONA improperly used consistency as the
+primary benchmark for reasonableness, overlooking the nature or apparent lawful
+purpose of their customer’s underlying activity and the patterns therein.
+The CCG’s Large Item Report (LIR)
+In 2010, CONA developed an additional specialized tool and process unique
+to the CCG business unit which came to be known as the Large Item Report (LIR).
+The LIR was a CCG specific data filtering exercise designed to provide insight into
+larger checks (>$9,000) cashed by CONA’s CCG customer’s customers (the check
+casher’s patrons) to assist CONA’s AML analysts with the identification of potentially
+suspicious activity. However, CONA’s implementation of the LIR was deficient.
+In December 2010, CONA made a change to the way its transactional data
+streams were coded for all customers, which caused checks cashed at several CCG
+customers, including Dependable Check Cashing Corporation (Dependable) and all
+–8–
+
+of Pucillo’s check cashing businesses (despite his status as the highest risk customer
+in the CCG and among the highest-risk customers at CONA overall) to not appear on
+the LIR until 2013. Then in August 2012, CONA made a generally-applicable coding
+change, which caused all of the remaining CCG customer data streams to disappear
+from the LIR. Although AML analysts flagged this problem for technical support in
+September 2012 upon identifying the issue, the LIR was not repaired until July 2013,
+at which point CONA voluntarily commenced a lookback of the transactions that fit
+the criteria for LIR review when the LIR had not been operational. As a result, from
+August 2012 until July 2013, the LIR was wholly inoperative.
+AML Compliance Determinations
+CONA’s process for investigating suspicious transactions for the CCG was
+weak, and resulted in the failure to fully investigate and report suspicious conduct.
+For example, from at least January 2009 through December 2013, AML analysts
+repeatedly identified suspicious activity—variously described as “a medical fraud
+ring,” “excessive corporate check cashing,” “high dollar checks,” and “structured
+third-party checks”— within at least 30 CCG customers’ accounts. However, as part
+of its ordinary AML process, AML management routinely instructed analysts to
+contact CONA’s relationship manager for the CCG business line to obtain additional
+information and guidance regarding CCG related transactions. In turn, the business
+line often suggested vague and implausible explanations for the CCG activity, such
+as: “CTRs filed as necessary,” “making payroll,” “hurricane Sandy work,” “known
+to customer,” “a high number of customers in February because of tax refunds being
+cashed at the stores,” “Uptick in Corporate Check Cashing,” “Fewer days in the
+month,” and “Aggressively looking to manage down excess currency.” At times,
+CONA’s AML analysts accepted such justifications from the CCG business line at face
+
+–9–
+
+value, which limited their ability to perform effective AML scrutiny and file robust
+SARs. As a consequence, CONA failed to fully investigate much of this activity, or
+report it to FinCEN as suspicious.
+Unfiled SARs and CTRs
+In addition to the above AML program failures, the AML failures that resulted
+in the below willful failures to timely and accurately file SARs and the negligent
+failure to file CTRs, and the failure by CONA to timely identify such failures, also
+establish the AML program violations.
+SAR FILING VIOLATIONS
+Background
+The BSA and its implementing regulations require banks to report transactions
+that involve or aggregate to at least $5,000, are conducted by, at, or through the bank,
+and that the bank “knows, suspects, or has reason to suspect”15 are suspicious. A
+transaction is “suspicious” if it: (a) involves funds derived from illegal activities,
+or is conducted to disguise funds derived from illegal activities; (b) is designed
+to evade the reporting or recordkeeping requirements of the BSA or regulations
+under the Act; or (c) has no business or apparent lawful purpose or is not the sort
+in which the customer normally would be expected to engage, and the bank knows
+of no reasonable explanation for the transaction after examining the available facts,
+including background and possible purpose of the transaction.16 A bank is generally
+required to file a SAR no later than 30 calendar days after the initial detection by the
+bank of the facts that may constitute a basis for filing a SAR.17
+
+15.
+16.
+17.
+
+31 U.S.C. § 5318(g); 31 C.F.R. § 1020.320.
+31 C.F.R. § 1020.320(a)(2)(i)-(iii).
+31 C.F.R. § 1020.320(b)(3).
+
+– 10 –
+
+FinCEN, law enforcement, and other regulators rely on financial institutions’
+accurate and timely filing of SARs. To accurately report a SAR, parties involved in
+the suspicious activity being reported on should be identified as a subject of the SAR.
+Investigators use names and other identifiers to retrieve relevant records related to
+the subjects and targets of an investigation. Failure to file BSA reports hampers an
+investigator’s ability to identify relevant records. Additionally, filing SARs without
+properly identifying the subjects (i.e., mischaracterizing customers as victims) can
+obfuscate the true nature of the activity and those involved.
+As a consequence of its AML program failures, CONA failed to accurately
+and timely file SARs on its CCG customers. Indeed, CONA filed no SARs on its
+CCG customer activity until October 2009, and thereafter CONA often failed to
+detect and report suspicious activity by the check cashers themselves, even as it
+detected and reported activity by the check casher’s customers. Last, and as further
+described below, during the relevant period CONA failed to file SARs even when
+it had direct knowledge of certain CCG customers’ indictments and guilty pleas for
+criminal activity associated with their check cashing operations flowing through the
+Bank’s accounts.
+Domenick Pucillo: Genovese Organized Crime Family
+Domenick Pucillo was one of the largest check cashers in the New York-New
+Jersey area. At times, he owned or controlled at least six check cashing entities, all of
+which were CCG customers. These entities combined made Pucillo the fourth largest
+CCG customer. In May 2019, Pucillo pleaded guilty to conspiring to commit money
+laundering in connection to loan sharking and illegal gambling proceeds that flowed
+through his CONA accounts as an associate of the Genovese organized crime family.
+Summarized below are examples of Pucillo’s check cashing activity that CONA failed
+to accurately and timely report in SARs filed with FinCEN.
+– 11 –
+
+New Jersey Money Laundering
+In March 2010, an AML analyst identified 30 “checks of interest” for C&F.
+The “checks of interest” were corporate checks and all dated in October 2009. They
+had a total value of over $1 million and appeared, based on the payee names, to
+be related to the construction industry. The checks ranged in value from $2,500 to
+$475,000. Six checks were each for round dollar amounts of $10,000 and one check
+was for exactly $100,000. On the back of two checks was an endorsement stamp
+containing an individual’s name and the name of a company, as well as the CONA
+account number into which the checks were to be deposited. Seventeen of the
+checks were payable to the same payee from 10 different payors with a total value
+of $217,205. Of these, four checks were from the same payor, had the same date,
+were all for $10,000, and were sequentially numbered. These transactions displayed
+clear red flags of illicit activity. The AML analyst raised these issues, but ultimately
+CONA failed to file a SAR on this conduct.
+As CONA developed the LIR, it generated a report showing all checks cashed
+valued at over $9,000 during August and September 2010 for internal use. This report
+showed that Pucillo entities cashed over $14 million in checks of this size in just two
+months—the highest of all CCG customers. Despite this status and his status as
+among the highest-risk customers for money laundering at CONA, Pucillo entities did
+not appear on the LIR following the initial 2010 report until July 2013, when all CCG
+customers’ transaction data streams were added to the report code.
+Pucillo’s Law Enforcement Activity
+CONA was repeatedly made aware of Pucillo’s connection to and participation
+in criminal activity, yet CONA failed to timely file SARs on any suspicious conduct
+by Pucillo. For example, in January 2012, Pucillo purchased a Florida check cashing
+business and opened CONA accounts for it. By March 2012, CONA received notice
+– 12 –
+
+that a Miami armored car company it used had received a court order to freeze
+Pucillo’s CCG accounts relating to this business. In July 2012, CONA placed a
+temporary hold on Pucillo’s account after the Florida’s Workers Compensation Fraud
+task force seized approximately $1 million from the entity’s CONA deposit accounts.
+Then, on January 8, 2013, AML analysts learned that Pucillo was facing
+potential charges for money laundering in New Jersey, and notified AML
+management. In March 2013, AML analysts also learned, and notified AML
+management, that Pucillo had been arrested in February on separate charges arising
+out of Florida for his role as one of the ringleaders in a large-scale check cashing
+scheme to evade the cost of workers’ compensation coverage, related to the above
+seizure by the Florida’s Workers Compensation Fraud task force. Although the
+Florida actions against Pucillo were later dropped, the New Jersey proceedings
+continued. Despite this information, from this point until December 13, 2013, CONA
+allowed Pucillo’s entities to conduct over 20,000 transactions valued at approximately
+$160 million through 23 CONA deposit accounts, including cash withdrawals. During
+this approximate one-year window, CONA failed to formally identify or report any
+suspicious activity naming Pucillo or his entities.
+Unregistered MSB Transactions
+From 2008 through 2012, Pucillo used one of his CONA accounts to deposit
+checks received through an unregistered check bundler—an account not connected
+to the LIR. Transactions through this account displayed red flags of suspicious
+activity. The largest check was for $475,000—and the payee subsequently pleaded
+guilty to state tax evasion charges. In addition, Pucillo was both the check payor and
+payee for 58 checks valued at $6.9 million deposited through this account. Of these,
+26 checks were for amounts of $100,000 or more with the highest check for $618,000.
+This practice of writing a check to himself is unusual given that Pucillo routinely
+– 13 –
+
+transferred funds between his entities’ accounts, and using this method would incur
+additional fees from CONA. This activity is a red flag and can indicate check kiting
+and other suspicious activity. CONA did not timely file SARs on this activity.
+Pucillo AML Monitoring
+During 2011 through 2013, the Bank’s enterprise-wide AML monitoring system
+generated 75 alerts related to just three Pucillo check cashing entities, which were
+reviewed by AML staff. Additionally, nine semi-annual and annual high-risk reviews
+were conducted for these three customers in this time period; the most recent review
+for each customer deemed account activity to be “reasonable.” A total of 17 alerts
+related to law enforcement activity were triggered, but CONA concluded that all of
+this activity was reasonable. Fifty nine of the 75 alerts resulted in SAR filings, but
+none named Pucillo as a subject. Fifty-three of the 59 SAR filings involved returned
+check items that identified Pucillo as a victim (not a subject), and six related to a
+voluntary look-back after his data was first connected to the LIR in August 2013. On
+December 12, 2013, CONA filed a SAR naming Pucillo as a subject of activity flowing
+through his accounts—the first time since Pucillo became a CONA customer in 2007.
+Goldberg Group: Criminal Charges
+CONA was also made aware of criminal charges against other CCG customers.
+In July 2009, CONA became aware of a 186-count indictment filed against the
+Goldberg Group of check cashers (Veil Check Cashing Corp; Vale Checking of New
+York, Inc.; Tompkins Express Check Cashing Corp.; and GEM Check Cashing Corp.,
+each of which was a CONA CCG customer) and their principal owner, Charles
+Goldberg. The indictment specifically alleged that from October 2006 to July 2008,
+the Goldberg Group falsified business records, concealed structured transactions,
+and either falsified or failed to file CTRs. The indictment further alleged that during
+this two-year period, a check bundler cashed approximately $40 million in checks
+– 14 –
+
+from 389 construction-related companies through the Goldberg Group. On or about
+July 29, 2009, Charles Goldberg met in-person with CONA managers, admitted his
+involvement in the criminal activity charged in the indictment, and informed them
+that he had entered into a plea agreement with the government. Further, in December
+of 2009, law enforcement activity triggered an AML review on a Goldberg entity.
+This review was closed in January 2010 without filing a SAR with the justification
+of “activity appears reasonable for a check casher.” While CONA did take some
+remedial measures with respect to the ongoing operations of the Goldberg Group,
+CONA did not file a SAR on the Goldberg Group’s criminal activity detailed in the
+indictment until eight years after the conduct, in March 2017.
+Dependable: Criminal Charges
+Dependable was a Brooklyn, New York-based check casher and CONA CCG
+customer. In August 2012, CONA managers learned that a manager at Dependable had
+been indicted in the United States District Court for the Southern District of New York,
+along with two other individuals, on charges relating to Dependable’s business that
+included conspiracies to commit money laundering, evade CTR reporting requirements,
+and engage in unlicensed money transmitting. The indictment covered activity from
+2008 to 2012 and described a Dependable manager permitting individuals who acted as
+check bundlers to cash third-party checks made out to shell companies. The indictment
+also stated that the manager provided check brokers with the names of shell companies
+to use as payees on checks, then charged the check brokers a fee—at times greater than
+2%—to cash the third-party checks. The Dependable manager instructed and permitted
+check brokers to structure currency transactions. The three co-defendants each pleaded
+guilty in the spring of 2013. While CONA did undertake some remedial measures
+with respect to the ongoing operations of Dependable, CONA did not file any SARs on
+Dependable or its owners until July 2014.
+– 15 –
+
+CTR FILING VIOLATIONS
+The BSA and its implementing regulations impose an obligation on financial
+institutions to file a report of each deposit, withdrawal, exchange of currency, other
+payment or transfer, by, through, or to such financial institution, which involve
+a transaction in currency of more than $10,000, including multiple transactions
+that aggregate to more than $10,000.18 A bank must file a CTR within 15 days
+after the transaction is conducted.19 FinCEN has repeatedly and publicly affirmed
+that accurate, complete, and timely CTRs are critical to the utility of BSA data in
+combating financial crimes, terrorist financing and other illicit activity.
+Between in or about January 2006 and March 2008, during the course of
+the acquisition of NFB and Hibernia and their integration into CONA, CONA
+experienced several errors with their CTR reporting system. FinCEN issued a
+warning letter and admonished CONA to accurately and timely file its CTRs and
+noted in its formal communications that the bank’s compliance history could be
+considered by FinCEN in the future. CONA was thereafter negligent in ensuring
+that it filed all CTRs related to the CCG. Specifically, CONA utilized an internal
+system that assigned a “cash” code for customer withdrawals to effectuate CTR
+filings. In designing its system, CONA failed to assign this “cash” code to armored
+car cash shipments for a number of customers using a specific accounting method
+for armored car shipments, including the CCG. Accordingly, these transactions were
+not identified as customer cash withdrawals and therefore not reported to FinCEN
+through CONA’s CTR reporting systems.
+
+18.
+19.
+
+31 U.S.C. § 5313; 31 C.F.R. § 1010.311.
+31 C.F.R. § at 1010.306(a).
+
+– 16 –
+
+The failure to properly code these cash shipments resulted in approximately
+50,000 reportable cash transactions totaling over $16 billion in cash to the CCG over
+the course of over three years to go unreported to FinCEN. While business managers
+received near-daily reports on armored car cash shipments, and CONA timely
+reported CTRs on armored car cash shipments to other locations, such as ATMs,
+CONA failed to timely report CTRs for CCG armored car cash shipments. Although
+CONA self-reported and remediated this issue, this failure was negligent and
+exhibited a pattern of negligence with respect to CONA’s legal obligation to file CTRs.
+VIOLATIONS
+FinCEN has determined, and CONA admits, the above facts constitute
+violations of the BSA, specifically:
+(1)
+
+from at least in or about 2009 through in or about 2014, CONA willfully
+failed to implement and maintain an effective AML program to guard
+against money laundering through the CCG, in violation of 31 U.S.C. §§
+5318(a)(2) and 5318(h)(1) and 31 C.F.R. § 1020.210;
+
+(2)
+
+CONA willfully failed to accurately and timely report suspicious
+transactions relating to the CCG, in violation of 31 U.S.C. § 5318(g); and
+
+(3)
+
+CONA negligently failed to timely report transactions involving
+currency in amounts greater than $10,000, in violation of 31 U.S.C. § 5313
+and 31 C.F.R. §§ 1010.306(a)(1) and 1010.310.
+
+– 17 –
+
+CIVIL MONEY PENALTY
+I.
+
+Legal Background
+Under the BSA, FinCEN may impose a civil money penalty of $25,000 against
+
+CONA for each willful violation of the AML program requirement.20 The BSA
+provides that a “separate violation” of the AML program requirement occurs “for
+each day that the violation continues.”21 Violations of AML program requirements
+include the lack of one or more AML program “pillars.”
+Furthermore, a civil money penalty not to exceed the greater of the amount
+involved in each transaction (but capped at $100,000) or $25,000 may be imposed for
+each willful violation of the SAR-filing requirement.22 Finally, a civil money penalty
+not to exceed $500 may be imposed for each negligent violation of the CTR-filing
+requirement, and an additional $50,000 civil money penalty for a “pattern of negligent
+activity.”23
+II.
+
+Cooperation and Remediation
+FinCEN may consider, among other things, a financial institution’s cooperation
+
+and remediation in determining whether to assess a civil money penalty at the
+maximum amount, or whether to impose a lower penalty. CONA’s extensive
+remediation and cooperation formed a significant part of FinCEN’s assessment of the
+penalty in this matter. In particular, FinCEN considered remedial steps taken during
+20.
+31 U.S.C. § 5321(a)(1). This amount has been adjusted from $25,000 to $58,328 pursuant to the
+Federal Civil Penalties Inflation Adjustment Act of 1990 and 31 C.F.R. § 1010.821, although due to the
+timing of the violations at issue FinCEN computed the civil money penalty using the lower number.
+21.
+31 U.S.C. § 5321(a)(1).
+22.
+31 U.S.C. § 5321(a)(1); 31 C.F.R. § 1010.820(f). These amounts have been adjusted from $25,000
+and $100,000 to $58,328 and $233,313, respectively, pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990 and 31 C.F.R. § 1010.821, although due to the timing of the violations at issue FinCEN computed the civil money penalty using the lower numbers.
+23.
+31 U.S.C. § 5321(a)(6); 31 C.F.R. § 1010.820(h). This amount has been adjusted from $500 to
+$1,166 pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990 and 31 C.F.R. § 1010.821,
+although due to the timing of the violations at issue FinCEN computed the civil money penalty using the
+lower number.
+
+– 18 –
+
+the course of the conduct described above, including, but not limited to: in 2011, selfreporting and backfiling over 50,000 unfiled CTRs; in 2013 voluntarily commencing a
+lookback on transactions not captured on the LIR; and its decision to voluntarily exit
+the check cashing business beginning in December 2013 and completed by December
+2014. Moreover, CONA has invested considerably in integrating and enhancing its
+AML program over the past several years under new AML leadership, including
+more than tripling its AML budget and staff since 2014. Last, CONA provided
+FinCEN with voluminous documents, made several presentations of its findings to
+FinCEN, and signed several agreements tolling the statutes of limitations during this
+investigation.
+III.
+
+OCC Penalty
+In July 2015, CONA entered into an AML consent order with the OCC (OCC
+
+Order) for related conduct at issue in this matter. In October 2018, CONA made a
+$100 million payment to the OCC pursuant to the OCC Order.
+IV.
+
+Civil Money Penalty Determination
+FinCEN has determined that CONA violated the AML program and
+
+reporting requirements of the BSA and its implementing regulations as described
+in the CONSENT, and that grounds exist to assess a civil money penalty for these
+violations.24 FinCEN has determined that the penalty in this matter will be $390
+million. FinCEN has agreed to credit the payment of $100 million CONA made in
+relation to the OCC Order. Accordingly, FinCEN’s penalty will be deemed satisfied
+by an immediate payment of $290 million to the U.S. Department of the Treasury.
+
+24.
+
+31 U.S.C. § 5321; 31 C.F.R. § 1010.820.
+
+– 19 –
+
+CONSENT TO ASSESSMENT
+To resolve this matter, and only for that purpose, CONA has consented to this
+ASSESSMENT of a civil money penalty in the sum of $390 million, which penalty will
+be satisfied by a payment of $290 million to the U.S. Department of the Treasury.
+CONA has admitted to the Statement of Facts set forth in the CONSENT,
+which mirrors the Statement of Facts in this Assessment; admitted that the Bank
+violated the BSA; and admitted that the conduct of the Bank establishes “willfulness,”
+as the term is used in 31 U.S.C. § 5321(a)(1), with respect to the AML Program and
+Failure to Timely and Accurately File SARs violations, and the conduct of the Bank
+establishes “negligence,” as the term is used in 31 U.S.C. § 5321(a)(6), with respect to
+the Failure to Timely File CTR violations. CONA has understood and agreed that in
+any administrative or judicial proceeding that FinCEN may bring against it, including
+any proceeding in which FinCEN seeks civil money penalties or equitable remedies,
+CONA will be precluded from disputing the facts set forth in the Statement of Facts
+and any other determination in the CONSENT.
+CONA has recognized and stated that it entered into the CONSENT freely and
+voluntarily and that no offers, promises, or inducements of any nature whatsoever
+were made by FinCEN or any employee, agent, or representative of FinCEN to induce
+CONA to enter into the CONSENT, except for those specified in the CONSENT.
+CONA has understood and agreed that the CONSENT embodies the entire
+agreement between CONA and FinCEN, and its terms relate only to this enforcement
+matter alone and the facts and determinations contained therein. CONA has further
+understood and agreed that there are no express or implied promises, representations,
+or agreements between CONA and FinCEN other than those expressly set forth or
+referred to in the CONSENT and that nothing in the CONSENT or in the ASSESSMENT
+is binding on any other agency of government, whether Federal, State or local.
+– 20 –
+
+PUBLIC STATEMENTS
+CONA has agreed that it shall not, nor shall its attorneys, agents, partners,
+directors, officers, employees, affiliates, or any other person authorized to speak on its
+behalf, make any public statement contradicting either its acceptance of responsibility
+set forth in the CONSENT or any fact in the Statement of Facts section of the
+CONSENT. If a contradictory statement is made, CONA may avoid a breach of the
+CONSENT by repudiating such statement, in writing, within 48 hours of notification
+by FinCEN. The foregoing restrictions do not apply to any statement made by an
+agent of CONA in the course of any criminal, regulatory, or civil case initiated against
+such person, unless CONA later ratifies such claims, directly or indirectly. CONA has
+agreed that, upon notification by FinCEN, CONA will repudiate in writing statements
+made in such proceedings that are not ratified by CONA, to the extent the statements
+contradict either the acceptance of responsibility in the CONSENT or any fact set forth
+in the Statement of Facts of the CONSENT. FinCEN has sole discretion to determine
+whether any statement made by CONA, or by any agent of CONA or any other
+person authorized to speak on behalf of CONA, is contradictory, and whether CONA
+has in fact repudiated such statement.
+RELEASE
+Execution of the CONSENT, upon it being effective, and compliance with all of
+the terms of the CONSENT, settles all claims that FinCEN may have against CONA
+for the conduct described in the Statement of Facts of the CONSENT. Execution of the
+CONSENT, and compliance with the terms of the ASSESSMENT and the CONSENT,
+does not release any claim that FinCEN may have for conduct by CONA other than
+the conduct described in the Statement of Facts of the CONSENT, or any claim that
+FinCEN may have against any current or former director, officer, owner, or employee
+– 21 –
+
+of CONA, or any party other than those named in the CONSENT. Upon request,
+CONA shall truthfully disclose to FinCEN all factual information not protected by a
+valid claim of attorney-client privilege or work product doctrine with respect to the
+conduct of its current or former directors, officers, employees, agents, or others.
+CONA has expressly agreed to waive any statute of limitations or other defense
+based on the passage of time that may apply to an action based on the conduct
+described in the Statement of Facts of the CONSENT, except as to claims already time
+barred as of the date of entry of the CONSENT, and further agrees not to contest any
+finding set forth in the Statement of Facts of the CONSENT or any other admission in
+the CONSENT.
+
+By:
+
+/S/				
+Kenneth A. Blanco 			
+
+January 15, 2021
+Date:
+
+Director
+Financial Crimes Enforcement Network
+
+– 22 –
+
+

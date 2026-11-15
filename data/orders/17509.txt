@@ -1,0 +1,247 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+
+IN THE MATTER OF:
+
+Saddle River Valley Bank
+Saddle River, NJ
+
+)
+)
+)
+)
+)
+)
+
+Number 2013-02
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+I.
+
+INTRODUCTION
+The Financial Crimes Enforcement Network has determined that grounds exist to assess a
+
+civil money penalty against Saddle River Valley Bank (“SRVB” or the “Bank”), pursuant to the
+Bank Secrecy Act and regulations issued pursuant to that Act.1 SRVB enters into the CONSENT
+TO THE ASSESSMENT OF CIVIL MONEY PENALTY (“CONSENT”) with the Financial
+Crimes Enforcement Network.
+The CONSENT is incorporated into this ASSESSMENT OF CIVIL MONEY PENALTY
+(“ASSESSMENT”) by reference.
+The Financial Crimes Enforcement Network has authority to investigate banks for
+compliance with and violation of the Bank Secrecy Act pursuant to 31 C.F.R. § 1010.810, which
+grants the Financial Crimes Enforcement Network “overall authority for enforcement and
+compliance, including coordination and direction of procedures and activities of all other
+agencies exercising delegated authority under this chapter.” SRVB was a “financial institution”
+1
+
+The Bank Secrecy Act is codified at 12 U.S.C. §§ 1829b, 1951-1959 and 31 U.S.C. §§ 53115314, 5316-5332. Regulations implementing the Bank Secrecy Act appear at 31 C.F.R. Chapter
+X (formerly 31 C.F.R. Part 103). On March 1, 2011, a transfer and reorganization of Bank
+Secrecy Act regulations from 31 C.F.R. Part 103 to 31 C.F.R. Chapter X became effective. A
+cross-reference index of Chapter X and Part 103 is located at
+http://www.fincen.gov/statutes_regs/ChapterX/.
+1
+
+and a “bank” within the meaning of the Bank Secrecy Act and its implementing regulations
+during the time relevant to this action. 31 U.S.C. § 5312(a)(2) and 31 C.F.R. § 1010.100.
+SRVB was established in 2006 and was located in Saddle River, New Jersey. SRVB was
+a small community bank that operated two branches in Bergen County, New Jersey with
+approximately $118 million in assets and 20 employees. On August 1, 2012, SRVB sold
+substantially all of its assets and oversaw the transfer of its customer accounts to another U.S.
+financial institution. The proceeds of the sale were placed into an escrow account pending the
+resolution of investigations described below, and that escrow account currently contains
+approximately $9.2 million.
+The U.S. Attorney’s Office for the District of New Jersey investigated SRVB for the
+processing of approximately $1.5 billion in transactions on behalf of four casas de cambio
+(“CDCs” or “CDC accounts”), also known as money exchange houses, through the Bank. Three
+casas de cambio were located in Mexico, and one was located in the Dominican Republic. The
+U.S. Attorney’s Office has filed a civil forfeiture action alleging that SRVB willfully failed to
+establish and maintain an effective anti-money laundering program, in violation of 31 U.S.C.
+§ 5318(h)(1) and 31 C.F.R § 1020.210, and willfully failed to establish adequate due diligence
+policies, procedures, and controls for foreign correspondent accounts, in violation of 31 U.S.C.
+§ 5318(i)(1) and 31 C.F.R. § 1010.610. In a Settlement Agreement filed contemporaneously
+with this CONSENT, SRVB has agreed to forfeit $4.1 million to settle the civil forfeiture
+complaint with the U.S. Attorney’s Office.
+The Office of the Comptroller of the Currency (“OCC”) is SRVB’s Federal functional
+regulator, and SRVB was subject to examination for compliance with the Bank Secrecy Act and
+its implementing regulations and similar rules under Title 12 of the United States Code. The
+
+2
+
+OCC has determined that SRVB violated the Bank Secrecy Act, from 2009 through April 2011,
+by failing to establish and maintain an adequate anti-money laundering compliance program, in
+violation of 31 U.S.C. § 5318(h) and 31 C.F.R. § 1020.210. The OCC has also determined,
+among other things, that SRVB failed to establish an appropriate, risk-based due diligence
+program for correspondent accounts for foreign financial institutions, as required by 31 C.F.R.
+§ 1010.610, and failed to file suspicious activity reports (“SARs”) in a timely manner, in
+violation of 31 C.F.R. § 1020.320 and 31 U.S.C. § 5318(g). The OCC is simultaneously issuing
+a Consent Order citing these violations. SRVB has agreed to a $4.1 million civil money penalty
+assessed by the OCC.
+II.
+
+DETERMINATIONS
+An investigation conducted by the Financial Crimes Enforcement Network, working in
+
+conjunction with the OCC and DOJ, determined that, from 2009 through May 2011, SRVB
+willfully violated the Bank Secrecy Act’s program, recordkeeping, and reporting requirements.
+The Financial Crimes Enforcement Network has determined that SRVB willfully violated the
+Bank Secrecy Act since at least June 2009 by: (1) lacking an effective anti-money laundering
+program reasonably designed to manage risks of money laundering and other illicit activity, in
+violation of 31 U.S.C. §§ 5318(a)(2) and 5318(h), and 31 C.F.R. § 1020.210; (2) failing to
+conduct adequate due diligence on foreign correspondent accounts, in violation of 31 U.S.C.
+§ 5318(i) and 31 C.F.R. § 1010.610; and (3) failing to detect and adequately report suspicious
+activities in the Mexican and Dominican Republic CDC accounts in a timely manner, in
+violation of 31 C.F.R. § 1020.320 and 31 U.S.C. § 5318(g).
+
+3
+
+A. Violations of the Requirement to Implement an Anti-Money Laundering
+Program
+Since April 24, 2002, the Bank Secrecy Act and its implementing regulations have
+required banks to establish and implement anti-money laundering programs. 31 U.S.C.
+§§ 5318(a)(2) and 5318(h). SRVB was required to establish and maintain an anti-money
+laundering program that, at a minimum: (a) provided for a system of internal controls to assure
+ongoing compliance; (b) provided for independent testing for compliance conducted by bank
+personnel or by an outside party; (c) designated an individual or individuals responsible for
+coordinating and monitoring day to day compliance; and (d) provided training for appropriate
+personnel. 31 C.F.R. §§ 1020.100(d)(1) and 1020.210.2
+SRVB was deficient in all four pillars. SRVB failed to implement an effective antimoney laundering program reasonably designed to identify and report transactions through the
+CDC accounts that exhibited indicia of money laundering or other suspicious activity, in light of
+the types of products and services offered by the Bank, the volume and scope of its business, and
+the nature of its customers. SRVB failed to implement a program commensurate with its
+correspondent banking for the four Mexican and Dominican Republic CDC accounts, which
+included wire transfer and remote deposit capture activity.3 Publicly available information
+
+2
+
+A bank regulated by a Federal functional regulator is deemed to have satisfied Bank Secrecy
+Act/anti-money laundering program requirements if it implements and maintains an anti-money
+laundering program that complies with the regulations of its Federal functional regulator.
+31 C.F.R. §§ 1020.100(d)(1) and 1020.210; 12 C.F.R. § 163.177 (OCC’s regulation).
+Remote Deposit Capture (“RDC”) is a deposit transaction delivery system that allows a
+financial institution to receive digital information from deposit documents captured at remote
+locations such as financial institution branches, ATMs, domestic and foreign correspondents, or
+locations owned or controlled by commercial or retail customers of the financial institution. In
+substance, RDC is similar to traditional deposit delivery systems at financial institutions, such as
+pouch activities. However, RDC enables customers of financial institutions to deposit items
+electronically from locations globally. Therefore, RDC introduces additional risks beyond
+3
+
+4
+
+provided ample notice of heightened risk. In 2006, the Financial Crimes Enforcement Network
+issued an advisory, FIN-2006-A003, notifying financial institutions of the potential threat of
+narcotics-based money laundering between Mexico and the United States and specifically noted
+risk from CDC accounts. The United States Department of State International Narcotics Control
+Strategy Reports dating back to 2002 have consistently rated Mexico as a country of primary
+concern for money laundering and financial crimes. In addition, a 2010 FinCEN public
+enforcement action highlighted the heightened risk with Mexican CDC accounts.
+SRVB focused on revenue generation from the CDC accounts, rather than the associated
+risks. Wire transfer and RDC activity in the CDC accounts represented the majority of the
+Bank’s overall wire and RDC activity from 2009 to 2011. SRVB did not ensure appropriate
+compliance staffing and training, and exercised inadequate oversight for compliance
+responsibilities. SRVB did not use an adequate automated transaction monitoring system to
+monitor the CDC wires. Instead, SRVB largely monitored wires manually. This limited
+SRVB’s ability to identify patterns and trends. As a result, SRVB failed to timely file
+approximately 190 SARs, which greatly diminished the value of the SARs to law enforcement
+and regulatory agencies.
+B. Violations of the Requirement to Establish an Adequate Due Diligence Program
+for Correspondent Accounts for Foreign Financial Institutions
+Foreign correspondent accounts are gateways to the U.S. financial system. As part of
+their anti-money laundering obligations, U.S. banks maintaining correspondent accounts in the
+United States for foreign financial institutions must subject the accounts to certain due diligence
+measures. 31 U.S.C. § 5318(i)(1) and 31 C.F.R. § 1010.610. Banks must implement and
+
+traditional deposit delivery systems. See generally OCC Bulletin 2009-4: Remote Deposit
+Capture, Interagency Guidance.
+5
+
+maintain risk-based policies, procedures, and controls reasonably designed to gather all relevant
+due diligence information concerning such foreign correspondent accounts, employ this due
+diligence information to determine whether an account is subject to enhanced due diligence,
+conduct assessments of money laundering risks for each account, and comply with suspicious
+activity reporting requirements. 31 C.F.R. §§ 1010.610(a)(1), (2) and (3). SRVB violated the
+Bank Secrecy Act customer due diligence requirements by failing to identify its Mexican and
+Dominican Republic CDC accounts as foreign correspondent accounts and collect or maintain
+adequate due diligence information. As a result, transactions flowed to and from the U.S.
+without appropriate monitoring and alerts to identify movement of funds.
+C. Violations of the Requirement to Report Suspicious Transactions
+The Bank Secrecy Act and its implementing regulations impose an obligation on banks to
+report transactions that involve or aggregate to at least $5,000, are conducted by, at, or through
+the bank, and that the bank “knows, suspects, or has reason to suspect” are suspicious. 31 U.S.C.
+§ 5318(g) and 31 C.F.R. § 1020.320. A transaction is “suspicious” if the transaction: (1)
+involves funds derived from illegal activities, or is conducted to disguise funds derived from
+illegal activities; (2) is designed to evade the reporting or recordkeeping requirements of the
+Bank Secrecy Act or regulations under the Act; or (3) has no business or apparent lawful purpose
+or is not the sort in which the customer would normally be expected to engage, and the bank
+knows of no reasonable explanation for the transaction after examining the available facts,
+including background and possible purpose of the transaction. 31 C.F.R. §§ 1020.320(a)(2)(i) (iii). SRVB violated Bank Secrecy Act suspicious activity reporting requirements by failing to
+detect and report suspicious activity and by filing late SARs.
+
+6
+
+Most notably, the Bank failed to properly identify, monitor, and report suspicious
+activities related to the transactions being conducted on behalf of the Mexican and Dominican
+Republic CDC accounts. In 2011, SRVB performed a review of transactions, known as a
+“lookback,” in connection with a 2011 Consent Order by the OCC. As a result of this lookback,
+the Bank filed approximately 190 SARs late, totaling an estimated $1.5 billion in aggregate
+suspicious activity for transactions occurring between August 2009 and May 2011. The
+previously undetected suspicious activities that were identified during the lookback primarily
+involved either RDC transactions or wire transfers where the source of funds and purpose of the
+transactions was unknown or unclear for the four Mexican and Dominican Republic CDC
+accounts through which money flowed. More than 50 percent of the SARs involved a subject
+domiciled in Mexico.
+III.
+
+CIVIL MONEY PENALTY
+The Financial Crimes Enforcement Network has determined that a civil money penalty in
+
+the amount of $4.1 million is warranted for SRVB’s violations of the Bank Secrecy Act and its
+implementing regulations, as described in this ASSESSMENT. 31 U.S.C. § 5321 and 31 C.F.R.
+§ 1010.820.
+IV.
+
+CONSENT TO ASSESSMENT
+To resolve this matter, and only for that purpose, SRVB consents to the assessment of a
+
+civil money penalty in the sum of $4.1 million.
+This ASSESSMENT shall be concurrent with the assessment of a civil money penalty, in
+the amount of $4.1 million, by the OCC, and shall be satisfied by one payment of $4.1 million to
+the Department of the Treasury.
+
+7
+
+SRVB recognizes and states that it enters into the CONSENT freely and voluntarily and
+that no offers, promises, or inducements of any nature whatsoever have been made by the
+Financial Crimes Enforcement Network or any employee, agent, or representative of the
+Financial Crimes Enforcement Network to induce SRVB to enter into the CONSENT, except
+those specified in the CONSENT.
+SRVB understands and agrees that the CONSENT embodies the entire agreement
+between SRVB and the Financial Crimes Enforcement Network relating to this enforcement
+matter only, as described in Section II above. SRVB further understands and agrees that there
+are no express or implied promises, representations, or agreements between SRVB and the
+Financial Crimes Enforcement Network other than those expressly set forth or referred to in this
+document and that nothing in the CONSENT or in this ASSESSMENT is binding on any other
+agency of government, whether federal, state, or local.
+V.
+
+RELEASE
+SRVB understands that execution of the CONSENT, and compliance with the terms of
+
+this ASSESSMENT and the CONSENT, constitute a complete settlement and release of the
+Bank’s civil liability for the violations of the Bank Secrecy Act and regulations issued pursuant
+to that Act as described in the CONSENT and this ASSESSMENT.
+
+By:
+
+/s/
+9/24/2013
+Jennifer Shasky Calvery
+Date
+Director
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+U.S. Department of the Treasury
+
+8
+
+

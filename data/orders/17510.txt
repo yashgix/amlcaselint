@@ -1,0 +1,180 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+
+IN THE MATTER OF:
+
+TD Bank, N.A.
+Wilmington, DE
+
+)
+)
+)
+)
+)
+)
+
+Number 2013-1
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+I.
+
+INTRODUCTION
+The Financial Crimes Enforcement Network has determined that grounds exist to assess a
+
+civil money penalty against TD Bank, N.A. (“TD Bank” or the “Bank”), pursuant to the Bank
+Secrecy Act and regulations issued pursuant to that Act.1 TD Bank enters into the CONSENT
+TO THE ASSESSMENT OF CIVIL MONEY PENALTY (“CONSENT”) with the Financial
+Crimes Enforcement Network.
+The CONSENT is incorporated into this ASSESSMENT OF CIVIL MONEY PENALTY
+(“ASSESSMENT”) by reference.
+The Financial Crimes Enforcement Network has authority to investigate banks for
+compliance with and violation of the Bank Secrecy Act pursuant to 31 C.F.R. § 1010.810, which
+grants the Financial Crimes Enforcement Network “overall authority for enforcement and
+compliance, including coordination and direction of procedures and activities of all other
+agencies exercising delegated authority under this chapter.” TD Bank was a “financial
+institution” and a “bank” within the meaning of the Bank Secrecy Act and its implementing
+
+1
+
+The Bank Secrecy Act is codified at 12 U.S.C. §§ 1829b, 1951-1959 and 31 U.S.C. §§ 53115314, 5316-5332. Regulations implementing the Bank Secrecy Act appear at
+31 C.F.R. Chapter X.
+1
+
+regulations during the time relevant to this action. 31 U.S.C. § 5312(a)(2) and
+31 C.F.R. § 1010.100.
+TD Bank has over 1,300 domestic locations in 16 states and one foreign branch without a
+physical location. TD Bank is a large national bank with approximately $212 billion in assets
+and approximately 25,000 employees. TD Bank is a member of TD Bank Group and a
+subsidiary of The Toronto-Dominion Bank of Toronto, Canada. The Toronto-Dominion Bank
+trades on the NYSE Euronext under the ticker symbol “TD.”
+The Office of the Comptroller of the Currency (“OCC”) is TD Bank’s Federal functional
+regulator, and TD Bank was subject to examination for compliance with the Bank Secrecy Act
+and its implementing regulations and similar rules under Title 12 of the United States Code. The
+OCC has determined that TD Bank violated the Bank Secrecy Act, from April 2008 through
+September 2009, by failing to file suspicious activity reports (“SARs”) in a timely manner, in
+violation of 31 C.F.R. § 1020.320 and 31 U.S.C. § 5318(g). The OCC is simultaneously issuing
+a Consent Order citing these violations. TD Bank has agreed to a $37.5 million civil money
+penalty assessed by the OCC.
+II.
+
+DETERMINATIONS
+The Financial Crimes Enforcement Network has determined that its enforcement action
+
+would establish that, from April 2008 through September 2009, TD Bank willfully violated the
+Bank Secrecy Act’s reporting requirements by failing to detect and adequately report suspicious
+activities in a timely manner, in violation of 31 U.S.C. § 5318(g) and 31 C.F.R. § 1020.320.
+From April 2008 through September 2009, Scott Rothstein orchestrated a “Ponzi”
+scheme using multiple accounts at TD Bank and other financial institutions. On January 27,
+2010, Rothstein pleaded guilty to a racketeering conspiracy in the United States District Court
+
+2
+
+for the Southern District of Florida. On June 9, 2010, Rothstein was sentenced to 50 years in
+prison. Several Rothstein co-conspirators have also been charged and convicted for their roles in
+the scheme. Rothstein was an attorney in Florida and was the Chief Executive Officer and
+Chairman of a law firm, Rothstein, Rosenfeldt & Adler, P.A. Rothstein convinced individuals to
+invest in purported confidential structured settlements involving whistleblower and sexual
+harassment lawsuits. He falsely informed investors that the confidential settlement agreements
+were available for purchase. Rothstein maintained multiple attorney trust accounts, also known
+as Interest on Trust Accounts (IOTAs), at TD Bank to receive the investor funds and give the
+appearance of legitimacy and security. Rothstein furthered his scheme by taking investors to TD
+Bank branches and providing them with fraudulent balance printouts. Rothstein facilitated this
+deception by having bank staff furnish accurate account statements and then having a coconspirator replace them with fraudulent statements prior to the investor meetings. Additionally,
+on a number of occasions, TD Bank staff, on Rothstein’s instructions, provided unenforceable
+“lock letters” that incorrectly stated that the funds in the law firm’s IOTAs would only be
+distributed to specific investors.
+The Bank Secrecy Act and its implementing regulations impose an obligation on banks to
+report transactions that involve or aggregate to at least $5,000, are conducted by, at, or through
+the bank, and that the bank “knows, suspects, or has reason to suspect” are suspicious.
+31 U.S.C. § 5318(g) and 31 C.F.R. § 1020.320. A transaction is “suspicious” if the transaction:
+(1) involves funds derived from illegal activities, or is conducted to disguise funds derived from
+illegal activities; (2) is designed to evade the reporting or recordkeeping requirements of the
+Bank Secrecy Act or regulations under the Act; or (3) has no business or apparent lawful purpose
+or is not the sort in which the customer would normally be expected to engage, and the bank
+
+3
+
+knows of no reasonable explanation for the transaction after examining the available facts,
+including background and possible purpose of the transaction. 31 C.F.R. §§ 1020.320(a)(2)(i) (iii). TD Bank violated Bank Secrecy Act suspicious activity reporting requirements by failing
+to detect and report suspicious activity and by filing late SARs.
+TD Bank violated Bank Secrecy Act suspicious activity reporting requirements by failing
+to detect and report suspicious activity and by filing late SARs. The Bank failed to properly
+identify, monitor, and report suspicious activity in Rothstein’s accounts. These accounts were
+used to conduct thousands of transactions with an approximate value of $4 billion. This included
+transactions related to the “Ponzi” scheme transactions as well as transactions not involved in the
+“Ponzi” scheme. In 2011, TD Bank performed a review of the Rothstein transactions. As a
+result of this review, the Bank filed five late SARs, totaling an estimated $900 million in
+aggregate suspicious transaction activity occurring between April 2008 and October 2009.
+During this time period, TD Bank’s policies, procedures, and training regarding IOTAs were
+inadequate. As a result, while the Rothstein law firm’s accounts alerted in TD Bank’s antimoney laundering surveillance software for suspicious activity for 17 months between April
+2008 and September 2009, TD Bank employees failed to recognize the suspicious activity and
+file SARs in a timely manner. A lack of adequate training for both the business and Bank
+Secrecy Act/Anti-Money Laundering staff contributed to the failure to recognize this suspicious
+activity.
+III.
+
+CIVIL MONEY PENALTY
+The Financial Crimes Enforcement Network has determined that a civil money penalty in
+
+the amount of $37.5 million is warranted for TD Bank’s violations of the Bank Secrecy Act and
+
+4
+
+its implementing regulations, as described in this ASSESSMENT. 31 U.S.C. § 5321 and
+31 C.F.R. § 1010.820.
+IV.
+
+CONSENT TO ASSESSMENT
+To resolve this matter, and only for that purpose, TD Bank consents to the assessment of
+
+a civil money penalty in the sum of $37.5 million.
+This ASSESSMENT shall be concurrent with the assessment of a civil money penalty, in
+the amount of $37.5 million, by the OCC, and shall be satisfied by one payment of $37.5 million
+to the Department of the Treasury.
+TD Bank recognizes and states that it enters into the CONSENT freely and voluntarily
+and that no offers, promises, or inducements of any nature whatsoever have been made by the
+Financial Crimes Enforcement Network or any employee, agent, or representative of the
+Financial Crimes Enforcement Network to induce TD Bank to enter into the CONSENT, except
+those specified in the CONSENT.
+TD Bank understands and agrees that the CONSENT embodies the entire agreement
+between TD Bank and the Financial Crimes Enforcement Network relating to this enforcement
+matter only, as described in Section II above. TD Bank further understands and agrees that there
+are no express or implied promises, representations, or agreements between TD Bank and the
+Financial Crimes Enforcement Network other than those expressly set forth or referred to in this
+document and that nothing in the CONSENT or in this ASSESSMENT is binding on any other
+agency of government, whether federal, state, or local.
+V.
+
+RELEASE
+Execution of the CONSENT, and compliance with the terms of this ASSESSMENT and
+
+the CONSENT, settles all claims that the Financial Crimes Enforcement Network may have
+
+5
+
+against TD Bank for the conduct described in Section II of this ASSESSMENT. Execution of
+the CONSENT, and compliance with the terms of this ASSESSMENT and the CONSENT, does
+not release any claim that the Financial Crimes Enforcement Network may have for conduct by
+TD Bank other than the conduct described in Section II of this ASSESSMENT, or any claim that
+the Financial Crimes Enforcement Network may have against any party other than TD Bank,
+such parties to include, without limitation, any director, officer, employee, or agent of TD Bank.
+Upon request, TD Bank shall truthfully disclose to the Financial Crimes Enforcement Network
+all factual information not protected by a valid claim of attorney-client privilege or work product
+doctrine with respect to the participation of its current or former directors, officers, employees,
+or agents in the conduct described in Section II of this ASSESSMENT.
+
+By:
+
+/S/
+September 22, 2013
+_________________________________________
+Jennifer Shasky Calvery
+Date
+Director
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+U.S. Department of the Treasury
+
+6
+
+

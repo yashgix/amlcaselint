@@ -1,0 +1,1050 @@
+UNITED STATES OF AMERICA
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+DEPARTMENT OF THE TREASURY
+
+IN THE MATTER OF:
+The Kingdom Trust Company
+Murray, Kentucky
+
+)
+)
+)
+)
+)
+
+Number 2023-01
+
+CONSENT ORDER IMPOSING CIVIL MONEY PENALTY
+The Financial Crimes Enforcement Network (FinCEN) has conducted a civil enforcement
+investigation and determined that grounds exist to impose a Civil Money Penalty against The
+Kingdom Trust Company (Kingdom Trust) for violations of the Bank Secrecy Act (BSA) and its
+implementing regulations.1 Kingdom Trust admits to the Statement of Facts and Violations set
+forth below and consents to the issuance of this Consent Order.
+I.
+
+JURISDICTION
+Overall authority for enforcement and compliance with the BSA lies with the Director of
+
+FinCEN, and the Director may impose civil penalties for violations of the BSA and its
+implementing regulations.2
+At all times relevant to this Consent Order, Kingdom Trust was a trust company organized
+under the laws of the state of South Dakota and therefore a “bank,” as defined by the BSA and its
+
+1
+
+The BSA is codified at 12 U.S.C. §§ 1829b, 1951-1960, 31 U.S.C. §§ 5311-5314, 5316-5336 and includes other
+authorities reflected in notes thereto. Regulations implementing the BSA appear at 31 C.F.R. Chapter X.
+2
+
+31 U.S.C. § 5321(a); 31 C.F.R. §§ 1010.810(a), (d); Treasury Order 180-01 (July 1, 2014, reaff’d Jan. 14, 2020).
+
+implementing regulations.3 As such, Kingdom Trust was required to comply with applicable BSA
+regulations, including the requirement to report suspicious activity to FinCEN.4
+II.
+
+STATEMENT OF FACTS
+The conduct described below took place from February 15, 2016, through March 15, 2021
+
+(the Relevant Time Period), unless otherwise indicated.
+A. Bank Secrecy Act
+The BSA authorizes FinCEN to require any financial institution to report any suspicious
+transactions relevant to a possible violation of law or regulation.5 The BSA imposes on “banks”
+(such as Kingdom Trust) the affirmative duty to identify and report suspicious transactions relevant
+to a possible violation of law or regulation in suspicious activity reports (SARs) filed with
+FinCEN.6 The reporting and transparency that financial institutions provide through these reports is
+essential financial intelligence that FinCEN, law enforcement, national security agencies, and others
+use to safeguard the U.S. financial system and combat serious threats, including money laundering,
+terrorist financing, organized crime, corruption, drug trafficking, and massive fraud schemes
+targeting the U.S. government, businesses, and individuals.7 Kingdom Trust has been subject to
+FinCEN’s SAR regulation since it commenced operations.
+
+3
+
+31 U.S.C. § 5312(a)(2)(B); 31 C.F.R. § 1010.100(d)(1).
+
+4
+
+On November 16, 2020, 31 C.F.R. § 1020.210(b) went into effect and required trust companies without a Federal
+functional regulator (including Kingdom Trust) to comply with the AML program rule. The rule provided a compliance
+date of March 15, 2021, for covered banks. The violations that are the subject of this consent order relate to historical
+activity prior to March 2021 and therefore relate only to Kingdom Trust’s failures to report suspicious activity.
+5
+
+31 U.S.C. § 5318(g).
+
+6
+
+31 C.F.R. § 1020.320.
+
+7
+
+FinCEN, FIN-2014-A007, FinCEN Advisory to U.S. Financial Institutions on Promoting a Culture of Compliance
+(Aug. 11, 2014).
+
+2
+
+B. FinCEN
+FinCEN is a bureau within the U.S. Department of the Treasury and is the federal authority
+that enforces the BSA by investigating and imposing civil money penalties on financial institutions
+and individuals for willful violations of the BSA.8 As delegated by the Secretary of the Treasury,
+FinCEN has “authority for the imposition of civil penalties” and “[o]verall authority for enforcement
+and compliance” with the BSA and its implementing regulations.9
+C. The Kingdom Trust Company
+Kingdom Trust is headquartered in Sioux Falls, South Dakota, and maintains a trust services
+office in Murray, Kentucky, where most of its roughly 80 employees work. It is incorporated in
+South Dakota, where it maintains a small number of employees in Sioux Falls, and is organized as a
+trust company under South Dakota law.
+Kingdom Trust’s current primary offering is the provision of custody services to individuals
+with self-directed individual retirement accounts (IRAs), as well as acting as a qualified custodian
+for investment advisers. However, during the Relevant Time Period, Kingdom Trust also engaged
+in the business of providing account and payment services to foreign securities and investment
+firms as well as other businesses—including money services businesses—located in Latin America
+that had elevated risks of money laundering.
+
+8
+
+31 U.S.C. § 5321(a). In civil enforcement of the BSA under 31 U.S.C. § 5321(a)(1), to establish that a financial
+institution or individual acted willfully, the government need only show that the financial institution or individual acted
+with either reckless disregard or willful blindness. The government need not show that the entity or individual had
+knowledge that the conduct violated the BSA, or that the entity or individual otherwise acted with an improper motive
+or bad purpose. Kingdom Trust admits to “willfulness” only as the term is used in civil enforcement of the BSA under
+31 U.S.C. § 5321(a)(1).
+9
+
+31 C.F.R. § 1010.810(a), (d).
+
+3
+
+D. Kingdom Trust’s Deficient Process for Identifying and Reporting Suspicious
+Activity
+The BSA and its implementing regulations require banks to report transactions that involve
+or aggregate to at least $5,000, are conducted by, at, or through the bank, and that the bank “knows,
+suspects, or has reason to suspect” are suspicious.10 A transaction is “suspicious” if a bank “knows,
+suspects, or has reason to suspect” the transaction: (a) involves funds derived from illegal activities,
+or is conducted to disguise funds derived from illegal activities; (b) is designed to evade the
+reporting or recordkeeping requirements of the BSA or regulations implementing it; or (c) has no
+business or apparent lawful purpose or is not the sort in which the customer normally would be
+expected to engage, and the bank knows of no reasonable explanation for the transaction after
+examining the available facts, including background and possible purpose of the transaction.11 A
+bank is generally required to file a SAR no later than 30 calendar days after the initial detection by
+the bank of the facts that may constitute a basis for filing a SAR.12
+Kingdom Trust’s process for identifying and reporting potentially suspicious activity during
+the Relevant Time Period was severely underdeveloped and ad hoc, resulting in Kingdom Trust’s
+willful failure to timely and accurately file SARs. Kingdom Trust personnel with AML
+responsibilities have acknowledged not fully understanding federal SAR filing requirements and
+that they may have missed important information about some of their riskiest clients as the result of
+maintaining other, non-AML responsibilities.
+These deficiencies were exacerbated by Kingdom Trust’s failure, during the Relevant Time
+Period, to recruit sufficient personnel with experience in AML compliance, including SAR filing
+
+10
+
+31 U.S.C. § 5318(g); 31 C.F.R. § 1020.320.
+
+11
+
+31 C.F.R. § 1020.320(a)(2)(i)-(iii).
+
+12
+
+31 C.F.R. § 1020.320(b)(3).
+
+4
+
+obligations, even after Kingdom Trust expanded into a new line of business offering services to
+customers that had elevated risks of money laundering.
+Kingdom Trust relied on a manual review of daily transactions by a single employee to
+identify potentially suspicious transactions and activity at various points throughout the Relevant
+Time Period:
+
+
+Prior to December 2018, operations staff were tasked with flagging potentially
+suspicious activity that they identified in the ordinary course of performing their
+duties (i.e., prior to December 2018, there was no standalone process within
+Kingdom Trust to identify and report suspicious activity).
+
+
+
+Between December 2018 and the end of the Relevant Time Period, a single
+compliance employee was responsible for conducting a daily review of all of
+the prior day’s transactions to identify any potentially suspicious transactions.
+This manual review process was handled by the AML Compliance Officer from
+December 2018 to February 2020. Following that person’s departure in March
+2020, these duties were transferred to a more junior employee, Kingdom Trust’s
+sole Compliance Analyst, for a period of approximately four months. In both
+instances, the assigned employees had other responsibilities and no prior
+AML/BSA experience. In July 2020, Kingdom Trust hired a Compliance
+Officer with AML experience.
+
+
+
+The Compliance Analyst would escalate potentially suspicious transactions to
+Kingdom Trust’s AML Compliance Officer to review in consultation with
+Kingdom Trust’s General Counsel.
+
+
+
+As part of their daily review, the Compliance Analyst was also assigned the
+responsibility for referencing Kingdom Trust’s internal watch list that identifies
+certain customers for whom transactions are either prohibited or allowed only
+under certain conditions.
+
+According to Kingdom Trust, whenever the Compliance Analyst escalated a transaction to
+the AML Compliance Officer for potential reporting, a SAR was filed. However, between February
+2020 (when the Compliance Analyst took over this process) and the end of the Relevant Time
+Period in March 2021, Kingdom Trust filed only four SARs. Of these four SARs, only one could
+possibly have been attributable solely to the Compliance Analyst’s manual transaction review.
+
+5
+
+The process used by Kingdom Trust to review transactions was substantially inadequate for
+the purpose of identifying suspicious activity. First, the daily reports reviewed by the Compliance
+Analyst did not provide any contextual information about the customer (e.g., source of funds) or the
+counterparty beyond originator or beneficiary name (e.g., their address, the Bank Identifier Code of
+the originating/beneficiary bank). Second, even if the reports had contained sufficient information,
+the manual nature of this process also made it difficult to detect suspicious activity given the
+transactional volume (generally in the thousands each day) when compared to the level of staffing.
+Finally, although Kingdom Trust’s AML training presentations included red flags, few of these red
+flags could have been identified based on a review of the daily transaction reports alone. For
+example, the red flags included: customer requests for anonymity, customer attempts to open an
+account without identification, and an account opened with a nominal balance that subsequently
+increased rapidly and significantly. It would not be reasonably possible for a Kingdom Trust
+employee to identify those red flags given the quantity of information contained in the daily
+transaction reports. The result is that Kingdom Trust willfully failed to timely and accurately report
+hundreds of suspicious transactions that flowed through Kingdom Trust into the U.S. financial
+system during the Relevant Time Period.13
+In addition to this daily transaction review process, Kingdom Trust had a written
+requirement in place that all employees report instances of potentially suspicious activity to
+compliance personnel.14 Although it is appropriate for Kingdom Trust to direct employees at all
+
+On March 24, 2021, Kingdom Trust’s Board of Directors adopted a new “Potential Suspicious Activity (‘PSA’)
+Form” to reflect all reviews of suspicious activity for which an investigation was conducted and a decision was made
+not to file a SAR.
+13
+
+14
+
+A historical version of the Kingdom Trust AML & Sanctions Program Manual requires all personnel that interact
+with clients to monitor client activity for signs of suspicious activity, including particular red flags. The manual further
+states, “[i]f any Personnel detect a ‘red flag,’ they must perform additional research and analysis, including, where
+appropriate, obtaining additional information from the client, to determine whether a legitimate business explanation for
+the red flag can be determined.”
+
+6
+
+levels of the organization to be alert to and report any potentially suspicious activity to Compliance,
+it was unrealistic for Kingdom Trust to rely on this requirement as a primary mechanism for
+identifying suspicious activity given the sheer volume of transactions that Kingdom Trust
+processed.
+As explained in the discussion of Customer B below, it is also apparent that Kingdom Trust
+personnel from other departments took little to no action to fulfill this requirement. Kingdom Trust
+employees—including Compliance personnel—appear to have had very little awareness of, or
+appreciation for, how these red flags may apply to Kingdom Trust customers. This lack of
+awareness appears to be due to insufficient training, instruction, and an overall failure to build a
+culture of compliance.
+Finally, Kingdom Trust first began working with outside vendors on the adoption of an
+automated transaction monitoring system in late 2017 but did not deploy one until the fall of 2021
+(i.e., it was not in place at the end of the Relevant Time Period). Kingdom Trust’s implementation
+of this automated transaction monitoring system still has not been the subject of an independent
+audit.15 Kingdom Trust has, however, increased staffing by hiring four compliance personnel since
+FinCEN began its investigation during the Relevant Time Period. Throughout 2018 and 2019,
+Kingdom Trust also worked with a law firm to improve its AML compliance program.
+E. Kingdom Trust’s Expansion of its Services to High-Risk Latin American
+Customers
+Starting in at least 2014, Kingdom Trust began working with a consulting group (the
+Consulting Group) with offices in Buenos Aires, Dublin, and Washington, D.C. An individual
+associated with the Consulting Group told a salesperson at Kingdom Trust that the Consulting
+
+15
+
+Kingdom Trust has advised FinCEN that the automated monitoring system was part of its 2022 audit, but the
+auditor’s report has not yet been completed.
+
+7
+
+Group was working with broker-dealers located in Argentina and Uruguay that were having
+difficulty establishing bank accounts in the United States. The individual also informed Kingdom
+Trust personnel that these brokerage firms would be using Kingdom Trust accounts to custody fixed
+income securities (primarily U.S. government bonds) and to hold cash. Kingdom Trust proceeded
+with this new line of business and began opening accounts for customers referred to it by the
+Consulting Group, despite Kingdom Trust’s lack of experience in dealing with foreign securities
+firms and an apparent lack of understanding by Kingdom Trust management as to why these
+brokerage firms were unable to establish direct custodial relationships with U.S.-based securities
+firms. Kingdom Trust’s decision to proceed with this new line of business allowed the transmission
+of at least $4 billion in payments for foreign entities through the United States with minimal
+oversight.
+The High-Risk Nature of Kingdom Trust’s Latin American Customers
+The customers that the Consulting Group referred to Kingdom Trust posed risks that were both
+much greater than, and different from, the risks associated with Kingdom Trust’s main line of
+business (i.e., providing custody services to self-directed IRAs and investment advisers). The
+customers that Kingdom Trust opened accounts for under the new arrangement with the Consulting
+Group included:
+
+
+Customer A: a Uruguayan money services business (MSB) that provides
+customers with the purchase and sale of currency, wire transfers, checks, and
+online/app-based payments.
+
+
+
+Customer B: a company that purported to provide tourism services and was
+organized in Nevis, although it was purportedly managed by an Australian
+national. Customer B’s suspicious transactions are described in Section II.F.
+
+
+
+Customer C: a British Virgin Islands-organized entity that is purportedly a
+private mutual fund. Customer C’s two directors are both Argentine citizens.
+Kingdom Trust’s Lexis Due Diligence Reports, run in March 2016, yielded no
+information on this entity.
+
+8
+
+
+
+Customer D: a Panamanian holding company with a United Kingdom
+subsidiary, one of the directors of which has been the subject of adverse media
+related to his involvement in potential money laundering. The United Kingdom
+subsidiary also used an address associated with numerous other legal entities
+and, on its account opening form with Kingdom Trust, provided a vague and
+unclear description of its business as consisting of “exporters and import[ers]
+trading . . . logistics in general.”
+
+Kingdom Trust’s Incremental and Delayed Response to Risks Posed by its Latin American
+Customers
+Throughout the Relevant Time Period, Kingdom Trust maintained correspondent bank
+accounts at other financial institutions (typically titled “FBO”—for the benefit of—a Kingdom
+Trust customer), at least 11 of which closed their accounts for Kingdom Trust, including Bank A.
+Although these institutions generally did not expressly convey to Kingdom Trust the rationale for
+the closures, it should have been apparent to Kingdom Trust that the large volume of activity from
+these high-risk customers played a role in this process. For example, in connection with the closure
+of Kingdom Trust’s account, Bank A told Kingdom Trust personnel that Kingdom Trust processed
+more payments than all other Bank A customers combined. Bank A made this statement after
+Kingdom Trust had begun processing transactions for the high-risk customers referred by the
+Consulting Group.
+After these financial institutions began closing Kingdom Trust’s accounts, Kingdom Trust
+management questioned whether to continue with the foreign custody business and engaged a third
+party to conduct a BSA/AML audit, including of its foreign accounts. The audit specifically cited
+deficiencies related to Kingdom Trust’s high-risk customers and their transactions, although it did
+not link identified issues to specific customers or transactions. Kingdom Trust did not exit the highrisk Latin American customers, make meaningful changes to its controls, or file any SARs related to
+this ongoing business line.
+
+9
+
+Kingdom Trust only began the process of closing the accounts referred by the Consulting
+Group after several forced closures of Kingdom Trust’s own accounts by other financial institutions
+and after receiving inquiries from law enforcement about the accounts referred by the Consulting
+Group. Kingdom Trust made no effort to file SARs at that time.16
+F. Unreported Suspicious Activity Resulting from the Kingdom Trust’s High-Risk
+Customers
+FinCEN has identified hundreds of suspicious transactions for which Kingdom Trust failed
+to timely and accurately file a SAR. These suspicious transactions primarily relate to the three
+customer relationships described below.
+The Customer B Relationship
+Of the suspicious transactions identified by FinCEN, nearly 200 were transactions processed
+for Customer B, primarily in 2017 and early 2018, with an aggregate value of roughly $16 million.
+Company B’s stated business of providing tourism services, even if credible, was far afield from
+Kingdom Trust’s area of expertise in providing custody services to investors and their financial
+services firms. Accordingly, Kingdom Trust should have been especially vigilant with this
+customer given how inexperienced Kingdom Trust was in maintaining this type of customer
+relationship. Moreover, many payments that Customer B requested that Kingdom Trust process on
+its behalf were clearly inconsistent with payments that a company operating in the tourism sector
+would be expected to make. Many of these payments also contained other red flags.
+In short, a large portion of Customer B’s payment activity should have caused Kingdom
+Trust personnel to evaluate whether the payments were reportable as suspicious transactions. For
+the vast majority of these payments, however, Kingdom Trust personnel asked no questions of the
+
+16
+
+Subsequently, Kingdom Trust did, however, provide cooperation to law enforcement regarding many of the relevant
+accounts.
+
+10
+
+customer and there is no other indication that Kingdom Trust considered the transactions as
+potentially reportable. In the limited instances in which Kingdom Trust personnel asked questions
+about payments requested by Customer B, the customer’s response was taken at face value in all but
+a small number of instances, and no SARs were filed by Kingdom Trust on any transactions
+processed for this customer.
+Among the examples of suspicious transactions that FinCEN identified were large, rounddollar payments sent by Customer B to multiple individuals, including one recipient who had an
+address in Argentina but an account at a U.S. financial institution. In nearly all of these cases,
+Kingdom Trust personnel did not question why a tourism company would be making so many large
+payments to these individuals. In a rare instance in which Kingdom Trust questioned such a
+payment, Company B provided Kingdom Trust with a generic invoice for “travel arrangements”
+that the beneficiary had purportedly provided to justify a $15,000 wire. Kingdom Trust then
+processed this payment. Similarly, FinCEN identified numerous instances of Company B using its
+account at Kingdom Trust to make large, round-dollar payments to legal entity beneficiaries that
+had minimal online presence and that appeared to operate in sectors wholly unrelated to tourism
+services, such as the exportation of electronics or engineering services.
+The Customer C Relationship and its Connections to a Trade-based Money-Laundering
+Scheme
+Of the suspicious transactions identified by FinCEN, over 400 were transactions processed
+for Customer C, primarily in late 2016 and 2017, with an aggregate value of roughly $63 million.
+Although Customer C purported to operate in the private funds sector, in reality many of this
+customer’s transactions were clearly inconsistent with those of a financial services company.
+Specifically, over 150 of the more than 400 suspicious transactions associated with this customer
+
+11
+
+were wire transfers sent to beneficiaries that purported to operate in the mobile phone business,
+particularly companies located in the Miami area with no or limited online presence.
+Kingdom Trust’s failure in detecting and reporting suspicious activity for these transactions
+may have caused substantial harm to the U.S. financial system. Specifically, two of the mobile
+phone businesses that received payments from Customer C were later referenced in a November
+2018 indictment filed by the U.S. Attorney’s Office for the Eastern District of New York.17 The
+indictment alleges that the owner of one of these counterparties accepted bulk cash deliveries and
+wire transfers from illegal drug sales as payments for cellular phones, which were used to obscure
+the transfer of the illicit proceeds.
+Identified Connections to Other Schemes
+Two of Kingdom Trust’s accounts, Customer E and Customer F, appear to have used their
+accounts at Kingdom Trust to perpetuate securities fraud. Of the suspicious transactions identified
+by FinCEN, over 80 were transactions processed for Customer E, Customer F, or the account of an
+individual affiliated with Customer F, primarily in late 2016 or 2017, with an aggregate value of
+roughly $8.9 million.
+Customer E is a Wyoming LLC with an unspecified business purpose. Kingdom Trust
+failed to identify that Customer E’s account activity during the Relevant Time Period clearly
+exhibited indicia consistent with the unregistered distribution of securities: large deposits of
+microcap stock, followed by sales of the same stock and withdrawals of the proceeds in the form of
+outgoing wires from the account. Kingdom Trust should have identified such obvious red flags but
+failed to do so.
+
+17
+
+Indictment, U.S. v. Khwaja et al., Cr. No. 18-607 (E.D.N.Y. Nov. 2018), available at: https://www.justice.gov/usaoedny/press-release/file/1111661/download.
+
+12
+
+Moreover, open source information about other individuals associated with Customer E
+itself should have raised red flags for Kingdom Trust and caused it to scrutinize this customer’s
+transactions for potentially suspicious activity that would require reporting to FinCEN. On
+February 16, 2016 (prior to the suspicious transactions that FinCEN identified in Customer E’s
+account at Kingdom Trust), the SEC filed a complaint in the Southern District of Florida charging
+two individuals with violations of the registration provisions of the federal securities laws. The
+violations occurred in connection with a scheme to make the restricted, unregistered, shares of two
+microcap stock companies freely tradeable.18 On April 14, 2017, the court issued a final judgment
+against one of these two individuals, ordering disgorgement, pre-judgment interest, and a civil
+money penalty against him and barring him from participating in any offerings of penny stocks.19
+Overall, Customer E engaged in little to no activity throughout the Relevant Time Period
+that was not suspicious, with substantially all of its transactions consistent with the typology of an
+unregistered distribution of securities. The following series of transactions in Customer E’s account
+should have been reported by Kingdom Trust as potential microcap security fraud, especially given
+the adverse media regarding individuals associated with Customer E.
+
+
+Issuer A
+o Large Deposit of Low-Value Shares: On November 9, 2016, Customer E
+received a deposit of 51,930,652 shares of Issuer A.
+o Sales Shortly After Deposit: Between November 14 and November 16, 2016,
+Customer E sold 1,600,000 shares of the microcap stock Issuer A, for $50,250,
+or about $0.03 per share.
+o Wires of Sale Proceeds: Between November 16 and 30, 2016, Customer E
+transferred $42,000 out of its Kingdom Trust account. Of that amount, $14,000
+
+Complaint, Sec. and Exchange Com’n. v. PV Enterprises, Inc., et al., No. 1:16-cv-20542-RNS (S.D. Fla. Feb. 2016),
+available at https://www.sec.gov/litigation/complaints/2016/comp23468.pdf.
+18
+
+Final Judgment, Sec. and Exchange Com’n. v. PV Enterprises, Inc., et al., No. 1:16-cv-20542-RNS(S.D. Fla. April
+2017), available at https://docs.justia.com/cases/federal/district-courts/florida/flsdce/1:2016cv20542/478733/83.
+19
+
+13
+
+went directly to Customer E’s account at another financial institution, $9,200
+went to another broker-dealer (Island Capital), and the remaining $18,800
+went to another beneficiary.
+o Additional Deposit of the Same Low-Value Shares: On November 21, 2016,
+Customer E received an additional 1,300,000 shares of Issuer A.
+o Other Activity: On March 7, 2017, Customer E transferred 26,873,718 shares
+of Issuer A, from its Kingdom Trust account to a Huntington National Bank
+account owned by Justin Herman.
+
+
+Issuer B
+o Large Deposit of Low-Value Shares: On December 22, 2016, Customer E
+deposited 1,900,000 shares of microcap stock Issuer B.
+o Sales Shortly After Deposit: From December 27, 2016, through February 15,
+2017, Customer E sold 198,699 shares of the stock from its account at
+Kingdom Trust, at prices ranging from $0.92 to $3.62 per share, generating
+$468,019 in proceeds.
+o Wires of Sale Proceeds: Between January and March 2017, Customer E wired
+$435,000 out of its account.
+o Other Activity: Customer E also transferred or gifted 107,000 shares out of the
+account to various parties.
+
+
+
+Customer E also received deliveries or transfers of other microcap securities during
+the Relevant Time Period, and transferred additional funds to Island Capital.
+Subsequent indictments and prosecutions further demonstrate that Kingdom Trust’s failures
+
+to report these transactions may have contributed to the perpetuation of additional fraudulent
+activity. On October 13, 2021, Herman and others were convicted of securities fraud and identity
+theft.20 The jury found that Mr. Herman, a vice-president at the broker-dealer Island Capital, and
+another individual conspired to engage in a pump-and-dump manipulation of the microcap stock
+NuTech Energy Resources, Inc. (NuTech). Further, on April 12, 2022, the SEC filed a complaint in
+
+Press Release, Dep’t. of Justice, U.S. Attorney’s Office, District of Wyoming, Federal Jury Convicts Defendants in
+NuTech Energy Resources Securities Fraud (Oct. 13, 2021), available at https://www.justice.gov/usao-wy/pr/federaljury-convicts-defendants-nutech-energy-resources-securities-fraud.
+20
+
+14
+
+the Eastern District of Kentucky charging Herman, Island Capital, and others with engaging in
+fraudulent and manipulative sales of hundreds of thousands of shares of a penny stock.21 Kingdom
+Trust failed to identify this activity.
+Customer F and an account for an individual associated with Customer F are two additional
+Kingdom Trust customers with a connection to securities fraud. In February 2016, the Customer F
+account had a transfer of 100,000,000 shares of a single security valued at a total amount of
+$400,000 to the associated individual’s own Kingdom Trust account. The associated individual had
+been publicly sanctioned by the Arizona Securities Commission in 2014 (i.e., before the Relevant
+Time Period) for committing securities fraud by offering and selling fake stock shares to investors.22
+The only activity in this individual’s account during the Relevant Time Period was a transfer of
+41,391 shares of a single security on March 22, 2016.
+As with the failures to report Customer E’s suspicious transactions, Kingdom Trust’s
+failures to report these transactions may have contributed to the perpetuation of additional
+fraudulent activity by Customer F. Customer F was identified in a superseding November 2019
+indictment against Justin Herman and others for the securities fraud violations related to NuTech
+that ultimately led to the conviction described above.23 The indictment states that the individual
+who organized Customer F in January 2013 had been barred by the SEC in 1999 from participation
+in penny stock offerings. The indictment also alleges that the organizer of Customer F opened an
+account for Customer F to hold NuTech shares. The indictment further alleges that the individual
+
+Complaint, Sec. and Exchange Com’n. v. Herman., et al., No. 7:22-cv-00027-REW-EBA (E.D. Ky. April 2022),
+available at https://www.sec.gov/litigation/complaints/2022/comp25361.pdf.
+21
+
+Arizona Corp. Com’n, Temporary order to cease and desist and notice of opportunity for hearing (Nov. 2013),
+available at http://edocket.azcc.gov/search/docket-search/item-detail/18186.
+22
+
+23
+
+Second Superseding Indictment, U.S. v. Mitchell et al., No. 2:19-cr-00026-ABJ (D. Wyo.) Nov. 2019), available at
+https://www.justice.gov/usao-wy/page/file/1223061/download.
+
+15
+
+who organized Customer F, along with his co-defendants, sold 65.5 million shares of NuTech to the
+public, and as the result of those sales, received more than $131,000 in proceeds through Kingdom
+Trust accounts.
+Entities on Kingdom Trust’s Watch List
+In addition to the specific transactions discussed above, Kingdom Trust also failed to file
+SARs on parties on the firm’s own watch list. Entries on this watch list were either banned from
+obtaining new accounts at Kingdom Trust or prohibited from processing transactions with Kingdom
+Trust customers. Entries included both persons who maintained accounts with Kingdom Trust that
+were closed, including for compliance concerns, as well as those who sought to open accounts at
+Kingdom Trust but were rejected before their accounts were opened. Despite well-documented
+concerns about these persons, Kingdom Trust did not file SARs on any of them at any time.
+III.
+
+VIOLATIONS
+FinCEN has determined that Kingdom Trust willfully violated the BSA and its implementing
+
+regulations during the Relevant Time Period. Specifically, FinCEN has determined that Kingdom
+Trust willfully failed to accurately and timely report suspicious transactions to FinCEN, in violation
+of 31 U.S.C. § 5318(g) and 31 C.F.R. § 1020.320. At a high level: (1) Kingdom Trust expanded into
+a new line of business that involved customers with elevated risks of money laundering without
+considering the resources required to identify and report suspicious transactions for those customers;
+(2) Kingdom Trust maintained a manual process that was inadequate to identify and report suspicious
+transactions given the growing volume of transactions it was processing as a result of this international
+line of business expansion; and (3) Kingdom Trust failed to file SARs on hundreds of transactions
+that FinCEN was able to readily identify as suspicious based on the parameters set forth in 31 C.F.R.
+§ 1010.320(a).
+
+16
+
+ENFORCEMENT FACTORS
+FinCEN has considered all of the factors outlined in the Statement on Enforcement of the
+Bank Secrecy Act issued August 18, 2020, when deciding whether to impose a Civil Money Penalty
+in this matter.24 The following factors were particularly relevant to FinCEN’s evaluation of the
+appropriate disposition of this matter, including the decision to impose a Civil Money Penalty and
+the size of that Civil Money Penalty.
+
+
+Nature and seriousness of the violations, including the extent of possible harm to the public
+and systemic nature of the violations: Kingdom Trust’s violations were substantial in both
+number and dollar value and caused significant possible harm to the public. As a general matter,
+SARs represent one of the most important tools to FinCEN and law enforcement in fighting
+financial crime, both in proactively identifying potential illicit activity and in understanding the
+scope and scale of that illicit activity. The fact that Kingdom Trust later provided assistance to
+federal law enforcement with respect to certain of these customers does not relieve it of its
+obligation to have filed SARs on suspicious transactions involving these parties. Simply put,
+FinCEN and law enforcement must be able to rely on financial institutions to remain vigilant and
+comply with their obligation to report suspicious activity, and Kingdom Trust’s failures caused a
+significant gap in the reporting of suspicious activity. As described above, not only did much of
+the activity that Kingdom Trust failed to report bear hallmarks of suspicious transactions, several
+of Kingdom Trust’s customers and counterparties were the subject of media reports alleging their
+involvement in specified unlawful activities.
+
+24
+
+FinCEN, Statement on Enforcement of the Bank Secrecy Act (Aug. 18, 2020), available at
+https://www.fincen.gov/sites/default/files/shared/FinCEN%20Enforcement%20Statement_FINAL%20508.pdf.
+
+17
+
+
+
+Impact or harm of the violations on FinCEN’s mission to safeguard the financial
+system from illicit use, combat money laundering, and promote national security:
+Kingdom Trust materially harmed FinCEN’s mission to safeguard the U.S. financial
+system from illicit use because it opened its doors to a high-risk business that it did not
+understand, failed to identify and report transactions with clear indicia of suspicion, and
+allowed high-risk customers to continue to move billions through the U.S. financial
+system without required reporting. Further, as discussed above, Kingdom Trust’s
+failures allowed illicit actors to use their accounts at Kingdom Trust to engage in activity
+that appears related to apparent trade-based money laundering and securities fraud
+schemes. Although Kingdom Trust’s size is relatively modest, it had an outsized impact
+on the U.S. financial system: Kingdom Trust processed at least $4 billion in payments
+for foreign customers during the Relevant Time Period.
+
+
+
+Pervasiveness of wrongdoing within an entity, including management’s complicity
+in, condoning or enabling of, or knowledge of the conduct underlying the
+violations: The wrongdoing at Kingdom Trust was pervasive, and its efforts to prevent
+these violations were inadequate.
+o At the time it was operating the high-risk business, Kingdom Trust management did
+not recruit personnel experienced in AML compliance and did not provide adequate
+training. Although the Compliance Analyst and the AML Compliance Officer prior
+to July 2020 had previous experience in the financial services industry, they lacked
+AML-specific experience. More broadly, other Kingdom Trust personnel interacting
+with customers had little-to-no experience in the financial services industry, leaving
+them ill equipped to escalate unusual customer transactions.
+
+18
+
+o Kingdom Trust considered adding additional resources but delayed making this
+investment. Similarly, the individual tasked with overseeing the reporting of
+suspicious activity acknowledged having many other responsibilities during the
+Relevant Time Period. Taken together, this approach demonstrates that Kingdom
+Trust did not take seriously its obligation to identify and report suspicious activity.
+o Starting in 2014 and persisting through early 2018, Kingdom Trust management took
+on high-risk clients engaged in lines of business that Kingdom Trust did not
+understand. Management improperly tasked inexperienced compliance personnel
+with ensuring that required suspicious activity reporting related to these customers
+took place. Kingdom Trust management could not explain why Latin American
+customers would use their services instead of dealing directly with larger, wellestablished securities firms, and there was an apparent lack of oversight of the
+Compliance Analyst (e.g., no questions raised regarding the implausibly low number
+of SARs filed on such a high volume business). Kingdom Trust’s approach to dealing
+with its high-risk customers was incremental and did not address the deficiencies in
+its suspicious activity reporting process.
+
+
+History of similar violations, or misconduct in general, including prior criminal,
+civil, and regulatory enforcement actions: FinCEN is not aware of any prior criminal,
+civil, or regulatory enforcement action taken against Kingdom Trust.
+
+
+
+Financial gain or other benefit resulting from, or attributable to, the violations:
+Kingdom Trust operated for many years without an adequate process to identify and
+report suspicious activity and only began investing in improvements to its compliance
+program in 2018. Prior to that time, instead of investing adequate resources during the
+19
+
+Relevant Time Period, Kingdom Trust consistently chose to prioritize building its
+business (with minimal compliance expenditures) over building an adequate AML
+compliance program.
+
+
+Presence or absence of prompt, effective action to terminate the violations upon
+discovery, including self-initiated remedial measures: During the Relevant Time
+Period, Kingdom Trust exhibited an incremental and slow approach to addressing the
+risks posed by its high-risk customers that failed to address the failures in Kingdom
+Trust’s process for reporting suspicious activity. Kingdom Trust, however, has made
+investments in its approach to AML compliance, including hiring an independent
+consultant in 2016 to review its AML program, hiring an outside law firm in 2018 to
+improve its program, and, in July 2020, hiring a new AML compliance officer with
+relevant prior experience. Subsequent to the Relevant Time Period, Kingdom Trust
+implemented an automated transaction monitoring system and increased the size of its
+AML compliance staff.
+
+
+
+Timely and voluntary disclosure of the violations to FinCEN: Kingdom Trust did not
+voluntarily disclose the violations described herein to FinCEN.
+
+
+
+Quality and extent of cooperation with FinCEN and other relevant agencies,
+including as to potential wrongdoing by its directors, officers, employees, agents,
+and counterparties: Kingdom Trust provided substantial cooperation to FinCEN
+throughout the course of its investigation. Kingdom Trust executed an agreement tolling
+the statute of limitations, and provided timely and well-organized submissions in
+response to requests for information and documentation. FinCEN understands that
+
+20
+
+Kingdom Trust also provided cooperation to law enforcement, including the provision of
+information related to customers referred to Kingdom Trust by the Consulting Group.
+
+
+Systemic nature of the violations. Considerations include, but are not limited to,
+the number and extent of violations, failure rates (e.g., the number of violations out
+of total number of transactions), and duration of violations: FinCEN estimates that
+Kingdom Trust failed to report a substantial amount of suspicious activity, these failures
+related to a high-risk line of business that Kingdom Trust maintained for several years,
+and the risks of these customers were addressed only after several of its banks closed its
+accounts.
+
+
+
+Whether another agency took enforcement action for related activity. FinCEN will
+consider the amount of any fine, penalty, forfeiture, and/or remedial action
+ordered: No other government agency has taken enforcement action against Kingdom
+Trust for related activity.
+IV.
+
+CIVIL PENALTY
+For willful failure to timely file required Suspicious Activity Reports, FinCEN may impose
+
+a civil money penalty (CMP) in the amount of the transaction up to $270,180, but not less than
+$67,544 per transaction.
+After considering all the facts and circumstances, as well as the enforcement factors
+discussed above and Kingdom Trust’s resources, FinCEN has determined to impose a Civil Money
+Penalty of $1,500,000 in this matter. Accordingly, Kingdom Trust shall make payment of
+$1,500,000 to the U.S. Department of the Treasury pursuant to the payment instructions that will be
+transmitted to Kingdom Trust upon execution of this Consent Order.
+
+21
+
+V.
+
+UNDERTAKINGS
+By execution of this Consent Order, Kingdom Trust agrees to the following Undertakings:
+A. SAR LOOKBACK UNDERTAKING
+1.
+
+Within 60 days from the Effective Date of this Consent Order, Kingdom Trust will
+
+hire, at its own cost, a qualified independent consultant, subject to FinCEN approval, to conduct a
+SAR Lookback Review. The independent consultant will review all transactions or attempted
+transactions by, at, or through Kingdom Trust, involving: (i) all accounts referenced in this Consent
+Order, and (ii) any additional accounts Kingdom Trust maintained for customers referred to it by
+the Consulting Group, that occurred during the Relevant Time Period (Covered Transactions) to
+determine whether activity was properly identified and reported under 31 U.S.C. § 5318(g) and
+implementing regulations.
+2.
+
+No later than January 2024, the independent consultant will deliver a detailed report
+
+(SAR Lookback Report) to FinCEN and Kingdom Trust that summarizes the methodology and
+findings of its review and identifies the Covered Transactions that may require a SAR to be filed
+pursuant to 31 U.S.C. § 5318(g) and its implementing regulations. Kingdom Trust will make
+interim reports, drafts, work papers, or other supporting materials available to FinCEN upon request.
+Kingdom Trust will comply with the findings and recommendations from the independent
+consultant or FinCEN that Kingdom Trust file SARs on any of the Covered Transactions.
+3.
+
+Within 60 days of receipt of the SAR Lookback Report, Kingdom Trust will file with
+
+FinCEN SARs regarding all of the Covered Transactions identified by the independent consultant as
+ones that would have required a report pursuant to 31 U.S.C. § 5318(g) and implementing
+
+22
+
+regulations. Kingdom Trust shall be entitled to one 60-day extension of this SAR filing deadline as
+of right. Any additional extensions may be granted with the written consent of FinCEN.
+B. AML PROGRAM UNDERTAKING
+1.
+
+Within 60 days from the Effective Date of this Consent Order, Kingdom Trust will
+
+hire, at its own cost, a qualified independent consultant, subject to FinCEN approval, to review the
+effectiveness of Kingdom Trust’s AML program though an AML Program Review. Within 30 days
+from the date of Kingdom Trust’s retention of the independent consultant, the consultant will
+provide FinCEN with a report summarizing the proposed scope and methodology of the review of
+Kingdom Trust’s AML Program that the consultant plans to conduct.
+2.
+
+Within 60 days from the end of its review, but no later than nine months from the
+
+Effective Date of this Consent Order, the independent consultant will submit to FinCEN and to
+Kingdom Trust a written report: (1) addressing the adequacy of Kingdom Trust’s AML program,
+including with respect to the controls applicable to current customers whose accounts were opened
+during the Relevant Time Period and the effectiveness of the automated transaction monitoring
+system that Kingdom Trust implemented in late 2021; (2) describing the review performed and the
+conclusions reached; and (3) describing any recommended modifications or enhancements to
+Kingdom Trust’s AML program. Interim reports, drafts, workpapers or other supporting materials
+will be made available to FinCEN upon request.
+3.
+
+Kingdom Trust will adopt and implement any recommendations made by the
+
+independent consultant or, within 30 days after issuance of a report, propose alternatives. The
+independent consultant will provide a written response to any proposed alternatives within 60 days.
+Within 60 days after issuance of a report or a written response from the consultant regarding
+Kingdom Trust’s proposed alternatives, Kingdom Trust will provide FinCEN with a written report
+
+23
+
+detailing the extent to which it has adopted and implemented recommendations made by the
+independent consultant.
+VI.
+
+CONSENT AND ADMISSIONS
+To resolve this matter and only for that purpose, Kingdom Trust admits to the Statement of
+
+Facts and Violations set forth in this Consent Order and admits that it willfully violated the BSA
+and its implementing regulations. Kingdom Trust consents to the use of the Statement of Facts, and
+any other findings, determinations, and conclusions of law set forth in this Consent Order in any
+other proceeding brought by or on behalf of FinCEN, or to which FinCEN is a party or claimant,
+and agrees they shall be taken as true and correct and be given preclusive effect without any further
+proof. Kingdom Trust understands and agrees that in any administrative or judicial proceeding
+brought by or on behalf of FinCEN against it, including any proceeding to enforce the Civil Money
+Penalty imposed by this Consent Order or for any equitable remedies under the BSA, Kingdom
+Trust shall be precluded from disputing any fact or contesting any determinations set forth in this
+Consent Order.
+To resolve this matter, Kingdom Trust agrees to and consents to the issuance of this Consent
+Order and all terms herein and agrees to make payment of $1,500,000 pursuant to the payment
+instructions that will be transmitted to Kingdom Trust upon execution of this Consent Order. If
+timely payment is not made, Kingdom Trust agrees that interest, penalties, and administrative costs
+will accrue.25
+Kingdom Trust understands and agrees that it must treat the Civil Money Penalty paid under
+this Consent Order as a penalty paid to the government and may not claim, assert, or apply for a tax
+
+25
+
+31 U.S.C. § 3717; 31 C.F.R. § 901.9.
+
+24
+
+deduction, tax credit, or any other tax benefit for any payments made to satisfy the Civil Money
+Penalty. Kingdom Trust understands and agrees that any acceptance by or on behalf of FinCEN of
+any partial payment of the Civil Money Penalty obligation will not be deemed a waiver of Kingdom
+Trust’s obligation to make further payments pursuant to this Consent Order, or a waiver of
+FinCEN’s right to seek to compel payment of any amount assessed under the terms of this Consent
+Order, including any applicable interest, penalties, or other administrative costs.
+Kingdom Trust affirms that it agrees to and approves this Consent Order and all terms herein
+freely and voluntarily and that no offers, promises, or inducements of any nature whatsoever have
+been made by FinCEN or any employee, agent, or representative of FinCEN to induce Kingdom
+Trust to agree to or approve this Consent Order, except as specified in this Consent Order.
+Kingdom Trust understands and agrees that this Consent Order implements and embodies
+the entire agreement between Kingdom Trust and FinCEN, and its terms relate only to this
+enforcement matter and any related proceeding and the facts and determinations contained herein.
+Kingdom Trust further understands and agrees that there are no express or implied promises,
+representations, or agreements between Kingdom Trust and FinCEN other than those expressly set
+forth or referred to in this Consent Order and that nothing in this Consent Order is binding on any
+other law enforcement or regulatory agency or any other governmental authority, whether foreign,
+Federal, State, or local.
+Kingdom Trust understands and agrees that nothing in this Consent Order may be construed
+as allowing Kingdom Trust, its subsidiaries, affiliates, Board, officers, employees, or agents to
+violate any law, rule, or regulation.
+Kingdom Trust consents to the continued jurisdiction of the courts of the United States over
+it and waives any defense based on lack of personal jurisdiction or improper venue in any action to
+
+25
+
+enforce the terms and conditions of this Consent Order or for any other purpose relevant to this
+enforcement action. Solely in connection with an action filed by or on behalf of FinCEN to enforce
+this Consent Order or for any other purpose relevant to this action, Kingdom Trust authorizes and
+agrees to accept all service of process and filings through the Notification procedures below and to
+waive formal service of process.
+VII.
+
+COOPERATION
+
+Kingdom Trust shall fully cooperate with FinCEN in any and all matters within the scope of
+or related to the Statement of Facts, including any investigation of its current or former directors,
+officers, employees, agents, consultants, or any other party. Kingdom Trust understands that its
+cooperation pursuant to this paragraph shall include, but is not limited to, truthfully disclosing all
+factual information with respect to its activities, and those of its present and former directors,
+officers, employees, agents, and consultants. This obligation includes providing to FinCEN, upon
+request, any document, record or other tangible evidence about which FinCEN may inquire of
+Kingdom Trust. Kingdom Trust’s cooperation pursuant to this paragraph is subject to applicable
+laws and regulations, as well as valid and properly documented claims of attorney-client privilege
+or the attorney work product doctrine.
+VIII. RELEASE
+Execution of this Consent Order and compliance with all of the terms of this Consent Order,
+settles all claims that FinCEN may have against Kingdom Trust for the conduct described in this
+Consent Order during the Relevant Time Period. Execution of this Consent Order, and compliance
+with the terms of this Consent Order, does not release any claim that FinCEN may have for conduct
+by Kingdom Trust other than the conduct described in this Consent Order during the Relevant Time
+Period, or any claim that FinCEN may have against any current or former director, officer, owner,
+
+26
+
+or employee of Kingdom Trust or any other individual or entity other than those named in this
+Consent Order. In addition, this Consent Order does not release any claim or provide any other
+protection in any investigation, enforcement action, penalty assessment, or injunction relating to any
+conduct that occurs after the Relevant Time Period as described in this Consent Order.
+IX.
+
+WAIVERS
+Nothing in this Consent Order shall preclude any proceedings brought by, or on behalf of,
+
+FinCEN to enforce the terms of this Consent Order, nor shall it constitute a waiver of any right,
+power, or authority of any other representative of the United States or agencies thereof, including
+but not limited to the Department of Justice.
+In consenting to and approving this Consent Order, KingdomTrust stipulates to the terms of
+this Consent Order and waives:
+A. Any and all defenses to this Consent Order, the Civil Money Penalty imposed by
+this Consent Order, and any action taken by or on behalf of FinCEN that can be
+waived, including any statute of limitations or other defense based on the passage
+of time;
+B. Any and all claims that FinCEN lacks jurisdiction over all matters set forth in this
+Consent Order, lacks the authority to issue this Consent Order or to impose the
+Civil Money Penalty, or lacks authority for any other action or proceeding related
+to the matters set forth in this Consent Order;
+C. Any and all claims that this Consent Order, any term of this Consent Order, the
+Civil Money Penalty, or compliance with this Consent Order, or the Civil Money
+Penalty, is in any way unlawful or violates the Constitution of the United States
+of America or any provision thereof;
+
+27
+
+D. Any and all rights to judicial review, appeal or reconsideration, or to seek in any
+way to contest the validity of this Consent Order, any term of this Consent Order,
+or the Civil Money Penalty arising from this Consent Order;
+E. Any and all claims that this Consent Order does not have full force and effect, or
+cannot be enforced in any proceeding, due to changed circumstances, including
+any change in law; and
+F. Any and all claims for fees, costs, or expenses related in any way to this
+enforcement matter, Consent Order, or any related administative action, whether
+arising under common law or under the terms of any statute, including, but not
+limited to, under the Equal Access to Justice Act. Kingdom Trust agrees to bear
+its own costs and attorneys’ fees.
+X.
+
+VIOLATIONS OF THIS CONSENT ORDER
+Determination of whether Kingdom Trust has failed to comply with this Consent Order, or
+
+any portion thereof (including, but not limited to, completion of the SAR Lookback Review and the
+AML Program Review), and whether to pursue any further action or relief against Kingdom Trust
+shall be in FinCEN’s sole discretion. If FinCEN determines, in its sole discretion, that a failure to
+comply with this Consent Order, or any portion thereof, has occurred, or that Kingdom Trust has
+made any misrepresentations to FinCEN or any other government agency related to the underlying
+enforcement matter, FinCEN may void any and all releases or waivers contained in this Consent
+Order; reinstitute administrative proceedings; take any additional action that it deems appropriate;
+and pursue any and all violations, maximum penalties, injunctive relief, or other relief that FinCEN
+deems appropriate. FinCEN may take any such action even if it did not take such action against
+Kingdom Trust in this Consent Order and notwithstanding the releases and waivers herein. In the
+
+28
+
+event FinCEN takes such action under this paragraph, Kingdom Trust specifically agrees to toll any
+applicable statute of limitations and to waive any defenses based on a statute of limitations or the
+passage of time that may be applicable to the Statement of Facts in this Consent Order, until a date
+180 days following Kingdom Trust’s receipt of notice of FinCEN’s determination that a
+misrepresentation or breach of this agreement has occurred, except as to claims already time barred
+as of the Effective Date of this Consent Order.
+In the event that FinCEN determines that Kingdom Trust has made a misrepresentation or
+failed to comply with this Consent Order, or any portion thereof, all statements made by or on
+behalf of Kingdom Trust to FinCEN, including the Statement of Facts, whether prior or subsequent
+to this Consent Order, will be admissible in evidence in any and all proceedings brought by or on
+behalf of FinCEN. Kingdom Trust agrees that it will not assert any claim under the Constitution of
+the United States of America, Rule 408 of the Federal Rules of Evidence, or any other law or
+federal rule that any such statements should be suppressed or are otherwise inadmissible. Such
+statements shall be treated as binding admissions, and Kingdom Trust agrees that it shall be
+precluded from disputing or contesting any such statements. FinCEN shall have sole discretion
+over the decision to impute conduct or statements of any director, officer, employee, agent, or any
+person or entity acting on behalf of, or at the direction of Kingdom Trust in determining whether
+Kingdom Trust has violated any provision of this Consent Order.
+XI.
+
+PUBLIC STATEMENTS
+Kingdom Trust agrees that it shall not, nor shall its attorneys, agents, partners, directors,
+
+officers, employees, affiliates, or any other person authorized to speak on its behalf or within its
+authority or control, take any action or make any public statement, directly or indirectly,
+
+29
+
+contradicting its admissions and acceptance of responsibility or any terms of this Consent Order,
+including any fact finding, determination, or conclusion of law in this Consent Order.
+FinCEN shall have sole discretion to determine whether any action or statement made by
+Kingdom Trust, or by any person under the authority, control, or speaking on behalf of Kingdom
+Trust contradicts this Consent Order, and whether Kingdom Trust has repudiated such statement.
+XII.
+
+RECORD RETENTION
+
+In addition to any other record retention required under applicable law, Kingdom Trust
+agrees to retain all documents and records required to be prepared or recorded under this Consent
+Order or otherwise necessary to demonstrate full compliance with each provision of this Consent
+Order, including supporting data and documentation. Kingdom Trust agrees to retain these records
+for a period of 6 years after creation of the record, unless required to retain them for a longer period
+of time under applicable law.
+XIII. SEVERABILITY
+Kingdom Trust agrees that if a court of competent jurisdiction considers any of the
+provisions of this Consent Order unenforceable, such unenforceability does not render the entire
+Consent Order unenforceable. Rather, the entire Consent Order will be construed as if not
+containing the particular unenforceable provision(s), and the rights and obligations of FinCEN and
+Kingdom Trust shall be construed and enforced accordingly.
+XIV. SUCCESSORS AND ASSIGNS
+Kingdom Trust agrees that the provisions of this Consent Order are binding on its owners,
+officers, employees, agents, representatives, affiliates, successors, assigns, and transferees to whom
+Kingdom Trust agrees to provide a copy of the executed Consent Order. Should Kingdom Trust
+seek to sell, merge, transfer, or assign its operations, or any portion thereof, that are the subject of
+
+30
+
+this Consent Order, Kingdom Trust must, as a condition of sale, merger, transfer, or assignment
+obtain the written agreement of the buyer, merging entity, transferee, or assignee to comply with
+this Consent Order.
+XV.
+
+MODIFICATIONS AND HEADINGS
+
+This Consent Order can only be modified with the express written consent of FinCEN and
+Kingdom Trust. The headings in this Consent Order are inserted for convenience only and are not
+intended to affect the meaning or interpretation of this Consent Order or its individual terms.
+XVI. AUTHORIZED REPRESENTATIVE
+Kingdom Trust’s representative, by consenting to and approving this Consent Order, hereby
+represents and warrants that the representative has full power and authority to consent to and
+approve this Consent Order for and on behalf of Kingdom Trust, and further represents and
+warrants that Kingdom Trust agrees to be bound by the terms and conditions of this Consent Order.
+XVII. NOTIFICATION
+Unless otherwise specified herein, whenever notifications, submissions, or communications
+are required by this Consent Order, they shall be made in writing and sent via first-class mail and
+simultaneous email, addressed as follows:
+To FinCEN:
+
+Associate Director, Enforcement and Compliance Division,
+Financial Crimes Enforcement Network,
+P.O. Box 39
+Vienna, Virginia 22183
+
+To Kingdom Trust:
+
+General Counsel
+Kingdom Trust Company
+4300 South Louise Avenue, Suite 107
+Sioux Falls, SD 57106
+
+Notices submitted pursuant to this paragraph will be deemed effective upon receipt unless
+otherwise provided in this Consent Order or approved by FinCEN in writing.
+
+31
+
+XVIII. COUNTERPARTS
+This Consent Order may be signed in counterpart and electronically. Each counterpart,
+when executed and delivered, shall be an original, and all of the counterparts together shall
+constitute one and the same fully executed instrument.
+XIX. EFFECTIVE DATE AND CALCULATION OF TIME
+This Consent Order shall be effective upon the date signed by FinCEN. Calculation of
+deadlines and other time limitations set forth herein shall run from the effective date (excluding the
+effective date in the calculation) and be based on calendar days, unless otherwise noted, including
+intermediate Saturdays, Sundays, and legal holidays.
+
+By Order of the Director of the Financial Crimes Enforcement Network.
+
+/s/
+___________________________________
+Himamauli Das
+Date:
+Acting Director
+
+Consented to and Approved By:
+
+/s/
+_________________________________________
+Tim Kuhman, General Counsel
+Date:
+The Kingdom Trust Company
+
+32
+
+

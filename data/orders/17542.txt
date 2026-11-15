@@ -1,0 +1,340 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+IN THE MATTER OF:
+
+)
+)
+)
+)
+)
+
+METROPOLITAN BANK & TRUST COMPANY
+NEW YORK BRANCH
+NEW YORK, NEW YORK
+
+-
+
+Number 2006 2
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+I.
+
+INTRODUCTION
+
+Under the authority of the Bank Secrecy Act and regulations issued pursuant to that Act, I
+the Financial Crimes Enforcement Network has determined that grounds exist to assess a civil
+money penalty against Metropolitan Bank & Trust Company, New York Branch ("Metrobank"
+or "the Bank"). To resolve this matter, and only for that purpose, Metrobank has entered into a
+CONSENT TO THE ASSESSMENT OF CNIL MONEY PENALTY ("CONSENT"), without
+admitting or denying the determinations by the Financial Crimes Enforcement Network, as
+described in Sections ill and N below, except as to jurisdiction in Section il below, which is
+admitted.
+The CONSENT is incorporated into this ASSESSMENT OF CNIL MONEY PENALTY
+("ASSESSMENT") by this reference.
+II.
+
+JURISDICTION
+
+Metrobank is a U.S. Branch of Metropolitan Bank & Trust Company (the "Metrobank
+Group"), a financial institution based in Manila, Philippines. Metrobank has a single location in
+New York City. As of September 30,2005, Metrobank had total assets of $35.3 million. The
+Office of the Comptroller of the Currency is Metrobank's Federal functional regulator and
+examines Metrobank for compliance with the Bank Secrecy Act and its implementing
+regulations and with similar rules under Title 12 of the United States Code.
+At all relevant times, Metrobank was a "financial institution" and a "bank" within the
+meaning of the Bank Secrecy Act and the regulations issued pursuant to that Act.2
+
+131 U.S.c. § 5321 and 31 U.S.c. § 103.57.
+231 U.S.c. § 5312(a)(2) and 31 C.F.R. § 103.11.
+
+I
+
+-
+
+-
+
+-
+
+-
+
+-
+
+m.
+
+DETERMINATIONS
+A.
+
+Summary
+
+Metrobank failed to implement an adequate Bank Secrecy Act compliance program,
+including an anti-money laundering program with internal controls, independent testing and
+other measures to detect and report potential money laundering and other suspicious activity.
+The Metrobank Group, the largest bank in the Philippines, offers a wide variety of
+banking and other financial services such as deposit accounts, commercial loans, credit cards,
+trade finance, and remittance services. The Metrobank Group has 822 branches and offices
+worldwide, with branches in New York City, Guam, Hong Kong, Beijing, Shanghai, Taipei,
+Kaoshiung, Tokyo, Osaka, Seoul, Pusan and London. The branch network outside of the
+Philippines provides a range of banking and other financial services, including remittance
+services for Filipino overseas workers.
+Metrobank is affiliated with Metro Remittance Center, Incorporated ("Metro
+Remittance"), a wholly owned subsidiary of the Metrobank Group that is registered with the
+Financial Crimes Enforcement Network as a money services business. Metro Remittance,
+headquartered in New York City, is licensed as a money transmitter in New York, New Jersey,
+Nevada, lllinois, and the District of Columbia, and in 2005 was planning to expand to Hawaii
+and to Toronto and Vancouver in Canada. As a money services business, Metro Remittance is
+also required to implement an anti-money laundering program under the Bank Secrecy Act and
+its implementing regulations? However, prior to March 2005, Metrobank handled Bank Secrecy
+Act compliance operations for Metro Remittance as well as for itself. At all relevant times,
+Metro Remittance and Metrobank had the same Bank Secrecy Act compliance program, with the
+same Bank Secrecy Act compliance failures described in Section III.
+Metrobank and Metro Remittance handle large volumes of funds transfers involving the
+Philippines and, since September 2003, the People's Republic of China. The volume of funds
+transfers to the Philippines in 2003 was 162,000 transactions totaling $208 million. Prior to
+February 11,2005, the Philippines was included in the list of Non-Cooperative Countries or
+Territories designated by the Financial Action Task Force on Money Laundering.
+An examination of Metrobank by the Office of the Comptroller of the Currency found
+deficiencies in Metrobank's anti-money laundering program, revealing that Metrobank had failed
+to implement an adequate system of internal controls to ensure compliance with the Bank
+Secrecy Act and manage the risks of money laundering involving funds transfers. The
+examination also revealed that Metrobank had failed to conduct adequate independent testing to
+allow for the timely identification and correction of Bank Secrecy Act compliance failures.
+These failures in internal controls and independent testing led, in turn, to failures by Metrobank
+to identify and report suspicious transactions in a timely manner. The failures of Metrobank to
+comply with the Bank Secrecy Act and the regulations issued pursuant to that Act were
+significant.
+
+331 V.S.C. § 5318(h)(I) and 31 c.F.R. § 103.125.
+
+2
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+--
+
+---.-.---
+
+B.
+
+Violations of the Requirement to Implement an Anti-Monev Laundering Program
+
+The Financial Crimes Enforcement Network has determined that Metrobank violated the
+requirement to establish and implement an adequate anti-money laundering program. Since
+April 24, 2002, the Bank Secrecy Act and its implementing regulations have required financial
+institutions to establish and implement anti-money laundering programs.4 A federal branch of a
+foreign bank must implement an anti-money laundering program that conforms with the rules of
+the Office of the Comptroller of the Currency. Since 1987, the Office of the Comptroller of the
+Currency has required a program "reasonably designed to assure and monitor compliance" with
+reporting and record keeping requirements under the Bank Secrecy Act.5 Reporting
+requirements under the Bank Secrecy Act include the requirement to report suspicious
+transactions.6 An anti-money laundering program must contain the following elements: (1) a
+system of internal controls; (2) independent testing for compliance; (3) the designation of an
+individual, or individuals, to coordinate and monitor day-to-day compliance; and (4) training of
+appropriate personnel.7
+1.
+
+Internal Policies, Procedures and Controls
+
+Metrobank failed to implement an adequate system of internal controls reasonably
+designed to ensure compliance with the Bank Secrecy Act and manage the risks of money
+laundering involving funds transfers. Metrobank's written anti-money laundering policies and
+procedures did not address, or inadequately addressed, a number of significant areas. The
+written policies and procedures did not address widely known areas of elevated risk, such as
+pouch activity and payable upon proper identification activity. Pouch activities alone totaled $8
+million in a sampled 8 day period. The timeframe, threshold, and other filtering criteria for
+identifying suspicious and unusual transactions were also inadequate at the Bank. Monitoring
+reports primarily focused on transactions over $10,000 during a four week period, including
+funds transfers from a single originator to multiple beneficiaries or from multiple originators to a
+single beneficiary. Cash transaction reports for transactions between $3,000 and $10,000 were
+not reviewed on a consistent basis. Furthermore, the method of payment (e.g. cash, personal
+checks, money orders, traveler's checks) used to initiate remittance transactions was not taken
+into consideration when monitoring for, or investigating, suspicious activity.
+Metrobank's failure to implement elements of its written policies and procedures led to
+inadequate customer due diligence. Metrobank did not implement adequate customer due
+diligence procedures called for by its written policies and procedures. The Bank also failed to
+collect sufficient information to develop a transaction profile for each customer, and did not
+designate customers into the four risk designations identified in the written policies and
+procedures. As a result of these failures to implement elements of its written policies and
+procedures, the Bank lacked an adequate framework for assessing the risks associated with its
+customers.
+
+431 D.S.C. § 5318(h)(l) and 31 C.P.R. § 103.120.
+5 12 C.F.R. § 21.21(b).
+6 31 C.F.R. § 103.18.
+712 C.P.R. § 21.21(c).
+
+3
+
+--
+
+-
+
+--
+
+-
+
+Automated monitoring systems were inadequate to support the volume and types of
+money transfer transactions conducted by Metrobank. Metrobank purchased transaction
+monitoring software in 2003. However, after two years, Metrobank was not fully utilizing the
+system and had not implemented it into monitoring processes to facilitate compliance with the
+Bank Secrecy Act. Instead, Metrobank continued to rely on ineffective manual controls. In
+addition, Metrobank's inadequate customer due diligence hindered its ability to set up accurate
+customer risk ratings and anticipated transaction volumes in its transaction monitoring software.
+The Bank did not obtain, or document, sufficient customer information to be able to set realistic
+risk ratings and parameters of expected activity to ensure the detection and reporting of
+suspicious activities.
+2.
+
+Independent Testing
+
+Metrobank failed to implement adequate independent testing to ensure compliance with
+the Bank Secrecy Act. The scope of both internal audits and external compliance reviews was
+inadequate, particularly in light of the high-risk nature of certain products and services and the
+countries involved. Neither the internal audit nor the outsourced compliance review conducted a
+review of pouch activity. Although the internal audit covered remittance activity, neither it nor
+the outsourced compliance review identified the lack of sufficient customer information to
+facilitate monitoring of remittance transactions for suspicious activity. Also, neither the internal
+audit nor the outsourced compliance review conducted a review for compliance with the
+provisions of the Uniting and Strengthening America by Providing Appropriate Tools Required
+to Intercept and Obstruct Terrorism Act of 2001 ("USA PATRIOT Act") on foreign
+correspondent banking,8or information sharing between law enforcement and financial
+institutions.9 Furthermore, the audit procedures in Metrobank's policy manual were limited,
+outdated, and did not include the procedures actually in place at that time.
+C.
+
+Violations of the Requirement to Report Suspicious Transactions
+
+The Financial Crimes Enforcement Network has determined that Metrobank violated the
+suspicious transaction reporting requirements of the Bank Secrecy Act and regulations issued
+pursuant to that Act. 10These reporting requirements impose an obligation on banks to report
+transactions that involve or aggregate to at least $5,000, are conducted by, at, or through the bank
+and that the bank "knows, suspects or has reason to suspect" are suspicious.II A transaction is
+"suspicious" if the transaction: (1) involves funds derived from illegal activities, or is conducted
+to disguise funds derived from illegal activities; (2) is designed to evade reporting or record
+keeping requirements under the Bank Secrecy Act; or (3) has no business or apparent lawful
+purpose or is not the sort in which the customer would normally be expected to engage, and the
+bank knows of no reasonable explanation for the transaction after examining the available facts,
+including the background and possible purpose of the transaction.12
+
+8 USA PATRIOT Act § 313.31 U.S.c.
+
+§ 5318(j); USA PATRIOT Act § 319. 31 U.S.c. § 5318(k).
+
+9 USAPATRIOTAct§ 314(a);31 c.F.R. § 103.100.
+
+1031 U.S.c. § 5318(g) and 31 c.F.R. § 103.18.
+1131 C.F.R. §103.18(a)(2).
+1231 C.F.R. § 103.18(a)(2)(i)-(iii).
+
+4
+
+-
+
+-
+
+-
+
+-
+
+--
+
+Banks must report suspicious transactions by filing suspicious activity reports.13 In
+general, a bank must file a suspicious activity report no later than thirty calendar days after
+detecting facts that may constitute a basis for filing a suspicious activity report. If no suspect
+was identified on the date of detection, a bank may delay the filing for an additional thirty
+calendar days to identify a suspect. However, in no event may the bank file a suspicious activity
+report more than sixty calendar days after the date of detection.14
+Metrobank violated the suspicious transaction reporting requirements of 31 U.S.C. §
+5318(g) and 31 c.F.R. §103.18by failing to timely file a substantial number of suspicious
+activity reports. During the period from 1998 to July 2004, Metrobank filed 34 suspicious
+activity reports. In contrast, Metrobank filed 198 suspicious activity reports from July 2004 to
+November 2005, including 56 in July-August 2004. Metrobank filed numerous suspicious
+activity reports after the Office of the Comptroller of the Currency commenced a review of the
+Bank's remittance activity in July 2004. These filings included 42 delinquently filed suspicious
+activity reports involving transactions totaling $6.3 million. An adequate anti-money laundering
+program would have allowed Metrobank to file suspicious activity reports in a timely manner.
+IV.
+
+CIVIL MONEY PENALTY
+
+Under the authority of the Bank Secrecy Act and the regulations issued pursuant to that
+Act,15the Financial Crimes Enforcement Network has determined that a civil money penalty is
+due for the violations the Bank Secrecy Act and the regulations issued pursuant to that Act and
+described in this ASSESSMENT.
+Based on the seriousness of the violations at issue in this matter, and the financial
+resources available to Metrobank, the Financial Crimes Enforcement Network has determined
+that the appropriate penalty in this matter is $150,000.
+V.
+
+CONSENT TO ASSESSMENT
+
+To resolve this matter, and only for that purpose, Metrobank, without admitting or
+denying either the facts or determinations described in Sections ITIand IV above, except as to
+jurisdiction in Section IT,which is admitted, consents to the assessment of a civil money penalty
+against it in the sum of $150,000. This penalty assessment shall be concurrent with the $150,000
+penalty assessed against Metrobank by the Office of the Comptroller of the Currency and shall
+be satisfied by one payment of $150,000 to the Department of the Treasury.
+Metrobank recognizes and states that it enters into the CONSENT freely and voluntarily
+and that no offers, promises, or inducements of any nature whatsoever have been made by the
+Financial Crimes Enforcement Network or any employee, agent, or representative of the
+Financial Crimes Enforcement Network to induce Metrobank to enter into the CONSENT,
+except for those specified in the CONSENT.
+
+13 31 c.F.R. § \03.18(b)(2).
+14
+
+31 c.F.R. § \03.18(b)(3).
+
+1531 D.S.C. § 5321 and 31 C.F.R. § \03.57.
+
+5
+
+-----
+
+Metrobank understands and agrees that the CONSENT embodies the entire agreement
+between Metrobank and the Financial Crimes Enforcement Network relating to this enforcement
+matter only, as described in Section IIIabove. Metrobank further understands and agrees that
+there are no express or implied promises, representations, or agreements between Metrobank and
+the Financial Crimes Enforcement Network other than those expressly set forth or referred to in
+this document and that nothing in the CONSENT or this ASSESSMENT is binding on any other
+agency of government, whether federal, state, or local.
+VI.
+
+RELEASE
+
+Metrobank understands that its execution of the CONSENT, and compliance with the
+terms of this ASSESSMENT and the CONSENT, constitute a complete settlement of civil
+liability for the violations of the Bank Secrecy Act and regulations issued pursuant to that Act as
+described in the CONSENT and this ASSESSMENT.
+
+if. W~
+By: //~~
+~bert W. Werner, Director
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+U.S. Department of the Treasury
+
+Date:
+
+6
+
+-
+
+-
+
+-
+
+

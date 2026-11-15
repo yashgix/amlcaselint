@@ -1,0 +1,286 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+
+IN THE MATTER OF
+GREAT EASTERN BANK OF FLORIDA
+Miami, Florida
+
+No. 2002-02
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+I.
+
+INTRODUCTION
+
+The Secretary of the United States Department of the Treasury has delegated to
+the Director of the Financial Crimes Enforcement Network (“FinCEN”) the authority to
+determine whether a financial institution has violated the Bank Secrecy Act, 31 U.S.C.
+§§5311 et seq. and 31 CFR Part 103 thereunder (“BSA”), and what, if any, sanction is
+appropriate.
+In order to resolve this matter, and only for that purpose, Great Eastern Bank of
+Florida (“Great Eastern”) has entered into a CONSENT TO THE ASSESSMENT OF
+CIVIL MONEY PENALTY without admitting or denying FinCEN’s determinations
+described in Sections III and IV below, except as to jurisdiction in Section II below,
+which is admitted.
+Great Eastern’s CONSENT TO THE ASSESSMENT OF CIVIL MONEY
+PENALTY, dated August 23, 2002, is incorporated herein by this reference.
+II.
+
+JURISDICTION
+
+Great Eastern, located in Miami, Florida, had total assets of approximately $55
+million as of December 31, 2001, and earnings of approximately $250,000 for fiscal year
+2001. As of June 30, 2002, Great Eastern had net income of approximately $40,000.
+Great Eastern is a “financial institution” within the meaning of 31 U.S.C. §5312(a)(2)(A)
+and 31 CFR §103.11(c). Great Eastern is a state-chartered non-member bank subject to
+examinations for BSA compliance by the Federal Deposit Insurance Corporation
+(“FDIC”), its primary federal supervisory agency.
+
+III.
+
+FINCEN’S DETERMINATIONS
+A. The SAR Requirements
+
+FinCEN has determined, based on evidence gathered from the FDIC’s
+examinations of Great Eastern, that in 1997 and 1998 (“the relevant time period”), Great
+Eastern failed to file complete suspicious activity reports (“SARs”) in a timely manner
+for reportable transactions by at least 20 customers in violation of 31 U.S.C. §5318(g)
+and 31 CFR §103.18.
+A financial institution must report any transaction involving or aggregating to at
+least $5,000 that it “knows, suspects, or has reason to suspect” (i) involves funds derived
+from illegal activities or is conducted to disguise funds derived from illegal activities, (ii)
+is designed to evade the reporting or recordkeeping requirements of the Bank Secrecy
+Act (e.g., structuring transactions to avoid currency transaction reporting), or (iii) “has no
+business or apparent lawful purpose or is not the sort in which the particular customer
+would normally be expected to engage, and the bank knows of no reasonable explanation
+for the transaction after examining the available facts, including the background and
+possible purpose of the transaction.” (emphasis added). 31 CFR §103.18.
+The SAR rule requires a financial institution to file SARs “to the extent and in the
+manner required by this section” by “completing” a SAR. 31 CFR §103.18(a). When
+filing a SAR, the financial institution must provide a detailed description of why the
+activity is suspicious. The SAR form emphasizes that the description of the suspicious
+activity section of the SAR form “is critical.” Part V, SAR Form, TD F 90-22.47. The
+form directs that the care with which the description of the activity is written “may make
+the difference in whether or not the described conduct and its possible criminal nature are
+clearly understood.” It requires a financial institution to provide “a chronological and
+complete account” of the transaction (emphasis in the original). The SAR form describes
+particular information that the financial institution must report including, among other
+things, a description of any monetary instruments involved in the transaction. If a
+financial institution fails to comply with the requirements to file a complete SAR, the
+SAR may not provide adequate information to alert law enforcement to the existence of
+potentially serious criminal activity. Of particular importance here, the failure to describe
+the factors making the transaction suspicious undermines the very purpose of the SAR
+and makes it less likely the report will be useful to law enforcement.
+B. Great Eastern’s Violations of the SAR Requirements
+As an FDIC-supervised bank, Great Eastern was on notice of the SAR
+requirements and the need to have policies and procedures in place to ensure they are
+followed. Section 326.8(b) of the FDIC’s regulations requires a bank to develop and
+administer a program to assure compliance with the BSA. According to the FDIC, at a
+minimum, the bank’s system of internal controls must be designed to “identify reportable
+transactions at a point where all of the information necessary to properly complete the
+required reporting forms can be obtained.” See, FDIC Manual of Exam Policies,
+
+2
+
+Financial Recordkeeping and Reporting Regulations, Section 9.4. The system must also
+“ensure that all required reports are completed accurately.”
+The FDIC repeatedly warned the Bank that it had seriously deficient BSA
+compliance procedures, particularly in the area of a suspicious transaction reporting. The
+FDIC had found deficiencies in the Bank’s BSA compliance program resulting in a 1995
+Compliance Memorandum of Understanding that required the Bank’s board of directors
+to implement a program to preclude future violations. The FDIC found additional BSA
+compliance deficiencies in 1998, including deficiencies in Great Eastern’s compliance
+with SAR provisions. As a result, in 1998, Great Eastern entered into a Cease and Desist
+Order with the FDIC. As late as 1999, the FDIC found that Great Eastern’s suspicious
+transaction monitoring procedures had been only partially implemented.
+To comply with the SAR rule, a financial institution must be able to determine
+whether or not transactions are in fact reportable. Therefore, a financial institution is
+required to have in place systems to identify the kinds of transactions that may be high
+risk for money laundering or that exhibit indicia of suspicious activity, taking into the
+account the type of products and services it offers and the nature of its customers.
+Otherwise, a financial institution cannot assure that it is in fact reporting suspicious
+transactions as required by the BSA. In this case, the record shows that during the
+relevant time period, Great Eastern had information about its customers and their
+transactions that caused Great Eastern to “know, suspect, or have reason to suspect” that
+many transactions were reportable suspicious transactions, yet the Bank failed to report
+these transactions because it did not have procedures to identify or analyze or report
+suspicious activity properly. As a result, Great Eastern violated the SAR requirements of
+31 U.S.C. §5318(g) and 31 CFR §103.18.1
+Great Eastern offered a variety of banking services to a wide-ranging customer
+base, including international businesses and customers who engaged in international
+transactions. However, Great Eastern did not have procedures to identify potentially
+suspicious activity transactions that were a high risk for money laundering or that
+exhibited indicia of suspicious activity. As a result, Great Eastern failed to identify
+structuring of multiple cash deposits in amounts under $10,000 to avoid currency
+transaction reporting. Great Eastern also failed to identify as suspicious large cash
+deposits immediately followed by international wire transfers, a pattern engaged in
+routinely by a number of its customers, and which is known in the industry to present a
+high risk for money laundering. Great Eastern failed to identify as suspicious large
+deposits of sequentially numbered money orders and traveler’s checks, also indicia of
+potential money laundering. For a number of transactions that Great Eastern did identify
+1
+
+At the time of the violations, FinCEN’s regulations did not independently require banks to have antimoney laundering programs; rather, such requirements were imposed through the rules of the federal
+banking regulators such as the FDIC. Therefore, FinCEN is not charging Great Eastern with failing to have
+an anti-money laundering program. Rather, Great Eastern’s failure to have an adequate program is relevant
+to its willfulness in violating the SAR rule. As of April 29, 2002, it is now a BSA requirement for a bank
+to maintain an anti-money laundering program in compliance with the rules of its federal regulator. See 31
+CFR §103.121.
+
+3
+
+as suspicious, it failed to provide a complete and sufficient description of the transaction
+in the SARs or to maintain the required supporting documentation in its files. These
+failures stem from Great Eastern’s lack of procedures to collect, analyze, and maintain
+material in its files necessary to fulfill the requirements of the SAR rule.
+1.
+
+Failure to File SARs
+
+During the relevant time period, Great Eastern failed to file SARs on transactions
+for at least six customers that it “knew, suspected, or had reason to suspect” were
+reportable as suspicious under the BSA. For example, Great Eastern failed to file a SAR
+on a customer that engaged in suspicious wire transfer activity in one Great Eastern
+account. The account received over $900,000 in 29 wire transfers from a foreign
+company, most of which was wired out the following day to the customer’s account at
+another bank. The activity could not be supported by the normal operations of the
+customer’s business. Indeed, this same customer engaged in nearly identical activity in
+another account at Great Eastern, and Great Eastern did file a SAR on the customer’s
+activity in the other account, thus demonstrating that it did in fact recognize such
+behavior as suspicious.
+In addition, Great Eastern failed to file a timely SAR for a customer that had
+millions of dollars of incoming and outgoing wires transfers, many from the same source.
+Great Eastern only analyzed the transaction after it was specifically required to do so by
+the FDIC in 1999, and only then determined that there was no apparent business reason
+for the large amounts of wire transfer activity for this customer and filed a SAR. The
+information available to Great Eastern when it finally filed the SAR two years after the
+fact was the same information available to it at the time of the transaction. Great Eastern
+should have detected this transaction and have filed a SAR before being required to do so
+by the FDIC, two years after the transaction occurred.
+2.
+
+Failure to File Complete SARs
+
+For at least 14 other customer transactions, Great Eastern filed SARs, but in these
+SARs the Bank failed to include required information about the suspicious activity that it
+had in its files at the time it filed the SAR. For example, during the relevant time period,
+as noted above Great Eastern filed a SAR on a customer identifying wire transfers
+totaling over $900,000 that were wired out of the account almost immediately, but did not
+file a SAR on identical transactions engaged in by the same customer in another Great
+Eastern account. As an alternative to filing a second SAR, Great Eastern could have
+included this activity in the SAR that was filed, but it failed to do so, thus understating
+the scope of the suspicious activity by one-half.
+During the relevant time period, Great Eastern filed a SAR which merely stated
+that a customer made a $71,250 deposit to an account that had minimal activity prior to
+that time. The report did not adequately describe the alleged suspicious activity and,
+therefore, the SAR failed to include important required information that was readily
+available to Great Eastern – that is, why it was filing the SAR. The SAR failed to report
+
+4
+
+that six of the checks in the deposit were sequentially numbered checks from a single
+account in even thousand dollar amounts. Furthermore, the SAR failed to report that the
+traveler’s check portion of the deposit was comprised of 236 checks from 10 banks. The
+SAR failed to report that wire transfers shortly after the deposit transferred the majority
+of the funds out of the account. This failure to indicate on the form why the Bank
+thought the transaction was suspicious undermines the utility of the SAR in alerting law
+enforcement to transactions that deserve investigation.
+Similarly, Great Eastern filed a SAR that simply reported a $50,000 deposit of
+money orders. The SAR did not describe the monetary instruments by denomination,
+issuer, or place of origin as explicitly required by the instructions to the SAR form. The
+SAR did not state that there was little activity in the account but for the deposit and did
+not indicate that the customer withdrew the funds soon after the deposit. Again, the SAR
+did not provide law enforcement with important information about the transaction and
+why it believed the transaction was suspicious based on information that was readily
+available to the bank.
+In addition, Great Eastern failed to maintain sufficient documentation to support
+the filing of numerous SARs. With respect to SARs filed on 14 customers, the files
+contained only a portion of the necessary documentation required by the SAR
+regulations. In some cases, documents included in the file as supporting documentation
+were not legible. Supporting documentation is an important means of preserving
+evidence and enabling law enforcement to follow up on a SAR. Therefore, Great Eastern
+failed to file SARs that were timely and complete in accordance with 31 U.S.C. §5318(g)
+and 31 CFR §103.18.
+C. Willful Violations
+FinCEN has determined that Great Eastern’s violations were willful. Great
+Eastern was on notice after repeated findings by the FDIC that there were material
+deficiencies in its SAR compliance program that could result in failing to file timely and
+complete SARs. Great Eastern failed to establish procedures that would reasonably
+assure that it could identify and properly report suspicious transactions, including the
+recognition of “red flags” such as successive wire transfers in and out of an account that
+are not consistent with the customer’s operations.2 And, when Great Eastern did file
+SARs in the instances described above, it showed that it recognized certain conduct as
+suspicious, but then failed to document the reasons that it did so. On these facts, Great
+Eastern’s conduct was willful.
+A financial institution that fails to establish procedures to adequately identify,
+document, and report suspicious transactions, particularly after it was put on notice
+repeatedly of serious compliance deficiencies, is following a course of conduct that
+shows a reckless disregard for compliance with the SAR provisions of the BSA. Because
+2
+
+Great Eastern’s recognition of certain wire transfer activity as suspicious, as evidenced by its SAR filing
+on one $900,000 transaction, and its failure to file a SAR on the same activity in another account, is further
+evidence of willfulness.
+
+5
+
+Great Eastern did not have procedures to identify or analyze even the most conspicuous
+suspicious activity, or to properly document and maintain records for those that it did
+report, and failed to comply with these SAR requirements in numerous instances, the
+Bank willfully violated the SAR reporting provisions of 31 U.S.C.§5318 and 31 CFR
+§103.18.
+IV.
+
+CIVIL MONEY PENALTY
+
+FinCEN has determined that by failing to file timely and complete SARs as
+described in Section III above, Great Eastern willfully violated the suspicious activity
+reporting provisions of the BSA and a civil money penalty is due pursuant to 31 U.S.C.
+§5321 and 31 CFR §103.57(f).
+V.
+
+ASSESSMENT
+
+THEREFORE, the Department of the Treasury assesses against Great Eastern a
+civil money penalty of $100,000.
+By the execution of its CONSENT, Great Eastern, without admitting or denying
+FinCEN’s determinations described in Sections III and IV above, except as to jurisdiction
+in Section II, which is admitted, consents to the assessment of a civil money penalty in
+the sum of $100,000.
+THEREFORE, Great Eastern shall, under the terms of its CONSENT:
+Pay the amount of $100,000 in the following manner: $50,000 within five (5) business
+days of the date of this ASSESSMENT and $50,000 no later than March 31, 2003. Such
+payment shall be:
+a. made by certified check, bank cashier’s check, or bank money order;
+b. made payable to the United States Department of the Treasury;
+c. hand-delivered or sent by overnight mail to Nicholas A. Procaccini,
+Assistant Director and Chief Financial Officer, FinCEN, P.O. Box
+39, Vienna, VA 22183; and
+d. submitted under a cover letter, which references the caption and file
+number in this matter.
+
+6
+
+VI.
+
+RELEASE
+
+Execution of the CONSENT by Great Eastern and compliance with the terms of
+the ASSESSMENT OF CIVIL MONEY PENALTY and the CONSENT constitute a
+complete settlement of civil liability for reporting violations of the Bank Secrecy Act, and
+the regulations promulgated thereunder, which were identified by FinCEN in its letter to
+Great Eastern dated August 10, 2001.
+
+By:
+
+//signed//
+09/04/02
+James F. Sloan, Director
+Date
+FINANCIAL CRIMES ENFORCEMENT
+NETWORK
+
+7
+
+

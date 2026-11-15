@@ -1,0 +1,419 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+
+IN THE MATTER OF:
+
+Lone Star National Bank
+Pharr, Texas
+
+)
+)
+)
+)
+)
+)
+
+Number 2017-04
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+
+I.
+
+INTRODUCTION
+The Financial Crimes Enforcement Network (FinCEN) has determined that grounds exist
+
+to assess a civil money penalty against Lone Star National Bank (Lone Star or the Bank),
+pursuant to the Bank Secrecy Act (BSA) and regulations issued pursuant to that Act.1
+Lone Star admits to the facts set forth below and that its conduct violated the BSA. Lone
+Star consents to this assessment of a civil money penalty and entered into the CONSENT TO
+THE ASSESSMENT OF CIVIL MONEY PENALTY (CONSENT) with FinCEN.
+The CONSENT is incorporated into this ASSESSMENT OF CIVIL MONEY PENALTY
+(ASSESSMENT) by reference.
+FinCEN has the authority to impose civil money penalties on financial institutions that
+violate the BSA. Rules implementing the BSA state that “[o]verall authority for enforcement
+and compliance, including coordination and direction of procedures and activities of all other
+agencies exercising delegated authority under this chapter” has been delegated by the Secretary
+
+1
+The Bank Secrecy Act is codified at 12 U.S.C. §§ 1829b, 1951-1959 and 31 U.S.C. §§ 5311-5314, 5316-5332.
+Regulations implementing the Bank Secrecy Act appear at 31 C.F.R. Chapter X.
+
+1
+
+of the Treasury to FinCEN.2 Lone Star was a “financial institution” and a “bank” within the
+meaning of the BSA and its implementing regulations during the time relevant to this action.3
+Lone Star is a community bank located in Pharr, Texas that provides business and
+personal banking services. As of June 30, 2017, Lone Star had over $2.2 billion in assets, 28
+branches, and over 655 employees. The Bank is a subsidiary of Lone Star National Bancshares,
+Texas, Inc., a bank holding company. The shares of the holding company are privately held.
+II.
+
+DETERMINATIONS
+Lone Star willfully violated the BSA’s program and reporting requirements from 2010 to
+
+2014.4 As described below, Lone Star failed to (a) establish and implement an adequate antimoney laundering (AML) program; (b) conduct required due diligence on a foreign
+correspondent account; and (c) report suspicious activity. Lone Star’s failures in these areas
+allowed a single foreign financial institution to move hundreds of millions of U.S. dollars in
+suspicious bulk cash shipments through the U.S. financial system in less than two years. This
+activity began just three months before the Mexican government imposed regulations restricting
+Mexican bank transactions in U.S. currency and dramatically increased after the regulations
+became effective. Without sufficient internal controls or experienced BSA staff, the Bank
+engaged in high-risk foreign correspondent banking services without conducting appropriate due
+diligence, and without adequately monitoring and reporting suspicious activity.
+
+2
+
+31 C.F.R. § 1010.810(a).
+
+3
+
+31 U.S.C. § 5312(a)(2)(A); 31 C.F.R. §§ 1010.100(d)(1), 1010.100(t)(1).
+
+4
+In civil enforcement of the BSA under 31 U.S.C. § 5321(a)(1), to establish that a financial institution or individual
+acted willfully, the government need only show that the financial institution or individual acted with either reckless
+disregard or willful blindness. The government need not show that the entity or individual had knowledge that the
+conduct violated the BSA, or that the entity or individual otherwise acted with an improper motive or bad
+purpose. Lone Star admits to “willfulness” only as the term is used in civil enforcement of the BSA under 31 U.S.C.
+§ 5321(a)(1).
+
+2
+
+A. Violations of the Requirement to Develop and Implement an Anti-Money
+Laundering Program
+Lone Star failed to establish and implement an adequate AML program as required by the
+BSA and its implementing regulations.5 The Office of the Comptroller of the Currency (OCC)
+requires each bank under its supervision to develop and provide for the continued administration
+of a program reasonably designed to assure and monitor compliance with the BSA’s
+recordkeeping and reporting requirements.6 At a minimum, a bank’s AML compliance program
+must (a) provide for a system of internal controls to assure ongoing compliance; (b) provide for
+independent testing for compliance to be conducted by bank personnel or by an outside party; (c)
+designate an individual or individuals responsible for coordinating and monitoring day-to-day
+compliance; and (d) provide for training of appropriate personnel.7
+At times previous to 2010 and continuing from 2010 through 2014, Lone Star had
+repeated deficiencies and failures in implementing adequate risk-based procedures for
+conducting customer due diligence. Lone Star consistently failed to collect and analyze
+information necessary to assess each customer’s risk and to develop and implement specific
+customer risk profiles. Lone Star failed to identify the intended purpose of the customer’s
+account, the anticipated activity within the account, the nature of the customer’s business, the
+types of bank products and services used by the customer, and geographic indicators of risk. As
+a result, Lone Star failed to risk rate appropriately certain of its customers during the account
+opening process, which was necessary for proper monitoring of transactions conducted through
+
+5
+
+31 U.S.C §§ 5318(a)(2), 5218(h); 31 C.F.R. §1020.210.
+
+6
+
+12 C.F.R. § 21.21.
+
+7
+
+Id.
+
+3
+
+the accounts. Significantly, the Bank did not correctly identify or monitor new and existing
+high-risk accounts that posed an elevated risk for money laundering at the Bank. Lone Star had
+knowledge of these deficiencies but failed to correct them for several years.
+For example, in October 2014, Lone Star maintained a significant number of high-risk
+accounts with missing customer due diligence information. Lone Star’s management failed to
+identify the missing information. An external auditor noted that information was missing or
+incorrect for 37 out of 50 accounts reviewed in a testing sample. Among the missing or incorrect
+information were indicators that actual activity in the accounts differed substantially from what
+was predicted. These failures impeded Lone Star’s ability to monitor transactions for suspicious
+activity. The Bank had an inadequate process for reviewing and escalating its AML alerts and
+investigations. Lone Star's policies and procedures failed to provide adequate guidelines for
+reviewing and escalating alerts. During the period from January 2014 through November 2014,
+Lone Star had 4,888 outstanding alerts, 627 cases, and 213 internal referrals. The Bank’s failure
+to implement an adequate due diligence and customer risk rating process severely limited the
+effectiveness of Lone Star’s AML program.
+B. Violations of Due Diligence Requirements for Correspondent Accounts for Foreign
+Financial Institutions
+Correspondent accounts are gateways to the U.S. financial system. Section 312 of the
+USA PATRIOT Act8 amended the BSA by imposing due diligence requirements on financial
+institutions that establish, maintain, administer, or manage correspondent accounts in the United
+States for foreign financial institutions. Financial institutions must establish appropriate,
+
+8
+
+Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism
+(USA Patriot Act) Act, Pub. L. 107-56 (H.R. 3162), 115 Stat. 272, 107th Cong., 1st Sess. (Oct. 26, 2001).
+
+4
+
+specific, risk-based and, where necessary, enhanced policies, procedures, and controls that are
+reasonably designed to enable them to detect and report, on an ongoing basis, known or
+suspected money laundering activity conducted through or involving the accounts.9 Such
+policies, procedures, and controls must include (a) determining whether a correspondent account
+is subject to enhanced due diligence; (b) assessing the money laundering risk presented by the
+correspondent account; and (c) the application of risk-based procedures and controls reasonably
+designed to detect and report known or suspected money laundering activity, including a periodic
+review of activity sufficient to determine consistency with information obtained about type,
+purpose, and anticipated activity.10
+From May 2010 to November 2011, Lone Star provided U.S. currency bulk cash deposit
+and another correspondent banking service to a large financial institution headquartered in
+Mexico (the Foreign Bank). In less than two years, Lone Star allowed approximately $260
+million to flow through the Foreign Bank’s account without sufficient controls in place to detect
+and report suspicious activity.
+1. Assessment of Money Laundering Risk
+Lone Star failed to implement risk-based procedures sufficient to properly collect,
+identify, and document the type, purpose, and anticipated activity of the Foreign Bank’s
+correspondent relationship as required by the BSA.11 Lone Star established a correspondent
+banking relationship with the Foreign Bank, which included processing bulk deposits of U.S.
+currency12 without adequately assessing the potential money laundering risk. Lone Star failed to
+
+9
+
+31 U.S.C. § 5318(i)(1); 31 C.F.R. § 1010.610(a).
+
+10
+
+31 C.F.R. §§ 1010.610(a)(1) – (3).
+
+11
+
+31 C.F.R. § 1010.610(a)(2)(ii).
+
+12
+
+The deposits of U.S. currency were made to Lone Star’s account at the Federal Reserve Bank of Dallas.
+
+5
+
+collect and analyze information, including publicly available information regarding the Foreign
+Bank and its business and banking practices.
+During account opening, Lone Star failed to identify well known and public information
+about the principal owner of the Foreign Bank. Specifically, public source material revealed that
+the President and principal owner of the Foreign Bank agreed to pay civil penalties to the U.S.
+Securities and Exchange Commission in resolving allegations of securities fraud. Lone Star
+should have collected and analyzed this information prior to account opening.
+Lone Star failed to verify the accuracy of assertions from the Foreign Bank regarding
+source of funds, purpose, and expected activity. Initially, the Foreign Bank indicated that the
+source of the U.S. bulk currency was from extensive foreign exchange (“FX”) operations from
+United States/Mexico border regions. However, after the account had been operating for several
+months, the Foreign Bank stated that, at that time, it was actually selling more U.S. dollars than it
+was buying at these border regions, and the U.S. bulk cash deposited at Lone Star had always
+been coming from Mexico City. Lone Star never requested further explanation to validate the
+accuracy of inconsistent statements concerning the source of funds. In another example, Lone
+Star’s BSA Officer indicated that the cash shipments to Lone Star were attributable to
+remittances from the United States sent (via money transmitters) to family members residing in
+Mexico, who then used funds to repay consumer microloans. Money transmitters in Mexico,
+especially those operating in rural areas, rarely provide their customers with U.S. dollars. And
+there was no indication from the Foreign Bank that the microloans that it offered to consumers
+were payable in U.S. dollars. Lone Star did not sufficiently manage the money laundering risks
+inherent in foreign correspondent banking services by failing to properly collect, identify, and
+
+6
+
+document the source of funds and the type, purpose, and anticipated activity of the Foreign Bank
+relationship.
+2.
+
+Periodic Review of Activity
+
+Lone Star failed to adequately investigate increasing cash deposits of U.S. dollars and
+unusual wire activity. The transactions raised serious red flags given the Mexican Ministry of
+Finance’s (Secretaría de Hacienda y Crédito Público de México) June 2010 announcement of
+AML regulations designed to restrict the amounts of physical cash (banknotes and coins)
+denominated in U.S. dollars that Mexican banks may receive. FinCEN has provided ample
+guidance on bulk cash repatriation. In 2006, FinCEN issued an advisory on the repatriation of
+currency smuggled into Mexico from the United States.13
+Actual activity differed substantially from anticipated activity. The Foreign Bank stated
+at account opening that monthly deposits of U.S. currency would be in amounts from $8 million
+to $9 million, of which $3 million to $4 million were expected to be kept in the account at Lone
+Star. However, U.S. dollar deposits at Lone Star ended up being two to three times greater than
+the anticipated amount. Lone Star noted the difference but conducted no investigation into the
+cause.
+The Foreign Bank anticipated holding $3 million to $4 million at Lone Star each month.
+The remaining balance would be wired to U.S. financial institutions for the stated purpose of
+enabling the Foreign Bank to “liquidate [its] FX operations.” However, the Foreign Bank
+followed each bulk cash deposit with an immediate request for an outgoing wire transfer to an
+account in the Foreign Bank’s name at other U.S. financial institutions. The Foreign Bank would
+
+13
+
+See Guidance to Financial Institutions on the Repatriation of Currency Smuggled into Mexico from the United
+States (April 28, 2006), available at http://www.fincen.gov/statutes_regs/guidance/pdf/advis04282006.pdf
+
+7
+
+replenish the account by conducting additional deposits with further immediate outgoing wire
+transfers to accounts held by the Foreign Bank at other U.S. financial institutions.
+Moreover, a substantial number of wire transfers requested by the Foreign Bank
+embedded the date the transaction was conducted in the dollar amount of the wire transfer itself.
+For example, a wire transfer conducted on the 3rd of June reflected that date in the final digits of
+its total amount of $1,000,003.06. Lone Star did not identify the issue in monitoring and could
+provide no explanation for what appeared to be a suspicious pattern embedded in each outgoing
+wire transfer to match the date it was sent. Lone Star’s failure to implement an adequate
+monitoring system prevented the Bank from noticing and fully reviewing this suspicious pattern
+in its wire transfer activity.
+The Foreign Bank transported large and unexpected amounts of U.S. currency, deposited
+the currency at Lone Star and immediately sent outgoing wire transfers to accounts held by the
+Foreign Bank at other U.S. financial institutions. In 18 months of transaction activity, the
+Foreign Bank conducted a total of 63 bulk cash deposits of U.S. currency, followed by a total of
+73 outgoing wire transfers. The Foreign Bank deposited at Lone Star approximately $260
+million during 18 months of transaction activity, $100 million over the anticipated amount. Lone
+Star terminated its banking relationship with the Foreign Bank and closed its account in 2011,
+after the OCC raised serious concerns with the relationship.
+C. Violations of the Requirement to Report Suspicious Transactions
+The BSA requires banks to report transactions that involve or aggregate to at least
+$5,000, that are conducted “by, at, or through” the bank, and that the bank “knows, suspects, or
+has reason to suspect” are suspicious.14 A transaction is “suspicious” if the transaction: (a)
+
+14
+
+31 U.S.C. § 5318(g); 31 C.F.R. § 1020.320.
+
+8
+
+involves funds derived from illegal activities, or is conducted to disguise funds derived from
+illegal activities; (b) is designed to evade the reporting or recordkeeping requirements of the
+BSA or regulations under the Act; or (c) has no business or apparent lawful purpose or is not the
+sort which the customer normally would be expected to engage, and the bank knows of no
+reasonable explanation for the transaction after examining the available facts, including the
+background and possible purpose of the transaction.15
+Lone Star failed to implement an effective suspicious activity monitoring and reporting
+process as required by the BSA, and as a result failed to file 173 SARs. From May 2010 through
+November 2014, Lone Star failed to adequately monitor its transactions to detect and report
+suspicious activity for its domestic and foreign accounts. An initial sample review conducted in
+2011 indicated that Lone Star failed to file five suspicious activity reports (SARs).
+The OCC directed Lone Star to perform a comprehensive suspicious activity look-back
+review of all foreign correspondent accounts, bulk cash shipper accounts, and offshore accounts
+for the period from May 30, 2011 through September 30, 2012. The Bank was required to file
+seven SARs in response to the look-back review.
+The OCC also required a separate look-back review to identify cash structuring, wire
+activity, checks issued, and automated clearing house (ACH) activity. A total of 1,827 customer
+relationships were reviewed for the period from June 1, 2011 through May 31, 2013. Lone Star
+was required to file an additional 161 SARs, of which 69 related directly to cash structuring and
+92 related to other types of suspicious activity. These 161 SARs represented approximately
+$131 million in previously unreported suspicious activity.
+
+15
+
+31 C.F.R. §§ 1020.320(a)(2)(i) – (iii).
+
+9
+
+In summary, Lone Star failed to timely file a total of 173 SARs, which included 69 SARs
+for cash structuring.
+III.
+
+RESOLUTION WITH THE OFFICE OF THE COMPTROLLER OF THE
+CURRENCY
+The OCC is Lone Star’s federal functional regulator and is responsible for conducting
+
+examinations of Lone Star for compliance with the BSA and its implementing regulations and
+similar rules under Title 12 of the United States Code. The OCC identified BSA/AML
+deficiencies with the Bank’s internal controls, independent audit, suspicious activity reporting,
+and foreign correspondent banking program that resulted in the issuance of a Consent Order for a
+Civil Money Penalty against Lone Star on March 31, 2015, in the amount of $1 million. As a
+result of subsequent remedial measures taken by Lone Star to improve its BSA program, the
+OCC terminated the Consent Order on July 27, 2017.
+IV.
+
+FACTORS CONSIDERED IN ASSESSMENT
+Lone Star has addressed the BSA/AML deficiencies identified by FinCEN through
+
+significant measures as recommended by the OCC and other independent parties. The Bank
+expended additional resources to enhance its independent testing, implement sound customer due
+diligence programs, and update its AML program. Lone Star’s updated AML policies include
+extensive due diligence measures and negative news searches, as a component of routine account
+opening procedures. The Bank closed its account with the Foreign Bank and has modified its
+customers and services to mitigate the money laundering risks of certain accounts, including a
+limitation of overall foreign deposits. The Bank established multiple senior management and
+board level committees empowered with sufficient independence and authority to ensure the
+Bank implemented, and maintains, an appropriate BSA compliance program. Lone Star
+expanded its overall BSA compliance staff and established new training initiatives to reduce
+10
+
+compliance deficiencies. The Bank also late-filed SARs as required by extensive look-backs
+conducted by outside consultants. FinCEN also considered Lone Star’s cooperation with
+FinCEN throughout the investigative process.
+V.
+
+CIVIL MONEY PENALTY
+FinCEN has determined that Lone Star willfully violated the program and reporting
+
+requirements of the BSA and its implementing regulations as described in the CONSENT, and
+that grounds exist to assess a civil money penalty for these violations.16
+FinCEN has determined that the penalty in this matter will be $2 million. The penalty is
+partially satisfied by the $1 million penalty already imposed by the OCC on March 31, 2015.
+The remaining amount of FinCEN’s penalty will be deemed satisfied by an immediate payment
+of $1 million to the U.S. Department of the Treasury.
+VI.
+
+CONSENT TO ASSESSMENT
+To resolve this matter, and only for that purpose, Lone Star consents to this assessment of
+
+a civil money penalty in the sum of $2 million and admits that it willfully violated the BSA’s
+program and reporting requirements.
+Lone Star recognizes and states that it enters into the CONSENT freely and voluntarily
+and that no offers, promises, or inducements of any nature whatsoever have been made by
+FinCEN or any employee, agent, or representative of FinCEN to induce Lone Star to enter into
+the CONSENT, except for those specified in the CONSENT.
+Lone Star understands and agrees that the CONSENT embodies the entire agreement
+between Lone Star and FinCEN relating to this enforcement matter only, as described in Section
+II above. Lone Star further understands and agrees that there are no express or implied promises,
+
+16
+
+31 U.S.C. § 5321; 31 C.F.R. § 1010.820. See footnote 4 above.
+
+11
+
+representations, or agreements between Lone Star and FinCEN other than those expressly set
+forth or referred to in this document and that nothing in the CONSENT or in this ASSESSMENT
+is binding on any other agency of government, whether Federal, State or local.
+VII.
+
+PUBLIC STATEMENTS
+
+Lone Star expressly agrees that it shall not, nor shall its attorneys, agents, partners,
+directors, officers, employees, affiliates, or any other person authorized to speak on its behalf,
+make any public statement contradicting either its acceptance of responsibility set forth in the
+CONSENT or any fact in the DETERMINATIONS section of the CONSENT. FinCEN has sole
+discretion to determine whether a statement is contradictory and violates the terms of the
+CONSENT. If Lone Star, or anyone claiming to speak on behalf of Lone Star, makes such a
+contradictory statement, Lone Star may avoid a breach of the agreement by repudiating such
+statement within 48 hours of notification by FinCEN. If FinCEN determines that Lone Star did
+not satisfactorily repudiate such statement(s) within 48 hours of notification, FinCEN may void,
+in its sole discretion, the releases contained in the CONSENT and reinstitute enforcement
+proceedings against Lone Star. Lone Star expressly agrees to waive any statute of limitations
+defense to the reinstituted enforcement proceedings and further agrees not to contest any
+admission or other findings made in the CONSENT. This paragraph does not apply to any
+statement made by any present or former officer, director, employee, or agent of Lone Star in the
+course of any criminal, regulatory, or civil case initiated against such individual, unless Lone
+Star later ratifies such claims, directly or indirectly. Lone Star further agrees that, upon
+notification by FinCEN, it will repudiate such statement to the extent it contradicts either its
+acceptance of responsibility or any fact in the CONSENT.
+
+12
+
+VIII. RELEASE
+Execution of the CONSENT, upon it being effective, and compliance with all of the
+terms of this ASSESSMENT and the CONSENT, settles all claims that FinCEN may have
+against Lone Star for the conduct described in Section II of the CONSENT. Execution of the
+CONSENT, and compliance with the terms of this ASSESSMENT and the CONSENT, does not
+release any claim that FinCEN may have for conduct by Lone Star other than the conduct
+described in Section II of the CONSENT, or any claim that FinCEN may have against any
+current or former director, officer, owner, or employee of Lone Star, or any party other than
+those named in the CONSENT. Upon request, Lone Star shall truthfully disclose to FinCEN all
+factual information not protected by a valid claim of attorney-client privilege or work product
+doctrine with respect to the conduct of its current or former directors, officers, employees,
+agents, or others.
+
+By:
+
+_____________/S/__________October 27, 2017 _
+Jamal El-Hindi
+Date:
+Acting Director
+FINANCIAL CRIMES ENFORCEMENT NETWORK (FinCEN)
+U.S. Department of the Treasury
+
+13
+
+

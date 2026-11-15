@@ -1,0 +1,233 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+
+IN THE MATTER OF:
+
+First National Community Bank
+Dunmore, Pennsylvania
+
+)
+)
+)
+)
+)
+)
+
+Number 2015-03
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+I.
+
+INTRODUCTION
+The Financial Crimes Enforcement Network (“FinCEN”) has determined that grounds
+
+exist to assess a civil money penalty against First National Community Bank (“FNCB”),
+pursuant to the Bank Secrecy Act and regulations issued pursuant to that Act. 1
+FNCB admits to the facts set forth below and that its conduct violated the Bank Secrecy
+Act. FNCB consents to the assessment of a civil money penalty and enters the CONSENT TO
+THE ASSESSMENT OF CIVIL MONEY PENALTY (“CONSENT”) with FinCEN. 2
+The CONSENT is incorporated into this ASSESSMENT OF CIVIL MONEY PENALTY
+(“ASSESSMENT”) by reference.
+FinCEN has authority to investigate banks for compliance with and violation of the Bank
+Secrecy Act pursuant to 31 C.F.R. § 1010.810, which grants FinCEN “overall authority for
+
+1
+
+The Bank Secrecy Act is codified at 12 U.S.C. §§ 1829b, 1951-1959 and 31 U.S.C. §§ 53115314, 5316-5332. Regulations implementing the Bank Secrecy Act appear at 31 C.F.R. Chapter
+X.
+2
+
+FNCB makes the admissions as stated above and elsewhere in this document solely in
+connection with the resolution of this civil proceeding and for purposes of the imposition of the
+civil penalty set forth herein.
+1
+
+enforcement and compliance, including coordination and direction of procedures and activities of
+all other agencies exercising delegated authority under this chapter.”
+FNCB is a “financial institution” and a “bank” within the meaning of the Bank Secrecy
+Act and its implementing regulations. 31 U.S.C. § 5312(a)(2); 31 C.F.R. §§ 1010.100(d), (t)(1).
+FNCB is a community bank with approximately $1 billion in assets. It is a large community
+bank in northeastern Pennsylvania with 19 branches.
+Resolution with the Office of the Comptroller of the Currency
+The Office of the Comptroller of the Currency (“OCC”) is FNCB’s primary federal
+regulator and examines certain banks, including FNCB, for compliance with the Bank Secrecy
+Act and its implementing regulations and similar rules under Title 12 of the Unites States Code.
+The OCC simultaneously brought an enforcement action against FNCB for violations of 12
+C.F.R. § 21.11 related to failures to file suspicious activity reports on a timely basis. The OCC
+found that the Bank failed to file suspicious activity reports on a timely basis in connection with
+certain suspicious transactions occurring between 2005 and 2009. For these violations, the OCC
+ordered FNCB to pay a penalty amount of $500,000.
+II.
+
+DETERMINATIONS
+From August 2005 through April 2009, FNCB willfully violated the Bank Secrecy Act by
+
+failing to detect or adequately report suspicious transactions involving millions of dollars in
+illicit proceeds from a judicial corruption scheme perpetrated by a former Pennsylvania state
+judge, among others. 31 U.S.C. § 5318(g); 31 C.F.R. § 1020.320.
+Requirement to File Suspicious Activity Reports with FinCEN
+The Bank Secrecy Act and its implementing regulations require banks to report to
+FinCEN transactions that involve or aggregate to at least $5,000, are conducted by, at, or through
+
+2
+
+the bank, and that the bank “knows, suspects, or has reason to suspect” are suspicious. 31 U.S.C.
+§ 5318(g); 31 C.F.R. § 1020.320(a)(2). A transaction is “suspicious” if the transaction:
+(1) involves funds derived from illegal activities, or is conducted to disguise funds derived from
+illegal activities; (2) is designed to evade the reporting or recordkeeping requirements of the
+Bank Secrecy Act or regulations under the Act; or (3) has no business or apparent lawful purpose
+or is not the sort in which the customer would normally be expected to engage, and the bank
+knows of no reasonable explanation for the transaction after examining the available facts,
+including background and possible purpose of the transaction. 31 U.S.C. § 5318(g); 31 C.F.R.
+§§ 1020.320(a)(2)(i)-(iii).
+Like other BSA filings, suspicious activity reports (“SARs”) play an important role in
+detecting possible criminal activity. FinCEN and law enforcement use SARs to, among other
+things, investigate money laundering, terrorist financing and other serious criminal activity.
+Overview of FNCB’s Failure to File SARs
+FNCB failed to identify red flags and consequently failed to timely report suspicious
+activities in accounts controlled by its then board member and former state judge, Michael
+Conahan, and others. The suspicious transactions were directly related to serious ongoing
+criminal activity for which Conahan and others were ultimately convicted. The unreported
+suspicious transactions that flowed through FNCB accounts displayed red flags that should have
+alerted FNCB to potential illicit activity and caused it to file SARs. Such red flags included (1) a
+law enforcement subpoena submitted in 2007 for information related to Conahan and other
+individuals and entities; (2) activity occurring as early as 2005, prior to receiving the subpoena,
+involving many large, round-dollar transactions often occurring on a single day; and (3) an
+abnormal volume of activity compared to account balances. Because FNCB failed to file SARs
+
+3
+
+in a timely manner, it deprived law enforcement of information that may have assisted law
+enforcement in tracking millions of dollars in related corrupt funds.
+Conahan’s Illegal Conduct and FNCB’s SAR Filing Failures
+In 2011, a federal district court judge in the middle District of Pennsylvania sentenced
+Conahan to 17.5 years in prison and ordered him to pay $874,000 in restitution to Pennsylvania
+for taking over $2.6 million in personal payments in connection with a scheme involving the
+construction, operation, and expansion of juvenile detention centers. Conahan misused his
+position as a judge to profit from, among other things, sending thousands of juveniles to
+detention facilities in which he had a financial interest.
+Through his FNCB accounts, Conahan disguised his illegal proceeds originated by
+Pinnacle Group of Jupiter, LLC (“Pinnacle”), an entity Conahan created to purchase a
+condominium jointly with a co-conspirator, now former Judge Mark Ciavarella. On March 17,
+2007, FNCB received a law enforcement subpoena for information on Conahan, Ciavarella, their
+respective wives, and other individuals, as well as Pinnacle and other related business entities.
+FNCB responded to the subpoena in which bank records involving Conahan and related parties
+were provided. A law enforcement request, such as the March 2007 subpoena, should have been
+identified as a red flag requiring further analysis of related accounts. FNCB, however, did not
+conduct any analysis or risk-rate the Conahan, Ciavarella, Pinnacle, or other accounts as
+required. The Bank Secrecy Act compliance officer received and responded to the subpoena but
+failed to file a SAR on any of the accounts referred to in the subpoena despite numerous other
+red flags on the accounts.
+Under its own program, FNCB should have identified a number of transactions involving
+Pinnacle as suspicious. First, transactions and documents in FNCB’s possession revealed an
+
+4
+
+unusual and substantial reported increase in the value of Conahan’s condominium, purchased
+through Pinnacle, over a short period of time. Within just twelve weeks of purchasing the
+property, Conahan refinanced the condominium, taking the entire payment in cash (a full “cash
+out” refinancing). Both the full “cash-out” refinancing and the purported increase in value
+should have been identified as red flags warranting further review.
+Second, reviewing the accounts and documents in FNCB’s possession related to
+individuals and entities identified in the subpoena would have allowed the Bank to detect red
+flags associated with dramatic increases in Conahan and Ciavarella’s respective incomes. From
+2004 to 2005, Conahan’s and Ciavarella’s incomes nearly quadrupled, purportedly as a result of
+rental income from the condominium purchased through Pinnacle. The respective amounts
+Pinnacle paid to Conahan and Ciavarella, however, far exceeded the value of the property –
+which was Pinnacles’ only asset to generate payments. Specifically, the amounts of the rental
+payments made to Pinnacle’s account at a third-party institution reflected a disproportionately
+high rental income of over $70,000 per month compared to the value of a three-bedroom
+condominium purchased for only $800,000. Both the dramatic increase in personal income and
+the disproportionately high rental incomes are significant red flags that FNCB would have
+identified had it conducted a further review of the accounts identified in the subpoena as it was
+required to do.
+In addition, FNCB did not respond to red flags related to the type, size, and frequency of
+the various payments made among Pinnacle, Conahan, and Ciavarella through FNCB. FNCB
+had internal controls in place that identified large, round-dollar transactions as red flags requiring
+further review. FNCB also had internal controls in place to identify as red flags large balance
+changes that occur on a single day. Despite the fact that many transactions conducted by
+
+5
+
+Pinnacle, Conahan, and Ciavarella involved multiple large, round-dollar transactions that often
+occurred on the same day, FNCB failed to review these transactions and, as a result, failed to
+identify or act on significant red flags, including failing to consider reporting or actually
+reporting suspicious activity, despite having information in multiple accounts that collectively
+raised ample concern that the flow of funds through Pinnacle, and other loans, was atypical of
+normal loan activity.
+Although FNCB ultimately filed SARs in connection with the suspicious activity, it only
+did so at the behest of an OCC examiner and after Conahan first pled guilty to related criminal
+offenses in 2009. 3 The SARs reported suspicious activity totaling about $6.3 million. By the
+time FNCB filed the SARs, withdrawals from the suspect accounts had left the balances
+substantially depleted.
+III.
+
+CIVIL MONEY PENALTY
+FinCEN has determined that FNCB willfully violated the reporting requirements of the
+
+Bank Secrecy Act and its implementing regulations, as described in this CONSENT, and that
+grounds exist to assess a civil money penalty for these violations. 31 U.S.C. § 5321 and 31
+C.F.R. § 1010.820.
+FinCEN has determined that the penalty in this matter will be $1.5 million of which
+$500,000 will be concurrent with the penalty imposed by the OCC. Accordingly, the assessment
+will be satisfied by paying $1 million to the United States Department of the Treasury and by
+paying $500,000 in satisfaction of, and in accordance with, the penalty imposed by the OCC.
+
+3
+
+Conahan initially pled guilty to fraud and tax charges in February 2009. The court rejected the
+initial guilty plea in July 2009. Memorandum and Order, United States v. Michael T. Conahan
+and Mark A. Ciavarella, Jr., No. 03:-09-CR-28 (M.D.Pa. 2009).
+6
+
+IV.
+
+CONSENT TO ASSESSMENT
+To resolve this matter, and only for that purpose, FNCB admits that it violated the Bank
+
+Secrecy Act’s reporting requirements and consents to the assessment of a civil money penalty in
+the sum of $1.5 million.
+FNCB recognizes and states that it enters into the CONSENT freely and voluntarily and
+that no offers, promises, or inducements of any nature whatsoever have been made by FinCEN
+or any employee, agent, or representative of FinCEN to induce FNCB to enter into the
+CONSENT, except for those specified in the CONSENT.
+FNCB understands and agrees that the CONSENT embodies the entire agreement
+between FNCB and FinCEN relating to this enforcement matter only, as described in Section II
+above. FNCB further understands and agrees that there are no express or implied promises,
+representations, or agreements between FNCB and FinCEN other than those expressly set forth
+or referred to in this document and that nothing in the CONSENT or in this ASSESSMENT is
+binding on any other agency of government, whether Federal, State or local.
+V.
+
+RELEASE
+Execution of the CONSENT, and compliance with the terms of this ASSESSMENT and
+
+the CONSENT, settles all claims that FinCEN may have against FNCB for the conduct described
+in Section II of the CONSENT. Execution of the CONSENT, and compliance with the terms of
+this ASSESSMENT and the CONSENT, does not release any claim that FinCEN may have, or
+waive FinCEN’s right to bring any enforcement action based on such claims, for conduct by
+FNCB other than the conduct expressly described in Section II of the CONSENT, or any claim
+that FinCEN may have against any party other than FNCB, such parties to include, without
+limitation, any current or former partner, director, officer, or employee of FNCB. Upon request,
+
+7
+
+FNCB shall truthfully disclose to FinCEN all factual information not protected by a valid claim
+of attorney-client privilege or work product doctrine with respect to the participation of its
+current or former directors, officers, employees, agents, or others.
+
+BY:
+
+/S/
+2/27/2015
+_________________________________________
+Jennifer Shasky Calvery
+Date:
+Director
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+U.S. Department of the Treasury
+
+8
+
+

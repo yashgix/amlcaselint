@@ -1,0 +1,479 @@
+UNITED STATES OF AMERICA
+DEPARTMENT OF THE TREASURY
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+
+IN THE MATTER OF:
+
+HSBC Bank USA N.A.
+McLean, Virginia
+
+)
+)
+)
+)
+)
+)
+
+Number 2012-02
+
+ASSESSMENT OF CIVIL MONEY PENALTY
+I.
+
+INTRODUCTION
+Under the authority of the Bank Secrecy Act and regulations issued pursuant to that Act, 1
+
+the Financial Crimes Enforcement Network has determined that grounds exist to assess a civil
+money penalty against HSBC Bank USA N.A. (“HBUS” or the “Bank”). HBUS enters into the
+CONSENT TO THE ASSESSMENT OF CIVIL MONEY PENALTY (“CONSENT”) with the
+Financial Crimes Enforcement Network.
+The CONSENT is incorporated into this ASSESSMENT OF CIVIL MONEY PENALTY
+(“ASSESSMENT”) by reference.
+Pursuant to an investigation conducted by the Department of Justice (“DOJ”) concerning
+the transmission of funds to and from the United States through HBUS, HBUS has agreed to
+enter into a Deferred Prosecution Agreement (DPA) as a settlement agreement with the DOJ
+wherein HBUS admits that it violated 31 U.S.C. § 5318(h) and 31 C.F.R. § 1020.210, which
+
+1
+
+The Bank Secrecy Act is codified at 12 U.S.C. §§ 1829b, 1951-1959 and 31 U.S.C. §§ 53115314, 5316-5332. Regulations implementing the Bank Secrecy Act appear at 31 C.F.R. Chapter
+X (formerly 31 C.F.R. Part 103). On March 1, 2011, a transfer and reorganization of BSA
+regulations from 31 C.F.R. Part 103 to 31 C.F.R. Chapter X became effective. Throughout this
+document, we refer to Chapter X citations. A cross-reference index of Chapter X and Part 103 is
+located at http://www.fincen.gov/statutes_regs/ChapterX/.
+1
+
+makes it a crime to willfully fail to establish and maintain an effective anti-money laundering
+program, and 31 U.S.C. § 5318(i) and 31 C.F.R. § 1010.610, which makes it a crime to willfully
+fail to establish due diligence policies, procedures, and controls for foreign correspondent
+accounts. As a consequence of these violations, HBUS also violated 31 U.S.C. § 5318(g) and 31
+C.F.R. § 1020.320, which requires a financial institution to report any suspicious transaction
+relevant to a possible violation of law or regulation.
+II.
+
+JURISDICTION
+HBUS’s main office is located in McLean, Virginia, and the Bank is the principal U.S.
+
+banking subsidiary of HSBC USA Inc. (“HSBC USA”). HSBC USA is an indirect, whollyowned subsidiary of HSBC North America Holdings Inc. (“HNAH”), one of the largest bank
+holding companies in the United States, with assets totaling approximately $317 billion. HNAH
+is an indirect, wholly-owned subsidiary of HSBC Holdings plc (together with its affiliates, the
+“HSBC Group”). HSBC Group is one of the world’s largest banking and financial services
+organizations, with assets of approximately $2.7 trillion, 60 million customers worldwide, and
+affiliates located in Europe, North America, Latin America, Africa, the Asia-Pacific region, and
+the Middle East.
+HBUS has approximately $194 billion in assets and 300 branches. HBUS provides a full
+range of consumer and commercial bank services to customers in the United States and abroad,
+including clients of HSBC Group affiliates outside the United States.
+The Financial Crimes Enforcement Network has authority to investigate banks for
+compliance with and violation of the Bank Secrecy Act pursuant to 31 C.F.R. § 1010.810, which
+grants the Financial Crimes Enforcement Network “overall authority for enforcement and
+compliance, including coordination and direction of procedures and activities of all other
+
+2
+
+agencies exercising delegated authority under this chapter.” At all relevant times, the Bank was
+a “financial institution” and a “bank” within the meaning of the Bank Secrecy Act and its
+implementing regulations. 2
+III.
+
+DETERMINATIONS
+The Financial Crimes Enforcement Network has determined that HBUS willfully violated
+
+the Bank Secrecy Act since at least mid-2006 by: (1) lacking an effective anti-money laundering
+program reasonably designed to manage risks of money laundering and other illicit activity, in
+violation of Title 31, United States Code, Section 5318(h) and 31 C.F.R. § 1020.210; (2) failing
+to conduct due diligence on certain foreign correspondent accounts, in violation of Title 31,
+United States Code, Section 5318(i) and 31 C.F.R. § 1010.610; and (3) failing to detect and
+adequately report evidence of money laundering and other illicit activity, in violation of Title 31,
+United States Code, Section 5318(g) and 31 C.F.R. § 1020.320.
+A. Violation of the Requirement to Implement an Adequate Anti-Money
+Laundering Program
+Since April 24, 2002, the Bank Secrecy Act and its implementing regulations have
+required banks to establish and implement anti-money laundering programs. 3 A bank regulated
+by a Federal functional regulator is deemed to have satisfied Bank Secrecy Act anti-money
+laundering program requirements if it implements and maintains an anti-money laundering
+program that complies with the regulations of its Federal functional regulator. 4 The Office of the
+Comptroller of the Currency (“OCC”) is the Bank’s Federal functional regulator and examines
+
+2
+
+31 U.S.C. § 5312(a)(2) and 31 C.F.R. § 1010.100.
+
+3
+
+31 U.S.C. § 5318(h).
+
+4
+
+31 C.F.R. §§ 1020.100(d)(1) and 1020.210.
+3
+
+HBUS for compliance with the Bank Secrecy Act and its implementing regulations and similar
+rules under Title 12 of the United States Code. The OCC requires each bank under its
+supervision to establish and maintain an anti-money laundering program that, at a minimum,
+(a) provides for a system of internal controls to ensure ongoing compliance; (b) provides for
+independent testing for compliance conducted by bank personnel or by an outside party;
+(c) designates an individual or individuals responsible for coordinating and monitoring day-today compliance; and (d) provides training for appropriate personnel. 5
+As discussed in detail below, HBUS violated the Bank Secrecy Act’s anti-money
+laundering program requirements by (i) conducting business without adequate internal controls,
+(ii) failing to conduct adequate independent testing for compliance, and (iii) failing to staff its
+Bank Secrecy Act compliance program with a reasonably sufficient number of qualified
+personnel.
+i.
+
+HBUS failed to provide for an adequate system of internal controls to
+ensure ongoing compliance.
+
+HBUS provided a full range of consumer and commercial products and services to
+individuals, corporations, financial institutions, non-profit organizations, and governments in the
+United States and abroad, including in jurisdictions with weak anti-money laundering and
+counter-terrorist financing (“AML/CFT”) controls. HBUS did not effectively conduct
+enterprise-wide, risk-based assessments of potential money laundering risks, given its products,
+clients, and geographic reach, and HBUS failed to adequately identify potential money
+5
+
+12 C.F.R. § 21.21. From 2005 to 2009, the OCC issued 83 anti-money laundering Matters
+Requiring Attention (“MRAs”) to the Bank’s Board of Directors. A Consent Cease and Desist
+Order by the OCC dated October 6, 2010 required HBUS to remediate and improve Bank
+Secrecy Act compliance. See United States Department of the Treasury Comptroller of the
+Currency Consent Order, In the Matter of HSBC Bank USA, N.A., McLean, Virginia (Oct. 6,
+2010).
+4
+
+laundering vulnerabilities. The Bank’s failure to adequately assess risk negatively impacted the
+effectiveness of its transaction monitoring, which already suffered from additional systemic
+weaknesses.
+Product Risk. Some of the Bank’s products and services involved significant antimoney laundering risks, including but not limited to: correspondent accounts, embassy banking,
+wire transfers, automated clearinghouse (“ACH”) transfers, banknotes, lockboxes, clearing of
+bulk traveler’s checks, bearer share accounts, pre-paid cards, foreign exchange, cash letters,
+international pouch activity, and remote deposit capture. HBUS failed to take appropriate steps
+to adequately assess the AML/CFT risks posed with respect to many of its products and services.
+For instance, the Bank failed to manage money laundering risks associated with its pouch
+services and did not provide for appropriate controls and monitoring to address the underlying
+risks posed by this transaction activity. In one example, until November 2008, the Bank cleared
+traveler’s checks received from a foreign respondent bank without monitoring systems in place
+that were reasonably designed to detect, investigate, and report evidence of money laundering.
+Several individuals purchased sequentially numbered traveler’s checks at a Russian bank in
+transactions totaling more than $290 million over several years. These traveler’s checks were
+signed in a uniform illegible scrawl and made payable to approximately 30 different customers
+of a Japanese bank. The Japanese bank was a HBUS correspondent customer and for several
+years regularly delivered multi-hundred-thousand-dollar batches of these sequentially numbered
+traveler’s checks to HBUS via pouch. During the relevant period of time, HBUS knew or should
+have known that uniformly signed, sequentially numbered traveler’s checks in such high volume
+are a money laundering “red flag.”
+
+5
+
+Customer Risk. The Bank’s written policies, procedures, and controls did not
+effectively risk rate customers. The Bank’s risk rating methodologies were not designed to
+evaluate customers based on specific customer information and balanced consideration of all
+relevant factors, including country/jurisdictional risk, products and services provided, expected
+transaction volume, and nature of customer profiles. Failure to consistently gather reasonably
+accurate and complete customer documentation undermined the Bank’s ability to conduct
+customer risk assessments. These deficiencies prevented the Bank from performing adequate
+analysis of the risks associated with particular customers and from determining whether
+transactions lacked an apparent business or lawful purpose or fell within the particular
+customer’s normal and expected range of conduct.
+For example, Group affiliate HSBC Mexico S.A. Banco (“HBMX”) was an HBUS
+respondent bank. The account that HBMX maintained with HBUS accepted bulk deposits of
+U.S. currency and processed wire transfers. HBMX operated in Mexico, a country that was the
+subject of publicly available cautionary information about drug trafficking and money laundering
+vulnerabilities. 6 HBMX’s branch in the Cayman Islands operated under a Cayman Islands
+Monetary Authority license limiting authority to do business to non-residents of the Cayman
+Islands. Potentially high-risk Mexican casas de cambio and other money transmitter and dollarexchange businesses were HBMX customers. Despite these risks, until 2009, HBUS treated
+HBMX as a “standard” money laundering risk and did not effectively detect and report
+suspicious activity.
+
+6
+
+Financial Crimes Enforcement Network Advisory FIN-2006-A003 (Aug. 28, 2006). See also
+United States Department of State International Narcotics Control Strategy Reports for 20022012.
+6
+
+Country Risk. The Bank lacked adequate country risk rating processes reasonably
+designed to capture readily available information about countries’ AML/CFT risks and failed to
+ensure uniform compliance with risk rating standards through complete internal reviews. The
+Bank lacked a precise structure to ensure systematic country risk assessments, including updates,
+as prudent and necessary, which resulted in HBUS making inappropriate country risk
+assessments in some instances. The Bank used four labels (“standard,” “medium,” “cautionary,”
+or “high” risk) to identify a country’s anti-money laundering risk. From 2002 until 2009, HBUS
+rated Mexico as having “standard” anti-money laundering risk, the lowest of the Bank’s four
+possible country risk ratings, despite publicly-available information to the contrary. In 2006, the
+Financial Crimes Enforcement Network issued an advisory, FIN-2006-A003, notifying financial
+institutions of the potential threat of narcotics-based money laundering between Mexico and the
+United States. In addition, the United States Department of State International Narcotics
+Control Strategy Reports dating back to 2002 have consistently rated Mexico as a country of
+primary concern for money laundering and financial crimes. The inappropriate country risk
+rating, together with other AML/CFT deficiencies, including the monitoring failures described
+below, resulted in HBUS failing to identify and thereby facilitating the flow of illicit proceeds
+between Mexico and the United States.
+Transaction Monitoring. HBUS failed to implement and maintain an adequate
+transaction monitoring regime reasonably designed to detect and report money laundering and
+other illicit activity. The transaction monitoring procedures failed in a number of ways,
+including but not limited to:
+(1) The Bank’s transaction monitoring procedures governing the review of foreign
+correspondent account wire transactions excluded from review transactions
+
+7
+
+originating from countries that the Bank had risk rated less than “cautionary” or
+“high,” with limited exceptions. This policy excluded approximately $60 trillion per
+year from review. In addition, the Bank’s transaction monitoring procedures
+governing the review of foreign correspondent account wire transactions were
+ineffective when HBUS, in 2008, summarily cleared more than 4,000 unaddressed
+alerts after changing a country’s risk rating from “cautionary” to “medium.”
+Subsequent delayed reviews of thousands of backlogged or cleared alerts resulted in
+HBUS filing hundreds of suspicious activity reports more than a year after the
+underlying transactions, which totaled in the billions of dollars.
+(2) The Bank’s transaction monitoring procedures failed to provide for effective
+monitoring of bulk cash movements, which were reviewed manually. From mid2006 through mid-2009, the Bank did not perform automated and effective
+monitoring on banknote (bulk cash) transactions conducted with HSBC Group
+affiliates, including taking delivery of more than $15 billion in U.S. currency, relying
+on manual targeted and quarterly reviews. The absence of effective bulk cash
+monitoring placed HBUS at risk of receiving illicit proceeds. The Bank’s failure to
+collect or maintain customer due diligence information regarding any HSBC Group
+affiliates with correspondent accounts at the Bank, including types of customers in
+Mexico and other high-risk jurisdictions, also thwarted the Bank’s ability to
+effectively monitor affiliates’ transactions and to determine if actual activity was
+commensurate with expected activity and/or lacked an apparent business or legal
+purpose. HBUS exited the banknote (bulk cash) business in 2010.
+
+8
+
+(3) The Bank’s transaction monitoring procedures relied heavily on manual transaction
+reviews. Despite such reliance, the Bank’s department responsible for investigating
+suspicious activity alerts was severely under-staffed, resulting in thousands of
+unprocessed (“backlogged”) alerts. Furthermore, staff often cleared alerts without
+adequate review.
+(4) HBUS did not acquire an automated system equal to the needs of the Bank, i.e., a
+system with sufficient capacity to support the volume, scope, and nature of
+transactions conducted by and through HBUS, until April 2011. It took another year
+for HBUS to validate the system for effective detection of suspicious activity.
+(5) HBUS did not adequately integrate subpoenas and Section 314(a) information sharing
+requests into automated transaction monitoring to identify and report potential
+suspicious activity associated with these inquiries, as appropriate and practical.
+ii.
+
+HBUS failed to conduct adequate independent testing for compliance.
+
+The Bank’s independent audit program repeatedly failed to effectively evaluate money
+laundering vulnerabilities and to detect Bank Secrecy Act compliance failures in a timely
+fashion. In particular, the scope of its independent audits was not sufficient to effectively assess
+the Bank’s exposure to the risk of money laundering activities and its ability to comply with antimoney laundering program and suspicious activity reporting obligations. The ineffectiveness of
+independent testing at HBUS to identify and notify management of AML/CFT deficiencies
+contributed to the continuation of failures at the Bank, during the relevant period.
+iii.
+
+HBUS failed to staff its Bank Secrecy Act compliance program with a
+reasonably sufficient number of qualified personnel.
+
+HBUS failed to ensure adequate staffing for the proper monitoring of day-to-day
+compliance with the Bank Secrecy Act. The compliance operation lacked continuity and
+9
+
+sufficient standing or authority within the Bank to effectively execute Bank Secrecy Act
+responsibilities, in light of the Bank’s AML/CFT risk profile. For a number of years, HBUS’s
+Bank Secrecy Act compliance function suffered from an insufficient number of appropriately
+trained professionals responsible for coordinating and monitoring day-to-day compliance.
+HBUS did not have sufficient staff to review suspicious activity alerts resulting from the Bank’s
+monitoring processes. The Bank’s compliance staff was frequently unable to initiate and
+complete investigations and file complete and timely suspicious activity reports. In light of the
+global risk profile of HBUS, Bank management failed to establish and maintain adequate staffing
+and continuity in the anti-money laundering compliance operation. Moreover, a corporate
+culture persisted at the Bank in the past that effectively denied compliance officials with the
+requisite authority over the business and account relationship business lines to manage the
+Bank’s risk profile.
+In sum, HBUS failed to dedicate sufficient human and technological resources to meet its
+AML/CFT obligations. Such failures were repeatedly evidenced by the Bank’s deficient
+responses to adverse supervisory findings and mandates requiring it to implement effective
+measures to ensure the filing of accurate, timely, and complete suspicious activity reports and
+compliance with other Bank Secrecy Act requirements.
+B.
+
+Violation of the Requirement to Conduct Due Diligence on Foreign
+Correspondent Accounts
+
+Foreign correspondent accounts are gateways to the U.S. financial system. As part of
+their anti-money laundering obligations, U.S. banks maintaining correspondent accounts in the
+United States for foreign financial institutions must subject the accounts and respondents to
+
+10
+
+certain due diligence measures. 7 Banks must implement and maintain risk-based policies,
+procedures, and controls reasonably designed to gather all relevant due diligence information
+concerning such foreign correspondent accounts, employ this due diligence information to
+determine whether an account is subject to enhanced due diligence, conduct assessments of
+money laundering risks for each account, and comply with suspicious activity reporting
+requirements. 8 HBUS violated the Bank Secrecy Act customer due diligence requirements by
+failing to collect or maintain required due diligence information regarding accounts held by
+HSBC Group affiliates that were foreign financial institutions.
+HBUS maintained correspondent accounts for HSBC Group affiliates around the world.
+HBUS formerly did not collect or maintain customer due diligence information regarding any
+HSBC Group affiliates with correspondent account relationships at the Bank. HBUS’s prior
+policy of exempting HSBC Group affiliates from customer due diligence processes inhibited the
+Bank’s ability to recognize potential money laundering vulnerabilities of correspondent banking
+throughout the HSBC Group affiliates network. HBUS did not incorporate information about
+affiliates’ business purposes, anticipated activity, anti-money laundering supervision, host
+country anti-money laundering vulnerabilities, and history of anti-money laundering compliance
+into the Bank’s monitoring of affiliate transactions. As a result, transactions flowed to and from
+the United States without appropriate monitoring and alerts to identify movements of funds. A
+significant number of non-U.S. financial institutions and other customers of HSBC Group
+affiliates effectively gained indirect access to the U.S. financial system without appropriate
+
+7
+
+31 U.S.C. § 5318(i)(1).
+
+8
+
+31 C.F.R. § 1010.610(a)(1), (2), and (3).
+11
+
+safeguards, including financial institution customers involved in the movement of illicit drug
+proceeds.
+C.
+
+Violation of the Requirement to Report Suspicious Transactions
+
+The Bank Secrecy Act and its implementing regulations impose an obligation on banks to
+report transactions that involve or aggregate to at least $5,000, are conducted by, at, or through
+the bank, and that the bank “knows, suspects, or has reason to suspect” are suspicious. 9 A
+transaction is “suspicious” if the transaction: (1) involves funds derived from illegal activities,
+or is conducted to disguise funds derived from illegal activities; (2) is designed to evade the
+reporting or recordkeeping requirements of the Bank Secrecy Act or regulations under the Bank
+Secrecy Act; or (3) has no business or apparent lawful purpose or is not the sort in which the
+customer would normally be expected to engage, and the bank knows of no reasonable
+explanation for the transaction after examining the available facts, including background and
+possible purpose of the transaction. 10 HBUS violated Bank Secrecy Act suspicious activity
+reporting requirements by failing to detect and report suspicious activity and by filing both
+untimely and incomplete suspicious activity reports.
+HBUS showed a prior longstanding pattern of late suspicious activity reports. In many
+cases, the reports were significantly late. Indeed, several thousand suspicious activity reports
+prepared by HBUS suffered from lengthy delays. In some instances, more than a year elapsed
+between the time of the underlying activity and the time when the Bank submitted the suspicious
+activity report. In addition to late filings, the Bank in the past filed incomplete suspicious
+activity reports that violated the instructions for suspicious activity reports. Reporting delays and
+9
+
+31 U.S.C. § 5318(g) and 31 C.F.R. § 1020.320.
+
+10
+
+31 C.F.R. § 1020.320(a)(2)(i) - (iii).
+12
+
+incomplete information impaired the usefulness of the suspicious activity reports to law
+enforcement and regulators.
+For instance, HBUS engaged extensively in the business of buying and selling large
+volumes of physical banknotes (cash) from and to financial institutions around the world,
+including HSBC Group affiliates. This banknotes line of business required the Bank to arrange
+for the regular delivery of large quantities of cash from financial institutions outside the United
+States to the Bank and ultimately to the Federal Reserve Bank. During 2006, the Financial
+Crimes Enforcement Network warned all U.S. financial institutions about money laundering
+risks associated with United States/Mexico cross-border cash. 11 In addition, law enforcement
+authorities in the United States and Mexico determined that billions of U.S. dollars derived from
+illegal drug trafficking flowed annually from criminals through Mexican financial institutions to
+U.S. financial institutions. For example, drug traffickers in the United States were smuggling
+cash into Mexico and placing it into Mexican financial institutions. The Mexican financial
+institutions would then ship bulk cash to banks in the United States. Thus, HSBC Group affiliate
+HBMX shipped billions of dollars in bulk cash to HBUS’s banknotes business unit against a
+backdrop of readily available information that large volumes of cash emanating from deposits
+into Mexican banks were fueled by customers depositing cash from illegal drug trafficking.
+Despite this information, HBUS did not collect the necessary due diligence information about
+HBMX and, with occasional exceptions, excluded HBMX banknote transactions from anti-
+
+11
+
+Financial Crimes Enforcement Network Advisory FIN-2006-A003 (2006). See also United
+States Department of the Treasury, Financial Crimes Enforcement Network, Assessment of Civil
+Money Penalty In the Matter of Union Bank of California, N.A., San Francisco, California (Sept.
+17, 2007); and United States Department of State International Narcotics Control Strategy
+Reports from 2002-2012.
+13
+
+money laundering monitoring processes, from mid-2006 to mid-2009. As a result, the Bank
+failed to file timely suspicious activity reports related to these transactions.
+HBUS suffered similar failures in its wire transfer business. The Bank processed an
+average of approximately 25 million wire transfers annually, from 2005 to 2009, with total dollar
+volume amounting to an average of approximately $75 trillion. A substantial portion of the
+Bank’s funds transfer business was on behalf of foreign correspondent financial institutions and
+their clients. Yet, as described above, the Bank did not perform due diligence on foreign
+affiliates and improperly risk rated customers and countries, which resulted in ineffective
+monitoring, and, thus, a failure to file timely suspicious activity reports.
+During 2010 and 2011, HBUS performed a historical review of transactions, known as a
+“lookback,” in connection with the 2010 Consent Cease and Desist Order by the OCC. As part
+of this lookback, HBUS sampled accounts, banknotes activity, wire transaction data, remote
+deposit capture, and pouch activity for suspicious activity. The Bank also re-reviewed thousands
+of transaction monitoring system alerts that were previously on backlog or which had previously
+been closed based on ineffective reviews. As a result, HBUS filed hundreds of delinquent
+suspicious activity reports on transactions totaling several billion dollars.
+IV.
+
+CIVIL MONEY PENALTY
+The Financial Crimes Enforcement Network has determined that a civil money penalty in
+
+the amount of $500 million is warranted for HBUS’s violations of the Bank Secrecy Act and its
+implementing regulations, as described in this ASSESSMENT. 12
+A penalty in the amount (not to exceed $100,000) involved in the transaction (if any) or
+$25,000 may be imposed on a financial institution for each violation of the anti-money
+12
+
+31 U.S.C. § 5321 and 31 C.F.R. § 1010.820.
+14
+
+laundering program or suspicious transaction reporting requirements. 13 A separate violation of
+the anti-money laundering program requirements occurs for each day the violation continues. A
+penalty equal to not less than two times the amount of the transaction, but not more than
+$1,000,000, may be imposed for violation of the requirement to establish due diligence policies,
+procedures, and controls that are reasonably designed to detect and report instances of money
+laundering through a correspondent bank account for a non-U.S. person. 14
+V.
+
+CONSENT TO ASSESSMENT
+To resolve this matter, and only for that purpose, HBUS consents to the assessment of a
+
+civil money penalty in the sum of $500 million. This ASSESSMENT shall be concurrent with
+the assessment of a civil money penalty, in the amount of $500 million, by the OCC, and shall be
+satisfied by one payment of $500 million to the Department of the Treasury.
+HBUS recognizes and states that it enters into the CONSENT freely and voluntarily and
+that no offers, promises, or inducements of any nature whatsoever have been made by the
+Financial Crimes Enforcement Network or any employee, agent, or representative of the
+Financial Crimes Enforcement Network to induce HBUS to enter into the CONSENT, except
+those specified in the CONSENT.
+HBUS understands and agrees that the CONSENT embodies the entire agreement
+between HBUS and the Financial Crimes Enforcement Network relating to this enforcement
+matter only, as described in Section III above. HBUS further understands and agrees that there
+are no express or implied promises, representations, or agreements between HBUS and the
+Financial Crimes Enforcement Network other than those expressly set forth or referred to in this
+
+13
+
+31 U.S.C. § 5321(a)(1) and 31 C.F.R. § 1010.820(f).
+
+14
+
+31 U.S.C. § 5321(a)(7).
+15
+
+document and that nothing in the CONSENT or in this ASSESSMENT is binding on any other
+agency of government, whether federal, state, or local.
+VI.
+
+RELEASE
+HBUS understands that execution of the CONSENT, and compliance with the terms of
+
+this ASSESSMENT and the CONSENT, constitute a complete settlement and release of the
+Bank’s civil liability for the violations of the Bank Secrecy Act and regulations issued pursuant
+to that Act as described in the CONSENT and this ASSESSMENT.
+
+By:
+
+_________________/s/_____________12/10/2012___
+Jennifer Shasky Calvery
+Date
+Director
+FINANCIAL CRIMES ENFORCEMENT NETWORK
+U.S. Department of the Treasury
+
+16
+
+
