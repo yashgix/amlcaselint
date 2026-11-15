@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>examcheck</title>
+<meta name="description" content="Checks derived from public FinCEN enforcement orders, applied to a synthetic AML alert log, with findings marked defect, risk or cannot_assess.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root {
+  color-scheme: light;
+  --paper: #ffffff;
+  --band: #f2f7f6;
+  --ink: #142421;
+  --muted: #52625f;
+  --line: #dde7e5;
+  --accent: #0b6b5d;
+  --accent-soft: #e3f2ef;
+  --differ: #b45309;
+  --differ-soft: #fdf1e4;
+  --code: #eef4f3;
+  --sans: "IBM Plex Sans", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --s0: 0.8125rem; --s1: 1.0625rem; --s2: 1.25rem; --s3: 1.6rem; --s4: clamp(2.2rem, 5.5vw, 3.2rem);
+  --radius: 12px;
+}
+body { background: var(--paper); color: var(--ink); font-family: var(--sans); font-size: var(--s1); line-height: 1.65; }
+.wrap { padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.col { max-width: 760px; margin-inline: auto; }
+.wide { max-width: 980px; margin-inline: auto; }
+a { color: var(--accent); text-underline-offset: 3px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+h1, h2, h3 { text-wrap: balance; line-height: 1.2; margin: 0; }
+h2 { font-size: var(--s3); font-weight: 600; letter-spacing: -0.015em; }
+h3 { font-size: var(--s1); font-weight: 600; }
+p, ul, ol { margin: 0; }
+ul, ol { padding-left: 1.25rem; display: flex; flex-direction: column; gap: 0.4rem; }
+code, .mono { font-family: var(--mono); font-size: 0.88em; }
+code { background: var(--code); padding: 0.08em 0.35em; border-radius: 4px; overflow-wrap: anywhere; }
+.muted { color: var(--muted); }
+.small { font-size: var(--s0); }
+.num { font-variant-numeric: tabular-nums; }
+.eyebrow { font-family: var(--mono); font-size: var(--s0); font-weight: 500; color: var(--accent); letter-spacing: 0.06em; text-transform: uppercase; }
+.stack { display: flex; flex-direction: column; gap: 1.1rem; }
+section { padding-block: 2.75rem; }
+section + section { border-top: 1px solid var(--line); }
+
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: rgba(255,255,255,0.94); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--paper); }
+.bar-in { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-block: 0.6rem; }
+.brand { font-family: var(--mono); font-weight: 600; }
+.tabs { display: flex; gap: 0.25rem; }
+.bar-in .tabs { margin-left: auto; }
+.gh { font-size: var(--s0); font-weight: 600; text-decoration: none; white-space: nowrap; color: var(--accent); border: 1px solid var(--accent); border-radius: 999px; padding: 0.3rem 0.8rem; }
+.gh:hover { background: var(--accent-soft); }
+.tabs button { font: inherit; font-size: var(--s0); font-weight: 500; border: 0; background: transparent; color: var(--muted); padding: 0.4rem 0.8rem; border-radius: 999px; cursor: pointer; }
+.tabs button[aria-selected="true"] { background: var(--accent-soft); color: var(--accent); }
+
+header { padding-block: 3.5rem 2.25rem; background: linear-gradient(180deg, var(--band), var(--paper)); }
+h1 { font-family: var(--mono); font-size: var(--s4); font-weight: 600; letter-spacing: -0.03em; }
+.lede { font-size: var(--s2); color: var(--muted); max-width: 60ch; line-height: 1.55; }
+.meta { display: flex; flex-wrap: wrap; gap: 0.4rem 1.25rem; font-size: var(--s0); color: var(--muted); }
+.meta b { color: var(--ink); font-weight: 600; }
+
+.example { background: var(--band); border-radius: var(--radius); padding: 1.5rem; display: grid; gap: 1.25rem; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); align-items: start; }
+.example > * { min-width: 0; }
+pre { margin: 0; background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: 0.9rem 1rem; overflow-x: auto; font-family: var(--mono); font-size: 0.85rem; line-height: 1.55; }
+.ledger { display: flex; flex-direction: column; gap: 0.6rem; }
+.row { display: grid; grid-template-columns: 9.5rem minmax(0, 1fr); gap: 0.75rem; align-items: baseline; padding: 0.6rem 0.8rem; border-radius: 8px; background: var(--paper); border: 1px solid var(--line); }
+.row .who { font-size: var(--s0); color: var(--muted); }
+.row .val { font-family: var(--mono); font-weight: 600; overflow-wrap: anywhere; }
+.row.ok .val { color: var(--accent); }
+.row.bad { border-color: #f1d3b3; background: var(--differ-soft); }
+.row.bad .val { color: var(--differ); }
+.row .val small { font-weight: 400; color: var(--muted); font-family: var(--sans); }
+
+.tiles { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0.75rem; }
+.tile { border: 1px solid var(--line); border-radius: var(--radius); padding: 1rem; display: flex; flex-direction: column; gap: 0.25rem; }
+.tile .big { font-family: var(--mono); font-size: 1.7rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+.tile .big.ok { color: var(--accent); }
+.tile .big.bad { color: var(--differ); }
+
+.chart { display: flex; flex-direction: column; gap: 0.9rem; }
+.bars { display: flex; flex-direction: column; gap: 0.55rem; }
+.b { display: grid; grid-template-columns: 10.5rem minmax(0, 1fr) 7.5rem; gap: 0.75rem; align-items: center; }
+.b .name { font-family: var(--mono); font-size: var(--s0); overflow-wrap: anywhere; }
+.track { height: 22px; background: var(--code); border-radius: 4px; position: relative; overflow: hidden; }
+.fill { position: absolute; inset: 0 auto 0 0; background: var(--differ); border-radius: 4px; }
+.fill.zero { background: var(--accent); width: 3px !important; }
+.b .v { font-size: var(--s0); font-variant-numeric: tabular-nums; color: var(--muted); }
+.b .v b { color: var(--ink); }
+.axis { display: grid; grid-template-columns: 10.5rem minmax(0, 1fr) 7.5rem; gap: 0.75rem; font-size: 0.72rem; color: var(--muted); }
+.axis .ticks { display: flex; justify-content: space-between; font-variant-numeric: tabular-nums; }
+
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); }
+table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+th, td { text-align: left; padding: 0.55rem 0.8rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-size: var(--s0); color: var(--muted); font-weight: 500; background: var(--band); }
+tr:last-child td { border-bottom: 0; }
+td code { overflow-wrap: normal; white-space: nowrap; }
+td.r, th.r { text-align: right; font-variant-numeric: tabular-nums; }
+.btn { display: inline-flex; align-items: center; gap: 0.4rem; font: inherit; font-weight: 500; padding: 0.55rem 1rem; border-radius: 999px; border: 1px solid var(--accent); color: var(--accent); background: var(--paper); cursor: pointer; text-decoration: none; }
+footer { padding-block: 2rem 3rem; border-top: 1px solid var(--line); }
+
+@media (max-width: 760px) {
+  .example { grid-template-columns: minmax(0, 1fr); padding: 1rem; }
+  .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .b, .axis { grid-template-columns: 7.5rem minmax(0, 1fr) 5.5rem; }
+  .row { grid-template-columns: minmax(0, 1fr); gap: 0.15rem; }
+  .brand { display: none; }
+  .tabs button { padding: 0.4rem 0.55rem; }
+  .gh { padding: 0.3rem 0.6rem; }
+}
+@media (prefers-reduced-motion: no-preference) { .fill { transition: width 0.6s ease; } }
+
+.diagram { width: 100%; height: auto; display: block; }
+.diagram text { font-family: var(--mono); font-size: 13px; fill: var(--ink); }
+.diagram .box { fill: var(--accent-soft); stroke: var(--accent); stroke-width: 1.5; }
+.diagram .syn { fill: var(--differ-soft); stroke: var(--differ); stroke-width: 1.5; }
+.diagram .arrow { stroke: var(--muted); stroke-width: 1.5; fill: none; }
+.diagram .sub { font-size: 11px; fill: var(--muted); }
+.chart .b { grid-template-columns: 11.5rem minmax(0, 1fr) 3.5rem; }
+@media (max-width: 760px) { .chart .b { grid-template-columns: 7.5rem minmax(0, 1fr) 3rem; } .tiles { grid-template-columns: minmax(0,1fr); } }
+</style>
+</head>
+<body>
+<div class="bar wrap"><div class="wide bar-in"><span class="brand">examcheck</span>
+  <a class="gh" href="https://github.com/yashgix/examcheck" target="_blank" rel="noopener">GitHub ↗</a></div></div>
+<main>
+<header class="wrap"><div class="col stack">
+  <p class="eyebrow">FinCEN enforcement orders · AML alert review · offline, no model calls</p>
+  <h1>examcheck</h1>
+  <p class="lede">What FinCEN penalized banks for, in its own words, turned into deterministic checks over an alert-case log. Every finding points to a sentence of a public order.</p>
+  <div class="meta"><span><b class="num">214,908</b> words read</span><span><b class="num">6,144</b> sentences</span><span><a href="https://github.com/yashgix/examcheck">github.com/yashgix/examcheck</a></span></div>
+</div></header>
+
+<section class="wrap" aria-labelledby="prob-h"><div class="col stack">
+  <p class="eyebrow">Problem</p><h2 id="prob-h">Which cited failures can a rule check?</h2>
+  <p>Enforcement orders say what examiners found wrong: SARs filed late, alerts left unreviewed, cases closed with no reason. Some of those failures can be written as a rule over an alert log. Some cannot. This project separates the two and keeps every claim tied to the order text.</p>
+  <p>No real alert data is public, so the checks run on a clearly synthetic log. Its rates describe the checks, never a bank.</p>
+</div></section>
+
+<section class="wrap" aria-labelledby="app-h"><div class="wide stack">
+  <p class="eyebrow">Approach</p><h2 id="app-h">Three parts, one data flow</h2>
+  <svg class="diagram" viewBox="0 0 900 250" role="img" aria-label="Pinned FinCEN order text feeds a keyword baseline and hand labels. The same quotes back four checks that run over a synthetic alert log and produce findings with status defect, risk or cannot_assess.">
+    <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#52625f"/></marker></defs>
+    <rect class="box" x="10" y="20" width="200" height="70" rx="8"/><text x="110" y="52" text-anchor="middle">Pinned orders</text><text class="sub" x="110" y="72" text-anchor="middle">39 texts + regulation</text>
+    <rect class="box" x="290" y="20" width="200" height="70" rx="8"/><text x="390" y="52" text-anchor="middle">Keyword baseline</text><text class="sub" x="390" y="72" text-anchor="middle">10 categories, sentences</text>
+    <rect class="box" x="290" y="150" width="200" height="70" rx="8"/><text x="390" y="182" text-anchor="middle">Hand labels</text><text class="sub" x="390" y="202" text-anchor="middle">15 orders, exact quotes</text>
+    <rect class="box" x="600" y="85" width="170" height="70" rx="8"/><text x="685" y="117" text-anchor="middle">Score</text><text class="sub" x="685" y="137" text-anchor="middle">document + evidence</text>
+    <rect class="syn" x="10" y="150" width="200" height="70" rx="8"/><text x="110" y="182" text-anchor="middle">Synthetic alert log</text><text class="sub" x="110" y="202" text-anchor="middle">sizes from the orders</text>
+    <path class="arrow" d="M210 55H288" marker-end="url(#a)"/><path class="arrow" d="M490 55H540V100H598" marker-end="url(#a)"/><path class="arrow" d="M490 185H540V140H598" marker-end="url(#a)"/>
+    <path class="arrow" d="M110 90V148" marker-end="url(#a)"/>
+    <text class="sub" x="120" y="124">4 checks → defect · risk · cannot_assess</text>
+  </svg>
+  <ol>
+    <li>The corpus is the 50 actions FinCEN tags Depository Institutions. 39 have a text layer and are used. Text is pinned with sha256 hashes.</li>
+    <li>A frozen keyword baseline flags sentences in ten failure categories. The patterns were fixed before any labelling.</li>
+    <li>Fifteen orders are labelled by hand, each label with an exact quote. The baseline is scored against them.</li>
+    <li>Four checks run on the alert log: late SAR, aged alert, closure without rationale, closure only because a filing existed.</li>
+  </ol>
+</div></section>
+
+<section class="wrap" aria-labelledby="res-h"><div class="wide stack">
+  <p class="eyebrow">Results</p><h2 id="res-h">The baseline finds most cited failures, but only about half the evidence</h2>
+  <div class="tiles"><div class="tile"><span class="big num">39</span><span class="small muted">included orders of 50 listed (8 scanned with no text, 3 against individuals)</span></div><div class="tile"><span class="big num">838</span><span class="small muted">baseline findings, 1.000 of them found verbatim in the order text</span></div><div class="tile"><span class="big num">0.836</span><span class="small muted">micro F1 against 15 hand-labelled orders (v1)</span></div><div class="tile"><span class="big num">54.2%</span><span class="small muted">evidence recall: gold quotes overlapped by a flagged sentence</span></div></div>
+  <p class="small muted">Numbers on this page are copied from <code>results/metrics.json</code>, <code>results/gold-v2.json</code> and <code>results/failures.json</code>, and from a <code>review</code> run on the synthetic log.</p>
+  <p>Document-level scores count an order as a hit when any flagged sentence has the category: micro precision 0.914, recall 0.771, F1 0.836, macro F1 0.788. Evidence recall is stricter: a gold quote counts only when a flagged sentence overlaps it. 52 of 96 gold positives are covered (0.542). Both numbers belong together.</p>
+  <div class="chart" role="img" aria-label="F1 by category on the 15 gold orders, ranging from 0.333 for alert backlog to 0.957 for SAR not filed."><h3>F1 by category, v1 gold set</h3><div class="bars"><div class="b"><span class="name">Alert backlog</span><span class="track"><span class="fill" style="width:33.3%"></span></span><span class="v"><b class="num">0.333</b></span></div><div class="b"><span class="name">Late SAR</span><span class="track"><span class="fill" style="width:88.0%"></span></span><span class="v"><b class="num">0.880</b></span></div><div class="b"><span class="name">SAR not filed</span><span class="track"><span class="fill" style="width:95.7%"></span></span><span class="v"><b class="num">0.957</b></span></div><div class="b"><span class="name">Unsupported disposition</span><span class="track"><span class="fill" style="width:75.0%"></span></span><span class="v"><b class="num">0.750</b></span></div><div class="b"><span class="name">Monitoring gap</span><span class="track"><span class="fill" style="width:78.3%"></span></span><span class="v"><b class="num">0.783</b></span></div><div class="b"><span class="name">CDD / EDD</span><span class="track"><span class="fill" style="width:91.7%"></span></span><span class="v"><b class="num">0.917</b></span></div><div class="b"><span class="name">CTR filing</span><span class="track"><span class="fill" style="width:88.9%"></span></span><span class="v"><b class="num">0.889</b></span></div><div class="b"><span class="name">Staffing</span><span class="track"><span class="fill" style="width:77.8%"></span></span><span class="v"><b class="num">0.778</b></span></div><div class="b"><span class="name">Independent testing</span><span class="track"><span class="fill" style="width:66.7%"></span></span><span class="v"><b class="num">0.667</b></span></div><div class="b"><span class="name">Governance</span><span class="track"><span class="fill" style="width:92.3%"></span></span><span class="v"><b class="num">0.923</b></span></div></div></div>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Category</th><th class="r">Gold orders</th><th class="r">Precision</th><th class="r">Recall</th><th class="r">F1</th><th class="r">Misses</th><th class="r">False hits</th></tr></thead>
+    <tbody><tr><td>Alert backlog</td><td class="r">5</td><td class="r">1.000</td><td class="r">0.200</td><td class="r">0.333</td><td class="r">4</td><td class="r">0</td></tr><tr><td>Late SAR</td><td class="r">13</td><td class="r">0.917</td><td class="r">0.846</td><td class="r">0.880</td><td class="r">2</td><td class="r">1</td></tr><tr><td>SAR not filed</td><td class="r">12</td><td class="r">1.000</td><td class="r">0.917</td><td class="r">0.957</td><td class="r">1</td><td class="r">0</td></tr><tr><td>Unsupported disposition</td><td class="r">5</td><td class="r">1.000</td><td class="r">0.600</td><td class="r">0.750</td><td class="r">2</td><td class="r">0</td></tr><tr><td>Monitoring gap</td><td class="r">14</td><td class="r">1.000</td><td class="r">0.643</td><td class="r">0.783</td><td class="r">5</td><td class="r">0</td></tr><tr><td>CDD / EDD</td><td class="r">13</td><td class="r">1.000</td><td class="r">0.846</td><td class="r">0.917</td><td class="r">2</td><td class="r">0</td></tr><tr><td>CTR filing</td><td class="r">4</td><td class="r">0.800</td><td class="r">1.000</td><td class="r">0.889</td><td class="r">0</td><td class="r">1</td></tr><tr><td>Staffing</td><td class="r">9</td><td class="r">0.778</td><td class="r">0.778</td><td class="r">0.778</td><td class="r">2</td><td class="r">2</td></tr><tr><td>Independent testing</td><td class="r">9</td><td class="r">0.833</td><td class="r">0.556</td><td class="r">0.667</td><td class="r">4</td><td class="r">1</td></tr><tr><td>Governance</td><td class="r">12</td><td class="r">0.857</td><td class="r">1.000</td><td class="r">0.923</td><td class="r">0</td><td class="r">2</td></tr></tbody></table></div>
+  <p class="small muted">Misses and false hits, with the sentences involved, are listed in <code>docs/FAILURES.md</code>.</p>
+</div></section>
+
+<section class="wrap" aria-labelledby="chk-h"><div class="wide stack">
+  <p class="eyebrow">Checks</p><h2 id="chk-h">Detection 1.000 and false flags 0.000 are true by construction</h2>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Check</th><th class="r">Seeded</th><th class="r">Detection</th><th class="r">False flags</th><th class="r">Naive detection</th><th class="r">Naive false flags</th></tr></thead>
+    <tbody><tr><td><code>late_sar</code></td><td class="r">300</td><td class="r">1.000</td><td class="r">0.000</td><td class="r">1.000</td><td class="r">0.023</td></tr><tr><td><code>aged_alert</code></td><td class="r">18,000</td><td class="r">1.000</td><td class="r">0.000</td><td class="r">0.556</td><td class="r">0.000</td></tr><tr><td><code>no_rationale</code></td><td class="r">1,000</td><td class="r">1.000</td><td class="r">0.000</td><td class="r">0.500</td><td class="r">0.000</td></tr><tr><td><code>prior_filing_only</code></td><td class="r">1,000</td><td class="r">1.000</td><td class="r">0.000</td><td class="r">1.000</td><td class="r">0.006</td></tr></tbody></table></div>
+  <p>The generator seeds exactly the cases the rules flag, so these columns show that the code matches its specification. They do not show that it finds real defects. The naive rules are written to be wrong. Their columns show what each rule detail is for, such as separating the 30-day legal deadline from a bank's own 30-day review limit.</p>
+</div></section>
+
+<section class="wrap" aria-labelledby="v2-h"><div class="col stack">
+  <p class="eyebrow">What v2 changed</p><h2 id="v2-h">Findings now say how sure they are</h2>
+  <ul>
+    <li><b>Findings with status.</b> <code>review</code> returns one finding per flagged alert. On the synthetic log: 19,300 defects, 1,000 risks, 0 cannot_assess. Each carries the order quote and the regulation quote. Undecided alerts past the SAR deadline and closures citing only a prior filing are risks, not defects.</li>
+    <li><b>Cannot assess.</b> A missing input used to read as clean. <code>--cannot-assess</code> lists alerts a check cannot decide.</li>
+    <li><b>Legal deadline versus policy.</b> The SAR deadline and the alert review limit are separate constants.</li>
+    <li><b>Baseline failure analysis.</b> Every miss and false hit is listed with its sentence.</li>
+    <li><b>One label change.</b> An independent review found one missing label, Lone Star (18845) independent testing. With it, micro F1 moves from 0.836 to 0.843 (precision 0.926, recall 0.773, macro F1 0.796). v1 stays the headline, and the added label is not yet spot-checked.</li>
+  </ul>
+  <pre>{
+ &quot;check&quot;: &quot;late_sar&quot;,
+ &quot;alert_id&quot;: &quot;A032701&quot;,
+ &quot;status&quot;: &quot;defect&quot;,
+ &quot;reason&quot;: &quot;SAR filed after the deadline&quot;,
+ &quot;order_id&quot;: &quot;19518&quot;
+}</pre>
+  <p class="small muted">Defect example. Order quote: "the Bank filed several hundred SARs an average of approximately 119 days late"</p>
+  <pre>{
+ &quot;check&quot;: &quot;prior_filing_only&quot;,
+ &quot;alert_id&quot;: &quot;A019001&quot;,
+ &quot;status&quot;: &quot;risk&quot;,
+ &quot;reason&quot;: &quot;closure relies only on an earlier SAR or CTR, the order faults missing analysis&quot;,
+ &quot;order_id&quot;: &quot;19518&quot;
+}</pre>
+  <p class="small muted">Risk example. Order quote: "At times, the justification for clearing an alert, as opposed to escalating it, relied on whether the Bank previously filed a SAR or a currency transaction report, rather than on an analysis of the actual account activity and a determination of its reasonableness."</p>
+</div></section>
+
+<section class="wrap" aria-labelledby="lim-h"><div class="col stack">
+  <p class="eyebrow">Limits</p><h2 id="lim-h">What this does not show</h2>
+  <ul>
+    <li>The alert log is synthetic. No claim is made about any bank.</li>
+    <li>One labeller (Claude, Opus 5.5) and 15 orders. The labels have not yet been spot-checked by the author, so scores are rough.</li>
+    <li>Document-level scores are generous. Evidence recall is 0.542.</li>
+    <li>The categories are a judgement. Legal boilerplate is also matched, and OCR errors in older orders can affect matching.</li>
+    <li>Eight scanned orders and three actions against individuals are excluded. Other regulators' orders are out of scope.</li>
+  </ul>
+</div></section>
+
+<section class="wrap" aria-labelledby="run-h"><div class="col stack">
+  <p class="eyebrow">Reproduce</p><h2 id="run-h">Run it</h2>
+  <p class="small muted">Python 3.14, standard library only (ruff for lint). The experiment takes about a second and is byte-for-byte repeatable.</p>
+<pre>make lint
+make test
+make experiment</pre>
+  <p class="small muted">Data: FinCEN orders and 31 CFR 1020.320 are US government works. Text is pinned in <code>data/</code> with hashes, and <code>tools/fetch_data.py --verify</code> checks it. Code is MIT. Built with Arcturus (Claude Code builders, Codex review). Reviewed and verified by hand.</p>
+</div></section>
+</main>
+<footer class="wrap"><div class="wide small muted">examcheck · Yash Gupta · <a href="https://github.com/yashgix/examcheck">github.com/yashgix/examcheck</a></div></footer>
+</body>
+</html>

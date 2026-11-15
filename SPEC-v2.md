@@ -1,6 +1,6 @@
 # examcheck, v2 changes
 
-`SPEC.md` is the v1 contract and is not edited. This file lists what v2 adds. No v1 behaviour changes: every v1 acceptance test still passes unchanged.
+The v1 contract (not published here) is not edited. This file lists what v2 adds. No v1 behaviour changes: every v1 acceptance test still passes unchanged.
 
 ## Batch 1
 
