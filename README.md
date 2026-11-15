@@ -51,7 +51,62 @@ The experiment is deterministic and takes about a second. Two runs produce byte-
 The block below is rendered by `demo.py` from `results/metrics.json`; no result number is typed by hand into this README.
 
 <!-- results:start -->
-Run `python experiment.py --out results/metrics.json` and then `python demo.py --readme README.md --out README.md` to render this block.
+
+39 included orders (214,908 words, 6,144 sentences) gave 838 findings, 1.000 of them grounded in the order text.
+
+Baseline on 15 gold orders: micro precision 0.914, micro recall 0.771, micro F1 0.836; macro F1 0.788.
+
+### Gold set by category
+
+| Category | Gold orders citing it | Precision | Recall | F1 | Share of the 39 orders flagged |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Alert backlog | 5 | 1.000 | 0.200 | 0.333 | 0.205 |
+| Late SAR | 13 | 0.917 | 0.846 | 0.880 | 0.795 |
+| SAR not filed | 12 | 1.000 | 0.917 | 0.957 | 0.821 |
+| Unsupported disposition | 5 | 1.000 | 0.600 | 0.750 | 0.333 |
+| Monitoring gap | 14 | 1.000 | 0.643 | 0.783 | 0.590 |
+| CDD / EDD | 13 | 1.000 | 0.846 | 0.917 | 0.667 |
+| CTR filing | 4 | 0.800 | 1.000 | 0.889 | 0.359 |
+| Staffing | 9 | 0.778 | 0.778 | 0.778 | 0.667 |
+| Independent testing | 9 | 0.833 | 0.556 | 0.667 | 0.513 |
+| Governance | 12 | 0.857 | 1.000 | 0.923 | 0.872 |
+
+### Checks on the synthetic alert log
+
+| Check | Seeded | Detection | False flags | Naive detection | Naive false flags |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| `late_sar` | 300 | 1.000 | 0.000 | 1.000 | 0.023 |
+| `aged_alert` | 18000 | 1.000 | 0.000 | 0.556 | 0.000 |
+| `no_rationale` | 1000 | 1.000 | 0.000 | 0.500 | 0.000 |
+| `prior_filing_only` | 1000 | 1.000 | 0.000 | 1.000 | 0.006 |
+
+### Basis
+
+**`late_sar`**
+
+- 31 CFR 1020.320: "A bank is required to file a SAR no later than 30 calendar days after the date of initial detection by the bank of facts that may constitute a basis for filing a SAR."
+- 31 CFR 1020.320: "In no case shall reporting be delayed more than 60 calendar days after the date of initial detection of a reportable transaction."
+- Shinhan Bank America: "the Bank filed several hundred SARs an average of approximately 119 days late"
+- Beach Bank: "the Bank filed 75 initial suspicious activity reports, 67 of which were not timely filed."
+
+**`aged_alert`**
+
+- Gibraltar Private Bank and Trust Company: "Gibraltar failed to review and close or escalate nearly 60% of its monthly alerts in the 30 days prescribed by Gibraltar’s own BSA/AML policy."
+- Shinhan Bank America: "At one point, the Bank had a backlog of over 10,000 alert events (within more than 700 pre-cases) that had not been reviewed."
+- TD Bank, N.A. and TD Bank USA, N.A.: "In 2018, the AML program registered over 70,000 backlogged detection alerts and roughly 3,000 aged subpoena responses and further investigation cases, with less than 60% of alerts falling within benchmarks for timely detection."
+- Lone Star National Bank: "Lone Star had 4,888 outstanding alerts, 627 cases, and 213 internal referrals."
+
+**`no_rationale`**
+
+- Shinhan Bank America: "the Bank’s internal policies required analysts to consider and append documentation on any alerts raised by the TM system."
+- Korea Exchange Bank, New York, New York: "the Branch could not produce any analysis or documentation to support the U.S. Compliance Officer’s assertion that the cash activity appeared normal."
+- CommunityBank of Texas, N.A.: "did not provide sufficient support to justify the closure."
+
+**`prior_filing_only`**
+
+- Shinhan Bank America: "At times, the justification for clearing an alert, as opposed to escalating it, relied on whether the Bank previously filed a SAR or a currency transaction report, rather than on an analysis of the actual account activity and a determination of its reasonableness."
+- CommunityBank of Texas, N.A.: "BSA analysts cleared the activity by using the same pre-set reason code, namely: “A SAR was previously filed and is not due for review at this time.”"
+
 <!-- results:end -->
 
 ## Limits

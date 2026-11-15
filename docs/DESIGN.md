@@ -30,7 +30,7 @@ The baseline flags every sentence that matches any pattern in a category. A find
 
 All checks are deterministic and run in the fixed order `late_sar`, `aged_alert`, `no_rationale`, `prior_filing_only`.
 
-- `late_sar` encodes 31 CFR 1020.320(b)(3): 30 days from `detected` when the suspect is known, otherwise 60 days. It flags a late filing after the deadline, or an open alert still owed after the deadline unless the disposition is `no_sar`. The naive version measures from `opened`, ignores the no-suspect 60-day extension, and skips open alerts.
+- `late_sar` encodes 31 CFR 1020.320(b)(3): 30 days from `detected` when the suspect is known, otherwise 60 days. It flags a late filing after the deadline, or an open alert still owed after the deadline unless the disposition is `no_sar`. The naive version measures from `opened`, ignores the no-suspect 60-day extension, and skips `no_sar` closures. An open alert with `detected` set can still be flagged.
 - `aged_alert` is strict `((closed or as_of) - opened).days > policy_days`. The naive version looks only at still-open alerts.
 - `no_rationale` flags a closed alert whose rationale is blank after stripping or whose evidence is empty. The naive version checks only the blank rationale and ignores missing evidence.
 - `prior_filing_only` flags a `no_sar` closure whose reason codes are non-empty and all `prior_sar` or `prior_ctr`. This is the pattern in the Shinhan and CommunityBank of Texas orders. The naive version searches the free-text rationale for `previously filed` or `prior SAR/CTR`.
