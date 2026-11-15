@@ -1,0 +1,339 @@
+{
+ "labeller": "Claude (Opus 5.5), 14 Nov 2026, not yet spot-checked by Yash. The v2 change was proposed by an independent review and checked against the pinned text by Claude, 15 Nov 2026.",
+ "base": "gold.json (v1, frozen, unchanged)",
+ "method": "Each order's findings sections (statement of facts or determinations) were read in the pinned text. A category is positive when the order states that this institution had that failure, including deficiencies it reports examiners or auditors found. Statements of legal requirements, remedies the order imposes and generic descriptions of what a program must contain are not evidence. Each positive has at least one quote copied from the pinned text. The keyword patterns were frozen before labelling and never run before it was done. Review round 1 (14 Nov 2026): removed 17556 unsupported_disposition (SAR recordkeeping, not an alert disposition) and 17493 late_sar (no late SAR in the facts; sar_not_filed covers it).",
+ "changes": [
+  {
+   "order": "18845",
+   "category": "independent_testing",
+   "action": "add positive label",
+   "quote": "The OCC identified BSA/AML deficiencies with the Bank’s internal controls, independent audit, suspicious activity reporting, and foreign correspondent banking program",
+   "rule": "The v1 method counts a category as positive when the order says the institution had that failure, including deficiencies it reports examiners or auditors found. This sentence (data/orders/18845.txt, line 309) reports OCC-identified deficiencies with the Bank's independent audit."
+  }
+ ],
+ "orders": {
+  "19518": {
+   "alert_backlog": [
+    "At one point, the Bank had a backlog of over 10,000 alert events (within more than 700 pre-cases) that had not been reviewed."
+   ],
+   "late_sar": [
+    "FinCEN’s investigation revealed that the Bank filed several hundred SARs an average of approximately 119 days late during the Relevant Time Period"
+   ],
+   "sar_not_filed": [
+    "a sampling of SHBA customer transactions from 2018 through 2019 exposed 16 failures to file SARs on transactions that had no business or apparent lawful purpose"
+   ],
+   "unsupported_disposition": [
+    "At times, the justification for clearing an alert, as opposed to escalating it, relied on whether the Bank previously filed a SAR or a currency transaction report, rather than on an analysis of the actual account activity and a determination of its reasonableness.",
+    "analysts often lacked the time to process these alerts consistent with these policies, and so, at times, cleared these alerts without adhering to these policies."
+   ],
+   "monitoring_gap": [
+    "for years, the TM system lacked basic predetermined scenarios needed to flag abnormal activity"
+   ],
+   "cdd_edd": [
+    "SHBA consistently failed to implement a CRR methodology that was comprehensive and risk-based."
+   ],
+   "staffing": [
+    "SHBA’s chronic understaffing meant that its suspicious activity alerts were at times not handled timely in accordance with the BSA and the Bank’s own internal policies."
+   ],
+   "independent_testing": [
+    "to address deficiencies in the Bank’s BSA/AML compliance program and its internal audit function"
+   ],
+   "governance": [
+    "the Board did not adequately oversee remediation of the AML program consistent with the terms of the 2017 Consent Order."
+   ]
+  },
+  "17509": {
+   "late_sar": [
+    "As a result, SRVB failed to timely file approximately 190 SARs"
+   ],
+   "sar_not_filed": [
+    "SRVB violated Bank Secrecy Act suspicious activity reporting requirements by failing to detect and report suspicious activity and by filing late SARs."
+   ],
+   "monitoring_gap": [
+    "SRVB did not use an adequate automated transaction monitoring system to monitor the CDC wires."
+   ],
+   "cdd_edd": [
+    "failing to identify its Mexican and Dominican Republic CDC accounts as foreign correspondent accounts and collect or maintain adequate due diligence information."
+   ],
+   "staffing": [
+    "SRVB did not ensure appropriate compliance staffing and training"
+   ],
+   "independent_testing": [
+    "SRVB was deficient in all four pillars."
+   ],
+   "governance": [
+    "exercised inadequate oversight for compliance responsibilities."
+   ]
+  },
+  "17519": {
+   "alert_backlog": [
+    "The Bank’s processes for reviewing potential suspicious activity detected by monitoring systems frequently experienced long delays."
+   ],
+   "late_sar": [
+    "by filing delinquent suspicious activity reports, and incomplete reports.",
+    "Many of those reports were filed late"
+   ],
+   "monitoring_gap": [
+    "The Bank did not effectively implement transaction monitoring systems necessary to adequately detect and report suspicious activity."
+   ],
+   "cdd_edd": [
+    "Pacific lacked reasonably complete due diligence information on customers"
+   ],
+   "independent_testing": [
+    "The Bank failed to implement sufficient independent testing to allow for timely identification and correction of Bank Secrecy Act compliance failures."
+   ]
+  },
+  "18752": {
+   "late_sar": [
+    "In 2013, Bethex late-filed 28 SARs as a result of a look back."
+   ],
+   "sar_not_filed": [
+    "(b) detect and adequately report suspicious transactions"
+   ],
+   "monitoring_gap": [
+    "Bethex failed to implement an effective suspicious activity monitoring system relative to the scale and scope of the currency and electronic funds transmission activity conducted on behalf of its MSBs."
+   ],
+   "cdd_edd": [
+    "Bethex did not perform the due diligence necessary on its MSBs to determine the money laundering risks or their expected volume and pattern of activity."
+   ],
+   "staffing": [
+    "Bethex failed to maintain sufficient staff necessary to monitor the significant amount of wholesale MSB transactions."
+   ],
+   "independent_testing": [
+    "Bethex continued to have internal control and independent testing deficiencies."
+   ],
+   "governance": [
+    "Bethex failed to designate a person who was technically competent to oversee ongoing compliance efforts"
+   ]
+  },
+  "17535": {
+   "late_sar": [
+    "the Bank filed 75 initial suspicious activity reports, 67 of which were not timely filed."
+   ],
+   "monitoring_gap": [
+    "The Bank did not have adequate procedures and controls to monitor funds transfers for suspicious activity."
+   ],
+   "cdd_edd": [
+    "the file documentation did not reflect the source of funds or support the level of activity in the account."
+   ],
+   "governance": [
+    "management's failure to take appropriate action when it knew, or had reason to suspect, unusual or suspicious activity was taking place."
+   ]
+  },
+  "17557": {
+   "ctr": [
+    "Sovereign failed to file timely approximately 2000 Currency Transaction Report (“CTR”) forms"
+   ]
+  },
+  "17552": {
+   "late_sar": [
+    "The Bank late-filed 26 SARs as a result of that investigation."
+   ],
+   "sar_not_filed": [
+    "the Branch failed to file SARs for suspicious transactions by at least four (4) non-customers and two (2) customers"
+   ],
+   "unsupported_disposition": [
+    "the FDIC noted that the Branch could not produce any analysis or documentation to support the U.S. Compliance Officer’s assertion that the cash activity appeared normal."
+   ],
+   "monitoring_gap": [
+    "some of the parameters set out in the policies and procedures were inadequate to detect several major categories of suspicious activity."
+   ],
+   "cdd_edd": [
+    "The Branch’s process for documenting client profiles and investigating suspicious activity was inadequate."
+   ],
+   "governance": [
+    "Branch management had actual knowledge of the recordkeeping requirements for non-customer beneficiaries of wire transfers and that the Branch’s procedures were ineffective in gathering the required information, but failed to change Branch procedure for almost an entire year."
+   ]
+  },
+  "17556": {
+   "late_sar": [
+    "Great Eastern failed to file a timely SAR for a customer that had millions of dollars of incoming and outgoing wires transfers"
+   ],
+   "sar_not_filed": [
+    "Great Eastern failed to file SARs on transactions for at least six customers"
+   ],
+   "monitoring_gap": [
+    "the FDIC found that Great Eastern’s suspicious transaction monitoring procedures had been only partially implemented."
+   ]
+  },
+  "17493": {
+   "sar_not_filed": [
+    "Mingo failed to file SARs concerning a high volume of cash transactions that had no apparent lawful purpose"
+   ],
+   "monitoring_gap": [
+    "Although Mingo used a software system to monitor its accounts for unusual activity going through the bank; it did not use it to detect and report suspicious activity."
+   ],
+   "cdd_edd": [
+    "Mingo did not properly risk rate its high-risk customers and their respective accounts"
+   ],
+   "ctr": [
+    "From 2007 to 2013, Mingo failed to file 619 CTRs"
+   ],
+   "staffing": [
+    "Mingo was aware of this situation but failed to designate an additional person to support the BSA Officer or otherwise remedy the situation."
+   ],
+   "independent_testing": [
+    "Mingo’s annual independent testing was inadequate."
+   ],
+   "governance": [
+    "it did not provide the BSA Officer with sufficient resources and time to adequately oversee Mingo’s BSA compliance program."
+   ]
+  },
+  "18845": {
+   "alert_backlog": [
+    "During the period from January 2014 through November 2014, Lone Star had 4,888 outstanding alerts, 627 cases, and 213 internal referrals."
+   ],
+   "late_sar": [
+    "In summary, Lone Star failed to timely file a total of 173 SARs"
+   ],
+   "sar_not_filed": [
+    "and as a result failed to file 173 SARs."
+   ],
+   "monitoring_gap": [
+    "Lone Star’s failure to implement an adequate monitoring system prevented the Bank from noticing and fully reviewing this suspicious pattern in its wire transfer activity."
+   ],
+   "cdd_edd": [
+    "Lone Star consistently failed to collect and analyze information necessary to assess each customer’s risk and to develop and implement specific customer risk profiles."
+   ],
+   "staffing": [
+    "Without sufficient internal controls or experienced BSA staff"
+   ],
+   "independent_testing": [
+    "The OCC identified BSA/AML deficiencies with the Bank’s internal controls, independent audit, suspicious activity reporting, and foreign correspondent banking program"
+   ],
+   "governance": [
+    "Lone Star’s management failed to identify the missing information."
+   ]
+  },
+  "17488": {
+   "alert_backlog": [
+    "Gibraltar failed to review and close or escalate nearly 60% of its monthly alerts in the 30 days prescribed by Gibraltar’s own BSA/AML policy."
+   ],
+   "late_sar": [
+    "Gibraltar also filed late SARs on entities and customers unrelated to Rothstein."
+   ],
+   "sar_not_filed": [
+    "(c) detect and adequately report suspicious transactions."
+   ],
+   "unsupported_disposition": [
+    "When Gibraltar did review alerts, there were numerous instances when Gibraltar closed alerts that should have been escalated."
+   ],
+   "monitoring_gap": [
+    "The problems associated with the system were due to Gibraltar’s failure to adequately tailor the parameters and thresholds of the alerts generated by the system to match the high-risk activities it sought to identify and control."
+   ],
+   "cdd_edd": [
+    "Gibraltar’s customer due diligence was insufficient to develop accurate risk profiles and to effectively understand its customers’ business and predicted activity."
+   ],
+   "independent_testing": [
+    "prior to 2013, Gibraltar did not validate or independently test the system’s parameters and thresholds"
+   ],
+   "governance": [
+    "the former BSA Officer should have escalated the investigation and filed a SAR."
+   ]
+  },
+  "17502": {
+   "late_sar": [
+    "The SARs were filed late and the narrative sections lacked essential information"
+   ],
+   "sar_not_filed": [
+    "North Dade failed to file SARs on customers engaged in suspicious activity"
+   ],
+   "monitoring_gap": [
+    "North Dade failed to have an effective suspicious activity monitoring system for its customers"
+   ],
+   "cdd_edd": [
+    "North Dade did not verify the customer identification information on the MSBs that the Vendor provided to North Dade."
+   ],
+   "ctr": [
+    "failing to file timely suspicious activity and currency transaction reports"
+   ],
+   "staffing": [
+    "North Dade’s five-person staff did not have sufficient resources or technical expertise to administer a program capable of ensuring compliance with the BSA."
+   ],
+   "independent_testing": [
+    "North Dade did not have its anti-money laundering program tested on a regular basis until NCUA cited this shortfall"
+   ],
+   "governance": [
+    "North Dade failed to designate a person responsible to oversee BSA compliance"
+   ]
+  },
+  "18776": {
+   "late_sar": [
+    "Merchants failed to file or file timely on hundreds of millions of dollars of suspicious activity"
+   ],
+   "sar_not_filed": [
+    "Merchants also failed to file a SAR on another MSB customer engaging in suspicious activity."
+   ],
+   "unsupported_disposition": [
+    "Merchants determined that its activities were not suspicious and failed to timely file a SAR."
+   ],
+   "monitoring_gap": [
+    "the Bank failed to establish appropriate alert parameters on the accounts."
+   ],
+   "cdd_edd": [
+    "Merchants failed to adopt and implement adequate policies and procedures to conduct required due diligence for its large portfolio of high-risk MSB customers."
+   ],
+   "staffing": [
+    "Merchants’s leadership had not ensured that the BSA Officer had sufficient authority and resources to administer an effective BSA compliance program"
+   ],
+   "independent_testing": [
+    "Until 2015, Merchants failed to conduct an independent audit that was commensurate with the Bank’s customer complexity and risk profile."
+   ],
+   "governance": [
+    "Merchants failed to provide the necessary level of authority, independence and responsibility to its BSA Officer to ensure day-to-day compliance with the BSA as required."
+   ]
+  },
+  "18872": {
+   "alert_backlog": [
+    "Moreover, U.S. Bank failed to review a significant number of the alerts its system generated."
+   ],
+   "late_sar": [
+    "U.S. Bank late filed a total of 2,121 SARs reporting more than $700 million in suspicious activity."
+   ],
+   "sar_not_filed": [
+    "These willfully deficient monitoring practices caused the Bank to fail to file over 2,000 SARs on transactions worth hundreds of millions of dollars."
+   ],
+   "monitoring_gap": [
+    "the Bank capped the number of alerts its automated transaction monitoring system would generate for investigation."
+   ],
+   "cdd_edd": [
+    "U.S. Bank also had inadequate processes and procedures to identify and address high-risk customers."
+   ],
+   "ctr": [
+    "U.S. Bank filed approximately 5,000 CTRs with incomplete and inaccurate information."
+   ],
+   "staffing": [
+    "U.S. Bank had inadequate staffing levels to manage alerts for suspicious activity and handle law enforcement inquiries."
+   ],
+   "independent_testing": [
+    "U.S. Bank also failed to provide for independent validation of its automated transaction monitoring system."
+   ],
+   "governance": [
+    "U.S. Bank had AML leadership that failed to actively support compliance efforts"
+   ]
+  },
+  "19328": {
+   "late_sar": [
+    "the Bank failed to timely and accurately file SARs on most of this activity."
+   ],
+   "sar_not_filed": [
+    "the Bank willfully failed to file at least 17 SARs on suspicious transactions processed by, at, or through the Bank"
+   ],
+   "unsupported_disposition": [
+    "Bank analysts often cited those reasons to close case alerts without further analyzing the activity that triggered the alert"
+   ],
+   "monitoring_gap": [
+    "the Bank’s adjustments eliminated approximately 1,000 case alerts that would have been generated and reviewed for customers whose activity was thought to be well-known"
+   ],
+   "cdd_edd": [
+    "CDD questionnaires were often not updated when circumstances warranted and therefore at times lacked critical information."
+   ],
+   "staffing": [
+    "CBOT’s AML compliance office was understaffed."
+   ],
+   "governance": [
+    "The Bank’s BSA Officer undertook, without sufficient justification of AML risk considerations, steps to reduce the number of case alerts reviewed by the Bank’s AML analysts."
+   ]
+  }
+ }
+}

@@ -1,0 +1,8 @@
+{
+ "evidence_recall": 0.546392,
+ "gold_positives": 97,
+ "macro_f1": 0.795887,
+ "micro_f1": 0.842697,
+ "micro_precision": 0.925926,
+ "micro_recall": 0.773196
+}

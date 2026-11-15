@@ -8,9 +8,9 @@ from .corpus import normalize
 from .taxonomy import CATEGORIES
 
 
-def load_gold(data_dir=DATA_DIR):
-    """Return the orders object of gold.json."""
-    path = Path(data_dir) / "gold.json"
+def load_gold(data_dir=DATA_DIR, name="gold.json"):
+    """Return the orders object of a gold file."""
+    path = Path(data_dir) / name
     return json.loads(path.read_text(encoding="utf-8"))["orders"]
 
 

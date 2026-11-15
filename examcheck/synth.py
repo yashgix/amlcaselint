@@ -8,7 +8,7 @@ exercise each check's boundary. Rates measured on a generated log describe the c
 from dataclasses import dataclass
 from datetime import date, timedelta
 
-from .cases import Alert
+from .cases import MAX_LINES, Alert
 from .checks import CHECKS
 
 
@@ -82,8 +82,20 @@ R_PRIOR_AND_REVIEW = (
 R_SAR = "Unusual activity confirmed after review; escalated for a SAR."
 
 
+def _validate(p):
+    if p.policy_days < 1:
+        raise ValueError("policy_days must be at least 1")
+    for name in ("open_backlog", "sars", "late_sars", "mean_days_late", "closed_no_sar", "near_misses"):
+        if getattr(p, name) < 0:
+            raise ValueError(f"{name} must not be negative")
+    for name in ("aged_share", "no_rationale_share", "prior_filing_share"):
+        if not 0 <= getattr(p, name) <= 1:
+            raise ValueError(f"{name} must be between 0 and 1")
+
+
 def kind_counts(p):
-    """Return the number of alerts of each kind, in KINDS order."""
+    """Return the number of alerts of each kind, in KINDS order. Raises ValueError for bad parameters."""
+    _validate(p)
     counts = {
         "closed_aged": round(p.closed_no_sar * p.aged_share),
         "closed_no_rationale": round(p.closed_no_sar * p.no_rationale_share),
@@ -95,6 +107,10 @@ def kind_counts(p):
     for kind in NEAR_MISSES:
         counts[kind] = p.near_misses
     counts["sar_on_time"] = p.sars - p.late_sars - 3 * p.near_misses
+    if min(counts.values()) < 0:
+        raise ValueError(f"inconsistent parameters give a negative count: {counts}")
+    if sum(counts.values()) > MAX_LINES:
+        raise ValueError(f"a suite holds at most {MAX_LINES} alerts")
     return {kind: counts[kind] for kind in KINDS}
 
 

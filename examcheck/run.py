@@ -44,9 +44,9 @@ def _corpus(data_dir, orders, findings):
     }
 
 
-def _gold(data_dir, orders, findings):
+def _gold(data_dir, orders, findings, gold_file="gold.json"):
     """Baseline scores and quote grounding against the hand-labelled gold set."""
-    gold = load_gold(data_dir)
+    gold = load_gold(data_dir, gold_file)
     texts = {order.id: order.text for order in orders}
     gold_findings = [finding for finding in findings if finding.order_id in gold]
     predicted = flagged(gold_findings)
@@ -151,6 +151,24 @@ def metrics(data_dir=DATA_DIR):
     result.update(_basis(orders, data_dir))
     result.update(_checks())
     return result
+
+
+GOLD_V2_KEYS = (
+    "gold_positives",
+    "micro_precision",
+    "micro_recall",
+    "micro_f1",
+    "macro_f1",
+    "evidence_recall",
+)
+
+
+def gold_v2_metrics(data_dir=DATA_DIR):
+    """Baseline scores against data/gold-v2.json, beside the frozen v1 scores."""
+    orders = load_orders(data_dir)
+    findings = [finding for order in orders for finding in extract(order)]
+    scores = _gold(data_dir, orders, findings, "gold-v2.json")
+    return {key: scores[key] for key in GOLD_V2_KEYS}
 
 
 def main(data_dir=DATA_DIR, out="results/metrics.json"):

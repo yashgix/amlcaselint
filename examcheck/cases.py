@@ -1,6 +1,7 @@
 """Alert-case log records: fields, JSON round-trip and JSON-lines file I/O."""
 
 import json
+import re
 from collections.abc import Iterable
 from dataclasses import dataclass, fields
 from datetime import date
@@ -33,8 +34,9 @@ class Alert:
     kind: str = ""
 
 
-_DATE_FIELDS = frozenset({"opened", "detected", "closed", "sar_filed"})
-_TUPLE_FIELDS = frozenset({"evidence", "reasons"})
+MAX_LINES = 200_000
+MAX_LINE_CHARS = 100_000
+_ISO_DATE = re.compile(r"\d{4}-\d{2}-\d{2}")
 
 
 def to_json(alert: Alert) -> dict:
@@ -50,29 +52,72 @@ def to_json(alert: Alert) -> dict:
     return row
 
 
+def _date(row, name):
+    value = row.get(name)
+    if value is None and name != "opened":
+        return None
+    if not isinstance(value, str) or not _ISO_DATE.fullmatch(value):
+        raise ValueError(f"{name} must be a YYYY-MM-DD date, got {value!r}")
+    return date.fromisoformat(value)
+
+
+def _strings(row, name):
+    value = row.get(name, [])
+    if not isinstance(value, list | tuple) or not all(isinstance(item, str) for item in value):
+        raise ValueError(f"{name} must be a list of strings")
+    return tuple(value)
+
+
+def _typed(row, name, kind, default):
+    value = row.get(name, default)
+    if not isinstance(value, kind):
+        raise ValueError(f"{name} must be {kind.__name__}, got {value!r}")
+    return value
+
+
 def from_json(row: dict) -> Alert:
-    """Rebuild an alert written by to_json; unknown keys are ignored."""
-    kwargs = {}
-    for field in fields(Alert):
-        if field.name not in row:
-            continue
-        value = row[field.name]
-        if field.name in _DATE_FIELDS:
-            value = date.fromisoformat(value) if value is not None else None
-        elif field.name in _TUPLE_FIELDS:
-            value = tuple(value)
-        kwargs[field.name] = value
-    return Alert(**kwargs)
+    """Rebuild an alert written by to_json, rejecting bad types with ValueError. Unknown keys are ignored."""
+    if not isinstance(row, dict):
+        raise ValueError("an alert must be a JSON object")
+    if "alert_id" not in row or "opened" not in row:
+        raise ValueError("an alert needs alert_id and opened")
+    disposition = row.get("disposition")
+    if disposition is not None and not isinstance(disposition, str):
+        raise ValueError("disposition must be a string or null")
+    return Alert(
+        alert_id=_typed(row, "alert_id", str, ""),
+        opened=_date(row, "opened"),
+        detected=_date(row, "detected"),
+        closed=_date(row, "closed"),
+        disposition=disposition,
+        sar_filed=_date(row, "sar_filed"),
+        suspect_known=_typed(row, "suspect_known", bool, True),
+        rationale=_typed(row, "rationale", str, ""),
+        evidence=_strings(row, "evidence"),
+        reasons=_strings(row, "reasons"),
+        kind=_typed(row, "kind", str, ""),
+    )
 
 
 def write_log(path: str | Path, alerts: Iterable[Alert]) -> None:
     """Write one JSON object per line, each line newline-terminated."""
+    alerts = list(alerts)
+    if len(alerts) > MAX_LINES:
+        raise ValueError(f"a log holds at most {MAX_LINES} alerts")
     with Path(path).open("w", encoding="utf-8") as handle:
-        for alert in alerts:
-            handle.write(json.dumps(to_json(alert)) + "\n")
+        handle.writelines(json.dumps(to_json(alert)) + "\n" for alert in alerts)
 
 
 def read_log(path: str | Path) -> list[Alert]:
     """Read the alerts from a JSON-lines log, skipping blank lines."""
+    alerts = []
     with Path(path).open(encoding="utf-8") as handle:
-        return [from_json(json.loads(line)) for line in handle if line.strip()]
+        for line in handle:
+            if not line.strip():
+                continue
+            if len(alerts) == MAX_LINES:
+                raise ValueError(f"a log holds at most {MAX_LINES} alerts")
+            if len(line.rstrip("\n")) > MAX_LINE_CHARS:
+                raise ValueError(f"a log line holds at most {MAX_LINE_CHARS} characters")
+            alerts.append(from_json(json.loads(line)))
+    return alerts

@@ -13,6 +13,7 @@ from .corpus import load_orders
 from .extract import extract
 from .failures import failures
 from .review import review
+from .run import gold_v2_metrics
 from .synth import make_suite
 
 
@@ -30,6 +31,13 @@ def _failures(args):
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(failures(args.data), indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    return 0
+
+
+def _gold_v2(args):
+    out = Path(args.out)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(gold_v2_metrics(args.data), sort_keys=True, indent=1) + "\n", encoding="utf-8")
     return 0
 
 
@@ -73,6 +81,11 @@ def build_parser():
     failed.add_argument("--out", required=True, help="output JSON path")
     failed.add_argument("--data", default=DATA_DIR, help="corpus directory")
     failed.set_defaults(func=_failures)
+
+    gold_v2 = sub.add_parser("gold-v2", help="write the baseline scores against data/gold-v2.json")
+    gold_v2.add_argument("--out", required=True, help="output JSON path")
+    gold_v2.add_argument("--data", default=DATA_DIR, help="corpus directory")
+    gold_v2.set_defaults(func=_gold_v2)
 
     synth = sub.add_parser("synth", help="write the synthetic alert log")
     synth.add_argument("--out", required=True, help="output JSON-lines path")

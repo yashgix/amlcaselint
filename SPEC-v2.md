@@ -30,3 +30,9 @@ Why: a missing input used to read as "clean". `late_sar` returns False when `det
 
 ### Baseline failure analysis
 `python -m examcheck failures --out results/failures.json` lists, for each category and each gold order, the baseline's misses (a gold quote with no flagged finding in that order) and false hits (a flagged sentence in an order the gold set does not label with that category). `demo.py --failures` renders `docs/FAILURES.md` from that file.
+
+## Correction round (after an independent review)
+- `from_json` and `read_log` validate input and raise `ValueError` as SPEC.md does: a row that is not an object, a missing `alert_id` or `opened`, dates not in `YYYY-MM-DD`, null or non-string `rationale`, `kind` or `alert_id`, a non-boolean `suspect_known`, and `evidence` or `reasons` that are not lists of strings (a bare string is rejected). Optional dates may be null. More than 200,000 lines or a line over 100,000 characters is rejected, as is writing more than 200,000 alerts.
+- `Params` is validated: `policy_days >= 1`, no negative count, shares between 0 and 1, no negative derived kind count, at most 200,000 alerts in total. All raise `ValueError`.
+- `data/gold-v2.json` adds one label to the frozen v1 gold set: Lone Star (18845) `independent_testing`, from the sentence on the OCC-identified "independent audit" deficiencies. `python -m examcheck gold-v2` writes its scores to `results/gold-v2.json`, and the README shows them beside v1. v1 remains the headline. The new file is not in `data/MANIFEST.json`.
+- `--cannot-assess` covers only the two cases listed in Batch 1. Alerts with no `detected` date and no SAR are not listed.

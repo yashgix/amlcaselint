@@ -21,7 +21,8 @@ FinCEN orders are US government works. FinCEN's site policy, quoted in `data/LIC
 - `data/orders.json`: the 50 actions FinCEN tags Depository Institutions, fetched 14 Nov 2026, in site order. Each entry has the id, date, title, number, PDF URL, PDF hash and size, page count, status and text path. `status` is `included` (39), `no_text_layer` (8 scanned PDFs with no text) or `individual` (3 actions against people, not institutions).
 - `data/orders/<id>.txt`: unedited pdftotext output. Older orders are OCR'd scans and may have character errors; quotes are matched against the text exactly as it is pinned.
 - `data/regulation/31-cfr-1020.320.xml`: the eCFR XML of 31 CFR 1020.320, fetched 14 Nov 2026.
-- `data/gold.json`: labels for 15 orders. The labeller is noted in the file as Claude (Anthropic model, Opus 5.5), seed agent, 14 Nov 2026, from the pinned text. The README and `data/gold.json` state that Yash Gupta has not yet spot-checked the labels. A category absent from an order is a negative label. The baseline patterns were frozen before labelling; see `data/gold.json` for the full method.
+- `data/gold.json`: labels for 15 orders (v1, frozen). The labeller is Claude (Opus 5.5), 14 Nov 2026, working from the pinned text, and Yash Gupta has not yet spot-checked the labels. A category absent from an order is a negative label. The baseline patterns were frozen before labelling. The full method is in the file.
+- `data/gold-v2.json`: the same labels plus one, Lone Star (18845) `independent_testing`, which an independent review found missing under the same method. Its `changes` list gives the passage and the rule. It is not in `MANIFEST.json`, which lists the pinned v1 files. Results show both scores, with v1 as the headline.
 - `examcheck.DATA_DIR` points at the repository `data/` directory.
 
 ## Synthetic alert log
@@ -33,7 +34,7 @@ No real AML alert data is public. The alert log produced by `examcheck/synth.py`
 All commands use Python 3.14 with the standard library unless stated.
 
 ```bash
-python -m unittest
+make test
 python experiment.py --out results/metrics.json
 python demo.py
 python demo.py --readme README.md --out PATH
@@ -57,7 +58,11 @@ The block below is rendered by `demo.py` from `results/metrics.json`; no result 
 
 39 included orders (214,908 words, 6,144 sentences) gave 838 findings, 1.000 of them grounded in the order text.
 
-Baseline on 15 gold orders: micro precision 0.914, micro recall 0.771, micro F1 0.836; macro F1 0.788.
+Document-level baseline scores on 15 gold orders (an order counts as a hit when any flagged sentence has the category): micro precision 0.914, micro recall 0.771, micro F1 0.836; macro F1 0.788.
+
+Evidence recall is stricter: a gold quote is covered only when a flagged sentence overlaps it. 52 of 96 gold positives are covered (0.542). Quotes being found in the order text shows the sentence exists, not that it means what the label says.
+
+Against `data/gold-v2.json`, which adds one label (see its `changes` list, not yet spot-checked by Yash), micro precision 0.926, micro recall 0.773, micro F1 0.843, macro F1 0.796. The v1 scores above stay the headline.
 
 ### Gold set by category
 
@@ -125,7 +130,7 @@ Detection 1.000 and false flags 0.000 are true by construction: the generator se
 - OCR errors in older orders are part of the pinned text and may affect matching.
 - The cited numbers are raw text matches, including possible projections in flagged sentences.
 - The synthetic log has one violation per alert and fixed near-miss counts, so its rates test the rules, not a bank.
-- `detected` is taken as given; real banks date detection by their own policy. Alerts with no `detected` date or no reason codes are listed by `--cannot-assess` instead of reading as clean (see `SPEC-v2.md`).
+- `detected` is taken as given; real banks date detection by their own policy. `--cannot-assess` lists alerts that have a SAR filed or decided but no `detected` date, and no-SAR closures with no reason codes. Alerts with no `detected` date and no SAR (for example open backlog alerts) are not listed, since no SAR deadline applies to them (see `SPEC-v2.md`).
 - `aged_alert` uses a bank-policy limit (default 30 days from one bank's own policy), not a legal deadline.
 
 ## Out of scope for this milestone
