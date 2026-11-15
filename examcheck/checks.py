@@ -7,7 +7,8 @@ from .cases import Alert
 from .corpus import REGULATION
 
 CHECKS = ("late_sar", "aged_alert", "no_rationale", "prior_filing_only")
-POLICY_DAYS = 30
+SAR_FILING_DAYS = 30  # 31 CFR 1020.320(b)(3), a legal deadline
+POLICY_DAYS = 30  # default bank-policy review limit (Gibraltar's own policy in the cited order), not a rule
 
 _PRIOR_FILING = re.compile(r"previously filed|prior (?:SAR|CTR)", re.IGNORECASE)
 _DATED_CHECKS = frozenset({"late_sar", "aged_alert"})
@@ -15,7 +16,7 @@ _DATED_CHECKS = frozenset({"late_sar", "aged_alert"})
 
 def sar_deadline(alert: Alert):
     """The last day a SAR may be filed under 31 CFR 1020.320(b)(3)."""
-    days = POLICY_DAYS if alert.suspect_known else 2 * POLICY_DAYS
+    days = SAR_FILING_DAYS if alert.suspect_known else 2 * SAR_FILING_DAYS
     return alert.detected + timedelta(days=days)
 
 
@@ -49,12 +50,30 @@ def prior_filing_only(alert: Alert) -> bool:
     )
 
 
+def late_sar_unassessable(alert: Alert) -> bool:
+    """A SAR was filed or is owed but there is no detection date to start the deadline from."""
+    return alert.detected is None and (alert.sar_filed is not None or alert.disposition == "sar")
+
+
+def prior_filing_unassessable(alert: Alert) -> bool:
+    """A no-SAR closure with no reason codes, so what it relied on cannot be told."""
+    return alert.closed is not None and alert.disposition == "no_sar" and not alert.reasons
+
+
+def cannot_assess(alerts) -> dict:
+    """Alert ids a check had to skip for missing input, keyed by check in CHECKS order."""
+    rules = {"late_sar": late_sar_unassessable, "prior_filing_only": prior_filing_unassessable}
+    return {
+        check: [a.alert_id for a in alerts if rules[check](a)] if check in rules else [] for check in CHECKS
+    }
+
+
 def late_sar_naive(alert: Alert, as_of) -> bool:
     """A plausible but wrong version: dates from opened, no 60-day rule."""
     if alert.detected is None or alert.disposition == "no_sar":
         return False
     end = alert.sar_filed or as_of
-    return (end - alert.opened).days > POLICY_DAYS
+    return (end - alert.opened).days > SAR_FILING_DAYS
 
 
 def aged_alert_naive(alert: Alert, as_of, policy_days: int = POLICY_DAYS) -> bool:

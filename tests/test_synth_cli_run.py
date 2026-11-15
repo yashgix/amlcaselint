@@ -98,6 +98,14 @@ class CliTests(unittest.TestCase):
             result = json.loads(out.getvalue())
             self.assertEqual(list(result), list(CHECKS))
 
+            out_flag = io.StringIO()
+            with redirect_stdout(out_flag):
+                self.assertEqual(cli_main(["check", str(log), "--as-of", "2021-03-29", "--cannot-assess"]), 0)
+            flagged = json.loads(out_flag.getvalue())
+            self.assertEqual(list(flagged), [*CHECKS, "cannot_assess"])
+            self.assertEqual({k: v for k, v in flagged.items() if k != "cannot_assess"}, result)
+            self.assertEqual(flagged["cannot_assess"], {check: [] for check in CHECKS})
+
             out_naive = io.StringIO()
             with redirect_stdout(out_naive):
                 self.assertEqual(

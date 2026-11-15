@@ -42,6 +42,7 @@ python -m examcheck findings --order 19518
 python -m examcheck synth --out results/synthetic.json
 python -m examcheck check results/synthetic.json --as-of 2021-03-29
 python -m examcheck check results/synthetic.json --as-of 2021-03-29 --naive
+python -m examcheck check results/synthetic.json --as-of 2021-03-29 --cannot-assess
 ```
 
 The experiment is deterministic and takes about a second. Two runs produce byte-identical metrics.
@@ -117,7 +118,8 @@ Baseline on 15 gold orders: micro precision 0.914, micro recall 0.771, micro F1 
 - OCR errors in older orders are part of the pinned text and may affect matching.
 - The cited numbers are raw text matches, including possible projections in flagged sentences.
 - The synthetic log has one violation per alert and fixed near-miss counts, so its rates test the rules, not a bank.
-- `detected` is taken as given; real banks date detection by their own policy.
+- `detected` is taken as given; real banks date detection by their own policy. Alerts with no `detected` date or no reason codes are listed by `--cannot-assess` instead of reading as clean (see `SPEC-v2.md`).
+- `aged_alert` uses a bank-policy limit (default 30 days from one bank's own policy), not a legal deadline.
 
 ## Out of scope for this milestone
 

@@ -8,7 +8,7 @@ from pathlib import Path
 
 from . import DATA_DIR
 from .cases import read_log, write_log
-from .checks import run_checks
+from .checks import cannot_assess, run_checks
 from .corpus import load_orders
 from .extract import extract
 from .synth import make_suite
@@ -34,7 +34,10 @@ def _synth(args):
 
 
 def _check(args):
-    result = run_checks(read_log(args.log), args.as_of, naive=args.naive)
+    alerts = read_log(args.log)
+    result = run_checks(alerts, args.as_of, naive=args.naive)
+    if args.cannot_assess:
+        result["cannot_assess"] = cannot_assess(alerts)
     print(json.dumps(result, indent=1))
     return 0
 
@@ -57,6 +60,9 @@ def build_parser():
     check.add_argument("log", help="JSON-lines alert log")
     check.add_argument("--as-of", type=date.fromisoformat, required=True, help="YYYY-MM-DD")
     check.add_argument("--naive", action="store_true", help="use the naive check versions")
+    check.add_argument(
+        "--cannot-assess", action="store_true", help="also list alerts skipped for missing input"
+    )
     check.set_defaults(func=_check)
 
     return parser

@@ -7,8 +7,10 @@ from examcheck.checks import (
     BASIS,
     CHECKS,
     POLICY_DAYS,
+    SAR_FILING_DAYS,
     aged_alert,
     aged_alert_naive,
+    cannot_assess,
     late_sar,
     late_sar_naive,
     no_rationale,
@@ -259,6 +261,37 @@ class CheckTests(unittest.TestCase):
         naive = run_checks(alerts, as_of, naive=True)
         self.assertEqual(list(naive), list(CHECKS))
         self.assertEqual(naive["aged_alert"], [])
+
+
+class CannotAssessTests(unittest.TestCase):
+    def test_constants_are_separate_names(self):
+        self.assertEqual((SAR_FILING_DAYS, POLICY_DAYS), (30, 30))
+        self.assertEqual(
+            sar_deadline(Alert("a", date(2024, 1, 1), detected=date(2024, 1, 1))), date(2024, 1, 31)
+        )
+
+    def test_policy_days_does_not_move_the_sar_deadline(self):
+        alert = Alert("a", date(2024, 1, 1), closed=date(2024, 3, 1), disposition="no_sar")
+        self.assertFalse(aged_alert(alert, date(2024, 6, 1), policy_days=90))
+
+    def test_sar_without_detection_date(self):
+        filed = Alert("a", date(2024, 1, 1), disposition="sar", sar_filed=date(2024, 3, 1))
+        owed = Alert("b", date(2024, 1, 1), disposition="sar")
+        open_ = Alert("c", date(2024, 1, 1))
+        dated = Alert("d", date(2024, 1, 1), detected=date(2024, 1, 2), disposition="sar")
+        result = cannot_assess([filed, owed, open_, dated])
+        self.assertEqual(result["late_sar"], ["a", "b"])
+        self.assertFalse(late_sar(filed, date(2024, 6, 1)))
+
+    def test_closure_without_reason_codes(self):
+        base = dict(opened=date(2024, 1, 1), closed=date(2024, 1, 2), disposition="no_sar")
+        coded = Alert("a", reasons=("prior_sar",), **base)
+        bare = Alert("b", **base)
+        sar = Alert("c", **{**base, "disposition": "sar"})
+        self.assertEqual(cannot_assess([coded, bare, sar])["prior_filing_only"], ["b"])
+
+    def test_keys_in_check_order(self):
+        self.assertEqual(list(cannot_assess([])), list(CHECKS))
 
 
 class BasisTests(unittest.TestCase):
