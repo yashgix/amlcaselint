@@ -48,3 +48,7 @@ Every alert has a generated id in order. The default suite's seeded truth is exa
 ## Trade-offs
 
 The corpus is real but small, and the gold set is one labeller's work, not yet spot-checked. Keyword patterns are intentionally simple and auditable, not a learned extractor; they over-trigger on legal boilerplate and miss paraphrases. The case log is a test fixture, not evidence about any real bank. A later milestone can add a model extractor scored against the same gold set; here that is out of scope.
+
+## Baseline failure reading
+
+`docs/FAILURES.md` is generated. Reading it: the alert-backlog misses are paraphrases such as "outstanding alerts", "failed to review ... alerts" and "long delays", while the patterns look for words like "backlog" and "unreviewed". Two of those missed sentences (Lone Star, Gibraltar) are passages the `aged_alert` check cites as its basis, so the check's basis does not come from the baseline. The false hits are mostly generic management or audit language in orders whose gold labels do not mark that category.

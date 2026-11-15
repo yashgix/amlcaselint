@@ -43,6 +43,8 @@ python -m examcheck synth --out results/synthetic.json
 python -m examcheck check results/synthetic.json --as-of 2021-03-29
 python -m examcheck check results/synthetic.json --as-of 2021-03-29 --naive
 python -m examcheck check results/synthetic.json --as-of 2021-03-29 --cannot-assess
+python -m examcheck review results/synthetic.json --as-of 2021-03-29
+python -m examcheck failures --out results/failures.json
 ```
 
 The experiment is deterministic and takes about a second. Two runs produce byte-identical metrics.
@@ -81,6 +83,8 @@ Baseline on 15 gold orders: micro precision 0.914, micro recall 0.771, micro F1 
 | `no_rationale` | 1000 | 1.000 | 0.000 | 0.500 | 0.000 |
 | `prior_filing_only` | 1000 | 1.000 | 0.000 | 1.000 | 0.006 |
 
+Detection 1.000 and false flags 0.000 are true by construction: the generator seeds exactly the cases the rules flag, so they show the code matches its spec, not that it finds real defects. The naive rules are written to be wrong, so their columns show what each rule detail is for.
+
 ### Basis
 
 **`late_sar`**
@@ -112,6 +116,9 @@ Baseline on 15 gold orders: micro precision 0.914, micro recall 0.771, micro F1 
 
 ## Limits
 
+- The baseline's misses and false hits, with the sentences involved, are in `docs/FAILURES.md`.
+- Synthetic detection 1.000 and false flags 0.000 hold by construction, because the generator seeds what the rules flag.
+- `review` marks `prior_filing_only` as a risk and an undecided alert past the SAR deadline as a risk, not a defect.
 - One labeller and 15 orders, so the scores are rough and the gold set needs a second reader.
 - The categories are a judgement; the README and design note this plainly.
 - The baseline sees legal boilerplate as well as finding sentences.

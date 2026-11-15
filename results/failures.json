@@ -1,0 +1,231 @@
+{
+ "alert_backlog": {
+  "misses": [
+   {
+    "order_id": "17519",
+    "quotes": [
+     "The Bank’s processes for reviewing potential suspicious activity detected by monitoring systems frequently experienced long delays."
+    ]
+   },
+   {
+    "order_id": "18845",
+    "quotes": [
+     "During the period from January 2014 through November 2014, Lone Star had 4,888 outstanding alerts, 627 cases, and 213 internal referrals."
+    ]
+   },
+   {
+    "order_id": "17488",
+    "quotes": [
+     "Gibraltar failed to review and close or escalate nearly 60% of its monthly alerts in the 30 days prescribed by Gibraltar’s own BSA/AML policy."
+    ]
+   },
+   {
+    "order_id": "18872",
+    "quotes": [
+     "Moreover, U.S. Bank failed to review a significant number of the alerts its system generated."
+    ]
+   }
+  ],
+  "false_hits": []
+ },
+ "late_sar": {
+  "misses": [
+   {
+    "order_id": "17556",
+    "quotes": [
+     "Great Eastern failed to file a timely SAR for a customer that had millions of dollars of incoming and outgoing wires transfers"
+    ]
+   },
+   {
+    "order_id": "19328",
+    "quotes": [
+     "the Bank failed to timely and accurately file SARs on most of this activity."
+    ]
+   }
+  ],
+  "false_hits": [
+   {
+    "order_id": "17493",
+    "quotes": [
+     "Despite the high volume of unusual cash transactions conducted by the corporate customer, Mingo failed to timely file 438 CTRs relating to the cash intensive transactions and structured transactions conducted through the Bank."
+    ]
+   }
+  ]
+ },
+ "sar_not_filed": {
+  "misses": [
+   {
+    "order_id": "18752",
+    "quotes": [
+     "(b) detect and adequately report suspicious transactions"
+    ]
+   }
+  ],
+  "false_hits": []
+ },
+ "unsupported_disposition": {
+  "misses": [
+   {
+    "order_id": "17552",
+    "quotes": [
+     "the FDIC noted that the Branch could not produce any analysis or documentation to support the U.S. Compliance Officer’s assertion that the cash activity appeared normal."
+    ]
+   },
+   {
+    "order_id": "17488",
+    "quotes": [
+     "When Gibraltar did review alerts, there were numerous instances when Gibraltar closed alerts that should have been escalated."
+    ]
+   }
+  ],
+  "false_hits": []
+ },
+ "monitoring_gap": {
+  "misses": [
+   {
+    "order_id": "17535",
+    "quotes": [
+     "The Bank did not have adequate procedures and controls to monitor funds transfers for suspicious activity."
+    ]
+   },
+   {
+    "order_id": "17552",
+    "quotes": [
+     "some of the parameters set out in the policies and procedures were inadequate to detect several major categories of suspicious activity."
+    ]
+   },
+   {
+    "order_id": "17556",
+    "quotes": [
+     "the FDIC found that Great Eastern’s suspicious transaction monitoring procedures had been only partially implemented."
+    ]
+   },
+   {
+    "order_id": "18776",
+    "quotes": [
+     "the Bank failed to establish appropriate alert parameters on the accounts."
+    ]
+   },
+   {
+    "order_id": "19328",
+    "quotes": [
+     "the Bank’s adjustments eliminated approximately 1,000 case alerts that would have been generated and reviewed for customers whose activity was thought to be well-known"
+    ]
+   }
+  ],
+  "false_hits": []
+ },
+ "cdd_edd": {
+  "misses": [
+   {
+    "order_id": "19518",
+    "quotes": [
+     "SHBA consistently failed to implement a CRR methodology that was comprehensive and risk-based."
+    ]
+   },
+   {
+    "order_id": "17535",
+    "quotes": [
+     "the file documentation did not reflect the source of funds or support the level of activity in the account."
+    ]
+   }
+  ],
+  "false_hits": []
+ },
+ "ctr": {
+  "misses": [],
+  "false_hits": [
+   {
+    "order_id": "18776",
+    "quotes": [
+     "On September 19, 2012, the MSB and its manager pleaded guilty to eight counts of failing to file currency transaction reports and one count of failing to maintain an effective AML program."
+    ]
+   }
+  ]
+ },
+ "staffing": {
+  "misses": [
+   {
+    "order_id": "17493",
+    "quotes": [
+     "Mingo was aware of this situation but failed to designate an additional person to support the BSA Officer or otherwise remedy the situation."
+    ]
+   },
+   {
+    "order_id": "18845",
+    "quotes": [
+     "Without sufficient internal controls or experienced BSA staff"
+    ]
+   }
+  ],
+  "false_hits": [
+   {
+    "order_id": "17519",
+    "quotes": [
+     "Appropriate Bank personnel often lacked information necessary to assess, in an accurate and meaningful manner, the risk of money laundering or other illicit activity posed by customers, and their activities."
+    ]
+   },
+   {
+    "order_id": "17488",
+    "quotes": [
+     "Gibraltar admits to “willfulness” only as the term is used in civil enforcement of the BSA under 31 U.S.C. § 5321(a)(1). 3 Gibraltar failed to establish and implement an effective anti-money laundering compliance program as required by the BSA and its implementing regulations.6 The OCC requires each bank under its supervision to develop and provide for the continued administration of a program reasonably designed to assure and monitor compliance with the BSA’s recordkeeping and reporting requirements, including an appropriate customer identification program.7 At a minimum, a bank’s anti-money laundering compliance program must: (a) provide for a system of internal controls to assure ongoing compliance; (b) provide for independent testing for compliance to be conducted by bank personnel or by an outside party; (c) designate an individual or individuals responsible for coordinating and monitoring day-to-day compliance; and (d) provide training for appropriate personnel.8 Gibraltar failed to establish and maintain adequate internal controls to assure ongoing compliance and it did not provide adequate training for appropriate personnel.9 Gibraltar’s antimoney laundering compliance program also did not include a customer identification program that was appropriate for its size and type of business.10 1."
+    ]
+   }
+  ]
+ },
+ "independent_testing": {
+  "misses": [
+   {
+    "order_id": "19518",
+    "quotes": [
+     "to address deficiencies in the Bank’s BSA/AML compliance program and its internal audit function"
+    ]
+   },
+   {
+    "order_id": "17509",
+    "quotes": [
+     "SRVB was deficient in all four pillars."
+    ]
+   },
+   {
+    "order_id": "17488",
+    "quotes": [
+     "prior to 2013, Gibraltar did not validate or independently test the system’s parameters and thresholds"
+    ]
+   },
+   {
+    "order_id": "18872",
+    "quotes": [
+     "U.S. Bank also failed to provide for independent validation of its automated transaction monitoring system."
+    ]
+   }
+  ],
+  "false_hits": [
+   {
+    "order_id": "18845",
+    "quotes": [
+     "The OCC identified BSA/AML deficiencies with the Bank’s internal controls, independent audit, suspicious activity reporting, and foreign correspondent banking program that resulted in the issuance of a Consent Order for a Civil Money Penalty against Lone Star on March 31, 2015, in the amount of $1 million."
+    ]
+   }
+  ]
+ },
+ "governance": {
+  "misses": [],
+  "false_hits": [
+   {
+    "order_id": "17519",
+    "quotes": [
+     "Because the Bank did not consistently maintain complete customer documentation and reliable across-the-board risk ratings, it failed to effectively monitor transactions to determine if actual activity was commensurate with expected activity and/or lacked any apparent business or legal purpose.",
+     "The scope and timeliness of audits were frequently inadequate, and failed to ensure effective internal controls necessary to comply with suspicious activity reporting requirements."
+    ]
+   },
+   {
+    "order_id": "17557",
+    "quotes": [
+     "However, Sovereign did not have sufficient internal controls in place to verify this belief and did not monitor or test the vendors’ performance of this function.",
+     "Because of undetected inaccuracies in the vendor’s reports, Sovereign failed to file over about 578 additional CTRs between July 1999 and May 2001. 2 FinCEN has determined that Sovereign failed to implement sufficient internal controls and testing to insure that it filed accurate and timely CTRs, even after it was on notice that there were significant deficiencies in its BSA compliance."
+    ]
+   }
+  ]
+ }
+}

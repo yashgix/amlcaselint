@@ -11,6 +11,8 @@ from .cases import read_log, write_log
 from .checks import cannot_assess, run_checks
 from .corpus import load_orders
 from .extract import extract
+from .failures import failures
+from .review import review
 from .synth import make_suite
 
 
@@ -21,6 +23,13 @@ def _findings(args):
     for order in orders:
         for finding in extract(order):
             print(json.dumps(asdict(finding), ensure_ascii=False))
+    return 0
+
+
+def _failures(args):
+    out = Path(args.out)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(failures(args.data), indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     return 0
 
 
@@ -42,8 +51,14 @@ def _check(args):
     return 0
 
 
+def _review(args):
+    for finding in review(read_log(args.log), args.as_of):
+        print(json.dumps(asdict(finding), ensure_ascii=False))
+    return 0
+
+
 def build_parser():
-    """Build the argument parser with the three subcommands."""
+    """Build the argument parser with its subcommands."""
     parser = argparse.ArgumentParser(prog="examcheck")
     sub = parser.add_subparsers(dest="command", required=True)
 
@@ -51,6 +66,13 @@ def build_parser():
     findings.add_argument("--order", help="only this order id")
     findings.add_argument("--data", default=DATA_DIR, help="corpus directory")
     findings.set_defaults(func=_findings)
+
+    failed = sub.add_parser(
+        "failures", help="write the baseline's misses and false hits against the gold set"
+    )
+    failed.add_argument("--out", required=True, help="output JSON path")
+    failed.add_argument("--data", default=DATA_DIR, help="corpus directory")
+    failed.set_defaults(func=_failures)
 
     synth = sub.add_parser("synth", help="write the synthetic alert log")
     synth.add_argument("--out", required=True, help="output JSON-lines path")
@@ -64,6 +86,13 @@ def build_parser():
         "--cannot-assess", action="store_true", help="also list alerts skipped for missing input"
     )
     check.set_defaults(func=_check)
+
+    review_cmd = sub.add_parser(
+        "review", help="one finding per flagged alert and check, with status and quote"
+    )
+    review_cmd.add_argument("log", help="JSON-lines alert log")
+    review_cmd.add_argument("--as-of", type=date.fromisoformat, required=True, help="YYYY-MM-DD")
+    review_cmd.set_defaults(func=_review)
 
     return parser
 

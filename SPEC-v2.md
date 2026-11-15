@@ -17,3 +17,16 @@ Why: a missing input used to read as "clean". `late_sar` returns False when `det
   - `aged_alert` and `no_rationale`: always empty. `opened` is required, and a blank rationale on a closed alert is the defect itself, so it is flagged, not skipped.
 - `python -m examcheck check LOG --as-of DATE --cannot-assess` adds a `cannot_assess` key to the output. Without the flag the output is exactly the v1 four-key object.
 - `run_checks` is unchanged.
+
+## Batch 2
+
+### Findings with a status
+`python -m examcheck review LOG --as-of DATE` prints JSON lines, one per flagged alert and check, in `CHECKS` order then log order. Fields: `check`, `alert_id`, `status`, `reason`, `order_id`, `quote` (an exact passage of that order), and `regulation_quote` (only for `late_sar`: the 30-day sentence when the suspect is known, the 60-day sentence otherwise). `check` output stays the v1 four-key object.
+- `late_sar`: `defect` when a SAR was filed after the deadline or was decided (disposition `"sar"`) and is still unfiled past it. `risk` when the alert is still undecided past the deadline, since a SAR may be owed. `cannot_assess` as in Batch 1.
+- `aged_alert`: `defect`. The limit is a bank-policy parameter, not a legal deadline.
+- `no_rationale`: `defect`.
+- `prior_filing_only`: `risk`. The order faults missing analysis and says a pre-set reason is not improper in itself. `cannot_assess` as in Batch 1.
+- Invariant, tested: the defect and risk ids of each check equal that check's list from `run_checks`.
+
+### Baseline failure analysis
+`python -m examcheck failures --out results/failures.json` lists, for each category and each gold order, the baseline's misses (a gold quote with no flagged finding in that order) and false hits (a flagged sentence in an order the gold set does not label with that category). `demo.py --failures` renders `docs/FAILURES.md` from that file.
