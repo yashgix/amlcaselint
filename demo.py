@@ -149,10 +149,7 @@ def main(argv=None):
         return 0
     if args.out is None:
         raise SystemExit("--out is required with --readme")
-    titles = {
-        entry["id"]: entry["title"].removeprefix("In the Matter of ")
-        for entry in load_index(DATA_DIR)
-    }
+    titles = {entry["id"]: entry["title"].removeprefix("In the Matter of ") for entry in load_index(DATA_DIR)}
     write_readme(args.readme, args.out, metrics, titles)
     print(f"wrote {args.out}")
     return 0

@@ -16,7 +16,6 @@ from examcheck.synth import (
     KINDS,
     NEAR_MISSES,
     SOURCES,
-    VIOLATIONS,
     days_late,
     kind_counts,
     make_suite,
@@ -38,13 +37,13 @@ class SynthTests(unittest.TestCase):
     def test_kind_counts_defaults(self):
         counts = kind_counts(DEFAULT)
         self.assertEqual(list(counts), list(KINDS))
-        self.assertEqual(counts['closed_aged'], 8000)
-        self.assertEqual(counts['closed_no_rationale'], 1000)
-        self.assertEqual(counts['closed_prior_filing'], 1000)
-        self.assertEqual(counts['closed_clean'], 10000)
-        self.assertEqual(counts['open_backlog'], 10000)
-        self.assertEqual(counts['sar_late'], 300)
-        self.assertEqual(counts['sar_on_time'], 2700)
+        self.assertEqual(counts["closed_aged"], 8000)
+        self.assertEqual(counts["closed_no_rationale"], 1000)
+        self.assertEqual(counts["closed_prior_filing"], 1000)
+        self.assertEqual(counts["closed_clean"], 10000)
+        self.assertEqual(counts["open_backlog"], 10000)
+        self.assertEqual(counts["sar_late"], 300)
+        self.assertEqual(counts["sar_on_time"], 2700)
         for kind in NEAR_MISSES:
             self.assertEqual(counts[kind], 200)
         self.assertEqual(sum(counts.values()), 33800)
@@ -60,7 +59,7 @@ class SynthTests(unittest.TestCase):
         alerts = make_suite()
         self.assertEqual(len(alerts), sum(kind_counts(DEFAULT).values()))
         for index, alert in enumerate(alerts, 1):
-            self.assertEqual(alert.alert_id, f'A{index:06d}')
+            self.assertEqual(alert.alert_id, f"A{index:06d}")
         self.assertEqual({alert.kind for alert in alerts}, set(KINDS))
 
     def test_truth_matches_strict_checks(self):
@@ -75,34 +74,34 @@ class CliTests(unittest.TestCase):
     def test_findings_writes_json_lines(self):
         out = io.StringIO()
         with redirect_stdout(out):
-            self.assertEqual(cli_main(['findings', '--order', '19518', '--data', str(DATA_DIR)]), 0)
+            self.assertEqual(cli_main(["findings", "--order", "19518", "--data", str(DATA_DIR)]), 0)
         lines = out.getvalue().strip().splitlines()
         self.assertTrue(lines)
         for line in lines:
             row = json.loads(line)
-            self.assertEqual(row['order_id'], '19518')
-            self.assertIn('category', row)
-            self.assertIn('start', row)
-            self.assertIn('quote', row)
-            self.assertIn('counts', row)
+            self.assertEqual(row["order_id"], "19518")
+            self.assertIn("category", row)
+            self.assertIn("start", row)
+            self.assertIn("quote", row)
+            self.assertIn("counts", row)
 
     def test_synth_and_check_subcommands(self):
         with tempfile.TemporaryDirectory() as tmp:
-            log = Path(tmp) / 'synthetic.jsonl'
-            self.assertEqual(cli_main(['synth', '--out', str(log)]), 0)
+            log = Path(tmp) / "synthetic.jsonl"
+            self.assertEqual(cli_main(["synth", "--out", str(log)]), 0)
             alerts = read_log(log)
             self.assertEqual(len(alerts), sum(kind_counts(DEFAULT).values()))
 
             out = io.StringIO()
             with redirect_stdout(out):
-                self.assertEqual(cli_main(['check', str(log), '--as-of', '2021-03-29']), 0)
+                self.assertEqual(cli_main(["check", str(log), "--as-of", "2021-03-29"]), 0)
             result = json.loads(out.getvalue())
             self.assertEqual(list(result), list(CHECKS))
 
             out_naive = io.StringIO()
             with redirect_stdout(out_naive):
                 self.assertEqual(
-                    cli_main(['check', str(log), '--as-of', '2021-03-29', '--naive']),
+                    cli_main(["check", str(log), "--as-of", "2021-03-29", "--naive"]),
                     0,
                 )
             naive_result = json.loads(out_naive.getvalue())
@@ -110,46 +109,48 @@ class CliTests(unittest.TestCase):
 
 
 class RunMetricsTests(unittest.TestCase):
-    EXPECTED_KEYS = {
-        'baseline_gold_share',
-        'basis_quotes',
-        'basis_quotes_grounded',
-        'cases',
-        'cited_alerts',
-        'cited_sars',
-        'corpus_orders',
-        'corpus_share',
-        'detection_rate',
-        'evidence_recall',
-        'f1',
-        'false_flag_rate',
-        'findings',
-        'findings_grounded',
-        'flagged',
-        'gold_orders',
-        'gold_positives',
-        'gold_quotes',
-        'gold_quotes_grounded',
-        'gold_share',
-        'late_sar_mean_days_late',
-        'macro_f1',
-        'micro_f1',
-        'micro_precision',
-        'micro_recall',
-        'naive_detection_rate',
-        'naive_false_flag_rate',
-        'naive_flagged',
-        'near_misses',
-        'orders',
-        'orders_individual',
-        'orders_listed',
-        'orders_no_text',
-        'precision',
-        'recall',
-        'seeded',
-        'sentences',
-        'words',
-    }
+    EXPECTED_KEYS = frozenset(
+        {
+            "baseline_gold_share",
+            "basis_quotes",
+            "basis_quotes_grounded",
+            "cases",
+            "cited_alerts",
+            "cited_sars",
+            "corpus_orders",
+            "corpus_share",
+            "detection_rate",
+            "evidence_recall",
+            "f1",
+            "false_flag_rate",
+            "findings",
+            "findings_grounded",
+            "flagged",
+            "gold_orders",
+            "gold_positives",
+            "gold_quotes",
+            "gold_quotes_grounded",
+            "gold_share",
+            "late_sar_mean_days_late",
+            "macro_f1",
+            "micro_f1",
+            "micro_precision",
+            "micro_recall",
+            "naive_detection_rate",
+            "naive_false_flag_rate",
+            "naive_flagged",
+            "near_misses",
+            "orders",
+            "orders_individual",
+            "orders_listed",
+            "orders_no_text",
+            "precision",
+            "recall",
+            "seeded",
+            "sentences",
+            "words",
+        }
+    )
 
     def test_metrics_keys(self):
         result = metrics(DATA_DIR)
@@ -159,5 +160,5 @@ class RunMetricsTests(unittest.TestCase):
         self.assertEqual(metrics(DATA_DIR), metrics(DATA_DIR))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()

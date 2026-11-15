@@ -1,4 +1,4 @@
-'''Score baseline findings against the hand-labelled gold set.'''
+"""Score baseline findings against the hand-labelled gold set."""
 
 import json
 from pathlib import Path
@@ -9,13 +9,13 @@ from .taxonomy import CATEGORIES
 
 
 def load_gold(data_dir=DATA_DIR):
-    '''Return the orders object of gold.json.'''
-    path = Path(data_dir) / 'gold.json'
-    return json.loads(path.read_text(encoding='utf-8'))['orders']
+    """Return the orders object of gold.json."""
+    path = Path(data_dir) / "gold.json"
+    return json.loads(path.read_text(encoding="utf-8"))["orders"]
 
 
 def prf(tp, fp, fn):
-    '''Precision, recall and F1, with 0.0 for an empty denominator.'''
+    """Precision, recall and F1, with 0.0 for an empty denominator."""
     precision = tp / (tp + fp) if tp + fp else 0.0
     recall = tp / (tp + fn) if tp + fn else 0.0
     f1 = 2 * precision * recall / (precision + recall) if precision + recall else 0.0
@@ -23,7 +23,7 @@ def prf(tp, fp, fn):
 
 
 def confusion(gold, predicted, category):
-    '''True positives, false positives and false negatives over the gold orders.'''
+    """True positives, false positives and false negatives over the gold orders."""
     tp = fp = fn = 0
     for order_id, labels in gold.items():
         positive = category in labels
@@ -38,7 +38,7 @@ def confusion(gold, predicted, category):
 
 
 def category_scores(gold, predicted):
-    '''Per-category scores, micro scores and the macro F1.'''
+    """Per-category scores, micro scores and the macro F1."""
     per = []
     tp = fp = fn = 0
     for category in CATEGORIES:
@@ -57,7 +57,7 @@ def _overlaps(start, end, other_start, other_end):
 
 
 def evidence_recall(gold, findings, texts):
-    '''Share of gold positives whose quote overlaps a finding of the same category.'''
+    """Share of gold positives whose quote overlaps a finding of the same category."""
     by_key = {}
     for finding in findings:
         by_key.setdefault((finding.order_id, finding.category), []).append(finding)

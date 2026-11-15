@@ -211,7 +211,9 @@ def make_suite(p=DEFAULT):
                 else:  # near_no_suspect
                     gap = 31 + j % 30
                 filed = detected + gap * day
-                alerts.append(_sar(alert_id, kind, opened, detected, closed, filed, kind != "near_no_suspect"))
+                alerts.append(
+                    _sar(alert_id, kind, opened, detected, closed, filed, kind != "near_no_suspect")
+                )
     return alerts
 
 

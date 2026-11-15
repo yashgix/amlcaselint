@@ -1,0 +1,11 @@
+[tool.ruff]
+line-length = 110
+target-version = "py314"
+extend-exclude = ["tests/acceptance", "data"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "RUF"]
+ignore = ["E501", "RUF001"]
+
+[tool.ruff.format]
+quote-style = "double"

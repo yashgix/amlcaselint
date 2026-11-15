@@ -46,12 +46,17 @@ def fetch(manifest):
         if sha256(download(order["url"], pdf)) != order["pdf_sha256"]:
             problems.append(f"{order['id']}: the PDF on FinCEN's site changed")
             continue
-        text = subprocess.run(["pdftotext", "-enc", "UTF-8", str(pdf), "-"], capture_output=True, check=True).stdout
+        text = subprocess.run(
+            ["pdftotext", "-enc", "UTF-8", str(pdf), "-"], capture_output=True, check=True
+        ).stdout
         target = DATA / order["text"]
         if not target.is_file():
             target.write_bytes(text)
         if sha256(text) != manifest["files"][order["text"]]["sha256"]:
-            print(f"{order['id']}: this pdftotext extracts different text; the pinned text is kept", file=sys.stderr)
+            print(
+                f"{order['id']}: this pdftotext extracts different text; the pinned text is kept",
+                file=sys.stderr,
+            )
     return problems
 
 

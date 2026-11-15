@@ -23,8 +23,7 @@ def _corpus(data_dir, orders, findings):
     texts = {order.id: order.text for order in orders}
     categories = flagged(findings)
     cited = [
-        sum(1 for order in orders if category in categories.get(order.id, ()))
-        for category in CATEGORIES
+        sum(1 for order in orders if category in categories.get(order.id, ())) for category in CATEGORIES
     ]
     return {
         "orders_listed": len(index),
@@ -60,8 +59,7 @@ def _gold(data_dir, orders, findings):
     ]
     labelled = [sum(1 for labels in gold.values() if category in labels) for category in CATEGORIES]
     baseline = [
-        sum(1 for order_id in gold if category in predicted.get(order_id, ()))
-        for category in CATEGORIES
+        sum(1 for order_id in gold if category in predicted.get(order_id, ())) for category in CATEGORIES
     ]
     return {
         "gold_orders": len(gold),
