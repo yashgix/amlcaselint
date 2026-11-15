@@ -1,0 +1,179 @@
+{
+ "source": "https://www.fincen.gov/news/enforcement-actions",
+ "fetched": "2026-11-14",
+ "extractor": "pdftotext 26.09.0 (Poppler), default mode, -enc UTF-8",
+ "files": {
+  "LICENSE.md": {
+   "sha256": "a91d45e8202aa846eedf003140dbc78e024abf0c49737be2d52ad2816dfcd109",
+   "bytes": 1042
+  },
+  "gold.json": {
+   "sha256": "c380fa709fbf2f47036c84369dcb6cb737d4b12fd6357dc172ae17499176fd90",
+   "bytes": 15491
+  },
+  "orders/17488.txt": {
+   "sha256": "f0707f1beff0c46f8b9bc940454c23ce433de9f759cc2428fffacce677317775",
+   "bytes": 29949
+  },
+  "orders/17493.txt": {
+   "sha256": "57092fc65f1c74a5be7b4bb4780f0f00c99f0c9fcbc795b8f1bf44f412a358e7",
+   "bytes": 23754
+  },
+  "orders/17499.txt": {
+   "sha256": "e84f7a5a2e2dc1a48ab15c7c10f0bf3dc204b5778bd1bfef15a3f5ad6645d2fb",
+   "bytes": 13407
+  },
+  "orders/17502.txt": {
+   "sha256": "72334761e5a2b7bb95a31f6fe6b611fef2fd5b7fc9b15068831318d95a867dd5",
+   "bytes": 28575
+  },
+  "orders/17508.txt": {
+   "sha256": "ac10122a0024aab798ab15702cdeec0a45d1811bb4e8b5229971bfef05cacb44",
+   "bytes": 17470
+  },
+  "orders/17509.txt": {
+   "sha256": "247d6cfe8a350cddf831d7a55031f1a97bf7b4fccb61712724481fd3c614cd92",
+   "bytes": 14883
+  },
+  "orders/17510.txt": {
+   "sha256": "fcd5514963e082cf78f923b8d915e04f1c8bdc82b3014a464ba148cdb7dae214",
+   "bytes": 10044
+  },
+  "orders/17511.txt": {
+   "sha256": "981d2f2c3957d31227811db7d99b4c99ff771d33c713e9076cc4fd94a787993c",
+   "bytes": 29019
+  },
+  "orders/17517.txt": {
+   "sha256": "fce4f7d988d471a333a9b6f91d6e8c77440dd558b89519c56c7128e831ae8066",
+   "bytes": 26867
+  },
+  "orders/17519.txt": {
+   "sha256": "2f416c65762455b2bea49c889541cd6999ec79b1dcbd1edb7b009b051ad82fb5",
+   "bytes": 17837
+  },
+  "orders/17523.txt": {
+   "sha256": "e72b70627929e5dbf1de763c78d8e6eeb7cde8d0dc6aac985305292e9cef6d40",
+   "bytes": 29696
+  },
+  "orders/17526.txt": {
+   "sha256": "a3301284c2831508353c5d25fa60f94b465e46658e23c7126b7eb844a7b9d0c1",
+   "bytes": 23983
+  },
+  "orders/17527.txt": {
+   "sha256": "3e0bb1f5ab4758610e5177f352377bf39adab93695d63ff8384c57d947620d2d",
+   "bytes": 23806
+  },
+  "orders/17528.txt": {
+   "sha256": "e51c9d47d216b67818dfc7473055af59be2b4f8736942ff9381c692d75693b19",
+   "bytes": 39432
+  },
+  "orders/17529.txt": {
+   "sha256": "eeda0298816955c885b2d67d375f3c6d6dc4003a8bbb5183f328652fa4f14375",
+   "bytes": 12169
+  },
+  "orders/17534.txt": {
+   "sha256": "5d49586a5de209b091bf32bff1e6f1466baedbcc46e687de7cac88314c154100",
+   "bytes": 17761
+  },
+  "orders/17535.txt": {
+   "sha256": "ed8d450519e1a1daceba4f160eb2ecb538ec2cd6eed9d9aa0c93c43252f95fd9",
+   "bytes": 14056
+  },
+  "orders/17536.txt": {
+   "sha256": "3b57a5f8d2ab33be1134e753df0ece1a5fa7493b90364872f006b52f447cb7a2",
+   "bytes": 25344
+  },
+  "orders/17539.txt": {
+   "sha256": "ff1db00aeee3069a7c681c130bd3d2ad356c55497bd05b8e69fb8c7d56e318a6",
+   "bytes": 13861
+  },
+  "orders/17542.txt": {
+   "sha256": "796ae2e1aa3d181f0a53ec6bf48751beb85a13c20e11ed079d062f7e12efae95",
+   "bytes": 15804
+  },
+  "orders/17546.txt": {
+   "sha256": "e271100143c92fb39767f69e47cd2bd0d32f1aaeb851eded496c076ecea987ba",
+   "bytes": 25668
+  },
+  "orders/17547.txt": {
+   "sha256": "83a4db2120c745fda4a09ace9de70fcead5d9057a887db8386c82163a34d1850",
+   "bytes": 25359
+  },
+  "orders/17550.txt": {
+   "sha256": "40ce167fb87ab35e3c8569a7a8917e56c97d78fe5099b868a88b932199e135b1",
+   "bytes": 25023
+  },
+  "orders/17552.txt": {
+   "sha256": "86768e59dec5aa53874af2ad32580edfb4b181b64c592c4bbfb3c9ed7ae75ee9",
+   "bytes": 18427
+  },
+  "orders/17555.txt": {
+   "sha256": "d968ffa286415c74ee502a42c96574cad692a14dfceee36b67054868795cbc41",
+   "bytes": 51862
+  },
+  "orders/17556.txt": {
+   "sha256": "4676a7fe955b8bec268cfa40754e984306536b7f18ff4c2a27ff17887e56ac1c",
+   "bytes": 17216
+  },
+  "orders/17557.txt": {
+   "sha256": "9d255eebcacd4f00aa31cb3e501a16c39366bfe856fbc40b73a3091f46729205",
+   "bytes": 7141
+  },
+  "orders/18752.txt": {
+   "sha256": "f628efdecb7f760ff0267c109b910289ed1823735bb6edbf54ec736e4e802bb7",
+   "bytes": 17057
+  },
+  "orders/18776.txt": {
+   "sha256": "9bcbf41c38dd668a5ae6e3d06a7e9d1e7dc0361501703cf6f71bc95428e0c3d0",
+   "bytes": 31361
+  },
+  "orders/18845.txt": {
+   "sha256": "128a6fad8e6fa45c74dc7b62a4f3ed77e1bcfeb883fefe3e14286c9c22837f55",
+   "bytes": 23907
+  },
+  "orders/18872.txt": {
+   "sha256": "2167ad000d7a2d8ea163af9c62d4123d76eaaeec2ce5d09273cb843f6a1d5b1d",
+   "bytes": 37314
+  },
+  "orders/19235.txt": {
+   "sha256": "179f6b142659ba022bcfb71b99395d542518854cddadf34b19fe5645097a0cdb",
+   "bytes": 41631
+  },
+  "orders/19328.txt": {
+   "sha256": "68eee5907323ca04314dcd71e18f5117df9dddb9822a60040054ac18c79bc158",
+   "bytes": 47344
+  },
+  "orders/19363.txt": {
+   "sha256": "eae1afcf4e63ada1863e1f65f995dd86007c785520a56d9c429d9ecfd4f67124",
+   "bytes": 52463
+  },
+  "orders/19464.txt": {
+   "sha256": "f42da7744391f8df14d99970a6833dfb37078d56a97f2a4a14c57ccd476c88d8",
+   "bytes": 61418
+  },
+  "orders/19500.txt": {
+   "sha256": "4ccd523477970f6877bafe766662d95df222c4cc90168938acccacffb6eac321",
+   "bytes": 64761
+  },
+  "orders/19518.txt": {
+   "sha256": "aa3a6521911bfba961376d27107bbc1a480a3212b386d5633aedd08586a320b6",
+   "bytes": 56434
+  },
+  "orders/19701.txt": {
+   "sha256": "a9f12c549b2936e7ee08d0546b253d39fcd7c87a1e8d223a225aa270ec04a4d7",
+   "bytes": 203031
+  },
+  "orders/22686.txt": {
+   "sha256": "e08e9e3ca0ad6552c60b825c32b121b1fac3052d938a2d5f6e41b0010415ae2f",
+   "bytes": 194103
+  },
+  "orders.json": {
+   "sha256": "4d62a8467be8d630455779e8c6f9fc544d7cbb3811c8b0f9e143cb5011fd889a",
+   "bytes": 20335
+  },
+  "regulation/31-cfr-1020.320.xml": {
+   "sha256": "eefe116c3efc20a0af79b18fec533e397c6828b2ca16ce6b171512ea21d8e5b5",
+   "bytes": 8646
+  }
+ }
+}
