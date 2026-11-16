@@ -141,4 +141,4 @@ Any model or API call, OCR of the 8 scanned orders, OCC or other regulators' ord
 
 ## Built with
 
-Built with Arcturus (Claude Code builders, Codex review). Reviewed and verified by hand.
+Built with Arcturus (Claude Code builders, Codex review).
