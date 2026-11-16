@@ -6,13 +6,13 @@ from contextlib import redirect_stdout
 from datetime import date, timedelta
 from pathlib import Path
 
-from examcheck import DATA_DIR
-from examcheck.cases import Alert, write_log
-from examcheck.checks import BASIS, CHECKS, run_checks
-from examcheck.cli import main as cli_main
-from examcheck.corpus import grounded, load_orders, regulation_text
-from examcheck.review import CANNOT_ASSESS, DEFECT, RISK, review
-from examcheck.synth import DEFAULT, make_suite
+from amlcaselint import DATA_DIR
+from amlcaselint.cases import Alert, write_log
+from amlcaselint.checks import BASIS, CHECKS, run_checks
+from amlcaselint.cli import main as cli_main
+from amlcaselint.corpus import grounded, load_orders, regulation_text
+from amlcaselint.review import CANNOT_ASSESS, DEFECT, RISK, review
+from amlcaselint.synth import DEFAULT, make_suite
 
 D0 = date(2024, 1, 1)
 AS_OF = date(2024, 12, 31)

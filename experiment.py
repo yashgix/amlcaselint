@@ -1,10 +1,10 @@
-"""Run the examcheck experiment and write its metrics JSON."""
+"""Run the amlcaselint experiment and write its metrics JSON."""
 
 import argparse
 from pathlib import Path
 
-from examcheck import DATA_DIR
-from examcheck.run import main as run_experiment
+from amlcaselint import DATA_DIR
+from amlcaselint.run import main as run_experiment
 
 
 def build_parser():

@@ -30,7 +30,7 @@ def changed_files(manifest):
 def download(url, target):
     if not target.is_file():
         target.parent.mkdir(parents=True, exist_ok=True)
-        request = urllib.request.Request(url, headers={"User-Agent": "examcheck fetch"})
+        request = urllib.request.Request(url, headers={"User-Agent": "amlcaselint fetch"})
         with urllib.request.urlopen(request, timeout=120) as response:
             target.write_bytes(response.read())
         time.sleep(1)

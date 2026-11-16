@@ -1,8 +1,10 @@
-# examcheck
+# amlcaselint
 
 Failures FinCEN cited in bank enforcement orders, turned into deterministic checks over AML alert-case logs.
 
-Write-up: https://yashgix.github.io/examcheck/
+Write-up: https://yashgix.github.io/amlcaselint/
+
+Renamed from `examcheck` on 16 Nov 2026. Frozen specs and git tags keep the old name.
 
 ## Why
 
@@ -26,11 +28,11 @@ The FinCEN orders and 31 CFR 1020.320 are works of the US federal government, wh
 - `data/gold.json`: labels for 15 orders (v1, frozen). The labeller is Claude (Opus 5.5), 14 Nov 2026, working from the pinned text, and Yash Gupta has not yet spot-checked the labels. A category absent from an order is a negative label. The baseline patterns were frozen before labelling. The full method is in the file.
 - `data/gold-v2.json`: the same labels plus one, Lone Star (18845) `independent_testing`, which an independent review proposed. Yash Gupta checked it on 15 Nov 2026 and rejected it. The sentence is in section III of the order, which summarises the OCC's own earlier action, not in FinCEN's Determinations. So the v1 label (negative) stands, and the file is kept only as the record of the rejected proposal. It is not in `MANIFEST.json`, which lists the pinned v1 files.
 - Labelling rule: Labels count only what FinCEN states in its own findings section of each order ("Determinations", or "Statement of Facts" in newer orders). A sentence there may cite another regulator's examination. A separate section that summarises another regulator's own enforcement action is not counted. All 98 v1 positive quotes come from those sections.
-- `examcheck.DATA_DIR` points at the repository `data/` directory.
+- `amlcaselint.DATA_DIR` points at the repository `data/` directory.
 
 ## Synthetic alert log
 
-No real AML alert data is public. The alert log produced by `examcheck/synth.py` is therefore synthetic: sizes and delays are taken from figures quoted in the pinned orders (`SOURCES`), and the near-miss mix is an assumption chosen to test each check's boundary. Rates measured on this generated log describe the checks, never any bank.
+No real AML alert data is public. The alert log produced by `amlcaselint/synth.py` is therefore synthetic: sizes and delays are taken from figures quoted in the pinned orders (`SOURCES`), and the near-miss mix is an assumption chosen to test each check's boundary. Rates measured on this generated log describe the checks, never any bank.
 
 ## Run
 
@@ -41,14 +43,14 @@ make test
 python experiment.py --out results/metrics.json
 python demo.py
 python demo.py --readme README.md --out PATH
-python -m examcheck findings
-python -m examcheck findings --order 19518
-python -m examcheck synth --out results/synthetic.json
-python -m examcheck check results/synthetic.json --as-of 2021-03-29
-python -m examcheck check results/synthetic.json --as-of 2021-03-29 --naive
-python -m examcheck check results/synthetic.json --as-of 2021-03-29 --cannot-assess
-python -m examcheck review results/synthetic.json --as-of 2021-03-29
-python -m examcheck failures --out results/failures.json
+python -m amlcaselint findings
+python -m amlcaselint findings --order 19518
+python -m amlcaselint synth --out results/synthetic.json
+python -m amlcaselint check results/synthetic.json --as-of 2021-03-29
+python -m amlcaselint check results/synthetic.json --as-of 2021-03-29 --naive
+python -m amlcaselint check results/synthetic.json --as-of 2021-03-29 --cannot-assess
+python -m amlcaselint review results/synthetic.json --as-of 2021-03-29
+python -m amlcaselint failures --out results/failures.json
 ```
 
 The experiment is deterministic and takes about a second. Two runs produce byte-identical metrics.

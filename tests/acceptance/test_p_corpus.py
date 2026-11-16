@@ -2,13 +2,13 @@ import hashlib
 import json
 import unittest
 
-import examcheck
-from examcheck.corpus import Order, grounded, load_index, load_orders, normalize, regulation_text, sentences
-from examcheck.extract import Finding, counts, extract, flagged, max_count
-from examcheck.score import category_scores, confusion, evidence_recall, load_gold, prf
-from examcheck.taxonomy import CATEGORIES, COMPILED, LABELS, PATTERNS
+import amlcaselint
+from amlcaselint.corpus import Order, grounded, load_index, load_orders, normalize, regulation_text, sentences
+from amlcaselint.extract import Finding, counts, extract, flagged, max_count
+from amlcaselint.score import category_scores, confusion, evidence_recall, load_gold, prf
+from amlcaselint.taxonomy import CATEGORIES, COMPILED, LABELS, PATTERNS
 
-DATA = examcheck.DATA_DIR
+DATA = amlcaselint.DATA_DIR
 PATTERN_SHA = "b34c316636fada761889bc99cce3035836751d73f9052c2b04fea7528608ee80"
 CORPUS_ORDERS = [8, 31, 32, 13, 23, 26, 14, 26, 20, 34]
 

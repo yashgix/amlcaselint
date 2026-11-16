@@ -1,9 +1,9 @@
 import unittest
 from datetime import date
 
-from examcheck import DATA_DIR
-from examcheck.cases import Alert
-from examcheck.checks import (
+from amlcaselint import DATA_DIR
+from amlcaselint.cases import Alert
+from amlcaselint.checks import (
     BASIS,
     CHECKS,
     POLICY_DAYS,
@@ -20,7 +20,7 @@ from examcheck.checks import (
     run_checks,
     sar_deadline,
 )
-from examcheck.corpus import REGULATION, grounded, load_orders, regulation_text
+from amlcaselint.corpus import REGULATION, grounded, load_orders, regulation_text
 
 
 class CheckTests(unittest.TestCase):

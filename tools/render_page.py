@@ -11,8 +11,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from examcheck.review import review  # noqa: E402
-from examcheck.synth import make_suite  # noqa: E402
+from amlcaselint.review import review  # noqa: E402
+from amlcaselint.synth import make_suite  # noqa: E402
 
 AS_OF = date(2021, 3, 29)
 CATEGORIES = [

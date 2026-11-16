@@ -5,13 +5,13 @@ import unittest
 from contextlib import redirect_stdout
 from pathlib import Path
 
-from examcheck import DATA_DIR
-from examcheck.cases import read_log
-from examcheck.checks import CHECKS, run_checks
-from examcheck.cli import main as cli_main
-from examcheck.corpus import grounded, load_orders
-from examcheck.run import metrics
-from examcheck.synth import (
+from amlcaselint import DATA_DIR
+from amlcaselint.cases import read_log
+from amlcaselint.checks import CHECKS, run_checks
+from amlcaselint.cli import main as cli_main
+from amlcaselint.corpus import grounded, load_orders
+from amlcaselint.run import metrics
+from amlcaselint.synth import (
     DEFAULT,
     KINDS,
     NEAR_MISSES,

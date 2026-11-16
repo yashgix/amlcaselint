@@ -1,4 +1,4 @@
-"""Command line interface for examcheck."""
+"""Command line interface for amlcaselint."""
 
 import argparse
 import json
@@ -67,7 +67,7 @@ def _review(args):
 
 def build_parser():
     """Build the argument parser with its subcommands."""
-    parser = argparse.ArgumentParser(prog="examcheck")
+    parser = argparse.ArgumentParser(prog="amlcaselint")
     sub = parser.add_subparsers(dest="command", required=True)
 
     findings = sub.add_parser("findings", help="print baseline findings as JSON lines")

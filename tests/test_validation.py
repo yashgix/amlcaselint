@@ -3,10 +3,10 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from examcheck import cases
-from examcheck.cases import Alert, from_json, read_log, write_log
-from examcheck.cli import main as cli_main
-from examcheck.synth import Params, kind_counts, make_suite
+from amlcaselint import cases
+from amlcaselint.cases import Alert, from_json, read_log, write_log
+from amlcaselint.cli import main as cli_main
+from amlcaselint.synth import Params, kind_counts, make_suite
 
 GOOD = {"alert_id": "A", "opened": "2024-01-01", "closed": "2024-01-02", "rationale": "r", "evidence": ["e"]}
 

@@ -1,12 +1,12 @@
 import unittest
 
+from amlcaselint import DATA_DIR
+from amlcaselint.corpus import grounded, load_orders
+from amlcaselint.failures import failures
+from amlcaselint.run import gold_v2_metrics, metrics
+from amlcaselint.score import load_gold
+from amlcaselint.taxonomy import CATEGORIES, LABELS
 from demo import render_failures
-from examcheck import DATA_DIR
-from examcheck.corpus import grounded, load_orders
-from examcheck.failures import failures
-from examcheck.run import gold_v2_metrics, metrics
-from examcheck.score import load_gold
-from examcheck.taxonomy import CATEGORIES, LABELS
 
 
 class FailureTests(unittest.TestCase):

@@ -4,10 +4,10 @@ import unittest
 from datetime import date
 from pathlib import Path
 
-from examcheck import DATA_DIR
-from examcheck.cases import REASONS, Alert, from_json, read_log, to_json, write_log
-from examcheck.extract import Finding
-from examcheck.score import category_scores, confusion, evidence_recall, load_gold, prf
+from amlcaselint import DATA_DIR
+from amlcaselint.cases import REASONS, Alert, from_json, read_log, to_json, write_log
+from amlcaselint.extract import Finding
+from amlcaselint.score import category_scores, confusion, evidence_recall, load_gold, prf
 
 
 class GoldScoreTests(unittest.TestCase):

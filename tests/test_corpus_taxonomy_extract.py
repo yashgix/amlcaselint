@@ -3,9 +3,9 @@ import json
 import re
 import unittest
 
-from examcheck.corpus import Order, grounded, load_index, load_orders, normalize, regulation_text, sentences
-from examcheck.extract import Finding, counts, extract, flagged, max_count
-from examcheck.taxonomy import CATEGORIES, COMPILED, LABELS, PATTERNS
+from amlcaselint.corpus import Order, grounded, load_index, load_orders, normalize, regulation_text, sentences
+from amlcaselint.extract import Finding, counts, extract, flagged, max_count
+from amlcaselint.taxonomy import CATEGORIES, COMPILED, LABELS, PATTERNS
 
 
 class CorpusTests(unittest.TestCase):

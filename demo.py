@@ -1,13 +1,13 @@
-"""Print the examcheck summary and render the README results block from metrics.json."""
+"""Print the amlcaselint summary and render the README results block from metrics.json."""
 
 import argparse
 import json
 from pathlib import Path
 
-from examcheck import DATA_DIR
-from examcheck.checks import BASIS, CHECKS
-from examcheck.corpus import REGULATION, load_index
-from examcheck.taxonomy import CATEGORIES, LABELS
+from amlcaselint import DATA_DIR
+from amlcaselint.checks import BASIS, CHECKS
+from amlcaselint.corpus import REGULATION, load_index
+from amlcaselint.taxonomy import CATEGORIES, LABELS
 
 START = "<!-- results:start -->"
 END = "<!-- results:end -->"

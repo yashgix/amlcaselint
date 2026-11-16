@@ -9,9 +9,9 @@ import unittest
 from datetime import date, timedelta
 from pathlib import Path
 
-from examcheck import DATA_DIR
-from examcheck.cases import Alert, from_json, read_log, to_json, write_log
-from examcheck.checks import (
+from amlcaselint import DATA_DIR
+from amlcaselint.cases import Alert, from_json, read_log, to_json, write_log
+from amlcaselint.checks import (
     BASIS,
     CHECKS,
     POLICY_DAYS,
@@ -26,10 +26,10 @@ from examcheck.checks import (
     run_checks,
     sar_deadline,
 )
-from examcheck.cli import main as cli
-from examcheck.corpus import REGULATION, grounded, load_orders, regulation_text
-from examcheck.run import main, metrics
-from examcheck.synth import DEFAULT, KINDS, SOURCES, VIOLATIONS, Params, days_late, kind_counts, make_suite, truth
+from amlcaselint.cli import main as cli
+from amlcaselint.corpus import REGULATION, grounded, load_orders, regulation_text
+from amlcaselint.run import main, metrics
+from amlcaselint.synth import DEFAULT, KINDS, SOURCES, VIOLATIONS, Params, days_late, kind_counts, make_suite, truth
 
 D0 = date(2020, 1, 1)
 AS_OF = date(2021, 3, 29)
