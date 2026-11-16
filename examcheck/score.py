@@ -1,4 +1,4 @@
-"""Score baseline findings against the hand-labelled gold set."""
+"""Score baseline findings against the gold set."""
 
 import json
 from pathlib import Path

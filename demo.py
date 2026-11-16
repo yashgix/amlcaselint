@@ -159,7 +159,8 @@ def render_failures(failures, titles):
         "for that category. A false hit is a flagged sentence in an order the gold set does not label with the "
         "category. Scoring is per order, so a category counted as hit may still flag the wrong sentence "
         "(see evidence recall in the README). Sentences are clipped to 300 characters. "
-        "Labels are the frozen v1 gold set.",
+        "Labels are the frozen v1 gold set. The Lone Star (18845) independent testing false hit is disputed. "
+        "`data/gold-v2.json` adds that label, pending a spot check by Yash.",
         "",
         "| Category | Misses | False hits |",
         "| --- | ---: | ---: |",

@@ -146,22 +146,22 @@ footer { padding-block: 2rem 3rem; border-top: 1px solid var(--line); }
 
 <section class="wrap" aria-labelledby="app-h"><div class="wide stack">
   <p class="eyebrow">Approach</p><h2 id="app-h">Three parts, one data flow</h2>
-  <svg class="diagram diagram-wide" viewBox="0 0 900 250" role="img" aria-label="Pinned FinCEN order text feeds a keyword baseline and hand labels. The same quotes back four checks that run over a synthetic alert log and produce findings with status defect, risk or cannot_assess.">
+  <svg class="diagram diagram-wide" viewBox="0 0 900 250" role="img" aria-label="Pinned FinCEN order text feeds a keyword baseline and gold labels. The same quotes back four checks that run over a synthetic alert log and produce findings with status defect, risk or cannot_assess.">
     <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#52625f"/></marker></defs>
     <rect class="box" x="10" y="20" width="200" height="70" rx="8"/><text x="110" y="52" text-anchor="middle">Pinned orders</text><text class="sub" x="110" y="72" text-anchor="middle">39 texts + regulation</text>
     <rect class="box" x="290" y="20" width="200" height="70" rx="8"/><text x="390" y="52" text-anchor="middle">Keyword baseline</text><text class="sub" x="390" y="72" text-anchor="middle">10 categories, sentences</text>
-    <rect class="box" x="290" y="150" width="200" height="70" rx="8"/><text x="390" y="182" text-anchor="middle">Hand labels</text><text class="sub" x="390" y="202" text-anchor="middle">15 orders, exact quotes</text>
+    <rect class="box" x="290" y="150" width="200" height="70" rx="8"/><text x="390" y="182" text-anchor="middle">Gold labels</text><text class="sub" x="390" y="202" text-anchor="middle">15 orders, exact quotes</text>
     <rect class="box" x="600" y="85" width="170" height="70" rx="8"/><text x="685" y="117" text-anchor="middle">Score</text><text class="sub" x="685" y="137" text-anchor="middle">document + evidence</text>
     <rect class="syn" x="10" y="150" width="200" height="70" rx="8"/><text x="110" y="182" text-anchor="middle">Synthetic alert log</text><text class="sub" x="110" y="202" text-anchor="middle">sizes from the orders</text>
     <path class="arrow" d="M210 55H288" marker-end="url(#a)"/><path class="arrow" d="M490 55H540V100H598" marker-end="url(#a)"/><path class="arrow" d="M490 185H540V140H598" marker-end="url(#a)"/>
     <path class="arrow" d="M110 90V148" marker-end="url(#a)"/>
     <text class="sub" x="120" y="124">4 checks → defect · risk · cannot_assess</text>
   </svg>
-  <svg class="diagram diagram-narrow" viewBox="0 0 300 560" role="img" aria-label="Pinned orders feed a keyword baseline and a synthetic alert log. Hand labels and the baseline feed the score. Four checks run on the synthetic log and give findings with status defect, risk or cannot_assess.">
+  <svg class="diagram diagram-narrow" viewBox="0 0 300 560" role="img" aria-label="Pinned orders feed a keyword baseline and a synthetic alert log. Gold labels and the baseline feed the score. Four checks run on the synthetic log and give findings with status defect, risk or cannot_assess.">
     <defs><marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#52625f"/></marker></defs>
     <rect class="box" x="30" y="5" width="240" height="60" rx="8"/><text x="150" y="30" text-anchor="middle">Pinned orders</text><text class="sub" x="150" y="50" text-anchor="middle">39 texts + regulation</text>
     <rect class="box" x="30" y="105" width="240" height="60" rx="8"/><text x="150" y="130" text-anchor="middle">Keyword baseline</text><text class="sub" x="150" y="150" text-anchor="middle">10 categories, sentences</text>
-    <rect class="box" x="30" y="205" width="240" height="60" rx="8"/><text x="150" y="230" text-anchor="middle">Hand labels</text><text class="sub" x="150" y="250" text-anchor="middle">15 orders, exact quotes</text>
+    <rect class="box" x="30" y="205" width="240" height="60" rx="8"/><text x="150" y="230" text-anchor="middle">Gold labels</text><text class="sub" x="150" y="250" text-anchor="middle">15 orders, exact quotes</text>
     <rect class="box" x="30" y="305" width="240" height="60" rx="8"/><text x="150" y="330" text-anchor="middle">Score</text><text class="sub" x="150" y="350" text-anchor="middle">document + evidence</text>
     <rect class="syn" x="30" y="415" width="240" height="60" rx="8"/><text x="150" y="440" text-anchor="middle">Synthetic alert log</text><text class="sub" x="150" y="460" text-anchor="middle">sizes from the orders</text>
     <path class="arrow" d="M150 65V103" marker-end="url(#b)"/><path class="arrow" d="M150 265V303" marker-end="url(#b)"/><path class="arrow" d="M20 35V440H28" marker-end="url(#b)"/>
@@ -170,7 +170,7 @@ footer { padding-block: 2rem 3rem; border-top: 1px solid var(--line); }
   <ol>
     <li>The corpus is the 50 actions FinCEN tags Depository Institutions. 39 have a text layer and are used. Text is pinned with sha256 hashes.</li>
     <li>A frozen keyword baseline flags sentences in ten failure categories. The patterns were fixed before any labelling.</li>
-    <li>Fifteen orders are labelled by hand, each label with an exact quote. The baseline is scored against them.</li>
+    <li>Fifteen orders are labelled from the pinned text by one labeller (Claude), each label with an exact quote. The baseline is scored against them.</li>
     <li>Four checks run on the alert log: late SAR, aged alert, closure without rationale, closure only because a filing existed.</li>
   </ol>
 </div></section>
@@ -198,11 +198,11 @@ footer { padding-block: 2rem 3rem; border-top: 1px solid var(--line); }
 <section class="wrap" aria-labelledby="v2-h"><div class="col stack">
   <p class="eyebrow">What v2 changed</p><h2 id="v2-h">Findings now say how sure they are</h2>
   <ul>
-    <li><b>Findings with status.</b> <code>review</code> returns one finding per flagged alert. On the synthetic log: @DEF@ defects, @RISK@ risks, @CA@ cannot_assess. Each carries the order quote and the regulation quote. Undecided alerts past the SAR deadline and closures citing only a prior filing are risks, not defects.</li>
+    <li><b>Findings with status.</b> <code>review</code> returns one finding per flagged alert. On the synthetic log: @DEF@ defects, @RISK@ risks, @CA@ cannot_assess. Each carries the order quote, and <code>late_sar</code> findings also carry the regulation quote. Undecided alerts past the SAR deadline and closures citing only a prior filing are risks, not defects.</li>
     <li><b>Cannot assess.</b> A missing input used to read as clean. <code>--cannot-assess</code> lists alerts a check cannot decide.</li>
     <li><b>Legal deadline versus policy.</b> The SAR deadline and the alert review limit are separate constants.</li>
     <li><b>Baseline failure analysis.</b> Every miss and false hit is listed with its sentence.</li>
-    <li><b>One label change.</b> An independent review found one missing label, Lone Star (18845) independent testing. With it, micro F1 moves from @V1F@ to @V2F@ (precision @V2P@, recall @V2R@, macro F1 @V2M@). v1 stays the headline, and the added label is not yet spot-checked.</li>
+    <li><b>One proposed label.</b> An independent review proposed adding Lone Star (18845) independent testing, which v1 labels negative. With it, micro F1 moves from @V1F@ to @V2F@ (precision @V2P@, recall @V2R@, macro F1 @V2M@). v1 stays the headline, and the proposed label is pending a spot check.</li>
   </ul>
   <pre>@DEFECT@</pre>
   <p class="small muted">Defect example. Order quote: "@DEFQ@"</p>

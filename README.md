@@ -11,7 +11,7 @@ The question: **what did FinCEN actually penalize banks for, in the regulator's 
 Three parts, all offline with no model calls:
 
 1. A corpus of FinCEN's public enforcement actions against depository institutions, pinned in `data/`, with a keyword baseline that finds cited failures in ten fixed categories. Every finding is a sentence of an order, so every claim points to the regulator's text.
-2. The baseline scored against a hand-labelled gold set of 15 orders, where every label carries an exact quote.
+2. The baseline scored against a gold set of 15 orders labelled from the pinned text, where every label carries an exact quote.
 3. Four checks over a case log: late SAR, aged alert, closure without rationale or evidence, and closure only because a SAR or CTR was filed before. Each check is tied to quoted passages. **No real AML alert data is public**, so the checks run on a clearly synthetic log whose sizes and delays are taken from figures in the orders. Rates measured on it describe the checks, never any bank.
 
 ## Data and licenses
@@ -24,7 +24,7 @@ The FinCEN orders and 31 CFR 1020.320 are works of the US federal government, wh
 - `data/orders/<id>.txt`: unedited pdftotext output. Older orders are OCR'd scans and may have character errors; quotes are matched against the text exactly as it is pinned.
 - `data/regulation/31-cfr-1020.320.xml`: the eCFR XML of 31 CFR 1020.320, fetched 14 Nov 2026.
 - `data/gold.json`: labels for 15 orders (v1, frozen). The labeller is Claude (Opus 5.5), 14 Nov 2026, working from the pinned text, and Yash Gupta has not yet spot-checked the labels. A category absent from an order is a negative label. The baseline patterns were frozen before labelling. The full method is in the file.
-- `data/gold-v2.json`: the same labels plus one, Lone Star (18845) `independent_testing`, which an independent review found missing under the same method. Its `changes` list gives the passage and the rule. It is not in `MANIFEST.json`, which lists the pinned v1 files. Results show both scores, with v1 as the headline.
+- `data/gold-v2.json`: the same labels plus one, Lone Star (18845) `independent_testing`, which an independent review proposed under the same method. It is pending a spot check by Yash, so the v1 label (negative) still stands. Its `changes` list gives the passage and the rule. It is not in `MANIFEST.json`, which lists the pinned v1 files. Results show both scores, with v1 as the headline.
 - `examcheck.DATA_DIR` points at the repository `data/` directory.
 
 ## Synthetic alert log

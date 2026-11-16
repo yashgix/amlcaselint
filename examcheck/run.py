@@ -45,7 +45,7 @@ def _corpus(data_dir, orders, findings):
 
 
 def _gold(data_dir, orders, findings, gold_file="gold.json"):
-    """Baseline scores and quote grounding against the hand-labelled gold set."""
+    """Baseline scores and quote grounding against the gold set."""
     gold = load_gold(data_dir, gold_file)
     texts = {order.id: order.text for order in orders}
     gold_findings = [finding for finding in findings if finding.order_id in gold]

@@ -43,7 +43,7 @@ def _tiles(m):
     items = [
         (m["orders"], f"included orders of {m['orders_listed']} listed ({m['orders_no_text']} scanned with no text, {m['orders_individual']} against individuals)"),
         (m["findings"], f"baseline findings, {_f(m['findings_grounded'])} of them found verbatim in the order text"),
-        (_f(m["micro_f1"]), f"micro F1 against {m['gold_orders']} hand-labelled orders (v1)"),
+        (_f(m["micro_f1"]), f"micro F1 against {m['gold_orders']} labelled orders (v1)"),
         (f"{m['evidence_recall'] * 100:.1f}%", "evidence recall: gold quotes overlapped by a flagged sentence"),
     ]  # fmt: skip
     return "".join(
