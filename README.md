@@ -4,7 +4,7 @@ Failures FinCEN cited in bank enforcement orders, turned into deterministic chec
 
 Write-up: https://yashgix.github.io/amlcaselint/
 
-Renamed from `examcheck` on 16 Nov 2026. Frozen specs and git tags keep the old name.
+Renamed from `examcheck` on 16 Nov 2026. Frozen files and git tags keep the old name.
 
 ## Why
 
