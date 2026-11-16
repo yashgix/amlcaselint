@@ -14,6 +14,8 @@ Normalized text is split with the single-space boundary `(?<=[.!?]) (?=[A-Z])`. 
 
 The ten categories are fixed in `CATEGORIES` order: `alert_backlog`, `late_sar`, `sar_not_filed`, `unsupported_disposition`, `monitoring_gap`, `cdd_edd`, `ctr`, `staffing`, `independent_testing`, `governance`.
 
+Labels count only what FinCEN states in its own findings section of each order ("Determinations", or "Statement of Facts" in newer orders). A sentence there may cite another regulator's examination. A separate section that summarises another regulator's own enforcement action is not counted. All 98 v1 positive quotes come from those sections. This is why the proposed Lone Star independent testing label was rejected.
+
 Each category has a small tuple of regex strings using a shared failure fragment. The patterns were frozen before labelling so the gold set could not be tuned to the patterns. The exact pattern strings and their sha256 are checked by tests.
 
 ## Scoring

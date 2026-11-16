@@ -24,7 +24,8 @@ The FinCEN orders and 31 CFR 1020.320 are works of the US federal government, wh
 - `data/orders/<id>.txt`: unedited pdftotext output. Older orders are OCR'd scans and may have character errors; quotes are matched against the text exactly as it is pinned.
 - `data/regulation/31-cfr-1020.320.xml`: the eCFR XML of 31 CFR 1020.320, fetched 14 Nov 2026.
 - `data/gold.json`: labels for 15 orders (v1, frozen). The labeller is Claude (Opus 5.5), 14 Nov 2026, working from the pinned text, and Yash Gupta has not yet spot-checked the labels. A category absent from an order is a negative label. The baseline patterns were frozen before labelling. The full method is in the file.
-- `data/gold-v2.json`: the same labels plus one, Lone Star (18845) `independent_testing`, which an independent review proposed under the same method. It is pending a spot check by Yash, so the v1 label (negative) still stands. Its `changes` list gives the passage and the rule. It is not in `MANIFEST.json`, which lists the pinned v1 files. Results show both scores, with v1 as the headline.
+- `data/gold-v2.json`: the same labels plus one, Lone Star (18845) `independent_testing`, which an independent review proposed. Yash Gupta checked it on 15 Nov 2026 and rejected it. The sentence is in section III of the order, which summarises the OCC's own earlier action, not in FinCEN's Determinations. So the v1 label (negative) stands, and the file is kept only as the record of the rejected proposal. It is not in `MANIFEST.json`, which lists the pinned v1 files.
+- Labelling rule: Labels count only what FinCEN states in its own findings section of each order ("Determinations", or "Statement of Facts" in newer orders). A sentence there may cite another regulator's examination. A separate section that summarises another regulator's own enforcement action is not counted. All 98 v1 positive quotes come from those sections.
 - `examcheck.DATA_DIR` points at the repository `data/` directory.
 
 ## Synthetic alert log
@@ -64,7 +65,7 @@ Document-level baseline scores on 15 gold orders (an order counts as a hit when 
 
 Evidence recall is stricter: a gold quote is covered only when a flagged sentence overlaps it. 52 of 96 gold positives are covered (0.542). Quotes being found in the order text shows the sentence exists, not that it means what the label says.
 
-Against `data/gold-v2.json`, which adds one label (see its `changes` list, not yet spot-checked by Yash), micro precision 0.926, micro recall 0.773, micro F1 0.843, macro F1 0.796. The v1 scores above stay the headline.
+For the record, against `data/gold-v2.json`, the proposed extra label that Yash rejected on 15 Nov 2026, micro precision 0.926, micro recall 0.773, micro F1 0.843, macro F1 0.796. The v1 scores above are the result.
 
 ### Gold set by category
 

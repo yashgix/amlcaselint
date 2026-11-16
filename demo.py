@@ -56,9 +56,9 @@ def _baseline_sentence(metrics, v2):
     )
     if v2:
         text += (
-            "\n\nAgainst `data/gold-v2.json`, which adds one label (see its `changes` list, not yet spot-checked by Yash), "
+            "\n\nFor the record, against `data/gold-v2.json`, the proposed extra label that Yash rejected on 15 Nov 2026, "
             f"micro precision {v2['micro_precision']:.3f}, micro recall {v2['micro_recall']:.3f}, "
-            f"micro F1 {v2['micro_f1']:.3f}, macro F1 {v2['macro_f1']:.3f}. The v1 scores above stay the headline."
+            f"micro F1 {v2['micro_f1']:.3f}, macro F1 {v2['macro_f1']:.3f}. The v1 scores above are the result."
         )
     return text
 
@@ -159,8 +159,9 @@ def render_failures(failures, titles):
         "for that category. A false hit is a flagged sentence in an order the gold set does not label with the "
         "category. Scoring is per order, so a category counted as hit may still flag the wrong sentence "
         "(see evidence recall in the README). Sentences are clipped to 300 characters. "
-        "Labels are the frozen v1 gold set. The Lone Star (18845) independent testing false hit is disputed. "
-        "`data/gold-v2.json` adds that label, pending a spot check by Yash.",
+        "Labels are the frozen v1 gold set. The Lone Star (18845) independent testing false hit stands. A proposal to "
+        "label it positive was rejected on 15 Nov 2026, because the sentence summarises the OCC's own earlier action "
+        "in a separate section, not FinCEN's Determinations.",
         "",
         "| Category | Misses | False hits |",
         "| --- | ---: | ---: |",
