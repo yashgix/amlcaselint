@@ -8,7 +8,7 @@ Write-up: https://yashgix.github.io/amlcaselint/
 
 The question: **what did FinCEN actually penalize banks for, in the regulator's own words, and which of those failures can be turned into deterministic checks over an alert-case log?**
 
-Three parts, all offline with no model calls:
+Three parts, all offline with no model calls at run time:
 
 1. A corpus of FinCEN's public enforcement actions against depository institutions, pinned in `data/`, with a keyword baseline that finds cited failures in ten fixed categories. Every finding is a sentence of an order, so every claim points to the regulator's text.
 2. The baseline scored against a gold set of 15 orders labelled from the pinned text, where every label carries an exact quote.
@@ -24,7 +24,7 @@ The FinCEN orders and 31 CFR 1020.320 are works of the US federal government, wh
 - `data/orders/<id>.txt`: unedited pdftotext output. Older orders are OCR'd scans and may have character errors. Quotes are matched against the text exactly as it is pinned.
 - `data/regulation/31-cfr-1020.320.xml`: the eCFR XML of 31 CFR 1020.320, fetched 14 Nov 2026.
 - `data/gold.json`: labels for 15 orders (v1, frozen). The labeller is Claude (Opus 5.5), an Anthropic model, working from the pinned text on 14 Nov 2026. No person has spot-checked the labels yet. A category absent from an order is a negative label. The baseline patterns were frozen before labelling. The full method is in the file.
-- `data/gold-v2.json`: the same labels plus one, Lone Star (18845) `independent_testing`, which an independent review proposed. The author checked it on 15 Nov 2026 and rejected it. The sentence is in section III of the order, which summarises the OCC's own earlier action, not in FinCEN's Determinations. So the v1 label (negative) stands, and the file is kept only as the record of the rejected proposal. It is not in `MANIFEST.json`, which lists the pinned v1 files.
+- `data/gold-v2.json`: the v1 labels plus one proposed extra label, Lone Star (18845) `independent_testing`, which was rejected. Its sentence is in section III of the order, which summarises the OCC's own earlier action, not in FinCEN's Determinations. So the v1 label (negative) stands, and the file is kept only as the record of the rejected proposal. It is not in `MANIFEST.json`, which lists the pinned v1 files.
 - Labelling rule: labels count only what FinCEN states in its own findings section of each order ("Determinations", or "Statement of Facts" in newer orders). A sentence there may cite another regulator's examination. A separate section that summarises another regulator's own enforcement action is not counted. All 98 quotes behind the 96 v1 positive labels come from those sections.
 - `amlcaselint.DATA_DIR` points at the repository `data/` directory.
 
@@ -59,13 +59,13 @@ The block below is rendered by `demo.py` from `results/metrics.json`. No result 
 
 <!-- results:start -->
 
-39 included orders (214,908 words, 6,144 sentences) gave 838 findings, 1.000 of them grounded in the order text.
+39 included orders (214,908 words, 6,144 sentences) gave 838 findings. The share found verbatim in the order text is 1.000.
 
 Document-level baseline scores on 15 gold orders (an order counts as a hit when any flagged sentence has the category): micro precision 0.914, micro recall 0.771, micro F1 0.836, macro F1 0.788.
 
 Evidence recall is stricter: a gold quote is covered only when a flagged sentence overlaps it. 52 of 96 gold positives are covered (0.542). Finding a quote in the order text shows the sentence exists, not that it means what the label says.
 
-For the record, scoring against `data/gold-v2.json`, which adds the label the author rejected, gives micro precision 0.926, micro recall 0.773, micro F1 0.843, macro F1 0.796. The v1 scores above are the result.
+For the record, scoring against `data/gold-v2.json`, which adds the rejected label, gives micro precision 0.926, micro recall 0.773, micro F1 0.843, macro F1 0.796. The v1 scores above are the result.
 
 ### Gold set by category
 

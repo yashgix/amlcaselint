@@ -136,7 +136,7 @@ footer { padding-block: 2rem 3rem; border-top: 1px solid var(--line); }
 
 <main id="overview" role="tabpanel" aria-labelledby="tab-overview">
 <header class="wrap"><div class="col stack">
-  <p class="eyebrow">FinCEN enforcement orders · AML alert review · offline, no model calls</p>
+  <p class="eyebrow">FinCEN enforcement orders · AML alert review · offline, no model calls at run time</p>
   <h1>amlcaselint</h1>
   <p class="lede">What FinCEN penalized banks for, in its own words, turned into deterministic checks over an alert-case log. Every finding points to a sentence of a public order.</p>
   <div class="meta"><span><b class="num">214,908</b> words read</span><span><b class="num">6,144</b> sentences</span><span><a href="https://github.com/yashgix/amlcaselint">github.com/yashgix/amlcaselint</a></span></div>
@@ -150,7 +150,7 @@ footer { padding-block: 2rem 3rem; border-top: 1px solid var(--line); }
 
 <section class="wrap" aria-labelledby="res-h"><div class="wide stack">
   <p class="eyebrow">Results</p><h2 id="res-h">The baseline finds most cited failures, but only about half the evidence</h2>
-  <div class="tiles"><div class="tile"><span class="big num">39</span><span class="small muted">included orders of 50 listed (8 scanned with no text, 3 against individuals)</span></div><div class="tile"><span class="big num">838</span><span class="small muted">baseline findings, 1.000 of them found verbatim in the order text</span></div><div class="tile"><span class="big num">0.836</span><span class="small muted">micro F1 against 15 labelled orders (v1)</span></div><div class="tile"><span class="big num">54.2%</span><span class="small muted">evidence recall: gold quotes overlapped by a flagged sentence</span></div></div>
+  <div class="tiles"><div class="tile"><span class="big num">39</span><span class="small muted">included orders of 50 listed (8 scanned with no text, 3 against individuals)</span></div><div class="tile"><span class="big num">838</span><span class="small muted">baseline findings (share found verbatim in the order text: 1.000)</span></div><div class="tile"><span class="big num">0.836</span><span class="small muted">micro F1 against 15 labelled orders (v1)</span></div><div class="tile"><span class="big num">54.2%</span><span class="small muted">evidence recall: gold quotes overlapped by a flagged sentence</span></div></div>
   <p>Document-level scores count an order as a hit when any flagged sentence has the category: micro precision 0.914, recall 0.771, F1 0.836, macro F1 0.788. Evidence recall is stricter: a gold quote counts only when a flagged sentence overlaps it. 52 of 96 gold positives are covered (0.542). Both numbers belong together.</p>
   <div class="chart" role="img" aria-label="F1 by category on the 15 gold orders, ranging from 0.333 for alert backlog to 0.957 for SAR not filed."><h3>F1 by category, v1 gold set</h3><div class="bars"><div class="b"><span class="name">Alert backlog</span><span class="track"><span class="fill" style="width:33.3%"></span></span><span class="v"><b class="num">0.333</b></span></div><div class="b"><span class="name">Late SAR</span><span class="track"><span class="fill" style="width:88.0%"></span></span><span class="v"><b class="num">0.880</b></span></div><div class="b"><span class="name">SAR not filed</span><span class="track"><span class="fill" style="width:95.7%"></span></span><span class="v"><b class="num">0.957</b></span></div><div class="b"><span class="name">Unsupported disposition</span><span class="track"><span class="fill" style="width:75.0%"></span></span><span class="v"><b class="num">0.750</b></span></div><div class="b"><span class="name">Monitoring gap</span><span class="track"><span class="fill" style="width:78.3%"></span></span><span class="v"><b class="num">0.783</b></span></div><div class="b"><span class="name">CDD / EDD</span><span class="track"><span class="fill" style="width:91.7%"></span></span><span class="v"><b class="num">0.917</b></span></div><div class="b"><span class="name">CTR filing</span><span class="track"><span class="fill" style="width:88.9%"></span></span><span class="v"><b class="num">0.889</b></span></div><div class="b"><span class="name">Staffing</span><span class="track"><span class="fill" style="width:77.8%"></span></span><span class="v"><b class="num">0.778</b></span></div><div class="b"><span class="name">Independent testing</span><span class="track"><span class="fill" style="width:66.7%"></span></span><span class="v"><b class="num">0.667</b></span></div><div class="b"><span class="name">Governance</span><span class="track"><span class="fill" style="width:92.3%"></span></span><span class="v"><b class="num">0.923</b></span></div></div></div>
 </div></section>
@@ -235,6 +235,9 @@ footer { padding-block: 2rem 3rem; border-top: 1px solid var(--line); }
     <li><b>Legal deadline versus policy.</b> The SAR deadline and the alert review limit are separate constants.</li>
     <li><b>Baseline failure analysis.</b> Every miss and false hit is listed with its sentence.</li>
   </ul>
+  <p class="small muted">The counts and examples come from these commands:</p>
+<pre>python -m amlcaselint synth --out results/synthetic.json
+python -m amlcaselint review results/synthetic.json --as-of 2021-03-29</pre>
   <pre>{
  &quot;check&quot;: &quot;late_sar&quot;,
  &quot;alert_id&quot;: &quot;A032701&quot;,
@@ -255,13 +258,13 @@ footer { padding-block: 2rem 3rem; border-top: 1px solid var(--line); }
 
 <section class="wrap" aria-labelledby="v2-h"><div class="col stack">
   <h2 id="v2-h">One rejected label</h2>
-  <p>An independent review proposed labelling Lone Star (18845) independent testing positive. The author rejected it on 15 Nov 2026. The sentence is in a section that summarises the OCC's own earlier action, not in FinCEN's own findings. So v1 stands at micro F1 0.836. The rejected label would have given 0.843.</p>
+  <p>A proposed extra label (Lone Star, 18845, independent testing) was rejected because its sentence is in a section that summarises the OCC's own earlier action, not in FinCEN's own findings. So v1 stands at micro F1 0.836. The rejected label would have given 0.843.</p>
 </div></section>
 
 <section class="wrap" aria-labelledby="data-h"><div class="col stack">
   <h2 id="data-h">Data and licenses</h2>
   <p>FinCEN orders and 31 CFR 1020.320 are US government works. Text is pinned in <code>data/</code> with hashes, and <code>tools/fetch_data.py --verify</code> checks it. Credit: Financial Crimes Enforcement Network, US Department of the Treasury. Code and gold labels are MIT.</p>
-  <p class="small muted">Numbers on this page come from <code>results/metrics.json</code>, <code>results/gold-v2.json</code> and <code>results/failures.json</code>, and from a <code>review</code> run on the synthetic log.</p>
+  <p class="small muted">Numbers on this page come from <code>results/metrics.json</code>, <code>results/gold-v2.json</code> and <code>results/failures.json</code>, and from the <code>review</code> commands above.</p>
 </div></section>
 
 <section class="wrap" aria-labelledby="run-h"><div class="col stack">
