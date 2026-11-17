@@ -48,16 +48,16 @@ def _baseline_sentence(metrics, v2):
         f"when any flagged sentence has the category): "
         f"micro precision {metrics['micro_precision']:.3f}, "
         f"micro recall {metrics['micro_recall']:.3f}, "
-        f"micro F1 {metrics['micro_f1']:.3f}; "
+        f"micro F1 {metrics['micro_f1']:.3f}, "
         f"macro F1 {metrics['macro_f1']:.3f}.\n\n"
         f"Evidence recall is stricter: a gold quote is covered only when a flagged sentence overlaps it. "
         f"{covered} of {positives} gold positives are covered ({metrics['evidence_recall']:.3f}). "
-        f"Quotes being found in the order text shows the sentence exists, not that it means what the label says."
+        f"Finding a quote in the order text shows the sentence exists, not that it means what the label says."
     )
     if v2:
         text += (
-            "\n\nFor the record, against `data/gold-v2.json`, the proposed extra label that Yash rejected on 15 Nov 2026, "
-            f"micro precision {v2['micro_precision']:.3f}, micro recall {v2['micro_recall']:.3f}, "
+            "\n\nFor the record, scoring against `data/gold-v2.json`, which adds the label the author rejected, "
+            f"gives micro precision {v2['micro_precision']:.3f}, micro recall {v2['micro_recall']:.3f}, "
             f"micro F1 {v2['micro_f1']:.3f}, macro F1 {v2['macro_f1']:.3f}. The v1 scores above are the result."
         )
     return text
